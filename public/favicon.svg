@@ -1,0 +1,6 @@
+<svg viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg">
+  <g id="svgGroup" stroke-linecap="round" fill-rule="evenodd" font-size="9pt" stroke="#fff" stroke-width="1" fill="none">
+    <path d="M 413.205 340 L 413.205 140 L 240 40 L 66.795 140 L 66.795 340 L 240 440 L 413.205 340 Z" id="hexagon" fill="#fff"/>
+    <path d="M 66.795 225.714 413.205 140 M 141.026 382.857 240 40 M 314.231 397.143 66.795 140" id="connectors" stroke="#000" stroke-width="10" stroke-linecap="butt"/>
+  </g>
+</svg>

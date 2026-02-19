@@ -1,0 +1,75 @@
+{
+  // --- Core Editor Settings ---
+  "editor.formatOnSave": true, // Enable general format on save
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // Set Prettier as the default formatter globally
+
+  // --- Language-Specific Default Formatters (Explicitly tell VS Code to use Prettier) ---
+  // This helps ensure Prettier is picked even if other formatters are installed.
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // --- ESLint Extension Specific Settings ---
+  // This runs ESLint's non-formatting fixes on save.
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit" // ESLint will fix non-formatting issues
+  },
+  "eslint.useFlatConfig": true, // ESSENTIAL for ESLint Flat Config
+  "eslint.debug": true, // Highly recommended for debugging ESLint issues
+  "eslint.probe": [
+    // Ensure ESLint checks these file types
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "json",
+    "jsonc"
+  ],
+  "eslint.validate": [
+    // Ensure ESLint validates these file types
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "json",
+    "jsonc"
+  ],
+
+  // --- Prettier Extension Specific Settings ---
+  "prettier.configPath": "./.prettierrc.cjs", // Point to your Prettier config file
+  "prettier.enable": true, // Ensure Prettier extension is enabled
+  "files.eol": "\n",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "tailwindCSS.classAttributes": ["class", "ui"],
+  "tailwindCSS.experimental.classRegex": [["ui:\\s*{([^)]*)\\s*}", "(?:'|\"|`)([^']*)(?:'|\"|`)"]]
+}

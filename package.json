@@ -1,0 +1,39 @@
+{
+  "name": "soft-rocks-official",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "format": "prettier --write \"**/*.{js,ts,vue,json,css,scss,html,md}\" && npx prettier --write .",
+    "format:check": "prettier --check \"**/*.{js,ts,vue,json,css,scss,html,md}\"",
+    "deploy:static": "NODE_ENV=production npm run generate && npx gh-pages -d dist -b web"
+  },
+  "dependencies": {
+    "@nuxt/content": "^3.9.0",
+    "@nuxt/eslint": "^1.7.1",
+    "@nuxt/icon": "^2.1.0",
+    "@nuxt/ui": "^4.3.0",
+    "@nuxtjs/i18n": "^10.2.1",
+    "@tailwindcss/vite": "^4.1.18",
+    "better-sqlite3": "^12.6.2",
+    "eslint": "^9.39.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.3",
+    "nuxt": "^4.2.1",
+    "nuxt-icon": "^1.0.0-beta.7",
+    "prettier": "^3.6.2",
+    "prettier-plugin-organize-imports": "^4.2.0",
+    "prettier-plugin-tailwindcss": "^0.6.14",
+    "tailwindcss": "^4.1.18",
+    "vue": "^3.5.25",
+    "vue-router": "^4.6.3",
+    "vue-tsc": "^3.1.5"
+  },
+  "devDependencies": {
+    "@iconify-json/heroicons": "^1.2.3"
+  }
+}

@@ -1,0 +1,6 @@
+<svg width="60mm" height="60mm" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <g id="svgGroup" stroke-linecap="round" fill-rule="evenodd" font-size="9pt" stroke-width="0.25mm" fill="none" style="stroke:#000;stroke-width:0.25mm;fill:none">
+    <path d="M 51.651 42.5 L 51.651 17.5 L 30 5 L 8.349 17.5 L 8.349 42.5 L 30 55 L 51.651 42.5 Z" id="hexagon" vector-effect="non-scaling-stroke" fill="#2F323C" stroke="#2F323C" stroke-width="0.1"/>
+    <path d="M 8.349 28.214 51.651 17.5 M 17.628 47.857 30 5 M 39.279 49.643 8.349 17.5" id="connectors" vector-effect="non-scaling-stroke" fill="none" stroke="#992F33" stroke-width="2" stroke-linecap="butt"/>
+  </g>
+</svg>

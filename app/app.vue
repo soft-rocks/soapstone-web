@@ -1,3 +1,10 @@
+<script setup>
+  const color = useColorMode();
+  onMounted(() => {
+    color.preference = 'light';
+  });
+</script>
+
 <template>
   <NuxtLayout>
     <NuxtPage />

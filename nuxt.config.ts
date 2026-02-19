@@ -19,6 +19,7 @@ export default defineNuxtConfig({
     mode: 'svg',
   },
   app: {
+    baseURL: '/soapstone-web/',
     head: {
       link: [
         {

@@ -2,6 +2,8 @@
   useSeoMeta({
     title: 'SoftRocks - Japanese Learning Resources',
   });
+
+  const version = import.meta.env.VITE_GIT_COMMIT || 'dev';
 </script>
 
 <template>
@@ -18,6 +20,7 @@
     <div class="mt-4 flex flex-col items-center gap-3">
       <UButton to="/daily" size="xl" label="Start Daily Practice" />
       <UButton to="/about" variant="ghost" label="About" />
+      <span class="mt-2 text-xs text-gray-400">{{ version }}</span>
     </div>
   </div>
 </template>

@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout the code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js 20
         uses: actions/setup-node@v3
@@ -24,16 +26,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate static site
-        run: npm run generate
-
-      - name: Upload dist artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: dist
-          path: dist
-          retention-days: 1
-
       - name: Get commit hash
         id: commit
         run: echo "hash=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
@@ -41,8 +33,15 @@ jobs:
       - name: Create version file
         run: echo "${{ steps.commit.outputs.hash }}" > dist/version.txt
 
-      - name: Generate with version
+      - name: Generate static site
         run: VITE_GIT_COMMIT=${{ steps.commit.outputs.hash }} npm run generate
+
+      - name: Upload dist artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist
+          retention-days: 1
 
   deploy:
     runs-on: ubuntu-latest

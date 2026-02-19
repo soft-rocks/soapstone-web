@@ -6,4 +6,7 @@ export default defineAppConfig({
       neutral: 'zinc',
     },
   },
+  colorMode: {
+    preference: 'light',
+  },
 });

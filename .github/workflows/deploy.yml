@@ -5,11 +5,8 @@ on:
     branches:
       - main
 
-env:
-  NODE_ENV: production
-
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,35 +27,14 @@ jobs:
         id: commit
         run: echo "hash=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
-      - name: Create version file
-        run: echo "${{ steps.commit.outputs.hash }}" > dist/version.txt
-
-      - name: Generate static site
-        run: VITE_GIT_COMMIT=${{ steps.commit.outputs.hash }} npm run generate
-
-      - name: Upload dist artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: dist
-          path: dist
-          retention-days: 1
-
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build
-
-    steps:
-      - name: Download dist artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: dist
-          path: dist
-
       - name: Configure Git
         run: |
           git config --global user.email "hamza@soft.rocks"
           git config --global user.name "soft-rocks"
           git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/soft-rocks/soapstone-web.git
+
+      - name: Generate with version
+        run: VITE_GIT_COMMIT=${{ steps.commit.outputs.hash }} npm run generate
 
       - name: Deploy to GitHub Pages
         run: npx gh-pages -d dist -b web

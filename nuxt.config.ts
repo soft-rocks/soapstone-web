@@ -22,7 +22,7 @@ export default defineNuxtConfig({
     preference: 'light',
   },
   app: {
-    baseURL: '/soapstone-web/',
+    baseURL: '/',
     head: {
       link: [
         {

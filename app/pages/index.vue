@@ -22,7 +22,7 @@
 我深感抱歉。
     </pre>
     <div class="mt-4 flex flex-col items-center gap-3">
-      <UButton to="/daily" size="xl" label="Start Daily Practice" />
+      <UButton to="/today" size="xl" label="Start Daily Practice" />
       <UButton to="/about" variant="ghost" label="About" />
       <span class="mt-2 text-xs text-gray-400">{{ version }}</span>
     </div>

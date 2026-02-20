@@ -172,6 +172,22 @@
       </div>
 
       <div class="flex grow flex-col items-center justify-end gap-3">
+        <div>
+          <UButton
+            icon="i-heroicons-arrow-right-16-solid"
+            size="md"
+            label="Next"
+            title="Hotkey: Enter"
+            v-if="canGoNext"
+            @click="emit('next', emitData)"
+          >
+            <template #trailing>
+              <div class="ml-1 hidden opacity-60 sm:inline-flex">
+                <UKbd>↵</UKbd>
+              </div>
+            </template>
+          </UButton>
+        </div>
         <!-- Row: Skip -->
         <div class="flex justify-center">
           <UButton
@@ -191,7 +207,6 @@
             </template>
           </UButton>
         </div>
-
         <!-- Row: Words, Grammar -->
         <div class="flex flex-wrap justify-center gap-3">
           <UButton
@@ -279,22 +294,6 @@
             </template>
           </UButton>
         </div>
-      </div>
-      <div>
-        <UButton
-          icon="i-heroicons-arrow-right-16-solid"
-          size="md"
-          label="Next"
-          title="Hotkey: Enter"
-          v-if="canGoNext"
-          @click="emit('next', emitData)"
-        >
-          <template #trailing>
-            <div class="ml-1 hidden opacity-60 sm:inline-flex">
-              <UKbd>↵</UKbd>
-            </div>
-          </template>
-        </UButton>
       </div>
     </template>
   </div>

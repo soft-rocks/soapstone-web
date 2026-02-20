@@ -1,7 +1,7 @@
 <script lang="ts" setup>
   const items = [
     [
-      { label: 'Daily', to: '/daily', icon: 'i-heroicons-calendar' },
+      { label: 'Daily', to: '/today', icon: 'i-heroicons-calendar' },
       { label: 'About', to: '/about', icon: 'i-heroicons-information-circle' },
     ],
   ];

@@ -151,7 +151,12 @@
 </script>
 <template>
   <div class="flex w-full flex-1 flex-col items-center gap-3 pb-4 md:pb-10">
-    <template v-if="loading">Loading...</template>
+    <template v-if="loading">
+      <div class="flex flex-col items-center">
+        <Icon name="s:logo-red" class="h-12 w-12 animate-spin opacity-50" />
+        <p class="text-muted mt-2">Loading...</p>
+      </div>
+    </template>
     <template v-else-if="exam">
       <div class="flex grow flex-col items-center justify-center">
         <OneBtnAudio ref="audioRef" :src="exam.audioUrl" class="pb-4" />

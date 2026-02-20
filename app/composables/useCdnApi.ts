@@ -62,6 +62,17 @@ export function useCdnApi() {
     return response.json() as Promise<T>;
   };
 
+  const fetchDaily = async (): Promise<string[]> => {
+    const response = await fetchAsset<string[]>('daily/today.json');
+    return response;
+  };
+
+  const fetchToday = async (): Promise<string[]> => {
+    const today = new Date(Date.now() + 8 * 60 * 60 * 1000).toISOString().split('T')[0];
+    const response = await fetchAsset<string[]>(`daily/${today}.json`);
+    return response;
+  };
+
   const fetchSentence = async (path: string): Promise<Sentence> => {
     return fetchAsset<Sentence>(path);
   };
@@ -70,6 +81,8 @@ export function useCdnApi() {
     getAssetUrl,
     fetchAsset,
     fetchSentence,
+    fetchDaily,
+    fetchToday,
     baseUrl: CDN_BASE,
   };
 }

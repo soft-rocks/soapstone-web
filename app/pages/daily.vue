@@ -1,11 +1,27 @@
 <script setup lang="ts">
   const started = ref(false);
-  const originalSentences: string[] = [
-    'https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentence/256d88d9e22cf9a138818b21a35ce766/zhtw.json',
-    'https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main/sentence/e8272f030280fcfb5be026dd3b6d4e04/zhtw.json',
-  ];
-  const queue = ref<string[]>([...originalSentences]);
   const completed = ref<{ answer: string; hint: string }[]>([]);
+  const loading = ref(true);
+
+  const { fetchToday, fetchDaily } = useCdnApi();
+
+  const loadSentences = async () => {
+    try {
+      return await fetchToday();
+    } catch {
+      return await fetchDaily();
+    }
+  };
+
+  const originalSentences = ref<string[]>([]);
+  const queue = ref<string[]>([]);
+
+  // Load sentences on mount
+  loadSentences().then((sentences) => {
+    originalSentences.value = sentences;
+    queue.value = [...sentences];
+    loading.value = false;
+  });
 
   const currentUrl = computed(() => queue.value[0] ?? '');
   const isComplete = computed(() => queue.value.length == 0);
@@ -22,7 +38,7 @@
   };
 
   const reset = () => {
-    queue.value = [...originalSentences];
+    queue.value = [...originalSentences.value];
     completed.value = [];
     started.value = false;
   };
@@ -30,7 +46,11 @@
 
 <template>
   <div class="flex h-full w-full flex-col items-center justify-center">
-    <div class="flex w-full max-w-md flex-1 flex-col items-center" v-if="!started">
+    <div v-if="loading" class="flex flex-col items-center">
+      <Icon name="s:logo-red" class="h-12 w-12 animate-spin opacity-50" />
+      <p class="text-muted mt-2">Loading...</p>
+    </div>
+    <div class="flex w-full max-w-md flex-1 flex-col items-center" v-else-if="!started">
       <div class="flex flex-1 flex-col items-center justify-center">
         <h1 class="mb-4 text-3xl font-bold">Daily Practice</h1>
         <p class="text-muted mb-6">{{ queue.length }} sentences remaining</p>

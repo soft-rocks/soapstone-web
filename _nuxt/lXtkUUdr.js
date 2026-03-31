@@ -1,0 +1,1 @@
+import{c as o}from"./BYED4_Om.js";import{r as e,i}from"./BAnMFXWH.js";const[n]=o("ConfigProvider");function s(r){const t=n({dir:e("ltr")});return i(()=>r?.value||t.dir?.value||"ltr")}export{n as i,s as u};

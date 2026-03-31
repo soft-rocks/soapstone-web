@@ -106,6 +106,15 @@
 
   const canGoNext = computed(() => typingRef.value?.isCorrect ?? false);
 
+  watch(canGoNext, (correct) => {
+    if (correct) {
+      if (exam.value?.hint) {
+        showHint.value = true;
+      }
+      showAnswer.value = true;
+    }
+  });
+
   const handleKeydown = (e: KeyboardEvent) => {
     const key = e.code.toLowerCase();
     const mod = e.metaKey || e.ctrlKey;
@@ -158,17 +167,17 @@
       </div>
     </template>
     <template v-else-if="exam">
-      <div class="flex grow flex-col items-center justify-center">
+      <div class="flex grow flex-col items-center justify-center gap-3">
         <OneBtnAudio ref="audioRef" :src="exam.audioUrl" class="pb-4" />
-        <span v-if="exam.hint && showHint" class="text-primary/60 text-xl">
-          {{ exam.hint }}
-        </span>
-        <span v-if="showAnswer" class="text-xl font-medium">
-          {{ exam.answer }}
-        </span>
         <div class="flex w-full flex-row items-center justify-center">
           <ExamineTyping :wordTokens="exam.tokens" ref="typingRef" />
         </div>
+        <span v-if="exam.hint && showHint" class="text-primary/60 pt-5 text-xl md:mt-10">
+          {{ exam.hint }}
+        </span>
+        <span v-if="showAnswer" class="text-primary/60 text-xl">
+          {{ exam.answer }}
+        </span>
       </div>
 
       <div class="flex grow flex-col items-center justify-end gap-3">

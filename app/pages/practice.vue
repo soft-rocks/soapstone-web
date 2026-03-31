@@ -1,27 +1,42 @@
 <script setup lang="ts">
   const started = ref(false);
   const completed = ref<{ answer: string; hint: string }[]>([]);
-  const loading = ref(true);
+  const loading = ref(false);
 
-  const { fetchToday, fetchDaily } = useCdnApi();
+  const hashInput = ref('');
+  const hashes = ref<string[]>([]);
+
+  const CDN_BASE = 'https://cdn.jsdelivr.net/gh/soft-rocks/soapstone-cdn@main';
 
   const loadSentences = async () => {
-    try {
-      return await fetchToday();
-    } catch {
-      return await fetchDaily();
+    const urls: string[] = [];
+    for (const hash of hashes.value) {
+      urls.push(`${CDN_BASE}/sentence/${hash}/zhtw.json`);
     }
+    return urls;
   };
 
   const originalSentences = ref<string[]>([]);
   const queue = ref<string[]>([]);
 
-  // Load sentences on mount
-  loadSentences().then((sentences) => {
-    originalSentences.value = sentences;
-    queue.value = [...sentences];
-    loading.value = false;
-  });
+  const handleStart = async () => {
+    if (!hashInput.value.trim()) return;
+
+    hashes.value = hashInput.value
+      .split('\n')
+      .map((s) => s.trim())
+      .filter((s) => s.length > 0);
+
+    loading.value = true;
+    try {
+      const sentences = await loadSentences();
+      originalSentences.value = sentences;
+      queue.value = [...sentences];
+      started.value = true;
+    } finally {
+      loading.value = false;
+    }
+  };
 
   const currentUrl = computed(() => queue.value[0] ?? '');
   const isComplete = computed(() => queue.value.length == 0);
@@ -52,16 +67,22 @@
     </div>
     <div class="flex w-full max-w-md flex-1 flex-col items-center" v-else-if="!started">
       <div class="flex flex-1 flex-col items-center justify-center">
-        <h1 class="mb-4 text-3xl font-bold">Daily Practice</h1>
-        <p class="text-muted mb-6">{{ queue.length }} sentences remaining</p>
+        <h1 class="mb-4 text-3xl font-bold">Practice</h1>
+        <p class="text-muted mb-4 text-center">Enter sentence hashes (one per line)</p>
+        <UTextarea
+          v-model="hashInput"
+          placeholder="abc123&#10;def456&#10;ghi789"
+          :rows="6"
+          class="w-full"
+        />
       </div>
       <div class="flex shrink-0 justify-center">
-        <UButton size="lg" label="Start" @click="started = true" />
+        <UButton size="lg" label="Start" @click="handleStart" :disabled="!hashInput.trim()" />
       </div>
     </div>
     <div class="flex h-full w-full max-w-md flex-col" v-else-if="isComplete">
       <h1 class="mb-4 shrink-0 text-3xl font-bold">Great Job!</h1>
-      <p class="text-muted mb-4 shrink-0">All done for today!</p>
+      <p class="text-muted mb-4 shrink-0">All done!</p>
       <div class="max-h-[calc(100vh-300px)] overflow-y-auto [&::-webkit-scrollbar]:hidden">
         <div class="space-y-4 pb-4 text-left">
           <div v-for="(item, i) in completed" :key="i" class="bg-card rounded-lg border p-4">

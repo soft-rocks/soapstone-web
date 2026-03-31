@@ -8,15 +8,15 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout the code
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+        uses: actions/checkout@v4
 
       - name: Set up Node.js 20
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
 
@@ -27,14 +27,12 @@ jobs:
         id: commit
         run: echo "hash=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
 
-      - name: Configure Git
-        run: |
-          git config --global user.email "hamza@soft.rocks"
-          git config --global user.name "soft-rocks"
-          git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/soft-rocks/soapstone-web.git
-
       - name: Generate with version
         run: VITE_GIT_COMMIT=${{ steps.commit.outputs.hash }} npm run generate
 
       - name: Deploy to GitHub Pages
-        run: npx gh-pages -d dist -b web
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: web

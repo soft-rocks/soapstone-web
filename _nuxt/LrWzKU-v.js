@@ -1,1 +1,0 @@
-import{t as e}from"./C9Bnwgfa.js";import{n,i as c,c as l,o as p,v as u,y as m}from"./BAnMFXWH.js";const d={base:"bg-muted"},_={__name:"ProseThead",props:{class:{type:null,required:!1}},setup(s){const a=s,t=n(),o=c(()=>e({extend:e(d),...t.ui?.prose?.thead||{}}));return(r,i)=>(p(),l("thead",{class:m(o.value({class:a.class}))},[u(r.$slots,"default")],2))}};export{_ as default};

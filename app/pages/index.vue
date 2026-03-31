@@ -1,6 +1,6 @@
 <script lang="ts" setup>
   useSeoMeta({
-    title: 'SoftRocks - Japanese Learning Resources',
+    title: 'SoftRocks',
   });
 
   const version = import.meta.env.VITE_GIT_COMMIT || 'dev';

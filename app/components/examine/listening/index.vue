@@ -159,7 +159,7 @@
   onUnmounted(() => window.removeEventListener('keydown', handleKeydown));
 </script>
 <template>
-  <div class="flex w-full flex-1 flex-col items-center gap-3 pb-4 md:pb-10">
+  <div class="flex h-full w-full flex-col items-center gap-3 pb-4 md:pb-10">
     <template v-if="loading">
       <div class="flex flex-col items-center">
         <Icon name="s:logo-red" class="h-12 w-12 animate-spin opacity-50" />
@@ -167,8 +167,11 @@
       </div>
     </template>
     <template v-else-if="exam">
-      <div class="flex grow flex-col items-center justify-center gap-3">
-        <OneBtnAudio ref="audioRef" :src="exam.audioUrl" class="pb-4" />
+      <!-- 1. Audio at top -->
+      <OneBtnAudio ref="audioRef" :src="exam.audioUrl" class="shrink-0 pb-4" />
+
+      <!-- 2. Scrollable middle area -->
+      <div class="flex min-h-0 flex-1 flex-col items-center justify-start overflow-y-auto">
         <div class="flex w-full flex-row items-center justify-center">
           <ExamineTyping :wordTokens="exam.tokens" ref="typingRef" />
         </div>
@@ -180,7 +183,8 @@
         </span>
       </div>
 
-      <div class="flex grow flex-col items-center justify-end gap-3">
+      <!-- 3. Buttons at bottom -->
+      <div class="shrink-0 flex flex-col items-center justify-end gap-3">
         <div>
           <UButton
             icon="i-heroicons-arrow-right-16-solid"

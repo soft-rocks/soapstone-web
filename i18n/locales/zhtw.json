@@ -37,9 +37,7 @@
     "playAll": "播放全部例句"
   },
   "practice": {
-    "next": "下一題",
-    "done": "練完了，共 {count} 句。",
-    "unavailable": "這些句子還沒發布到 CDN。",
+    "done": "練完了，答對 {correct} / {total} 句。",
     "backToNote": "回到筆記",
     "start": "練習這些例句"
   }

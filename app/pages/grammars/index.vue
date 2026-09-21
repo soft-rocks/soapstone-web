@@ -19,7 +19,6 @@ useSeoMeta({
         <NuxtLink :to="`/grammars/${note.id}`" class="group block py-5">
           <p class="group-hover:text-primary m-0 text-lg transition-colors">{{ note.title }}</p>
           <p class="text-muted m-0 mt-1 text-[13px] leading-relaxed">{{ note.summary }}</p>
-          <p class="text-dimmed font-ui m-0 mt-2 text-xs">{{ note.level }} · {{ note.category }}</p>
         </NuxtLink>
       </li>
     </ul>

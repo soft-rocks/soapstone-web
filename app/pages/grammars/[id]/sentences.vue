@@ -35,13 +35,19 @@ watch(error, (failed) => {
 
 watch(current, () => (complete.value = false));
 
+// A correct answer is the only way forward: it is recorded, then the run moves on
+// after a beat so the reader sees it land.
+let advance: ReturnType<typeof setTimeout> | undefined;
+
 watch(complete, (done) => {
-  if (done) practice.markCorrect(current.value);
+  if (!done) return;
+  practice.markCorrect(current.value);
+  clearTimeout(advance);
+  advance = setTimeout(() => practice.next(), 900);
 });
 
-const next = () => {
-  practice.next();
-};
+watch(current, () => clearTimeout(advance));
+onBeforeUnmount(() => clearTimeout(advance));
 
 useSeoMeta({
   title: () => `${note.value?.title ?? 'Grammar'} · Practice`,
@@ -55,36 +61,23 @@ useSeoMeta({
 
       <div v-else-if="practice.finished">
         <p class="m-0 mb-6 text-lg">
-          {{
-            practice.answered
-              ? t('practice.done', { count: practice.answered })
-              : t('practice.unavailable')
-          }}
+          {{ t('practice.done', { correct: practice.answered, total: practice.order.length }) }}
         </p>
         <UButton :to="`/grammars/${id}`" variant="outline">{{ t('practice.backToNote') }}</UButton>
       </div>
 
-      <SentencePractice v-else-if="sentence" v-model:complete="complete" :sentence="sentence">
-        <template #toolbar>
-          <span class="text-dimmed font-ui text-xs">
-            {{ practice.position + 1 }} / {{ practice.order.length }}
-          </span>
+      <div v-else-if="sentence">
+        <p class="text-dimmed font-ui m-0 mb-6 text-center text-xs">
+          {{ practice.position + 1 }} / {{ practice.order.length }}
+        </p>
 
-          <UButton
-            trailing-icon="i-lucide-arrow-right"
-            :variant="complete ? 'solid' : 'outline'"
-            size="md"
-            @click="next"
-          >
-            {{ t('practice.next') }}
-          </UButton>
-        </template>
-      </SentencePractice>
+        <SentencePractice v-model:complete="complete" :sentence="sentence" />
+      </div>
 
-      <p v-else class="text-dimmed m-0 text-[13px]">{{ t('sentence.loading') }}</p>
+      <LoadingState v-else />
 
       <template #fallback>
-        <p class="text-dimmed m-0 text-[13px]">{{ t('sentence.loading') }}</p>
+        <LoadingState />
       </template>
     </ClientOnly>
   </div>

@@ -1,25 +1,25 @@
 # 受詞夾在中間的片語動詞
 
 > His flatmate put him up to it.
-> 是他室友慫恿他去做的。
+> 那件事是他室友慫恿他去做的。
 
 `put him up to it` 裡只有一個動詞，`put ... up to`。被慫恿的是 `him`，被慫恿去做的是
 `it`。人夾在 `put` 和 `up` 中間，事情接在 `to` 後面。`up` 是介副詞，`to` 是介系詞，兩
-個都屬於這個動詞。
+個都是這個動詞的一部分。
 
-人的位置是固定的。`put up him to it` 和 `put up to him it` 都不成立。`turn the light
-off` 和 `turn off the light` 兩種語序都可以，因為 `off` 後面沒有別的成分；`up` 後面還
-有 `to`，`up` 和 `to` 一分開，`to it` 就接不上去。
+`him` 的位置是固定的，`put up him to it` 不成立。`turn the light off` 和
+`turn off the light` 兩種語序都可以，因為 `off` 後面沒有別的成分；`up to` 是一體的，
+`him` 插進去就把它切開了。
 
-`let ... in on`、`take ... up on`、`talk ... out of` 都照同一個排法：直接受詞夾在動詞
-和介副詞中間，另一個受詞由介系詞帶出來。
+同樣排法的還有 `let ... in on`、`take ... up on`、`talk ... out of`、`fix ... up
+with`、`put ... down to`。
 
 ## 形式
 
 **直接受詞夾在動詞和介副詞中間**
 
     Someone put the intern up to it.
-    有人慫恿那個實習生去做的。
+    有人慫恿那個實習生去做那件事。
 
     They let their daughter in on the surprise a day early.
     他們提前一天讓女兒知道了這個驚喜。
@@ -27,10 +27,10 @@ off` 和 `turn off the light` 兩種語序都可以，因為 `off` 後面沒有�
 **名詞和代名詞放同一個位置**
 
     She took my colleague up on the offer within the hour.
-    她一小時內就接受了我同事的提議。
+    她一小時內就答應了我同事那個提議。
 
     She took me up on it within the hour.
-    她一小時內就接受了。
+    她一小時內就答應我了。
 
 一般的可分片語動詞，名詞可前可後，代名詞只能放中間。這個句型沒有這種分別，
 `my colleague` 和 `me` 都只有中間一個位置。
@@ -44,13 +44,16 @@ off` 和 `turn off the light` 兩種語序都可以，因為 `off` 後面沒有�
 
 **介系詞後面接名詞或動名詞**
 
+    She talked him out of the whole idea.
+    她勸他打消了整個念頭。
+
     He talked his sister out of dropping the course.
     他勸他妹妹不要退掉那門課。
 
 **被動：直接受詞變成主詞**
 
     He was put up to it by someone in the office.
-    是辦公室裡的某個人慫恿他去做的。
+    他是被辦公室裡的某個人慫恿去做那件事的。
 
 直接受詞移到句首，`put up to it` 留在原處。
 
@@ -60,7 +63,7 @@ off` 和 `turn off the light` 兩種語序都可以，因為 `off` 後面沒有�
     他室友沒有慫恿他做任何事。
 
     Did she let you in on it?
-    她有讓你知道嗎？
+    她有讓你知道那件事嗎？
 
 否定加在助動詞上，`put him up to anything` 這一串原封不動。疑問句把助動詞提到句首，這
 一串也不動。
@@ -77,8 +80,9 @@ off` 和 `turn off the light` 兩種語序都可以，因為 `off` 後面沒有�
     * She let in me on the plan.
       → She let me in on the plan.
 
-`in` 和 `on` 要相鄰，`me` 插不進去。`let in the cat` 的語序成立，是因為 `in` 後面沒有
-介系詞；接上 `on the plan` 之後，直接受詞只能回到 `let` 和 `in` 中間。
+`in` 和 `on` 要相鄰，`me` 插不進去。`They let in everyone who had a ticket.` 這種語序
+成立，是因為 `in` 後面沒有介系詞；接上 `on the plan` 之後，直接受詞只能回到 `let` 和
+`in` 中間。
 
     * He put up to it.
       → He put his brother up to it.
@@ -88,7 +92,8 @@ off` 和 `turn off the light` 兩種語序都可以，因為 `off` 後面沒有�
     * Her brother put it up to her.
       → Her brother put her up to it.
 
-`put` 和 `up` 中間放人，`to` 後面放事情。照中文「把這件事慫恿她去做」的語序寫會對調。
+`put` 和 `up` 中間放人，`to` 後面放事情。兩個受詞都是代名詞的時候特別容易擺反，而且
+擺反之後句子照樣讀得通，錯了不容易自己看出來。
 
     * They talked him out of go to the police.
       → They talked him out of going to the police.
@@ -106,10 +111,12 @@ off` 和 `turn off the light` 兩種語序都可以，因為 `off` 後面沒有�
 
 被動句的主詞就是原本的直接受詞，動詞後面不能再出現一次。
 
-    * She let me in to the secret.
-      → She let me in on the secret.
+    * They put the new guy up for it.
+      → They put the new guy up to it.
 
-介副詞和介系詞是固定搭配。`in on` 是知道內情，`in to` 是進入某個地方。
+介副詞和介系詞是成套的，換掉一個就是另一個動詞。`put sb up for sth` 是推派某人去做某
+事，`put sb up to sth` 是慫恿某人做某事。這種錯寫出來的是一個合法的句子，只是講的不是
+原本要講的事。
 
 ## 容易混淆的鄰居
 
@@ -123,13 +130,13 @@ off` 和 `turn off the light` 兩種語序都可以，因為 `off` 後面沒有�
     Someone has to look after the kids. (not look the kids after)
     總得有人照顧小孩。
 
-`put up with` 的字面跟 `put ... up to` 很近，但它中間不夾東西：
+`put up with` 長得跟 `put ... up to` 很近，但它中間不夾東西：
 
     I don't know how she puts up with him.
     我不知道她怎麼忍得了他。
 
     Her flatmate put her up to it.
-    是她室友慫恿她去做的。
+    那件事是她室友慫恿她去做的。
 
 數動詞後面的名詞：只有一個，而且它在 `with` 後面，那就是忍受。
 
@@ -139,7 +146,7 @@ off` 和 `turn off the light` 兩種語序都可以，因為 `off` 後面沒有�
     她去年開始騎自行車。
 
     She took me up on my offer of a lift.
-    她接受了我載她一程的提議。
+    她答應我載她一程。
 
 ## 例句
 

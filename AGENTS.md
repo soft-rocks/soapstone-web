@@ -15,6 +15,10 @@ Guidance for coding agents working in this repository.
   just restates it, do not add a one-line "description" under every setting or field, and do not
   write taglines, slogans, or explanatory blurbs nobody asked for. A page gets one title; a
   control gets one label. If a string is not information the reader needs, it does not ship.
+- **Do not surface metadata the user did not ask for.** Fields like `level`, `category`,
+  `guideword`, ids, slugs, hashes and counts exist in the data for filtering and addressing, not
+  for display. Never render them as a badge, a chip or a `A · B` byline on your own initiative —
+  put them on screen only when the user asks for that specific field in that specific place.
 - Ship verified work: run `npm run lint && npm run typecheck && npm run generate` before
   handing anything over, and screenshot at 1280px and 375px when the layout changed.
 

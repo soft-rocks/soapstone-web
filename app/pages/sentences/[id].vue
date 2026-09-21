@@ -26,9 +26,7 @@ useSeoMeta({
 
 <template>
   <div>
-    <p v-if="status === 'pending'" class="text-dimmed m-0 text-[13px]">
-      {{ t('sentence.loading') }}
-    </p>
+    <LoadingState v-if="status === 'pending'" />
 
     <p v-else-if="error || !sentence" class="text-dimmed m-0 text-[13px]">
       {{ t('sentence.error') }}

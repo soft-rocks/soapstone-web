@@ -12,7 +12,7 @@ const resolvedLocale = useResolvedLocale();
 const audios = computed(() => props.sentence.audios ?? []);
 
 // One press plays every take in order: the blurred ones first, the clear one last
-const { play, isPlaying, currentIndex, total } = useAudioSequence(audios);
+const { play, isPlaying } = useAudioSequence(audios);
 
 /**
  * Start playing as soon as a sentence lands, and again on the next one.
@@ -95,11 +95,13 @@ defineExpose({ reveal: () => typing.value?.revealFocused() });
       data-toolbar
       class="border-muted bg-default fixed inset-x-0 bottom-0 z-40 border-t pb-[env(safe-area-inset-bottom)]"
     >
-      <div class="mx-auto flex max-w-[640px] items-center gap-3 px-8 py-4 md:px-16">
+      <div
+        class="mx-auto flex max-w-[640px] items-center gap-2 px-4 py-3 sm:gap-3 sm:px-8 sm:py-4 md:px-16"
+      >
         <button
           v-if="audios.length"
           type="button"
-          class="border-primary text-primary hover:bg-primary hover:text-inverted flex size-12 cursor-pointer items-center justify-center border transition-colors"
+          class="border-primary text-primary hover:bg-primary hover:text-inverted flex size-11 shrink-0 cursor-pointer items-center justify-center border transition-colors sm:size-12"
           :aria-label="isPlaying ? t('sentence.stop') : t('sentence.play')"
           @click="play"
         >
@@ -108,7 +110,7 @@ defineExpose({ reveal: () => typing.value?.revealFocused() });
 
         <button
           type="button"
-          class="border-accented text-toned enabled:hover:border-primary enabled:hover:text-primary flex size-12 items-center justify-center border transition-colors enabled:cursor-pointer disabled:opacity-40"
+          class="border-accented text-toned enabled:hover:border-primary enabled:hover:text-primary flex size-11 shrink-0 items-center justify-center border transition-colors enabled:cursor-pointer disabled:opacity-40 sm:size-12"
           :disabled="!typing?.canReveal"
           :aria-label="t('sentence.hint')"
           :title="t('sentence.hint')"
@@ -120,7 +122,7 @@ defineExpose({ reveal: () => typing.value?.revealFocused() });
 
         <button
           type="button"
-          class="border-accented text-toned hover:border-primary hover:text-primary flex size-12 cursor-pointer items-center justify-center border transition-colors"
+          class="border-accented text-toned hover:border-primary hover:text-primary flex size-11 shrink-0 cursor-pointer items-center justify-center border transition-colors sm:size-12"
           :aria-label="copied ? t('sentence.copied') : t('sentence.copy')"
           :title="copied ? t('sentence.copied') : t('sentence.copy')"
           @click="copy(sentence.original)"
@@ -128,14 +130,14 @@ defineExpose({ reveal: () => typing.value?.revealFocused() });
           <UIcon :name="copied ? 'i-lucide-check' : 'i-lucide-copy'" class="size-5" />
         </button>
 
-        <span v-if="isPlaying" class="text-dimmed font-ui text-xs">
-          {{ currentIndex + 1 }} / {{ total }}
-        </span>
-
-        <div class="ml-auto flex items-center gap-3">
-          <span v-if="complete" class="text-primary font-ui flex items-center gap-2 text-sm">
+        <div class="ml-auto flex shrink-0 items-center gap-2 sm:gap-3">
+          <span
+            v-if="complete"
+            class="text-primary font-ui flex shrink-0 items-center gap-2 text-sm"
+            :title="t('sentence.correct')"
+          >
             <UIcon name="i-lucide-check" class="size-4" />
-            {{ t('sentence.correct') }}
+            <span class="hidden sm:inline">{{ t('sentence.correct') }}</span>
           </span>
 
           <slot name="toolbar" />

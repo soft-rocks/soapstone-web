@@ -83,28 +83,30 @@ useSeoMeta({
       <!-- eslint-disable-next-line vue/no-v-html -- build-time markdown from this repo -->
       <div class="note" @click="onNoteClick" v-html="html" />
 
-      <Teleport v-if="sentences.length" defer to="#note-head">
-        <NuxtLink
-          :to="`/grammars/${id}/sentences`"
-          :aria-label="t('practice.start')"
-          :title="t('practice.start')"
-          class="border-primary text-primary hover:bg-primary hover:text-inverted flex size-12 shrink-0 items-center justify-center border transition-colors"
-        >
-          <UIcon name="i-lucide-pencil" class="size-5" />
-        </NuxtLink>
-      </Teleport>
+      <ClientOnly>
+        <Teleport v-if="sentences.length" defer to="#note-head">
+          <NuxtLink
+            :to="`/grammars/${id}/sentences`"
+            :aria-label="t('practice.start')"
+            :title="t('practice.start')"
+            class="border-primary text-primary hover:bg-primary hover:text-inverted flex size-12 shrink-0 items-center justify-center border transition-colors"
+          >
+            <UIcon name="i-lucide-pencil" class="size-5" />
+          </NuxtLink>
+        </Teleport>
 
-      <Teleport v-if="sentences.length" defer to="#examples-heading">
-        <button
-          type="button"
-          class="border-accented text-toned hover:border-primary hover:text-primary inline-flex size-9 shrink-0 cursor-pointer items-center justify-center border transition-colors"
-          :aria-label="playingAll ? t('sentence.stop') : t('grammar.playAll')"
-          :title="playingAll ? t('sentence.stop') : t('grammar.playAll')"
-          @click="playingAll ? stopAll() : toggleAll()"
-        >
-          <UIcon :name="playingAll ? 'i-lucide-square' : 'i-lucide-play'" class="size-4" />
-        </button>
-      </Teleport>
+        <Teleport v-if="sentences.length" defer to="#examples-heading">
+          <button
+            type="button"
+            class="border-accented text-toned hover:border-primary hover:text-primary inline-flex size-9 shrink-0 cursor-pointer items-center justify-center border transition-colors"
+            :aria-label="playingAll ? t('sentence.stop') : t('grammar.playAll')"
+            :title="playingAll ? t('sentence.stop') : t('grammar.playAll')"
+            @click="playingAll ? stopAll() : toggleAll()"
+          >
+            <UIcon :name="playingAll ? 'i-lucide-square' : 'i-lucide-play'" class="size-4" />
+          </button>
+        </Teleport>
+      </ClientOnly>
     </template>
   </article>
 </template>

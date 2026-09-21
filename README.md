@@ -1,75 +1,38 @@
-# Nuxt Minimal Starter
+# english-notes.soft.rocks
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A Nuxt 4 static site. `nuxt generate` prerenders every route, and GitHub Actions publishes the
+output to the `web` branch for GitHub Pages.
 
-## Setup
+## Requirements
 
-Make sure to install dependencies:
+- Node.js 22.22.2+ (CI runs 24)
+- npm
+
+## Development
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+npm run dev        # http://localhost:3000
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+## Static output
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+npm run generate   # writes .output/public (dist is a symlink to it)
+npm run preview    # serve the generated output locally
 ```
 
-## Production
-
-Build the application for production:
+## Checks
 
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+npm run lint
+npm run typecheck
+npm run format
 ```
 
-Locally preview production build:
+## Deployment
 
-```bash
-# npm
-npm run preview
+Pushing to `main` runs `.github/workflows/deploy.yml`, which builds with `npm ci && npm run generate`
+and pushes `.output/public` to the `web` branch. The custom domain is set in `public/CNAME`.
 
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+See [AGENTS.md](AGENTS.md) for the design system, fonts, and state-management conventions.

@@ -7,7 +7,11 @@
     },
     "alwaysShowTranslation": {
       "label": "Always show translation"
-    }
+    },
+    "loopAudio": {
+      "label": "Loop the audio"
+    },
+    "exam": "Sentence exam"
   },
   "nav": {
     "settings": "Settings",
@@ -34,7 +38,8 @@
     "title": "Grammar notes",
     "empty": "Nothing here yet.",
     "notFound": "Note not found.",
-    "playAll": "Play every example"
+    "playAll": "Play every example",
+    "backToTop": "Back to top"
   },
   "practice": {
     "done": "Finished — {correct} of {total} correct.",

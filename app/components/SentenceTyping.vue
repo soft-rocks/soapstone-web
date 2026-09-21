@@ -117,6 +117,13 @@ watch(
           spellcheck="false"
           autocomplete="off"
           autocapitalize="off"
+          autocorrect="off"
+          inputmode="text"
+          enterkeyhint="next"
+          data-form-type="other"
+          data-1p-ignore
+          data-lpignore="true"
+          data-bwignore
           :maxlength="token.text.length"
           :aria-label="`Blank ${index + 1}`"
           class="focus:bg-primary/5 absolute inset-0 w-full bg-transparent text-center focus:outline-none"

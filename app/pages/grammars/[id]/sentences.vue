@@ -66,13 +66,18 @@ useSeoMeta({
         <UButton :to="`/grammars/${id}`" variant="outline">{{ t('practice.backToNote') }}</UButton>
       </div>
 
-      <div v-else-if="sentence">
-        <p class="text-dimmed font-ui m-0 mb-6 text-center text-xs">
-          {{ practice.position + 1 }} / {{ practice.order.length }}
-        </p>
-
-        <SentencePractice v-model:complete="complete" :sentence="sentence" />
-      </div>
+      <SentencePractice
+        v-else-if="sentence"
+        v-model:complete="complete"
+        :sentence="sentence"
+        :track-title="note?.title"
+      >
+        <template #toolbar>
+          <span class="text-dimmed font-ui shrink-0 text-xs">
+            {{ practice.position + 1 }} / {{ practice.order.length }}
+          </span>
+        </template>
+      </SentencePractice>
 
       <LoadingState v-else />
 

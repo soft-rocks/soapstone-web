@@ -10,11 +10,14 @@ interface SettingsState {
   locale: LocaleCode | null;
   /** Show translations without the reader having to open them. */
   alwaysShowTranslation: boolean;
+  /** Keep replaying a sentence's takes while practising, instead of stopping after one pass. */
+  loopAudio: boolean;
 }
 
 const defaults = (): SettingsState => ({
   locale: null,
   alwaysShowTranslation: false,
+  loopAudio: false,
 });
 
 export const useSettingsStore = defineStore('settings', {
@@ -26,6 +29,9 @@ export const useSettingsStore = defineStore('settings', {
     },
     setAlwaysShowTranslation(value: boolean) {
       this.alwaysShowTranslation = value;
+    },
+    setLoopAudio(value: boolean) {
+      this.loopAudio = value;
     },
     resetAll() {
       this.$patch(defaults());

@@ -7,7 +7,11 @@
     },
     "alwaysShowTranslation": {
       "label": "永遠顯示翻譯結果"
-    }
+    },
+    "loopAudio": {
+      "label": "循環播放語音"
+    },
+    "exam": "句子測驗"
   },
   "nav": {
     "settings": "設定",
@@ -34,7 +38,8 @@
     "title": "文法筆記",
     "empty": "目前還沒有內容。",
     "notFound": "找不到這則筆記。",
-    "playAll": "播放全部例句"
+    "playAll": "播放全部例句",
+    "backToTop": "回到最上面"
   },
   "practice": {
     "done": "練完了，答對 {correct} / {total} 句。",

@@ -6,8 +6,14 @@ import { type MaybeRefOrGetter, onBeforeUnmount, ref, toValue } from 'vue';
  * Every call bumps a run token, so a second press (or an unmount) cancels the
  * sequence still in flight instead of letting two of them overlap.
  */
-export function useAudioSequence(sources: MaybeRefOrGetter<string[]>) {
+interface Options {
+  /** Keep repeating the whole sequence until it is stopped. */
+  loop?: MaybeRefOrGetter<boolean>;
+}
+
+export function useAudioSequence(sources: MaybeRefOrGetter<string[]>, options: Options = {}) {
   const isPlaying = ref(false);
+  const isPaused = ref(false);
   const currentIndex = ref(-1);
 
   let element: HTMLAudioElement | null = null;
@@ -26,7 +32,21 @@ export function useAudioSequence(sources: MaybeRefOrGetter<string[]>) {
     runToken += 1;
     element?.pause();
     isPlaying.value = false;
+    isPaused.value = false;
     currentIndex.value = -1;
+  };
+
+  /** Hold the current take without cancelling the run, so it can carry on later. */
+  const pause = () => {
+    if (!isPlaying.value) return;
+    element?.pause();
+    isPaused.value = true;
+  };
+
+  const resume = () => {
+    if (!isPlaying.value) return;
+    isPaused.value = false;
+    element?.play().catch(() => (isPaused.value = true));
   };
 
   /** Resolves false when the browser refused to start playback. */
@@ -35,26 +55,43 @@ export function useAudioSequence(sources: MaybeRefOrGetter<string[]>) {
       stop();
       return false;
     }
+    return run(0);
+  };
 
+  /** Start at a given position in the list, for next/previous controls. */
+  const playFrom = async (start: number): Promise<boolean> => {
+    stop();
+    return run(start);
+  };
+
+  const run = async (start: number): Promise<boolean> => {
     const list = toValue(sources);
     if (!list.length) return false;
 
-    const run = (runToken += 1);
+    let from = Math.min(Math.max(start, 0), list.length - 1);
+    const runId = (runToken += 1);
     isPlaying.value = true;
+    isPaused.value = false;
 
     let started = false;
     try {
-      for (const [index, src] of list.entries()) {
-        if (run !== runToken) return started;
-        currentIndex.value = index;
-        await playOne(src);
-        started = true;
-      }
+      do {
+        for (let index = from; index < list.length; index += 1) {
+          if (runId !== runToken) return started;
+          currentIndex.value = index;
+          await playOne(list[index]!);
+          started = true;
+        }
+        // A repeat pass always starts from the top
+        from = 0;
+        // Looping is checked between passes, so turning it off ends the current one cleanly
+      } while (toValue(options.loop) && runId === runToken);
     } catch {
       // A blocked or failed track ends the sequence; the button returns to idle.
     } finally {
-      if (run === runToken) {
+      if (runId === runToken) {
         isPlaying.value = false;
+        isPaused.value = false;
         currentIndex.value = -1;
       }
     }
@@ -67,5 +104,15 @@ export function useAudioSequence(sources: MaybeRefOrGetter<string[]>) {
     element = null;
   });
 
-  return { play, stop, isPlaying, currentIndex, total: computed(() => toValue(sources).length) };
+  return {
+    play,
+    playFrom,
+    pause,
+    resume,
+    stop,
+    isPlaying,
+    isPaused,
+    currentIndex,
+    total: computed(() => toValue(sources).length),
+  };
 }

@@ -39,6 +39,8 @@ const localeOptions = computed(() =>
           />
         </div>
 
+        <p class="eyebrow border-muted m-0 border-b py-4">{{ t('settings.exam') }}</p>
+
         <div class="border-muted flex items-start justify-between gap-8 border-b py-6">
           <div>
             <p class="m-0 text-[15px]">{{ t('settings.alwaysShowTranslation.label') }}</p>
@@ -47,6 +49,18 @@ const localeOptions = computed(() =>
           <USwitch
             v-model="settings.alwaysShowTranslation"
             :aria-label="t('settings.alwaysShowTranslation.label')"
+            class="mt-1 shrink-0"
+          />
+        </div>
+
+        <div class="border-muted flex items-start justify-between gap-8 border-b py-6">
+          <div>
+            <p class="m-0 text-[15px]">{{ t('settings.loopAudio.label') }}</p>
+          </div>
+
+          <USwitch
+            v-model="settings.loopAudio"
+            :aria-label="t('settings.loopAudio.label')"
             class="mt-1 shrink-0"
           />
         </div>

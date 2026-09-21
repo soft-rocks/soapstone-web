@@ -1,7 +1,11 @@
 <script setup lang="ts">
 import type { Sentence } from '~/types/sentence';
 
-const props = defineProps<{ sentence: Sentence }>();
+const props = defineProps<{
+  sentence: Sentence;
+  /** Shown on the lock screen. The sentence itself is the answer, so it is never used. */
+  trackTitle?: string;
+}>();
 
 const complete = defineModel<boolean>('complete', { default: false });
 
@@ -12,7 +16,22 @@ const resolvedLocale = useResolvedLocale();
 const audios = computed(() => props.sentence.audios ?? []);
 
 // One press plays every take in order: the blurred ones first, the clear one last
-const { play, isPlaying } = useAudioSequence(audios);
+const { play, pause, resume, stop, isPlaying, isPaused } = useAudioSequence(audios, {
+  loop: () => settings.loopAudio,
+});
+
+const media = useMediaSession();
+
+watchEffect(() => {
+  if (!isPlaying.value) {
+    media.clear();
+    return;
+  }
+
+  media.setTrack({ title: props.trackTitle ?? 'English Notes' });
+  media.setState(isPaused.value ? 'paused' : 'playing');
+  media.setHandlers({ play: resume, pause, stop });
+});
 
 /**
  * Start playing as soon as a sentence lands, and again on the next one.

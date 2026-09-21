@@ -1,0 +1,1 @@
+import{b as e,k as t,mt as n}from"./B8D2lM98.js";import{d as r}from"#entry";var i={class:`text-4xl`},a=t({__name:`index`,setup(t){return r({title:`English Notes`}),(t,r)=>(n(),e(`h1`,i,`English Notes`))}});export{a as default};

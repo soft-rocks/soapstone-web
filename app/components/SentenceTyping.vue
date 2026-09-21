@@ -6,7 +6,7 @@ const props = defineProps<{ tokens: WordToken[] }>();
 const complete = defineModel<boolean>('complete', { default: false });
 
 const answers = ref<Record<number, string>>({});
-const fields = ref<Record<number, HTMLElement | null>>({});
+const fields = ref<Record<number, HTMLInputElement | null>>({});
 const focusedIndex = ref<number | null>(null);
 
 const maskedIndexes = computed(() =>
@@ -32,53 +32,17 @@ watchEffect(() => {
   complete.value = isComplete.value;
 });
 
-function caretToEnd(field: HTMLElement) {
-  const selection = window.getSelection();
-  if (!selection) return;
-
-  const range = document.createRange();
-  range.selectNodeContents(field);
-  range.collapse(false);
-  selection.removeAllRanges();
-  selection.addRange(range);
-}
-
-function focusField(index: number) {
-  const field = fields.value[index];
-  if (!field) return;
-  field.focus();
-  caretToEnd(field);
-}
-
 const focusSibling = (from: number, direction: 1 | -1) => {
   const position = maskedIndexes.value.indexOf(from);
   const next = maskedIndexes.value[position + direction];
-  if (next !== undefined) focusField(next);
+  if (next !== undefined) fields.value[next]?.focus();
 };
 
-/**
- * Blanks are contenteditable rather than inputs on purpose: iOS Safari offers its
- * AutoFill bar (passwords, cards, addresses) on a text input whatever autocomplete
- * says, and a contenteditable element is not a form field at all. The trade-off is
- * that length, whitespace and the caret are managed here by hand.
- */
-function onInput(index: number, token: WordToken) {
-  const field = fields.value[index];
-  if (!field) return;
+const onInput = (index: number, token: WordToken) => {
+  if ((answers.value[index] ?? '').length >= token.text.length) focusSibling(index, 1);
+};
 
-  const raw = field.textContent ?? '';
-  const text = raw.replace(/\s/g, '').slice(0, token.text.length);
-
-  if (text !== raw) {
-    field.textContent = text;
-    caretToEnd(field);
-  }
-
-  answers.value[index] = text;
-  if (text.length >= token.text.length) focusSibling(index, 1);
-}
-
-function onKeydown(event: KeyboardEvent, index: number) {
+const onKeydown = (event: KeyboardEvent, index: number) => {
   // A word never contains a space, so use it to jump to the next blank instead
   if (event.key === ' ') {
     event.preventDefault();
@@ -86,17 +50,11 @@ function onKeydown(event: KeyboardEvent, index: number) {
     return;
   }
 
-  // Nothing in a blank spans two lines
-  if (event.key === 'Enter') {
-    event.preventDefault();
-    return;
-  }
-
   if (event.key === 'Backspace' && !answers.value[index]) {
     event.preventDefault();
     focusSibling(index, -1);
   }
-}
+};
 
 /** Fill in the blank the reader is sitting on, then move along. */
 const revealFocused = () => {
@@ -104,31 +62,11 @@ const revealFocused = () => {
   if (index === null) return;
 
   const token = props.tokens[index];
-  const field = fields.value[index];
-  if (!token || !field) return;
+  if (!token) return;
 
-  field.textContent = token.text;
   answers.value[index] = token.text;
   focusSibling(index, 1);
 };
-
-/**
- * iOS builds the keyboard's accessory view — the autofill row with the passwords key,
- * cards and addresses — at the moment the keyboard appears, and no attribute or API
- * removes it afterwards. The one lever reported to work is claiming no input mode while
- * that view is built, then taking it back so typing still works.
- */
-function onFocus(index: number) {
-  focusedIndex.value = index;
-
-  const field = fields.value[index];
-  if (!field) return;
-
-  field.setAttribute('inputmode', 'none');
-  requestAnimationFrame(() => {
-    setTimeout(() => field.setAttribute('inputmode', 'text'), 50);
-  });
-}
 
 /** A hint needs a blank to sit on, and there is nothing to reveal once it is right. */
 const canReveal = computed(() => {
@@ -144,15 +82,11 @@ watch(
   () => props.tokens,
   async () => {
     answers.value = {};
+    fields.value = {};
     focusedIndex.value = null;
     await nextTick();
-
-    for (const field of Object.values(fields.value)) {
-      if (field) field.textContent = '';
-    }
-
     const first = maskedIndexes.value[0];
-    if (first !== undefined) focusField(first);
+    if (first !== undefined) fields.value[first]?.focus();
   },
   { immediate: true },
 );
@@ -176,23 +110,33 @@ watch(
       >
         <span aria-hidden="true" class="invisible">{{ token.text }}</span>
 
-        <span
-          :ref="(el) => (fields[index] = el as HTMLElement)"
-          contenteditable="plaintext-only"
-          role="textbox"
-          spellcheck="false"
+        <!-- autocomplete is deliberately an unrecognised token rather than "off":
+             browsers document that they ignore "off" for their own autofill, and a
+             value they cannot parse is the next lever short of dropping the input. The
+             data-* hints are what password managers read to leave a field alone. -->
+        <input
+          :ref="(el) => (fields[index] = el as HTMLInputElement)"
+          v-model="answers[index]"
+          type="text"
+          autocomplete="nope"
           autocorrect="off"
           autocapitalize="off"
+          spellcheck="false"
           enterkeyhint="next"
+          data-form-type="other"
+          data-1p-ignore
+          data-lpignore="true"
+          data-bwignore
+          :maxlength="token.text.length"
           :aria-label="`Blank ${index + 1}`"
-          class="blank focus:bg-primary/5 absolute inset-0 block text-center focus:outline-none"
+          class="focus:bg-primary/5 absolute inset-0 w-full bg-transparent text-center focus:outline-none"
           :class="{
             'text-primary': statusOf(index, token.text) === 'correct',
             'text-alert': statusOf(index, token.text) === 'wrong',
           }"
           @input="onInput(index, token)"
           @keydown="onKeydown($event, index)"
-          @focus="onFocus(index)"
+          @focus="focusedIndex = index"
           @blur="focusedIndex = null"
         />
       </span>
@@ -201,11 +145,12 @@ watch(
 </template>
 
 <style scoped>
-.blank {
-  /* A stray paste or line break must never change the sentence's layout */
-  overflow: hidden;
-  white-space: pre;
+input {
+  appearance: none;
+  border-radius: 0;
+  padding: 0;
+  font: inherit;
   line-height: inherit;
-  -webkit-user-modify: read-write-plaintext-only;
+  letter-spacing: inherit;
 }
 </style>

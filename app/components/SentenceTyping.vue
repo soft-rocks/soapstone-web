@@ -112,6 +112,24 @@ const revealFocused = () => {
   focusSibling(index, 1);
 };
 
+/**
+ * iOS builds the keyboard's accessory view — the autofill row with the passwords key,
+ * cards and addresses — at the moment the keyboard appears, and no attribute or API
+ * removes it afterwards. The one lever reported to work is claiming no input mode while
+ * that view is built, then taking it back so typing still works.
+ */
+function onFocus(index: number) {
+  focusedIndex.value = index;
+
+  const field = fields.value[index];
+  if (!field) return;
+
+  field.setAttribute('inputmode', 'none');
+  requestAnimationFrame(() => {
+    setTimeout(() => field.setAttribute('inputmode', 'text'), 50);
+  });
+}
+
 /** A hint needs a blank to sit on, and there is nothing to reveal once it is right. */
 const canReveal = computed(() => {
   const index = focusedIndex.value;
@@ -174,7 +192,7 @@ watch(
           }"
           @input="onInput(index, token)"
           @keydown="onKeydown($event, index)"
-          @focus="focusedIndex = index"
+          @focus="onFocus(index)"
           @blur="focusedIndex = null"
         />
       </span>

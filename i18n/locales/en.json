@@ -16,7 +16,8 @@
   "nav": {
     "settings": "Settings",
     "grammar": "Grammar",
-    "menu": "Menu"
+    "menu": "Menu",
+    "version": "Version"
   },
   "languages": {
     "en": "English",

@@ -3,6 +3,9 @@ const { t } = useI18n();
 
 const menuOpen = ref(false);
 
+// CI injects the commit through NUXT_PUBLIC_GIT_COMMIT; it reads 'dev' locally
+const version = computed(() => useRuntimeConfig().public.gitCommit.slice(0, 6));
+
 const links = [
   { to: '/grammars', label: 'nav.grammar' },
   { to: '/settings', label: 'nav.settings' },
@@ -37,6 +40,11 @@ const links = [
             >
               {{ t(link.label) }}
             </NuxtLink>
+
+            <div class="border-muted flex items-baseline justify-between gap-4 border-b py-4">
+              <span class="text-lg">{{ t('nav.version') }}</span>
+              <span class="text-dimmed font-mono text-xs">{{ version }}</span>
+            </div>
           </nav>
         </template>
       </USlideover>

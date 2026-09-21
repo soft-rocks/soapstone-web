@@ -16,7 +16,8 @@
   "nav": {
     "settings": "設定",
     "grammar": "文法",
-    "menu": "選單"
+    "menu": "選單",
+    "version": "版本"
   },
   "languages": {
     "en": "English",

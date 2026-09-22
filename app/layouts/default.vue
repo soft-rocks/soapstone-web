@@ -50,7 +50,7 @@ const links = [
       </USlideover>
     </header>
 
-    <main class="flex-1 pt-10">
+    <main class="flex-1 pt-4 sm:pt-10">
       <slot />
     </main>
   </div>

@@ -35,19 +35,11 @@ watch(error, (failed) => {
 
 watch(current, () => (complete.value = false));
 
-// A correct answer is the only way forward: it is recorded, then the run moves on
-// after a beat so the reader sees it land.
-let advance: ReturnType<typeof setTimeout> | undefined;
-
+// A correct answer is the only way forward. It is recorded at once; the screen reads the
+// sentence back in the clear and says when it has finished, which is when the run moves on.
 watch(complete, (done) => {
-  if (!done) return;
-  practice.markCorrect(current.value);
-  clearTimeout(advance);
-  advance = setTimeout(() => practice.next(), 900);
+  if (done) practice.markCorrect(current.value);
 });
-
-watch(current, () => clearTimeout(advance));
-onBeforeUnmount(() => clearTimeout(advance));
 
 useSeoMeta({
   title: () => `${note.value?.title ?? 'Grammar'} · Practice`,
@@ -71,6 +63,7 @@ useSeoMeta({
         v-model:complete="complete"
         :sentence="sentence"
         :track-title="note?.title"
+        @answered="practice.next()"
       >
         <template #toolbar>
           <span class="text-dimmed font-ui shrink-0 text-xs">

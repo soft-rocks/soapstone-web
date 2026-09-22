@@ -121,23 +121,30 @@ const canReveal = computed(() => {
 
 defineExpose({ revealFocused, canReveal });
 
-// A new sentence starts from an empty grid with the first blank focused
-watch(
-  () => props.tokens,
-  async () => {
-    answers.value = {};
-    focusedIndex.value = null;
-    await nextTick();
+/**
+ * A new sentence starts from an empty grid with the first blank focused.
+ *
+ * The blanks are refs inside a v-for, so one tick is not enough: on the run's first
+ * sentence the watcher fires during setup, before any of them exist. Waiting for a
+ * painted frame as well is what makes the focus land every time rather than most times.
+ */
+async function reset() {
+  answers.value = {};
+  focusedIndex.value = null;
 
-    for (const field of Object.values(fields.value)) {
-      if (field) field.textContent = '';
-    }
+  await nextTick();
+  await new Promise((resolve) => requestAnimationFrame(resolve));
 
-    const first = maskedIndexes.value[0];
-    if (first !== undefined) focusField(first);
-  },
-  { immediate: true },
-);
+  for (const field of Object.values(fields.value)) {
+    if (field) field.textContent = '';
+  }
+
+  const first = maskedIndexes.value[0];
+  if (first !== undefined) focusField(first);
+}
+
+watch(() => props.tokens, reset);
+onMounted(reset);
 </script>
 
 <template>

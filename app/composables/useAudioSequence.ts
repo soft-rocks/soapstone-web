@@ -79,8 +79,13 @@ export function useAudioSequence(sources: MaybeRefOrGetter<string[]>, options: O
         for (let index = from; index < list.length; index += 1) {
           if (runId !== runToken) return started;
           currentIndex.value = index;
-          await playOne(list[index]!);
-          started = true;
+
+          try {
+            await playOne(list[index]!);
+            started = true;
+          } catch {
+            // A take the CDN does not carry is skipped; one gap must not end the run
+          }
         }
         // A repeat pass always starts from the top
         from = 0;

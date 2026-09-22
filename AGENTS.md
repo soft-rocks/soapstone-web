@@ -15,6 +15,12 @@ Guidance for coding agents working in this repository.
   just restates it, do not add a one-line "description" under every setting or field, and do not
   write taglines, slogans, or explanatory blurbs nobody asked for. A page gets one title; a
   control gets one label. If a string is not information the reader needs, it does not ship.
+- **Do not set words apart.** The recurring failure here is emphasis: corner quotes around
+  a phrase to coin it as a term, a parenthetical restating what the sentence just said, a
+  bolded label in front of prose, a kicker over a heading. Position and type already carry
+  the hierarchy — a title is a title because of where it sits, not because it is quoted.
+  Write plainly, and strip these marks when they arrive from the source rather than passing
+  them through.
 - **Do not surface metadata the user did not ask for.** Fields like `level`, `category`,
   `guideword`, ids, slugs, hashes and counts exist in the data for filtering and addressing, not
   for display. Never render them as a badge, a chip or a `A · B` byline on your own initiative —
@@ -137,6 +143,17 @@ The script copies every note that has a `content.md` into `app/content/grammar/<
   example block becomes `.example` (serif, CJK-only lines dimmed as the translation); a block
   drawn with box-drawing characters becomes an inline SVG diagram. If a note needs a diagram,
   it gets SVG — never ASCII art.
+- A note's title is its EGP guideword with the aspect prefix (`FORM:`, `FORM/USE:`) and every
+  quote mark removed: the source writes `FORM/USE: 'WOULD HATE' + 'TO'`, the page shows
+  `WOULD HATE + TO`. See `app/utils/guideword.ts`.
+- Corner quotes are stripped from a rendered note. The notes use `「…」` to single out a coined
+  phrase, which reads as shouting on screen; the words stay and the marks go, in
+  `app/utils/markdown.ts`. The source keeps them — english-notes is read-only from here, so
+  anything that has to change about the wording is reported to the user, never edited.
+- A note's markdown reaches the page through `import.meta.glob`, whose file list is fixed
+  when the dev server starts. After syncing a note that was not there before, restart
+  `npm run dev` or the page renders its title and reports the body as missing. A static
+  build is unaffected.
 - Only the notes named on the command line are carried; re-running with no slugs refreshes
   exactly what is already in the index and deletes anything no longer selected.
 - Every note is added to `nitro.prerender.routes` from the index, so each one is a real static

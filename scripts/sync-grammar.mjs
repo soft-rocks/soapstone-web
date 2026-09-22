@@ -111,7 +111,7 @@ for (const slug of selected) {
  */
 function exampleSentences(markdown) {
   const lines = markdown.split('\n');
-  const start = lines.findIndex((line) => line.trim() === '## 例句');
+  const start = lines.findIndex((line) => /^##\s+(?:\d+\.\s*)?例句\s*$/.test(line.trim()));
   if (start === -1) return [];
 
   const sentences = [];

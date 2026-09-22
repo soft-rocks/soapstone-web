@@ -1,154 +1,188 @@
-# 受詞夾在中間的片語動詞
+# 含有直接受詞的片語介系詞動詞
 
-> His flatmate put him up to it.
+這個文法結構稱為「含有直接受詞的片語介系詞動詞」（Phrasal-prepositional verb with a direct object）。
+
+## 1. 核心結構拆解
+
+句型公式為：
+**動詞 + 直接受詞 + 小品詞 + 介系詞 + 介系詞受詞**
+
+* **動詞（Verb）：** 主要動作（如 `let`、`take`、`talk`、`put`）。
+* **直接受詞（Direct Object）：** 緊跟在動詞後面的第一個對象（通常是人或物）。
+* **小品詞（Particle）：** 副詞性質的字（如 `in`、`out`、`up`、`down`）。
+* **介系詞（Preposition）：** 連接後方受詞的字（如 `on`、`of`、`with`、`to`）。
+* **介系詞受詞（Object of Preposition）：** 放在介系詞後面的第二個對象。
+
+這類句型的特點是：動詞與中間的小品詞、介系詞形成固定搭配，前後各需要接一個受詞才能完成語意。
+
+**辨認方式：** 小品詞和介系詞兩個都要在，才算這個句型。`talk someone out of something` 有 `out` 和 `of`，屬於此類；`talk someone into something` 只有 `into` 一個介系詞，屬於「介系詞動詞」，不是此類。
+
+---
+
+## 2. 直接受詞的位置不可更動
+
+一般的可分片語動詞，受詞放在小品詞前後都可以：
+
+* Turn **the light** off. ／ Turn off **the light**.（兩者皆可）
+
+本句型只有一種語序，直接受詞一定在小品詞前面：
+
+* She let **me** in on the plan.（正確）
+* ~~She let in me on the plan.~~（錯誤）
+
+原因是小品詞後面還接著介系詞，`in on` 必須相連。這一點不分名詞或代名詞，`let my sister in on it` 與 `let her in on it` 的語序相同，直接受詞再長也一樣，`let everyone on the committee in on the decision` 整串仍然放在 `in` 前面。
+
+---
+
+## 3. 例句拆解
+
+> His flatmate **put him up to it**.
 > 那件事是他室友慫恿他去做的。
 
-`put him up to it` 裡只有一個動詞，`put ... up to`。被慫恿的是 `him`，被慫恿去做的是
-`it`。人夾在 `put` 和 `up` 中間，事情接在 `to` 後面。`up` 是介副詞，`to` 是介系詞，兩
-個都是這個動詞的一部分。
+* **動詞：** `put`
+* **直接受詞：** `him`
+* **小品詞：** `up`
+* **介系詞：** `to`
+* **介系詞受詞：** `it`
 
-`him` 的位置是固定的，`put up him to it` 不成立。`turn the light off` 和
-`turn off the light` 兩種語序都可以，因為 `off` 後面沒有別的成分；`up to` 是一體的，
-`him` 插進去就把它切開了。
+---
 
-同樣排法的還有 `let ... in on`、`take ... up on`、`talk ... out of`、`fix ... up
-with`、`put ... down to`。
+## 4. 更多片語範例
 
-## 形式
+#### ① let [someone] in on [something]（讓某人得知秘密或計畫）
 
-**直接受詞夾在動詞和介副詞中間**
+* **例句：** They refused to **let me in on their plans**.
+* **翻譯：** 他們拒絕讓我得知他們的計畫。
 
-    Someone put the intern up to it.
-    有人慫恿那個實習生去做那件事。
+#### ② take [something] out on [someone]（將情緒或壓力發洩在某人身上）
 
-    They let their daughter in on the surprise a day early.
-    他們提前一天讓女兒知道了這個驚喜。
+* **例句：** I know you are stressed, but don't **take it out on your family**.
+* **翻譯：** 我知道你壓力很大，但別把情緒發洩在家人身上。
 
-**名詞和代名詞放同一個位置**
+#### ③ talk [someone] out of [doing something]（說服某人放棄做某事）
 
-    She took my colleague up on the offer within the hour.
-    她一小時內就答應了我同事那個提議。
+* **例句：** Her parents tried to **talk her out of moving abroad**.
+* **翻譯：** 她的父母試圖說服她放棄搬到國外。
 
-    She took me up on it within the hour.
-    她一小時內就答應我了。
+#### ④ put [something] down to [something]（將某事歸因於某原因）
 
-一般的可分片語動詞，名詞可前可後，代名詞只能放中間。這個句型沒有這種分別，
-`my colleague` 和 `me` 都只有中間一個位置。
+* **例句：** She **put his rudeness down to exhaustion**.
+* **翻譯：** 她把他的無禮歸因於過度疲勞。
 
-**介副詞和介系詞中間不能插字**
+#### ⑤ play [someone/something] off against [someone/something]（挑撥兩者互相競爭以從中獲利）
 
-    Her supervisor talked her out of submitting it before Christmas.
-    她指導教授勸她別在聖誕節前把它送出去。
+* **例句：** The union **played one manager off against another** during negotiations.
+* **翻譯：** 工會在談判期間挑撥兩位主管互相對立以取得優勢。
 
-直接受詞在 `out` 前面，介系詞的受詞在 `of` 後面，`out` 和 `of` 之間放不進任何成分。
+#### ⑥ put [someone] up to [something]（唆使或鼓動某人去做壞事或冒險的事）
 
-**介系詞後面接名詞或動名詞**
+* **例句：** Who **put you up to this prank**?
+* **翻譯：** 是誰唆使你開這個惡作劇的？
 
-    She talked him out of the whole idea.
-    她勸他打消了整個念頭。
+#### ⑦ do [someone] out of [something]（用不公正或欺詐手段剝奪某人的東西）
 
-    He talked his sister out of dropping the course.
-    他勸他妹妹不要退掉那門課。
+* **例句：** His business partner **did him out of his inheritance**.
+* **翻譯：** 他的合夥人用不正當手段剝奪了他的遺產。
 
-**被動：直接受詞變成主詞**
+#### ⑧ let [someone] off with [something]（從輕處置某人，只給予較輕的處罰）
 
-    He was put up to it by someone in the office.
-    他是被辦公室裡的某個人慫恿去做那件事的。
+* **例句：** The judge **let her off with a fine**.
+* **翻譯：** 法官只判她罰款，從輕發落。
 
-直接受詞移到句首，`put up to it` 留在原處。
+#### ⑨ bring [someone] up on [charges]（因某罪名起訴或控告某人）
 
-**否定和疑問**
+* **例句：** The police **brought him up on charges of fraud**.
+* **翻譯：** 警方以詐欺罪名起訴了他。
 
-    His flatmate didn't put him up to anything.
-    他室友沒有慫恿他做任何事。
+#### ⑩ set [someone] up with [someone]（幫某人撮合或介紹對象）
 
-    Did she let you in on it?
-    她有讓你知道那件事嗎？
+* **例句：** My friend tried to **set me up with her colleague**.
+* **翻譯：** 我朋友試圖幫我和她的同事撮合。
 
-否定加在助動詞上，`put him up to anything` 這一串原封不動。疑問句把助動詞提到句首，這
-一串也不動。
+---
 
-**再長的直接受詞也留在中間**
+## 5. 常見錯誤
 
-    They let everyone on the committee in on the decision.
-    他們讓委員會的每個人都知道了這個決定。
+#### ① 直接受詞放到小品詞後面
 
-`everyone on the committee` 整串夾在 `let` 和 `in` 中間，沒有因為長就移到 `in` 後面。
+* ~~She let in me on the plan.~~
+* **正確：** She let me in on the plan.
+* **說明：** `in` 和 `on` 必須相連，直接受詞插不進去。
 
-## 不能這樣用
+#### ② 省略直接受詞
 
-    * She let in me on the plan.
-      → She let me in on the plan.
+* ~~He put up to it.~~
+* **正確：** He put his brother up to it.
+* **說明：** 本句型一定要有直接受詞，少了它，句子沒有交代誰被唆使。
 
-`in` 和 `on` 要相鄰，`me` 插不進去。`They let in everyone who had a ticket.` 這種語序
-成立，是因為 `in` 後面沒有介系詞；接上 `on the plan` 之後，直接受詞只能回到 `let` 和
-`in` 中間。
+#### ③ 兩個受詞對調
 
-    * He put up to it.
-      → He put his brother up to it.
+* ~~Her brother put it up to her.~~
+* **正確：** Her brother put her up to it.
+* **說明：** 動詞後面放人，介系詞後面放事。兩個受詞都是代名詞時特別容易擺反，而且擺反之後句子照樣讀得通，不容易自行察覺。
 
-直接受詞不能省略。少了它，`put up to` 後面只剩介系詞的受詞，句子沒有交代誰被慫恿。
+#### ④ 介系詞後面接原形動詞
 
-    * Her brother put it up to her.
-      → Her brother put her up to it.
+* ~~They talked him out of go to the police.~~
+* **正確：** They talked him out of going to the police.
+* **說明：** `of` 是介系詞，後面要接名詞或動名詞。
 
-`put` 和 `up` 中間放人，`to` 後面放事情。兩個受詞都是代名詞的時候特別容易擺反，而且
-擺反之後句子照樣讀得通，錯了不容易自己看出來。
+#### ⑤ 介系詞後面直接接 that 子句
 
-    * They talked him out of go to the police.
-      → They talked him out of going to the police.
+* ~~She let me in on that the deal had collapsed.~~
+* **正確：** She let me in on the fact that the deal had collapsed.
+* **說明：** 介系詞後面不能直接接 `that` 子句。補一個名詞讓 `that` 修飾，或改用 `what`，寫成 `let me in on what had happened`。
 
-`of` 是介系詞，後面要名詞或動名詞，`go` 得改成 `going`。
+#### ⑥ 被動句裡重複直接受詞
 
-    * She let me in on that the deal had collapsed.
-      → She let me in on the fact that the deal had collapsed.
+* ~~He was put him up to it by a friend.~~
+* **正確：** He was put up to it by a friend.
+* **說明：** 被動句的主詞就是原本的直接受詞，動詞後面不能再出現一次。
 
-介系詞後面不能直接接 `that` 子句。補一個名詞讓 `that` 修飾，或是改用 `what`，寫成
-`let me in on what had happened`。
+#### ⑦ 小品詞與介系詞配錯
 
-    * He was put him up to it by a friend.
-      → He was put up to it by a friend.
+* ~~They put the new guy up for it.~~
+* **正確：** They put the new guy up to it.
+* **說明：** 小品詞和介系詞是成套的，換掉一個就是另一個動詞。`put sb up for sth` 是推派某人去做某事，`put sb up to sth` 是唆使某人做某事。這種錯誤寫出來的是合法句子，只是意思不對。
 
-被動句的主詞就是原本的直接受詞，動詞後面不能再出現一次。
+---
 
-    * They put the new guy up for it.
-      → They put the new guy up to it.
+## 6. 容易混淆的鄰居
 
-介副詞和介系詞是成套的，換掉一個就是另一個動詞。`put sb up for sth` 是推派某人去做某
-事，`put sb up to sth` 是慫恿某人做某事。這種錯寫出來的是一個合法的句子，只是講的不是
-原本要講的事。
+#### ① 可分片語動詞（後面沒有介系詞）
 
-## 容易混淆的鄰居
+* Turn the light off. ／ Turn off the light.
+* 受詞放在小品詞前面或後面都可以，因為小品詞後面沒有接介系詞。
 
-可分片語動詞後面沒有介系詞，受詞放前面放後面都可以：
+#### ② 介系詞動詞（沒有小品詞）
 
-    Turn the light off. / Turn off the light.
-    把燈關掉。
+* Someone has to look after the kids. (not look the kids after)
+* 受詞只能放在介系詞後面，不能移到介系詞前面。
 
-介系詞動詞相反，受詞只能待在介系詞後面：
+#### ③ 不及物的片語介系詞動詞（沒有直接受詞）
 
-    Someone has to look after the kids. (not look the kids after)
-    總得有人照顧小孩。
+* I don't know how she **puts up with him**.（忍受他）
+* Her flatmate **put her up to it**.（唆使她）
+* `put up with` 的字面與 `put ... up to` 相近，但它沒有直接受詞，唯一的受詞放在 `with` 後面。判斷方式是數動詞後面有幾個名詞，只有一個而且位在 `with` 後面，就是「忍受」的意思。
 
-`put up with` 長得跟 `put ... up to` 很近，但它中間不夾東西：
+#### ④ 同一個動詞，有沒有直接受詞意思不同
 
-    I don't know how she puts up with him.
-    我不知道她怎麼忍得了他。
+* She **took up cycling** last year.（開始從事）
+* She **took me up on my offer** of a lift.（接受提議）
 
-    Her flatmate put her up to it.
-    那件事是她室友慫恿她去做的。
+---
 
-數動詞後面的名詞：只有一個，而且它在 `with` 後面，那就是忍受。
+## 7. 學習要點
 
-中間夾不夾人，意思會整個換掉：
+理解此類文法時，建議將 **動詞 + 小品詞 + 介系詞** 視為一個固定的片語結構（例如 `take...out on...` 或 `put...up to...`），記憶重點有二：
 
-    She took up cycling last year.
-    她去年開始騎自行車。
+第一，兩個受詞分別放置的位置，第一個受詞放在動詞後面，第二個受詞放在介系詞後面。
 
-    She took me up on my offer of a lift.
-    她答應我載她一程。
+第二，第一個受詞不能移到小品詞後面。這是本句型與一般可分片語動詞最容易混淆之處，也是實際寫作時最常出錯的地方。
 
-## 例句
+---
+
+## 8. 例句
 
 1. His older cousin put him up to the whole thing, and he has never quite lived it down.
    整件事是他表哥慫恿他做的，他到現在都還沒能擺脫。

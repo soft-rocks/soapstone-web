@@ -57,11 +57,25 @@ const translationLine = (text: string) => `<p class="translation">${escapeHtml(t
 
 /** The 例句 heading gets an anchor so the page can hang a play-all control on it. */
 function markExamplesHeading(html: string): string {
-  return html.replace('<h2>例句</h2>', '<h2 id="examples-heading">例句</h2>');
+  return html.replace(
+    /<h2>((?:\d+\.\s*)?例句)<\/h2>/,
+    (_match, label: string) => `<h2 id="examples-heading">${label}</h2>`,
+  );
 }
 
-/** A numbered example in 例句 and its translation form one clickable unit. */
+/**
+ * A numbered example in 例句 and its translation form one clickable unit. Only that
+ * section is marked: those are the sentences published to the CDN, while the lists
+ * earlier in a note illustrate the prose and have no recording.
+ */
 function markListSentences(html: string): string {
+  const heading = html.indexOf('id="examples-heading"');
+  if (heading === -1) return html;
+
+  return html.slice(0, heading) + markList(html.slice(heading));
+}
+
+function markList(html: string): string {
   return html.replace(/<li>([\s\S]*?)<\/li>/g, (match, inner: string) => {
     const english = inner.split('<br>')[0] ?? '';
     const text = unescapeHtml(english.replace(/<[^>]+>/g, '')).trim();
@@ -232,9 +246,17 @@ interface RenderOptions {
   subtitle?: string;
 }
 
+/**
+ * Corner quotes are used in the notes to single out a coined phrase; that emphasis is not
+ * wanted on screen, so the marks come off and the words stay. The source keeps them.
+ */
+const dropCornerQuotes = (html: string) => html.replaceAll('「', '').replaceAll('」', '');
+
 export function renderMarkdown(source: string, options: RenderOptions = {}): string {
   nesting = 0;
-  let html = markExamplesHeading(markListSentences(markTranslations(md.render(source))));
+  let html = dropCornerQuotes(
+    markListSentences(markExamplesHeading(markTranslations(md.render(source)))),
+  );
 
   if (options.title) {
     html = html.replace(/<h1>[\s\S]*?<\/h1>/, `<h1>${escapeHtml(options.title)}</h1>`);

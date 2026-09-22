@@ -194,6 +194,11 @@
     margin: 32px 0 12px;
   }
 
+  .note h4 {
+    font-size: 18px;
+    margin: 28px 0 10px;
+  }
+
   .note p {
     margin: 0 0 20px;
   }

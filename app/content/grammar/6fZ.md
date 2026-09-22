@@ -1,6 +1,6 @@
 # 含有直接受詞的片語介系詞動詞
 
-這個文法結構稱為「含有直接受詞的片語介系詞動詞」（Phrasal-prepositional verb with a direct object）。
+這個文法結構稱為含有直接受詞的片語介系詞動詞（Phrasal-prepositional verb with a direct object）。
 
 ## 1. 核心結構拆解
 
@@ -15,7 +15,7 @@
 
 這類句型的特點是：動詞與中間的小品詞、介系詞形成固定搭配，前後各需要接一個受詞才能完成語意。
 
-**辨認方式：** 小品詞和介系詞兩個都要在，才算這個句型。`talk someone out of something` 有 `out` 和 `of`，屬於此類；`talk someone into something` 只有 `into` 一個介系詞，屬於「介系詞動詞」，不是此類。
+**辨認方式：** 小品詞和介系詞兩個都要在，才算這個句型。`talk someone out of something` 有 `out` 和 `of`，屬於此類；`talk someone into something` 只有 `into` 一個介系詞，屬於介系詞動詞，不是此類。
 
 ---
 
@@ -163,7 +163,7 @@
 
 * I don't know how she **puts up with him**.（忍受他）
 * Her flatmate **put her up to it**.（唆使她）
-* `put up with` 的字面與 `put ... up to` 相近，但它沒有直接受詞，唯一的受詞放在 `with` 後面。判斷方式是數動詞後面有幾個名詞，只有一個而且位在 `with` 後面，就是「忍受」的意思。
+* `put up with` 的字面與 `put ... up to` 相近，但它沒有直接受詞，唯一的受詞放在 `with` 後面。判斷方式是數動詞後面有幾個名詞，只有一個而且位在 `with` 後面，就是忍受的意思。
 
 #### ④ 同一個動詞，有沒有直接受詞意思不同
 

@@ -21,6 +21,9 @@ const SOURCE = sourceArg ?? process.env.ENGLISH_NOTES_DIR ?? '../english-notes';
 const TARGET = 'app/content/grammar';
 const INDEX = path.join(TARGET, 'index.json');
 
+/** Nothing in this repo sets words apart, so the marks come off as a note is copied in. */
+const withoutEmphasisMarks = (text) => (text ?? '').replaceAll('「', '').replaceAll('」', '');
+
 const ALPHABET = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 const ID_LENGTH = 3;
 
@@ -86,15 +89,14 @@ for (const slug of selected) {
     taken.add(id);
   }
 
-  const markdown = await readFile(markdownPath, 'utf8');
+  const markdown = withoutEmphasisMarks(await readFile(markdownPath, 'utf8'));
   await writeFile(path.join(TARGET, `${id}.md`), markdown);
 
   notes.push({
     id,
     slug,
+    title: noteTitle(markdown),
     sentences: exampleSentences(markdown),
-    title: entry.title,
-    summary: entry.summary,
     level: entry.level,
     category: entry.category,
     guideword: entry.guideword,
@@ -102,6 +104,12 @@ for (const slug of selected) {
   });
 
   console.log(`${id}  ${slug}`);
+}
+
+/** The note's own H1, which is what a list of notes is labelled with. */
+function noteTitle(markdown) {
+  const match = /^#\s+(.*\S)\s*$/m.exec(markdown);
+  return match ? match[1] : '';
 }
 
 /**

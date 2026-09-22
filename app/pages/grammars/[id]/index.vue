@@ -101,7 +101,6 @@ const backToTop = () => {
 
 useSeoMeta({
   title: () => note.value?.title ?? 'Grammar',
-  description: () => note.value?.summary ?? '',
 });
 </script>
 

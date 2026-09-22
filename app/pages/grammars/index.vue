@@ -20,9 +20,6 @@ useSeoMeta({
           <p class="group-hover:text-primary m-0 text-lg transition-colors">
             {{ note.title }}
           </p>
-          <p class="text-muted m-0 mt-1 text-[13px] leading-relaxed">
-            {{ note.summary }}
-          </p>
         </NuxtLink>
       </li>
     </ul>

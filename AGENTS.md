@@ -146,10 +146,10 @@ The script copies every note that has a `content.md` into `app/content/grammar/<
 - A note's title is its EGP guideword with the aspect prefix (`FORM:`, `FORM/USE:`) and every
   quote mark removed: the source writes `FORM/USE: 'WOULD HATE' + 'TO'`, the page shows
   `WOULD HATE + TO`. See `app/utils/guideword.ts`.
-- Corner quotes are stripped from a rendered note. The notes use `「…」` to single out a coined
-  phrase, which reads as shouting on screen; the words stay and the marks go, in
-  `app/utils/markdown.ts`. The source keeps them — english-notes is read-only from here, so
-  anything that has to change about the wording is reported to the user, never edited.
+- A note renders verbatim. Do not clean up its wording on the way in or on the way out: no
+  stripping of quotes, no rewriting, no filtering. english-notes is read-only from here, so
+  wording that needs to change is reported to the user or to the session that writes the
+  notes, and fixed there.
 - A note's markdown reaches the page through `import.meta.glob`, whose file list is fixed
   when the dev server starts. After syncing a note that was not there before, restart
   `npm run dev` or the page renders its title and reports the body as missing. A static

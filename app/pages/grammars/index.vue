@@ -17,8 +17,12 @@ useSeoMeta({
     <ul v-else class="border-muted m-0 list-none border-t p-0">
       <li v-for="note in notes" :key="note.id" class="border-muted border-b">
         <NuxtLink :to="`/grammars/${note.id}`" class="group block py-5">
-          <p class="group-hover:text-primary m-0 text-lg transition-colors">{{ note.title }}</p>
-          <p class="text-muted m-0 mt-1 text-[13px] leading-relaxed">{{ note.summary }}</p>
+          <p class="group-hover:text-primary m-0 text-lg transition-colors">
+            {{ note.title }}
+          </p>
+          <p class="text-muted m-0 mt-1 text-[13px] leading-relaxed">
+            {{ note.summary }}
+          </p>
         </NuxtLink>
       </li>
     </ul>

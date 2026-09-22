@@ -246,17 +246,9 @@ interface RenderOptions {
   subtitle?: string;
 }
 
-/**
- * Corner quotes are used in the notes to single out a coined phrase; that emphasis is not
- * wanted on screen, so the marks come off and the words stay. The source keeps them.
- */
-const dropCornerQuotes = (html: string) => html.replaceAll('「', '').replaceAll('」', '');
-
 export function renderMarkdown(source: string, options: RenderOptions = {}): string {
   nesting = 0;
-  let html = dropCornerQuotes(
-    markListSentences(markExamplesHeading(markTranslations(md.render(source)))),
-  );
+  let html = markListSentences(markExamplesHeading(markTranslations(md.render(source))));
 
   if (options.title) {
     html = html.replace(/<h1>[\s\S]*?<\/h1>/, `<h1>${escapeHtml(options.title)}</h1>`);

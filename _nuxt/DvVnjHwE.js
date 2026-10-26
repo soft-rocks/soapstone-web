@@ -1,1 +1,0 @@
-import{p as e}from"#entry";var t=e(`/icon.svg`);export{t};

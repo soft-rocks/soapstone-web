@@ -14,6 +14,7 @@
     "exam": "句子測驗"
   },
   "nav": {
+    "practices": "練習紀錄",
     "settings": "設定",
     "menu": "選單",
     "version": "版本"
@@ -45,10 +46,18 @@
     "done": "練完了，答對 {correct} / {total} 句。",
     "backToNote": "回到筆記",
     "start": "練習這些例句",
-    "backToList": "回到列表"
+    "backToList": "回到列表",
+    "restart": "從頭再練一次"
   },
   "home": {
     "grammar": "英文文法",
     "dragonEnglish": "Dragon English 基本英文100"
+  },
+  "practices": {
+    "title": "練習紀錄",
+    "empty": "還沒有練習紀錄。",
+    "completions": "練完 {count} 次",
+    "progress": "完成 {done} / {total} 句",
+    "finished": "已練完"
   }
 }

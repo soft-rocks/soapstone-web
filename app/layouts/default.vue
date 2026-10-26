@@ -6,7 +6,10 @@ const menuOpen = ref(false);
 // CI injects the commit through NUXT_PUBLIC_GIT_COMMIT; it reads 'dev' locally
 const version = computed(() => useRuntimeConfig().public.gitCommit.slice(0, 6));
 
-const links = [{ to: '/settings', label: 'nav.settings' }];
+const links = [
+  { to: '/practices', label: 'nav.practices' },
+  { to: '/settings', label: 'nav.settings' },
+];
 </script>
 
 <template>

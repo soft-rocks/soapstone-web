@@ -1,7 +1,8 @@
 <script setup lang="ts">
 /**
  * The whole dictation screen, shared by every practice page: the run, the CDN loading
- * and its failover (usePracticeRun), the finished screen and the toolbar counter.
+ * and its failover (usePracticeRun), the finished screen and the toolbar counter. The
+ * counter shows the sentence being asked among the set: done ones plus this one.
  */
 const props = defineProps<{
   runId: string;
@@ -17,6 +18,7 @@ const { t } = useI18n();
 const { practice, sentence, complete } = await usePracticeRun(
   () => props.runId,
   () => props.sentences,
+  () => props.trackTitle ?? props.runId,
 );
 </script>
 
@@ -25,7 +27,10 @@ const { practice, sentence, complete } = await usePracticeRun(
     <p class="m-0 mb-6 text-lg">
       {{ t('practice.done', { correct: practice.answered, total: practice.order.length }) }}
     </p>
-    <UButton :to="backTo" variant="outline">{{ t(backLabel) }}</UButton>
+    <div class="flex flex-wrap gap-3">
+      <UButton @click="practice.restart()">{{ t('practice.restart') }}</UButton>
+      <UButton :to="backTo" variant="outline">{{ t(backLabel) }}</UButton>
+    </div>
   </div>
 
   <SentencePractice
@@ -37,7 +42,7 @@ const { practice, sentence, complete } = await usePracticeRun(
   >
     <template #toolbar>
       <span class="text-dimmed shrink-0 text-xs tabular-nums">
-        {{ practice.position + 1 }} / {{ practice.order.length }}
+        {{ practice.answered + 1 }} / {{ practice.order.length }}
       </span>
     </template>
   </SentencePractice>

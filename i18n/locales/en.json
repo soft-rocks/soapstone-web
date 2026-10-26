@@ -14,6 +14,7 @@
     "exam": "Sentence exam"
   },
   "nav": {
+    "practices": "Practice",
     "settings": "Settings",
     "menu": "Menu",
     "version": "Version"
@@ -45,10 +46,18 @@
     "done": "Finished — {correct} of {total} correct.",
     "backToNote": "Back to the note",
     "start": "Practise these sentences",
-    "backToList": "Back to the list"
+    "backToList": "Back to the list",
+    "restart": "Start over"
   },
   "home": {
     "grammar": "English Grammar",
     "dragonEnglish": "Dragon English Basic English 100"
+  },
+  "practices": {
+    "title": "Practice",
+    "empty": "No practice yet.",
+    "completions": "Finished {count} times",
+    "progress": "{done} of {total} done",
+    "finished": "Finished"
   }
 }

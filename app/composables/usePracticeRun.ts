@@ -4,7 +4,7 @@ import type { Sentence } from '~/types/sentence';
 const MAX_MISSING_IN_ROW = 3;
 
 /**
- * One dictation run, shared by every practice page. It starts a fresh shuffled run, loads
+ * One dictation run, shared by every practice page. It opens the set's saved run, loads
  * each sentence from the CDN, and handles failure the same way everywhere:
  *
  * - a sentence the CDN does not have (404) is skipped;
@@ -12,13 +12,19 @@ const MAX_MISSING_IN_ROW = 3;
  *   requesting every sentence in the set;
  * - a CDN that does not answer after its retries (`fetchCdn`) goes back to the home page.
  */
-export async function usePracticeRun(runId: () => string, sentences: () => string[]) {
+export async function usePracticeRun(
+  runId: () => string,
+  sentences: () => string[],
+  title: () => string,
+) {
   const practice = usePracticeStore();
+  const route = useRoute();
   const complete = ref(false);
   const missingInRow = ref(0);
 
-  // Entering the practice always starts a fresh run, in a new random order
-  onMounted(() => practice.start(runId(), sentences()));
+  // Entering the practice resumes the saved order at the first sentence not done yet;
+  // a set never practised, or one whose sentences changed, gets a new random order
+  onMounted(() => practice.start(runId(), sentences(), { title: title(), path: route.path }));
 
   const current = computed(() => practice.current);
 

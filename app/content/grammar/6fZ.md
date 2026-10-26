@@ -1,5 +1,7 @@
 # 含有直接受詞的片語介系詞動詞
 
+His flatmate put him up to it.
+
 這個文法結構稱為含有直接受詞的片語介系詞動詞（Phrasal-prepositional verb with a direct object）。
 
 ## 1. 核心結構拆解

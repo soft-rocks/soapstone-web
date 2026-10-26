@@ -1,5 +1,7 @@
 # would hate to：把很不希望說得客氣而堅定
 
+We in the student committee would hate to see all that space go to waste.
+
 這個文法結構稱為助動詞 would 搭配不定詞 to 的強調語氣（`would hate` + `to`-infinitive for emphasis）。
 
 ## 1. 核心結構拆解

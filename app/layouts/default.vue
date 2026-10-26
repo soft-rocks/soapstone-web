@@ -2,25 +2,11 @@
 const { t } = useI18n();
 
 const menuOpen = ref(false);
-const route = useRoute();
-
-// A practice run is a page below a note or a list, so it offers the way back up to it
-const back = computed(() => {
-  if (route.name === 'grammars-id-sentences') {
-    return { to: `/grammars/${route.params.id}`, label: 'practice.backToNote' };
-  }
-  if (route.name === 'dragon-english-basic-100-sentences') {
-    return { to: '/dragon-english-basic-100', label: 'practice.backToList' };
-  }
-  return null;
-});
 
 // CI injects the commit through NUXT_PUBLIC_GIT_COMMIT; it reads 'dev' locally
 const version = computed(() => useRuntimeConfig().public.gitCommit.slice(0, 6));
 
-const links = [
-  { to: '/settings', label: 'nav.settings' },
-];
+const links = [{ to: '/settings', label: 'nav.settings' }];
 </script>
 
 <template>
@@ -29,16 +15,6 @@ const links = [
       <div class="flex items-center gap-4">
         <NuxtLink to="/" aria-label="English Notes" class="flex items-center">
           <img src="/icon.svg" alt="" class="size-9" />
-        </NuxtLink>
-
-        <NuxtLink
-          v-if="back"
-          :to="back.to"
-          :aria-label="t(back.label)"
-          :title="t(back.label)"
-          class="text-dimmed hover:text-primary flex items-center transition-colors"
-        >
-          <UIcon name="i-lucide-arrow-left" class="size-5" />
         </NuxtLink>
       </div>
 

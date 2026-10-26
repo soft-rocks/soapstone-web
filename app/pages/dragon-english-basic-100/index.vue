@@ -5,41 +5,13 @@ const { t } = useI18n();
 
 const title = computed(() => t('home.dragonEnglish'));
 
-// Play-all: every sentence in the book's order, clear take only
 const sentences = entries.map((entry) => entry.sentence);
-const allTakes = ref<string[]>([]);
-const { play, playFrom, pause, resume, stop, isPlaying, isPaused, currentIndex } =
-  useAudioSequence(allTakes);
-
-const media = useMediaSession();
-
-// Lock screen and headphone controls follow the play-all run
-watchEffect(() => {
-  if (!isPlaying.value) {
-    media.clear();
-    return;
-  }
-
-  const sentence = sentences[currentIndex.value];
-  if (sentence) media.setTrack({ title: sentence, album: title.value });
-  media.setState(isPaused.value ? 'paused' : 'playing');
-  media.setHandlers({
-    play: resume,
-    pause,
-    stop,
-    nexttrack: () => playFrom(currentIndex.value + 1),
-    previoustrack: () => playFrom(currentIndex.value - 1),
-  });
-});
-
-async function playAll() {
-  if (!allTakes.value.length) {
-    allTakes.value = await Promise.all(
-      sentences.map(async (text) => sentenceAudioUrl(await sentenceHash(text))),
-    );
-  }
-  play();
-}
+const {
+  start: playAll,
+  stop,
+  isPlaying,
+  currentIndex,
+} = usePlayAll(() => sentences, { album: () => title.value });
 
 useSeoMeta({
   title: 'Dragon English Basic English 100',
@@ -99,5 +71,7 @@ useSeoMeta({
         </div>
       </li>
     </ul>
+
+    <BackToTop />
   </div>
 </template>

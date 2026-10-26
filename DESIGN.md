@@ -53,9 +53,8 @@ The roles:
    glyphs and read as a missing font.
 6. Hairlines separate things. A page title gets one under it (`.section-title::after`). Long
    lists are hairline rows (`.list-row`), not boxes.
-7. A box is allowed only for a small set of choices, such as the home page categories
-   (`.category-card`: square, white, 1px zinc border, a 3px ink left bar that turns red on
-   hover).
+7. No boxes and no cards. The home page categories are hairline rows like the grammar list,
+   with no arrow and no side bar.
 8. In the dictation test, a wrong blank is red, a correct blank gets a solid ink underline. A
    correct blank is never red, because red means wrong there.
 9. No drop shadows, no gradients.

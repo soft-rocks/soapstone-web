@@ -30,50 +30,14 @@ const { data: html } = await useAsyncData(
 
 const { play, playing, stop } = useSentenceAudio();
 
-// Play-all: every example in 例句, in the order they are listed, clear take only
+// Play-all: every example in 例句, in the order they are listed
 const sentences = computed(() => note.value?.sentences ?? []);
-const allTakes = ref<string[]>([]);
 const {
-  play: playAll,
-  playFrom: playAllFrom,
-  pause: pauseAll,
-  resume: resumeAll,
+  start: toggleAll,
   stop: stopAll,
   isPlaying: playingAll,
-  isPaused: pausedAll,
   currentIndex,
-} = useAudioSequence(allTakes);
-
-const media = useMediaSession();
-
-// Lock screen and headphone controls follow the play-all run
-watchEffect(() => {
-  if (!playingAll.value) {
-    media.clear();
-    return;
-  }
-
-  const sentence = sentences.value[currentIndex.value];
-  if (sentence) media.setTrack({ title: sentence, album: note.value?.title });
-  media.setState(pausedAll.value ? 'paused' : 'playing');
-  media.setHandlers({
-    play: resumeAll,
-    pause: pauseAll,
-    stop: stopAll,
-    nexttrack: () => playAllFrom(currentIndex.value + 1),
-    previoustrack: () => playAllFrom(currentIndex.value - 1),
-  });
-});
-
-async function toggleAll() {
-  stop();
-  if (!allTakes.value.length) {
-    allTakes.value = await Promise.all(
-      sentences.value.map(async (text) => sentenceAudioUrl(await sentenceHash(text))),
-    );
-  }
-  playAll();
-}
+} = usePlayAll(() => sentences.value, { album: () => note.value?.title, onStart: stop });
 
 const highlighted = computed(() =>
   playingAll.value ? (sentences.value[currentIndex.value] ?? '') : playing.value,
@@ -94,11 +58,6 @@ watchEffect(() => {
   }
 });
 
-const backToTop = () => {
-  const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  window.scrollTo({ top: 0, behavior: reduced ? 'auto' : 'smooth' });
-};
-
 useSeoMeta({
   title: () => note.value?.title ?? 'Grammar',
 });
@@ -112,17 +71,7 @@ useSeoMeta({
       <!-- eslint-disable-next-line vue/no-v-html -- build-time markdown from this repo -->
       <div class="note" @click="onNoteClick" v-html="html" />
 
-      <div class="border-muted mt-16 flex justify-center border-t pt-8">
-        <button
-          type="button"
-          class="icon-button size-11"
-          :aria-label="t('grammar.backToTop')"
-          :title="t('grammar.backToTop')"
-          @click="backToTop"
-        >
-          <UIcon name="i-lucide-arrow-up" class="size-5" />
-        </button>
-      </div>
+      <BackToTop />
 
       <ClientOnly>
         <Teleport v-if="sentences.length" defer to="#note-head">

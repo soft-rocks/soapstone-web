@@ -66,6 +66,28 @@ system, so a Hallmark run keeps this design instead of picking its own theme. Ch
 not here. Code that draws colors itself (the SVG diagrams in `app/utils/markdown.ts`) uses the
 `--ui-*` variables, so it follows the theme.
 
+### A change to one page type applies to every page of that type
+
+The grammar practice and the Dragon practice are the same kind of page. So are the grammar
+note and the Dragon list. When the owner asks to change one of them, change every page of that
+kind in the same edit. Put the shared behavior in one component or composable, so the pages
+cannot drift apart. Then test every route of that kind, not only the one the owner named.
+
+Wrong: the owner asked to remove the top arrow on `/dragon-english-basic-100/sentences`. The
+agent removed it there only and left it on the grammar practice pages.
+
+### Numbers stay at text size
+
+Do not set a number larger than the text around it. A count, an index number or a sentence
+number uses the size of the line it sits in. No "figure" styles, no number as a headline.
+
+A number is not the point of a screen just because it is a number. Do not pick it out for
+emphasis, in a layout or in text. This is the agent's habit, not something a theme asks for.
+
+Wrong: in the Hallmark Grid redesign the agent chose to set the note count and the sentence
+count at 72px on the home page, and the current sentence number at 72px on the Dragon list. The
+owner rejected it.
+
 ### Icons
 
 Icons come from Iconify through `@nuxt/icon` (bundled with Nuxt UI), rendered as

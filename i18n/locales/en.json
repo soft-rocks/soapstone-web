@@ -15,7 +15,6 @@
   },
   "nav": {
     "settings": "Settings",
-    "grammar": "Grammar",
     "menu": "Menu",
     "version": "Version"
   },
@@ -45,6 +44,11 @@
   "practice": {
     "done": "Finished — {correct} of {total} correct.",
     "backToNote": "Back to the note",
-    "start": "Practise these sentences"
+    "start": "Practise these sentences",
+    "backToList": "Back to the list"
+  },
+  "home": {
+    "grammar": "English Grammar",
+    "dragonEnglish": "Dragon English Basic English 100"
   }
 }

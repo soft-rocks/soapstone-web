@@ -140,7 +140,7 @@ defineExpose({ reveal: () => typing.value?.revealFocused() });
         <button
           v-if="audios.length"
           type="button"
-          class="border-primary text-primary hover:bg-primary hover:text-inverted flex size-11 shrink-0 cursor-pointer items-center justify-center border transition-colors sm:size-12"
+          class="icon-button is-primary size-11 shrink-0 sm:size-12"
           :aria-label="isPlaying ? t('sentence.stop') : t('sentence.play')"
           @click="play"
         >
@@ -149,7 +149,7 @@ defineExpose({ reveal: () => typing.value?.revealFocused() });
 
         <button
           type="button"
-          class="border-accented text-toned enabled:hover:border-primary enabled:hover:text-primary flex size-11 shrink-0 items-center justify-center border transition-colors enabled:cursor-pointer disabled:opacity-40 sm:size-12"
+          class="icon-button size-11 shrink-0 sm:size-12"
           :disabled="!typing?.canReveal"
           :aria-label="t('sentence.hint')"
           :title="t('sentence.hint')"
@@ -162,12 +162,8 @@ defineExpose({ reveal: () => typing.value?.revealFocused() });
         <button
           v-if="translation"
           type="button"
-          class="flex size-11 shrink-0 cursor-pointer items-center justify-center border transition-colors sm:size-12"
-          :class="
-            showTranslation
-              ? 'border-primary text-primary'
-              : 'border-accented text-toned hover:border-primary hover:text-primary'
-          "
+          class="icon-button size-11 shrink-0 sm:size-12"
+          :class="{ 'is-on': showTranslation }"
           :aria-label="
             showTranslation ? t('sentence.hideTranslation') : t('sentence.showTranslation')
           "
@@ -179,7 +175,7 @@ defineExpose({ reveal: () => typing.value?.revealFocused() });
 
         <button
           type="button"
-          class="border-accented text-toned hover:border-primary hover:text-primary flex size-11 shrink-0 cursor-pointer items-center justify-center border transition-colors sm:size-12"
+          class="icon-button size-11 shrink-0 sm:size-12"
           :aria-label="copied ? t('sentence.copied') : t('sentence.copy')"
           :title="copied ? t('sentence.copied') : t('sentence.copy')"
           @click="copy(sentence.original)"
@@ -190,7 +186,7 @@ defineExpose({ reveal: () => typing.value?.revealFocused() });
         <div class="ml-auto flex shrink-0 items-center gap-2 sm:gap-3">
           <span
             v-if="complete"
-            class="text-primary font-ui flex shrink-0 items-center gap-2 text-sm"
+            class="text-ink flex shrink-0 items-center gap-2 text-sm font-semibold"
             :title="t('sentence.correct')"
           >
             <UIcon name="i-lucide-check" class="size-4" />

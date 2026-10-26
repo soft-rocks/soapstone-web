@@ -52,28 +52,19 @@ npm run format     # Prettier
 | ------------ | -------- | -------------------------------------------------------------------------------------------------------------------- |
 | Nuxt         | 4.5      | `ssr: true` with `nitro.preset: 'static'`; every route is prerendered at build time                                  |
 | Tailwind CSS | v4       | Bundled through `@nuxt/ui`. No `tailwind.config.js`; tokens live in CSS `@theme`                                     |
-| Nuxt UI      | 4        | Its semantic variables (`--ui-bg`, ...) are remapped to the kami palette in `main.css`                               |
+| Nuxt UI      | 4        | Its semantic variables (`--ui-bg`, ...) are remapped to the soft.rocks palette in `main.css`                         |
 | Pinia        | 4        | Global preferences, persisted to localStorage                                                                        |
 | TypeScript   | 5.9      | **Do not upgrade to 7.x**: `vue-tsc` and `typescript-eslint` are both incompatible and lint/typecheck crash outright |
 | ESLint       | 10       | Flat config in `eslint.config.mjs`                                                                                   |
 | Node         | 22.22.2+ | CI runs 24                                                                                                           |
 
-## Design language: kami
+## Design language: soft.rocks
 
-The visual system comes from `~/.claude/skills/kami`. Read
-`~/.claude/skills/kami/references/design.md` before changing styles. The invariants:
-
-1. The page background is warm parchment `#f5f4ed` — **never pure white**
-2. One chromatic accent only: ink blue `#1B365D`, covering no more than ~5% of the surface
-3. Every gray carries a yellow-brown undertone (R >= G > B); no cool grays
-4. Serif type carries the hierarchy, weight locked at **500**, no bold. Only small labels
-   (`.eyebrow`, `.section-num`) use a sans face
-5. Line-height 1.1-1.3 for headings, 1.5-1.55 for body
-6. No hard drop shadows, no second accent color
-
-Tokens are defined in `app/assets/css/main.css` under `@theme static`: the `ink-*` (ink blue)
-and `sand-*` (warm gray) scales, plus `--color-parchment`, `--color-ivory`, `--color-line`.
-`app/app.config.ts` points Nuxt UI's `primary` at `ink` and `neutral` at `sand`.
+The design system is in [`DESIGN.md`](DESIGN.md): tokens, rules, controls and motion. Read it
+before changing styles. The Hallmark skill (`.claude/skills/hallmark`) reads it as the locked
+system, so a Hallmark run keeps this design instead of picking its own theme. Change a rule there,
+not here. Code that draws colors itself (the SVG diagrams in `app/utils/markdown.ts`) uses the
+`--ui-*` variables, so it follows the theme.
 
 ### Icons
 
@@ -86,18 +77,9 @@ the default CSS mode injects the icon at runtime instead. To use another icon se
 
 ### Fonts
 
-- Latin: Charter, falling back to Georgia.
-- CJK: TsangerJinKai02 W04, the Kai face kami specifies. The jsDelivr source referenced by the
-  kami templates is dead (404), so the font is self-hosted: the TTF comes from
-  [tw93/MiaoYan-NetNewsWire-Theme](https://github.com/tw93/MiaoYan-NetNewsWire-Theme) (MIT) and
-  was split with `cn-font-split` into 292 unicode-range woff2 chunks under `public/fonts/tsanger/`,
-  loaded via `<link href="/fonts/tsanger/tsanger.css">` in `nuxt.config.ts`. A browser only
-  downloads the chunks a page actually needs (a few hundred KB). The family name declared in that
-  CSS is `TsangerJinKai02 W04`. The font files still carry their foundry notice
-  (Beijing Tsanger Character Technology Co., Ltd.); MIT is the upstream repository's license.
-  To swap the face, rerun `npx cn-font-split run -i <ttf> -o <dir>` and replace the directory.
-- Do not switch to a Song/Ming face (Noto Serif TC, Source Han Serif, Songti) — kami is Kai.
-- UI labels use `--font-ui` (PingFang TC / system-ui).
+- Latin: Public Sans 400/500/600/700 from Google Fonts, linked in `nuxt.config.ts`. It is also
+  Nuxt UI's default, which soft.rocks uses.
+- CJK: PingFang TC on Apple devices, Noto Sans TC (Google Fonts) elsewhere.
 
 ## i18n
 
@@ -140,7 +122,7 @@ The script copies every note that has a `content.md` into `app/content/grammar/<
 - The markdown is rendered at build time with `markdown-it` and injected with `v-html`. That is
   safe only because the content comes from this repo; never point that renderer at remote input.
 - Indented blocks in a note are never code, so they never render as a monospace `<pre>`. An
-  example block becomes `.example` (serif, CJK-only lines dimmed as the translation); a block
+  example block becomes `.example` (left hairline, CJK-only lines dimmed as the translation); a block
   drawn with box-drawing characters becomes an inline SVG diagram. If a note needs a diagram,
   it gets SVG — never ASCII art.
 - A note's title is its EGP guideword with the aspect prefix (`FORM:`, `FORM/USE:`) and every
@@ -159,6 +141,28 @@ The script copies every note that has a `content.md` into `app/content/grammar/<
   exactly what is already in the index and deletes anything no longer selected.
 - Every note is added to `nitro.prerender.routes` from the index, so each one is a real static
   page with a 200 status, unlike `/sentences/<id>`.
+
+## Dragon English Basic 100
+
+`/dragon-english-basic-100` lists the hundred sentences of the book, with a play-all control and
+a practice run at `/dragon-english-basic-100/sentences`. The list is vendored the same way the
+grammar notes are:
+
+```bash
+node scripts/sync-dragon.mjs ../english-notes
+```
+
+It writes `app/content/dragon-english-basic-100/index.json`: the three-digit id from the note's
+file name, the sentence from the note's H1, and the Chinese translation from
+`notes/dragon-english-basic-100/translations.json` in english-notes. The ids are the book's own
+numbering and never move.
+
+- A list of sentences shows each sentence's translation directly under it. A reader studying the
+  list needs both, so the translation is not hidden behind a toggle or a detail page.
+  Wrong: the first version of this page listed the English alone, and the reader asked where
+  the translations were.
+- Play-all and the practice run read the sentences from the CDN by hash, so a sentence not
+  published there is silent in play-all and skipped in practice.
 
 ### Sentence ids, for contrast
 
@@ -186,13 +190,13 @@ Cross-page preferences live in **Pinia** (`@pinia/nuxt`) and persist to localSto
 
 ```
 app/
-  assets/css/main.css   # Tailwind @theme, Nuxt UI variable remap, kami base styles
+  assets/css/main.css   # Tailwind @theme, Nuxt UI variable remap, soft.rocks base styles
   app.config.ts         # Nuxt UI theme (palette mapping, button appearance)
   layouts/default.vue   # site shell
   pages/                # file-based routing, prerendered at build time
   plugins/              # persistedstate.client.ts: Pinia persistence
   stores/               # Pinia stores (settings.ts)
-public/                 # copied verbatim: CNAME, favicon, robots.txt, fonts/
+public/                 # copied verbatim: CNAME, favicon, robots.txt
 nuxt.config.ts
 .github/workflows/deploy.yml
 ```

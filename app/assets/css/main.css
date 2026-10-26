@@ -2,149 +2,231 @@
 @import '@nuxt/ui';
 
 /* ==========================================================================
-   Kami design language: warm parchment canvas, a single ink-blue accent,
-   serif type carrying the hierarchy.
-   Tokens: ~/.claude/skills/kami/references/tokens.json
+   Design language: soft.rocks (soft.rocks.official). Light canvas, near-black
+   ink, zinc grays, the logo red as the one accent, square corners everywhere.
    ========================================================================== */
 
 @theme static {
-  /* Ink blue: the only chromatic accent */
-  --color-ink-50: #f1f4f8;
-  --color-ink-100: #e4ecf5;
-  --color-ink-200: #c5d6e7;
-  --color-ink-300: #9cb7d3;
-  --color-ink-400: #2d5a8a;
-  --color-ink-500: #1b365d;
-  --color-ink-600: #162c4c;
-  --color-ink-700: #12233c;
-  --color-ink-800: #0e1a2c;
-  --color-ink-900: #0a121f;
-  --color-ink-950: #060b13;
+  /* The logo red (#992F33 is 600): the only chromatic accent */
+  --color-rock-50: #fbf3f3;
+  --color-rock-100: #f5e2e3;
+  --color-rock-200: #ebc4c6;
+  --color-rock-300: #d9989b;
+  --color-rock-400: #c2676b;
+  --color-rock-500: #a93a3e;
+  --color-rock-600: #992f33;
+  --color-rock-700: #7f272a;
+  --color-rock-800: #662023;
+  --color-rock-900: #4d181a;
+  --color-rock-950: #2e0e10;
 
-  /* Warm gray: every step has a yellow-brown undertone (R >= G > B), never cool gray */
-  --color-sand-50: #faf9f5;
-  --color-sand-100: #f5f4ed;
-  --color-sand-200: #e8e6dc;
-  --color-sand-300: #d8d5c8;
-  --color-sand-400: #b4b0a2;
-  --color-sand-500: #8d8a80;
-  --color-sand-600: #6b6a64;
-  --color-sand-700: #504e49;
-  --color-sand-800: #3d3d3a;
-  --color-sand-900: #2a2a27;
-  --color-sand-950: #141413;
+  /* A wrong answer: the same logo red */
+  --color-alert: #992f33;
 
-  /* kami's only sanctioned semantic accent: warm brown, never a red */
-  --color-alert: #8b4513;
-  --color-alert-soft: #f0e0d8;
+  /* soft.rocks' primary: the near-black of the logo type */
+  --color-ink: #0b1013;
 
-  --color-parchment: #f5f4ed;
-  --color-ivory: #faf9f5;
-  --color-line: #d8d5c8;
-
-  /* Charter covers Latin only, so CJK falls through to the Kai faces below.
-     --font-sans is always the serif; only UI labels use --font-ui. */
-  --font-serif:
-    Charter, 'TsangerJinKai02 W04', 'TsangerJinKai02', 'Kaiti TC', 'KaiTi', 'STKaiti', Georgia,
-    serif;
-  --font-sans: var(--font-serif);
-  --font-ui: 'PingFang TC', 'PingFang SC', system-ui, -apple-system, sans-serif;
-  --font-mono: 'JetBrains Mono', 'SF Mono', Consolas, 'TsangerJinKai02 W04', monospace;
-
-  --ease-rise: cubic-bezier(0.16, 1, 0.3, 1);
+  --font-sans:
+    'Public Sans', ui-sans-serif, system-ui, -apple-system, 'PingFang TC', 'Noto Sans TC',
+    sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', ui-monospace, Consolas, monospace;
 }
 
-/* Remap Nuxt UI semantic variables onto the kami palette */
+/* Remap Nuxt UI semantic variables onto the soft.rocks palette. The site has one
+   theme, so the light and dark classes get the same values. */
 :root,
 :host,
-.light {
-  --ui-bg: var(--color-parchment);
-  --ui-bg-muted: var(--color-ivory);
-  --ui-bg-elevated: var(--color-ivory);
-  --ui-bg-accented: var(--color-sand-200);
-  --ui-bg-inverted: var(--color-sand-950);
+.light,
+.dark {
+  color-scheme: light;
 
-  --ui-text: var(--color-sand-950);
-  --ui-text-highlighted: var(--color-sand-950);
-  --ui-text-toned: var(--color-sand-800);
-  --ui-text-muted: var(--color-sand-700);
-  --ui-text-dimmed: var(--color-sand-600);
-  --ui-text-inverted: var(--color-ivory);
+  --ui-primary: var(--color-rock-600);
 
-  --ui-border: var(--color-sand-200);
-  --ui-border-muted: #e5e3d8;
-  --ui-border-accented: var(--color-line);
-  --ui-border-inverted: var(--color-sand-950);
+  --ui-bg: #ffffff;
+  --ui-bg-muted: var(--color-zinc-50);
+  --ui-bg-elevated: var(--color-zinc-50);
+  --ui-bg-accented: var(--color-zinc-100);
+  --ui-bg-inverted: var(--color-ink);
 
+  --ui-text: var(--color-ink);
+  --ui-text-highlighted: var(--color-ink);
+  --ui-text-toned: var(--color-zinc-700);
+  --ui-text-muted: var(--color-zinc-500);
+  --ui-text-dimmed: var(--color-zinc-400);
+  --ui-text-inverted: #ffffff;
+
+  --ui-border: var(--color-zinc-200);
+  --ui-border-muted: var(--color-zinc-100);
+  --ui-border-accented: var(--color-zinc-300);
+  --ui-border-inverted: var(--color-ink);
+
+  --ui-radius: 0;
   --ui-container: 1120px;
 }
 
 @layer base {
   body {
-    background: var(--color-parchment);
-    color: var(--color-sand-950);
-    font-family: var(--font-serif);
-    font-size: 15px;
-    line-height: 1.58;
-    letter-spacing: 0.4px;
+    background: #ffffff;
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.6;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
 
-  /* Serif weight is locked at 500; no bold */
   h1,
   h2,
   h3,
   h4 {
-    font-family: var(--font-serif);
-    font-weight: 500;
-    color: var(--color-sand-950);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    color: var(--color-ink);
   }
 
   ::selection {
-    background: var(--color-ink-100);
+    background: var(--color-rock-100);
   }
 }
 
 @layer components {
-  /* Small labels: the only place a sans face is used */
-  .eyebrow {
-    font-family: var(--font-ui);
-    font-size: 12px;
-    font-weight: 500;
-    letter-spacing: 0.4px;
-    text-transform: uppercase;
-    color: var(--color-sand-600);
-  }
-
-  .section-num {
-    font-family: var(--font-ui);
+  /* Label above a group of rows. No letter-spacing or uppercase: the label is
+     usually Chinese, and tracking breaks CJK text into separate glyphs. */
+  .group-label {
     font-size: 14px;
-    letter-spacing: 0.4px;
-    color: var(--color-ink-500);
+    font-weight: 600;
+    color: var(--ui-text-muted);
   }
 
+  /* Page title: heavy and tight, with a hairline under it */
   .section-title {
-    font-size: 34px;
-    line-height: 1.2;
-    letter-spacing: 1.2px;
+    font-size: clamp(34px, 4vw, 48px);
+    font-weight: 700;
+    line-height: 1.06;
+    letter-spacing: -0.025em;
+  }
+
+  .section-title::after {
+    content: '';
+    display: block;
+    margin-top: 22px;
+    border-top: 1px solid var(--ui-border);
   }
 
   .section-lede {
-    font-size: 17px;
-    line-height: 1.55;
-    letter-spacing: 0.4px;
-    color: var(--color-sand-700);
+    font-size: 21px;
+    line-height: 1.6;
+    color: var(--ui-text-muted);
   }
 
-  .hero-title {
-    font-size: 88px;
-    line-height: 1.05;
-    letter-spacing: 0;
-    opacity: 0;
-    transform: translateY(10px);
-    filter: blur(6px);
-    animation: hero-rise 900ms var(--ease-rise) 120ms forwards;
+  /* A row in an index list: hairline between rows, accent bar on hover */
+  .list-row {
+    display: block;
+    position: relative;
+    padding: 18px 0 18px 20px;
+    border-bottom: 1px solid var(--ui-border-muted);
+    transition:
+      background 0.15s,
+      color 0.15s;
+  }
+
+  .list-row::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 18px;
+    bottom: 18px;
+    width: 2px;
+    background: transparent;
+    transition: background 0.15s;
+  }
+
+  a.list-row:hover::before,
+  .list-row.is-active::before {
+    background: var(--color-rock-600);
+  }
+
+  .list-row.is-active {
+    background: var(--color-rock-50);
+  }
+
+  /* Home page category: a square card with an accent bar on the left */
+  .category-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    min-height: 112px;
+    padding: 24px 24px 24px 28px;
+    border: 1px solid var(--ui-border);
+    border-left: 3px solid var(--color-ink);
+    background: var(--ui-bg);
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    transition:
+      border-color 0.15s,
+      background 0.15s;
+  }
+
+  a.category-card:hover {
+    border-color: var(--ui-border-accented);
+    border-left-color: var(--color-rock-600);
+    background: var(--ui-bg-elevated);
+  }
+
+  .category-card-arrow {
+    color: var(--ui-text-dimmed);
+    transition:
+      color 0.15s,
+      transform 0.15s;
+  }
+
+  a.category-card:hover .category-card-arrow {
+    color: var(--color-rock-600);
+    transform: translateX(3px);
+  }
+
+  /* Square icon button */
+  .icon-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--ui-border-accented);
+    background: var(--ui-bg);
+    color: var(--color-ink);
+    cursor: pointer;
+    transition:
+      border-color 0.15s,
+      color 0.15s,
+      background 0.15s;
+  }
+
+  .icon-button:enabled:hover,
+  a.icon-button:hover {
+    border-color: var(--color-ink);
+  }
+
+  .icon-button.is-on {
+    border-color: var(--color-rock-600);
+    color: var(--color-rock-600);
+  }
+
+  .icon-button:disabled {
+    opacity: 0.4;
+    cursor: default;
+  }
+
+  .icon-button.is-primary {
+    border-color: var(--color-ink);
+    background: var(--color-ink);
+    color: #ffffff;
+  }
+
+  .icon-button.is-primary:hover {
+    border-color: var(--color-rock-600);
+    background: var(--color-rock-600);
   }
 
   /* Rendered markdown from app/content/grammar */
@@ -162,18 +244,21 @@
 
   /* The title is the EGP pattern itself, so it is set as a formula, not as prose */
   .note h1 {
-    font-size: 28px;
-    line-height: 1.35;
-    letter-spacing: 0.6px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
     margin: 0 0 32px;
   }
 
   /* The same pattern in Chinese */
   .note h1 + .subtitle {
-    font-size: 18px;
-    letter-spacing: 0.4px;
-    color: var(--color-sand-700);
-    margin: -26px 0 36px;
+    font-size: 19px;
+    color: var(--ui-text-muted);
+    margin: -22px 0 0;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--ui-border);
+    margin-bottom: 40px;
   }
 
   .note h2#examples-heading {
@@ -184,18 +269,21 @@
 
   .note h2 {
     font-size: 26px;
-    line-height: 1.3;
-    letter-spacing: 0.5px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.015em;
     margin: 56px 0 16px;
   }
 
   .note h3 {
     font-size: 20px;
+    font-weight: 600;
     margin: 32px 0 12px;
   }
 
   .note h4 {
     font-size: 18px;
+    font-weight: 600;
     margin: 28px 0 10px;
   }
 
@@ -204,15 +292,15 @@
   }
 
   .note strong {
-    font-weight: 500;
-    color: var(--color-sand-950);
+    font-weight: 600;
+    color: var(--ui-text-highlighted);
   }
 
   .note blockquote {
-    border-left: 2px solid var(--color-ink-500);
+    border-left: 2px solid var(--ui-primary);
     margin: 0 0 32px;
     padding: 0 0 0 20px;
-    color: var(--color-sand-700);
+    color: var(--ui-text-muted);
   }
 
   .note blockquote p {
@@ -236,8 +324,8 @@
   .note code {
     font-family: var(--font-mono);
     font-size: 0.88em;
-    background: var(--color-ink-50);
-    padding: 1px 4px;
+    background: var(--ui-bg-accented);
+    padding: 1px 5px;
   }
 
   /* The notes use indented blocks for alignment diagrams, so they must not wrap */
@@ -245,8 +333,8 @@
     font-family: var(--font-mono);
     font-size: 13px;
     line-height: 1.6;
-    background: var(--color-ivory);
-    border: 1px solid var(--color-sand-200);
+    background: var(--ui-bg-elevated);
+    border: 1px solid var(--ui-border);
     padding: 16px 18px;
     margin: 0 0 24px;
     overflow-x: auto;
@@ -261,7 +349,7 @@
   .note .example {
     margin: 0 0 24px;
     padding: 2px 0 2px 18px;
-    border-left: 1px solid var(--color-sand-300);
+    border-left: 2px solid var(--ui-border-accented);
   }
 
   .note .example p {
@@ -277,7 +365,7 @@
   .note li .translation,
   .note blockquote .translation {
     font-size: 16px;
-    color: var(--color-sand-600);
+    color: var(--ui-text-dimmed);
   }
 
   /* An example the CDN has audio for: click anywhere in the pair to hear it */
@@ -294,68 +382,41 @@
   }
 
   .note .sentence:hover {
-    background: var(--color-ink-50);
+    background: var(--color-rock-50);
   }
 
   .note .sentence.is-playing {
-    background: var(--color-ink-50);
-    color: var(--color-ink-500);
+    background: var(--color-rock-50);
+    color: var(--ui-primary);
   }
 
   .note .sentence.is-playing .translation {
-    color: var(--color-ink-400);
+    color: var(--color-rock-400);
   }
 
   .note .diagram {
     margin: 0 0 28px;
     padding: 18px 16px;
-    border: 1px solid var(--color-sand-200);
-    background: var(--color-ivory);
+    border: 1px solid var(--ui-border);
+    background: var(--ui-bg-elevated);
     overflow-x: auto;
   }
 
   .note .diagram figcaption {
     margin-top: 12px;
     font-size: 16px;
-    color: var(--color-sand-700);
+    color: var(--ui-text-muted);
   }
 
   .note a {
-    color: var(--color-ink-500);
+    color: var(--ui-primary);
     text-decoration: underline;
     text-underline-offset: 3px;
   }
 
-  @media (max-width: 880px) {
-    .hero-title {
-      font-size: 56px;
-    }
-    .section-title {
-      font-size: 30px;
-      letter-spacing: 0.8px;
-    }
-  }
-
   @media (max-width: 480px) {
-    .hero-title {
-      font-size: 48px;
+    .section-title::after {
+      margin-top: 16px;
     }
-  }
-}
-
-@keyframes hero-rise {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-    filter: blur(0);
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .hero-title {
-    animation: none;
-    opacity: 1;
-    transform: none;
-    filter: none;
   }
 }

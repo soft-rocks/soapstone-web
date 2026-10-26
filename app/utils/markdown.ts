@@ -189,10 +189,10 @@ function renderTreeDiagram(source: string): string | null {
 
     return [
       `<path d="M ${round(from)} ${round(baseline + 6)} V ${round(y - 4)} H ${round(labelX - 8)}"`,
-      ` fill="none" stroke="var(--color-sand-400)" stroke-width="1" />`,
+      ` fill="none" stroke="var(--ui-border-accented)" stroke-width="1" />`,
       `<text x="${round(labelX)}" y="${round(y)}" font-size="${LABEL_SIZE}"`,
-      ` fill="var(--color-sand-700)">${escapeHtml(name)}`,
-      value ? `<tspan fill="var(--color-ink-500)">${escapeHtml(value)}</tspan>` : '',
+      ` fill="var(--ui-text-muted)">${escapeHtml(name)}`,
+      value ? `<tspan fill="var(--ui-primary)">${escapeHtml(value)}</tspan>` : '',
       `</text>`,
     ].join('');
   });
@@ -206,7 +206,7 @@ function renderTreeDiagram(source: string): string | null {
     ` style="width:100%;max-width:${round(width)}px;height:auto">`,
     `<text x="${PAD}" y="${round(baseline)}" xml:space="preserve"`,
     ` font-family="var(--font-mono)" font-size="${MONO_SIZE}"`,
-    ` fill="var(--color-sand-950)">${escapeHtml(sentence)}</text>`,
+    ` fill="var(--ui-text-highlighted)">${escapeHtml(sentence)}</text>`,
     rows.join(''),
     `</svg>`,
   ].join('');

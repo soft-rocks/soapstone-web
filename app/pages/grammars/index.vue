@@ -14,12 +14,10 @@ useSeoMeta({
 
     <p v-if="!notes.length" class="text-dimmed m-0 text-[13px]">{{ t('grammar.empty') }}</p>
 
-    <ul v-else class="border-muted m-0 list-none border-t p-0">
-      <li v-for="note in notes" :key="note.id" class="border-muted border-b">
-        <NuxtLink :to="`/grammars/${note.id}`" class="group block py-5">
-          <p class="group-hover:text-primary m-0 text-lg transition-colors">
-            {{ note.title }}
-          </p>
+    <ul v-else class="m-0 list-none p-0">
+      <li v-for="note in notes" :key="note.id">
+        <NuxtLink :to="`/grammars/${note.id}`" class="list-row hover:text-primary text-lg">
+          {{ note.title }}
         </NuxtLink>
       </li>
     </ul>

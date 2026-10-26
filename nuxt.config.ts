@@ -24,6 +24,8 @@ export default defineNuxtConfig({
           `/grammars/${note.id}`,
           `/grammars/${note.id}/sentences`,
         ]),
+        '/dragon-english-basic-100',
+        '/dragon-english-basic-100/sentences',
         '/404.html',
       ],
       failOnError: false,
@@ -79,8 +81,13 @@ export default defineNuxtConfig({
     head: {
       link: [
         { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
-        // TsangerJinKai02, self-hosted as unicode-range chunks (public/fonts/tsanger/)
-        { rel: 'stylesheet', href: '/fonts/tsanger/tsanger.css' },
+        // Space Grotesk, the sales deck face; CJK falls through to PingFang TC or Noto Sans TC
+        { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
+        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
+        {
+          rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap',
+        },
       ],
     },
   },

@@ -158,8 +158,8 @@ onMounted(reset);
         v-else
         class="relative inline-block border-b transition-colors"
         :class="{
-          'border-primary/40': statusOf(index, token.text) === 'idle',
-          'border-primary': statusOf(index, token.text) === 'correct',
+          'border-accented': statusOf(index, token.text) === 'idle',
+          'border-ink': statusOf(index, token.text) === 'correct',
           'border-alert': statusOf(index, token.text) === 'wrong',
         }"
       >
@@ -174,9 +174,8 @@ onMounted(reset);
           autocapitalize="off"
           enterkeyhint="next"
           :aria-label="`Blank ${index + 1}`"
-          class="blank focus:bg-primary/5 absolute inset-0 block text-center focus:outline-none"
+          class="blank focus:bg-elevated absolute inset-0 block text-center focus:outline-none"
           :class="{
-            'text-primary': statusOf(index, token.text) === 'correct',
             'text-alert': statusOf(index, token.text) === 'wrong',
           }"
           @input="onInput(index, token)"

@@ -5,7 +5,7 @@ const { t } = useI18n();
 <template>
   <div class="flex min-h-[60vh] flex-col items-center justify-center gap-4">
     <img src="/icon.svg" alt="" class="spinner size-12" />
-    <p class="text-dimmed font-ui m-0 text-xs">{{ t('sentence.loading') }}</p>
+    <p class="text-dimmed m-0 text-xs">{{ t('sentence.loading') }}</p>
   </div>
 </template>
 

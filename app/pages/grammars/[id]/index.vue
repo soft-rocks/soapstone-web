@@ -115,7 +115,7 @@ useSeoMeta({
       <div class="border-muted mt-16 flex justify-center border-t pt-8">
         <button
           type="button"
-          class="border-accented text-toned hover:border-primary hover:text-primary flex size-11 cursor-pointer items-center justify-center border transition-colors"
+          class="icon-button size-11"
           :aria-label="t('grammar.backToTop')"
           :title="t('grammar.backToTop')"
           @click="backToTop"
@@ -130,7 +130,7 @@ useSeoMeta({
             :to="`/grammars/${id}/sentences`"
             :aria-label="t('practice.start')"
             :title="t('practice.start')"
-            class="border-primary text-primary hover:bg-primary hover:text-inverted flex size-12 shrink-0 items-center justify-center border transition-colors"
+            class="icon-button is-primary size-12 shrink-0"
           >
             <UIcon name="i-lucide-pencil" class="size-5" />
           </NuxtLink>
@@ -139,7 +139,7 @@ useSeoMeta({
         <Teleport v-if="sentences.length" defer to="#examples-heading">
           <button
             type="button"
-            class="border-accented text-toned hover:border-primary hover:text-primary inline-flex size-9 shrink-0 cursor-pointer items-center justify-center border transition-colors"
+            class="icon-button size-9 shrink-0"
             :aria-label="playingAll ? t('sentence.stop') : t('grammar.playAll')"
             :title="playingAll ? t('sentence.stop') : t('grammar.playAll')"
             @click="playingAll ? stopAll() : toggleAll()"

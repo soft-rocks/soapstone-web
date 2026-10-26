@@ -66,7 +66,7 @@ useSeoMeta({
         @answered="practice.next()"
       >
         <template #toolbar>
-          <span class="text-dimmed font-ui shrink-0 text-xs">
+          <span class="text-dimmed shrink-0 text-xs tabular-nums">
             {{ practice.position + 1 }} / {{ practice.order.length }}
           </span>
         </template>

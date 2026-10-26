@@ -23,7 +23,7 @@ const localeOptions = computed(() =>
     <h1 class="section-title m-0 mb-10">{{ t('settings.title') }}</h1>
 
     <ClientOnly>
-      <section class="border-muted border-t">
+      <section>
         <div class="border-muted flex items-start justify-between gap-8 border-b py-6">
           <div>
             <p class="m-0 text-[15px]">{{ t('settings.language.label') }}</p>
@@ -39,7 +39,7 @@ const localeOptions = computed(() =>
           />
         </div>
 
-        <p class="eyebrow border-muted m-0 border-b py-4">{{ t('settings.exam') }}</p>
+        <p class="group-label border-muted m-0 border-b py-4">{{ t('settings.exam') }}</p>
 
         <div class="border-muted flex items-start justify-between gap-8 border-b py-6">
           <div>

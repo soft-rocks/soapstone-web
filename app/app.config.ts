@@ -1,16 +1,23 @@
 export default defineAppConfig({
   ui: {
-    // Ink blue is the only chromatic accent; neutrals are warm gray
+    // The soft.rocks logo red is the only chromatic accent; neutrals are zinc
     colors: {
-      primary: 'ink',
-      neutral: 'sand',
+      primary: 'rock',
+      neutral: 'zinc',
     },
     button: {
       slots: {
-        base: 'rounded-none font-ui font-medium tracking-[0.2px] transition-transform duration-150 hover:-translate-y-px',
+        base: 'rounded-none font-semibold transition-colors duration-150',
       },
       defaultVariants: {
         size: 'lg',
+      },
+    },
+    // Nuxt UI hardcodes rounded-full on the switch, so --ui-radius does not reach it
+    switch: {
+      slots: {
+        base: 'rounded-none',
+        thumb: 'rounded-none',
       },
     },
   },

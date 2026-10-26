@@ -15,9 +15,15 @@ const {
   error,
 } = await useAsyncData<Sentence>(
   () => `sentence:${id.value}`,
-  () => $fetch(sentenceUrl(id.value)),
+  () => fetchCdn<Sentence>(sentenceUrl(id.value)),
   { server: false, watch: [id] },
 );
+
+// A sentence that is not on the CDN shows the error; a CDN that does not answer sends the
+// reader back to the home page
+watch(error, (failed) => {
+  if (isCdnUnreachable(failed)) navigateTo('/');
+});
 
 useSeoMeta({
   title: () => sentence.value?.original ?? 'Sentence',

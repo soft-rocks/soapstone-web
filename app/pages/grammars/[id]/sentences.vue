@@ -1,45 +1,11 @@
 <script setup lang="ts">
 import notes from '~/content/grammar/index.json';
-import type { Sentence } from '~/types/sentence';
 
 const route = useRoute();
 const { t } = useI18n();
 
 const id = computed(() => String(route.params.id ?? ''));
 const note = computed(() => notes.find((entry) => entry.id === id.value));
-
-const practice = usePracticeStore();
-const complete = ref(false);
-
-// Entering the practice always starts a fresh run, in a new random order
-onMounted(() => practice.start(id.value, note.value?.sentences ?? []));
-
-const current = computed(() => practice.current);
-
-// Sentences live on the CDN under the hash of their own text
-const { data: sentence, error } = await useAsyncData<Sentence | null>(
-  () => `practice:${current.value}`,
-  async () => {
-    if (!current.value) return null;
-    return $fetch<Sentence>(sentenceUrl(await sentenceHash(current.value)));
-  },
-  { server: false, watch: [current] },
-);
-
-// A sentence that has not been published yet is skipped rather than shown as an error
-watch(error, (failed) => {
-  if (!failed || !current.value) return;
-  practice.markMissing(current.value);
-  practice.next();
-});
-
-watch(current, () => (complete.value = false));
-
-// A correct answer is the only way forward. It is recorded at once; the screen reads the
-// sentence back in the clear and says when it has finished, which is when the run moves on.
-watch(complete, (done) => {
-  if (done) practice.markCorrect(current.value);
-});
 
 useSeoMeta({
   title: () => `${note.value?.title ?? 'Grammar'} · Practice`,
@@ -51,28 +17,14 @@ useSeoMeta({
     <ClientOnly>
       <p v-if="!note" class="text-dimmed m-0 text-[13px]">{{ t('grammar.notFound') }}</p>
 
-      <div v-else-if="practice.finished">
-        <p class="m-0 mb-6 text-lg">
-          {{ t('practice.done', { correct: practice.answered, total: practice.order.length }) }}
-        </p>
-        <UButton :to="`/grammars/${id}`" variant="outline">{{ t('practice.backToNote') }}</UButton>
-      </div>
-
-      <SentencePractice
-        v-else-if="sentence"
-        v-model:complete="complete"
-        :sentence="sentence"
-        :track-title="note?.title"
-        @answered="practice.next()"
-      >
-        <template #toolbar>
-          <span class="text-dimmed shrink-0 text-xs tabular-nums">
-            {{ practice.position + 1 }} / {{ practice.order.length }}
-          </span>
-        </template>
-      </SentencePractice>
-
-      <LoadingState v-else />
+      <PracticeScreen
+        v-else
+        :run-id="id"
+        :sentences="note.sentences"
+        :track-title="note.title"
+        :back-to="`/grammars/${id}`"
+        back-label="practice.backToNote"
+      />
 
       <template #fallback>
         <LoadingState />

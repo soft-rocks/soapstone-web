@@ -191,7 +191,34 @@
     background: var(--color-rock-600);
   }
 
-  /* Rendered markdown from app/content/grammar */
+  /* A quiet action on the right of a list row: a bare icon, no border. It is dimmed, turns
+     ink on hover, and on a pointer that hovers it shows only while the row is hovered or
+     focused. */
+  .row-action {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--ui-text-dimmed);
+    cursor: pointer;
+    transition: color 0.15s;
+  }
+
+  .row-action:hover {
+    color: var(--color-ink);
+  }
+
+  .row-action:focus-visible {
+    outline: 2px solid var(--color-ink);
+    outline-offset: -2px;
+  }
+
+  @media (hover: hover) {
+    li:not(:hover, :focus-within) > .row-action {
+      opacity: 0;
+    }
+  }
+
+  /* Rendered markdown from app/content/english-grammar-profile */
   .note {
     font-size: 18px;
     line-height: 1.8;
@@ -204,7 +231,7 @@
     gap: 24px;
   }
 
-  /* The title is the EGP pattern itself, so it is set as a formula, not as prose */
+  /* The title is the English sentence the note starts from */
   .note h1 {
     font-size: 32px;
     font-weight: 700;
@@ -217,10 +244,7 @@
   .note h1 + .subtitle {
     font-size: 19px;
     color: var(--ui-text-muted);
-    margin: -22px 0 0;
-    padding-bottom: 24px;
-    border-bottom: 1px solid var(--ui-border);
-    margin-bottom: 40px;
+    margin: -22px 0 32px;
   }
 
   .note h2#examples-heading {

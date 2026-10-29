@@ -12,14 +12,17 @@
  * Anything no longer selected is deleted. Each note keeps the short base62 id it was
  * first given, so published URLs never move.
  */
-import { existsSync } from 'node:fs';
+import { existsSync, readdirSync } from 'node:fs';
 import { mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { exampleGroups, exampleSentences } from './examples.mjs';
 
 const [sourceArg, ...slugArgs] = process.argv.slice(2);
 const SOURCE = sourceArg ?? process.env.ENGLISH_NOTES_DIR ?? '../english-notes';
-const TARGET = 'app/content/grammar';
+const TARGET = 'app/content/english-grammar-profile';
 const INDEX = path.join(TARGET, 'index.json');
+const CATALOG = path.join(TARGET, 'catalog.json');
+const PAGES = 'app/notes/english-grammar-profile';
 
 /** Nothing in this repo sets words apart, so the marks come off as a note is copied in. */
 const withoutEmphasisMarks = (text) => (text ?? '').replaceAll('「', '').replaceAll('」', '');
@@ -35,11 +38,13 @@ function randomId() {
   return id;
 }
 
+// macOS and Windows treat file names without case, so JV5.vue and jv5.vue are one file.
+// `taken` holds lower-case ids: an id is free only when no id differs from it by case alone.
 function nextId(taken) {
   // 62^3 is a small space, so retry until a free one turns up and give up loudly
   for (let attempt = 0; attempt < 10_000; attempt += 1) {
     const id = randomId();
-    if (!taken.has(id)) return id;
+    if (!taken.has(id.toLowerCase())) return id;
   }
   throw new Error(`Could not find a free ${ID_LENGTH}-character id; the space is full`);
 }
@@ -53,6 +58,17 @@ if (!existsSync(sourceIndexPath)) {
 }
 
 const sourceEntries = JSON.parse(await readFile(sourceIndexPath, 'utf8')).entries;
+
+// The Chinese name of each note's grammar point, keyed by slug. The note page shows it
+// under the H1 instead of the EGP guideword.
+const titlesPath = path.join(SOURCE, 'grammar/titles.json');
+const titles = existsSync(titlesPath) ? JSON.parse(await readFile(titlesPath, 'utf8')) : {};
+
+// The Chinese translation of each note's H1 sentence, keyed by slug
+const translationsPath = path.join(SOURCE, 'grammar/translations.json');
+const translations = existsSync(translationsPath)
+  ? JSON.parse(await readFile(translationsPath, 'utf8'))
+  : {};
 const bySlug = new Map(sourceEntries.map((entry) => [entry.slug, entry]));
 
 const existing = existsSync(INDEX) ? JSON.parse(await readFile(INDEX, 'utf8')) : [];
@@ -66,7 +82,23 @@ if (!selected.length) {
   process.exit(1);
 }
 
-const taken = new Set(idBySlug.values());
+// Two ids that differ only by case share one page file. Keep the id whose page file exists
+// with that exact name, or else the first one, and give the other note a new id.
+const pageFiles = new Set(existsSync(PAGES) ? readdirSync(PAGES) : []);
+const taken = new Set();
+const owners = new Map();
+for (const [slug, id] of [...idBySlug].sort(
+  ([, a], [, b]) => pageFiles.has(`${b}.vue`) - pageFiles.has(`${a}.vue`),
+)) {
+  const key = id.toLowerCase();
+  if (taken.has(key)) {
+    idBySlug.delete(slug);
+    console.warn(`${id}  ${slug}: same file name as ${owners.get(key)}; gets a new id`);
+    continue;
+  }
+  taken.add(key);
+  owners.set(key, id);
+}
 await mkdir(TARGET, { recursive: true });
 
 const notes = [];
@@ -86,21 +118,24 @@ for (const slug of selected) {
   let id = idBySlug.get(slug);
   if (!id) {
     id = nextId(taken);
-    taken.add(id);
+    taken.add(id.toLowerCase());
   }
 
+  // The page itself is written by hand in app/notes/english-grammar-profile/<id>.vue.
+  // From the markdown the site takes only the title and the 例句 list.
   const markdown = withoutEmphasisMarks(await readFile(markdownPath, 'utf8'));
-  await writeFile(path.join(TARGET, `${id}.md`), markdown);
+  if (!existsSync(path.join(PAGES, `${id}.vue`))) {
+    console.warn(`${id}  ${slug}: no page at ${PAGES}/${id}.vue yet`);
+  }
 
   notes.push({
     id,
     slug,
     title: noteTitle(markdown),
+    translation: translations[slug] ?? '',
+    name: titles[slug] ?? '',
     sentences: exampleSentences(markdown),
-    level: entry.level,
-    category: entry.category,
-    guideword: entry.guideword,
-    canDo: entry.canDo,
+    examples: exampleGroups(markdown),
   });
 
   console.log(`${id}  ${slug}`);
@@ -112,29 +147,9 @@ function noteTitle(markdown) {
   return match ? match[1] : '';
 }
 
-/**
- * The numbered list under 例句 is the note's set of practice sentences. Their
- * translations sit on the indented continuation line, which is not needed here: the
- * CDN copy of each sentence carries its own.
- */
-function exampleSentences(markdown) {
-  const lines = markdown.split('\n');
-  const start = lines.findIndex((line) => /^##\s+(?:\d+\.\s*)?例句\s*$/.test(line.trim()));
-  if (start === -1) return [];
-
-  const sentences = [];
-  for (const line of lines.slice(start + 1)) {
-    if (line.startsWith('## ')) break;
-    const match = /^\d+\.\s+(.*\S)\s*$/.exec(line);
-    if (match) sentences.push(match[1]);
-  }
-  return sentences;
-}
-
-// Drop notes that are no longer selected
-const keep = new Set(notes.map((note) => `${note.id}.md`));
+// The markdown copies are no longer used
 for (const file of await readdir(TARGET)) {
-  if (file.endsWith('.md') && !keep.has(file)) {
+  if (file.endsWith('.md')) {
     await rm(path.join(TARGET, file));
     console.log(`removed ${file}`);
   }
@@ -143,3 +158,35 @@ for (const file of await readdir(TARGET)) {
 notes.sort((a, b) => a.slug.localeCompare(b.slug));
 await writeFile(INDEX, `${JSON.stringify(notes, null, 2)}\n`);
 console.log(`\n${notes.length} note(s) in ${TARGET}`);
+
+// Every EGP entry, written or not, in the order of grammar/index.json, for the index page.
+// Each entry carries its Chinese name and its English sentence from grammar/sentences.json,
+// which english-notes writes; the sentence becomes the note's H1. EGP examples are learner
+// essays with errors, so they are never an entry's sentence.
+// Duplicate EGP entries share one name in titles.json; only the smallest egpId is listed.
+const sentencesPath = path.join(SOURCE, 'grammar/sentences.json');
+const sentences = existsSync(sentencesPath)
+  ? JSON.parse(await readFile(sentencesPath, 'utf8'))
+  : {};
+const named = new Set();
+const catalog = [];
+for (const entry of [...sourceEntries].sort((a, b) => a.egpId - b.egpId)) {
+  const name = titles[entry.slug];
+  if (name && named.has(name)) continue;
+  if (name) named.add(name);
+  catalog.push(entry);
+}
+const listed = new Set(catalog.map((entry) => entry.slug));
+await writeFile(
+  CATALOG,
+  `${JSON.stringify(
+    sourceEntries
+      .filter((entry) => listed.has(entry.slug))
+      .map((entry) => ({
+        slug: entry.slug,
+        sentence: sentences[entry.slug] ?? '',
+        translation: translations[entry.slug] ?? '',
+      })),
+  )}\n`,
+);
+console.log(`${listed.size} EGP entries in ${CATALOG}`);

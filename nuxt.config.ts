@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-import grammarNotes from './app/content/grammar/index.json';
+import dragonEntries from './app/content/dragon-english-basic-100/index.json';
+import grammarNotes from './app/content/english-grammar-profile/index.json';
 
 export default defineNuxtConfig({
   modules: ['@nuxt/ui', '@nuxt/eslint', '@pinia/nuxt', '@nuxtjs/i18n'],
@@ -8,6 +9,21 @@ export default defineNuxtConfig({
 
   compatibilityDate: '2026-09-19',
   devtools: { enabled: true },
+
+  // The grammar notes moved from /grammars to /english-grammar-profile. The old URLs are
+  // prerendered as redirect pages, so links already shared keep working.
+  routeRules: {
+    '/grammars': { redirect: '/english-grammar-profile' },
+    ...Object.fromEntries(
+      grammarNotes.flatMap((note) => [
+        [`/grammars/${note.id}`, { redirect: `/english-grammar-profile/${note.id}` }],
+        [
+          `/grammars/${note.id}/sentences`,
+          { redirect: `/english-grammar-profile/${note.id}/sentences` },
+        ],
+      ]),
+    ),
+  },
 
   // Fully static: nuxt generate prerenders every route into .output/public
   // (the dist symlink at the repo root points at it)
@@ -19,13 +35,24 @@ export default defineNuxtConfig({
       routes: [
         '/',
         '/settings',
+        '/english-grammar-profile',
+        '/english-grammar-profile/sentences',
         '/grammars',
         ...grammarNotes.flatMap((note) => [
           `/grammars/${note.id}`,
           `/grammars/${note.id}/sentences`,
         ]),
+        ...grammarNotes.flatMap((note) => [
+          `/english-grammar-profile/${note.id}`,
+          `/english-grammar-profile/${note.id}/sentences`,
+        ]),
         '/dragon-english-basic-100',
         '/dragon-english-basic-100/sentences',
+        ...dragonEntries.flatMap((entry) => [
+          `/dragon-english-basic-100/${entry.id}`,
+          `/dragon-english-basic-100/${entry.id}/sentences`,
+        ]),
+        '/practices',
         '/404.html',
       ],
       failOnError: false,
@@ -61,6 +88,7 @@ export default defineNuxtConfig({
     clientBundle: {
       scan: true,
       icons: [
+        'lucide:chevron-right',
         'lucide:play',
         'lucide:square',
         'lucide:check',

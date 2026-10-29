@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nuxt dev",
     "build": "nuxt build",
-    "generate": "nuxt generate && node scripts/spa-fallback.mjs",
+    "generate": "NODE_OPTIONS=--max-old-space-size=12288 nuxt generate && node scripts/spa-fallback.mjs",
     "preview": "npx serve .output/public",
     "postinstall": "nuxt prepare",
     "typecheck": "nuxt typecheck",

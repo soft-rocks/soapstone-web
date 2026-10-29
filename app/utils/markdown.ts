@@ -92,8 +92,9 @@ const unescapeHtml = (value: string) =>
     .replaceAll('&#39;', "'")
     .replaceAll('&amp;', '&');
 
+// A translation is the line with Chinese in it. It can hold a name in Latin letters, like Tom.
 function isTranslation(line: string) {
-  return line.trim().length > 0 && !/[A-Za-z]/.test(line);
+  return /\p{Script=Han}/u.test(line);
 }
 
 /**

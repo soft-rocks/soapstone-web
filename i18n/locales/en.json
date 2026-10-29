@@ -35,8 +35,11 @@
     "copy": "Copy sentence",
     "copied": "Copied"
   },
+  "index": {
+    "moveToBottom": "Move to the bottom"
+  },
   "grammar": {
-    "title": "Grammar notes",
+    "title": "English Grammar Profile",
     "empty": "Nothing here yet.",
     "notFound": "Note not found.",
     "playAll": "Play every example",
@@ -50,7 +53,7 @@
     "restart": "Start over"
   },
   "home": {
-    "grammar": "English Grammar",
+    "grammar": "English Grammar Profile",
     "dragonEnglish": "Dragon English Basic English 100"
   },
   "practices": {
@@ -59,5 +62,16 @@
     "completions": "Finished {count} times",
     "progress": "{done} of {total} done",
     "finished": "Finished"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "practice": "Practice"
+  },
+  "deck": {
+    "label": "slides",
+    "previous": "Previous slide",
+    "next": "Next slide",
+    "expand": "Expand",
+    "close": "Close"
   }
 }

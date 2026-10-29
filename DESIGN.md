@@ -53,6 +53,7 @@ The roles:
    glyphs and read as a missing font.
 6. Hairlines separate things. A page title gets one under it (`.section-title::after`). Long
    lists are hairline rows (`.list-row`), not boxes.
+   A note page's title and subtitle get no rule under them.
 7. No boxes and no cards. The home page categories are hairline rows like the grammar list,
    with no arrow and no side bar.
 8. In the dictation test, a wrong blank is red, a correct blank gets a solid ink underline. A
@@ -64,6 +65,9 @@ The roles:
 - Primary: `.icon-button.is-primary`, filled ink, red on hover · square · 48px (44px on a phone)
 - Secondary: `.icon-button`, white with a zinc-300 border, ink border on hover · square · same
   size. `.is-on` marks a toggle that is on (red border and icon).
+
+- Row action: `.row-action`, a bare icon on the right of a list row, no border, dimmed, ink on
+  hover. On a pointer that hovers, it shows only while its row is hovered or focused.
 
 ## Motion
 

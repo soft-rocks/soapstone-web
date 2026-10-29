@@ -1,16 +1,19 @@
 <script setup lang="ts">
-import notes from '~/content/grammar/index.json';
-
 const { t } = useI18n();
 
 const practice = usePracticeStore();
+const router = useRouter();
+const trailOf = useBreadcrumbTrail();
 
-// Titles are looked up now, in the current language. The title saved with a run was
-// taken when it opened, which can be before the language setting applied.
-const titleOf = (runId: string, saved: string) =>
-  runId === 'dragon-english-basic-100'
-    ? t('home.dragonEnglish')
-    : (notes.find((note) => note.id === runId)?.title ?? saved);
+// A row names its set by the trail of the set's practice page, the same trail the layout
+// shows there, without the home and practice crumbs. The labels are looked up now, in the
+// current language. The row is a link already, so no crumb in it links anywhere.
+const crumbsOf = (path: string) => {
+  const target = router.resolve(path);
+  return trailOf(String(target.name ?? ''), String(target.params.id ?? ''))
+    .slice(1, -1)
+    .map((crumb) => ({ label: crumb.label }));
+};
 
 useSeoMeta({
   title: 'Practice',
@@ -27,10 +30,17 @@ useSeoMeta({
 
       <ul v-else class="m-0 list-none p-0">
         <li v-for="item in practice.summaries" :key="item.runId">
-          <NuxtLink :to="item.path" class="list-row hover:text-primary flex items-start gap-6 pr-4">
+          <NuxtLink
+            :to="item.path"
+            class="list-row flex flex-col gap-1 pr-4 sm:flex-row sm:items-start sm:gap-6"
+          >
             <span class="min-w-0 flex-1">
-              <span class="block text-lg">{{ titleOf(item.runId, item.title) }}</span>
-              <span class="text-muted mt-1 block">
+              <!-- Long sentences wrap here instead of being cut off -->
+              <UBreadcrumb
+                :items="crumbsOf(item.path)"
+                :ui="{ list: 'flex-wrap', linkLabel: 'whitespace-normal' }"
+              />
+              <span class="text-muted mt-1 block text-sm">
                 {{
                   item.finished
                     ? t('practices.finished')
@@ -38,7 +48,7 @@ useSeoMeta({
                 }}
               </span>
             </span>
-            <span class="text-muted shrink-0 text-lg">
+            <span class="text-muted shrink-0 text-sm">
               {{ t('practices.completions', { count: item.completions }) }}
             </span>
           </NuxtLink>

@@ -7,7 +7,7 @@ useSeoMeta({
 
 // A category without a page yet renders as plain text, not a link
 const categories = [
-  { label: 'home.grammar', to: '/grammars' },
+  { label: 'home.grammar', to: '/english-grammar-profile' },
   { label: 'home.dragonEnglish', to: '/dragon-english-basic-100' },
 ];
 </script>

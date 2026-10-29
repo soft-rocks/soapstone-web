@@ -9,10 +9,14 @@
  * Each note's H1 is its sentence, already corrected against the source text. The
  * three-digit number in the file name is the entry's id, so it never moves. The
  * Chinese translation of each sentence comes from translations.json, keyed by that id.
+ *
+ * Each note is also copied as <id>.md, for the note page, and the numbered list under
+ * its 例句 heading becomes the entry's practice sentences.
  */
 import { existsSync } from 'node:fs';
 import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { exampleSentences } from './examples.mjs';
 
 const [sourceArg] = process.argv.slice(2);
 const SOURCE = sourceArg ?? process.env.ENGLISH_NOTES_DIR ?? '../english-notes';
@@ -29,6 +33,7 @@ const translations = JSON.parse(await readFile(path.join(NOTES, 'translations.js
 const files = (await readdir(NOTES)).filter((file) => /^\d{3}\.md$/.test(file)).sort();
 
 const entries = [];
+const notes = new Map();
 for (const file of files) {
   const markdown = await readFile(path.join(NOTES, file), 'utf8');
   const match = /^#\s+(.*\S)\s*$/m.exec(markdown);
@@ -41,9 +46,16 @@ for (const file of files) {
     console.error(`${file}: no translation in translations.json`);
     process.exit(1);
   }
-  entries.push({ id, sentence: match[1], translation: translations[id] });
+  entries.push({
+    id,
+    sentence: match[1],
+    translation: translations[id],
+    sentences: exampleSentences(markdown),
+  });
+  notes.set(`${id}.md`, markdown);
 }
 
 await mkdir(TARGET, { recursive: true });
+for (const [file, markdown] of notes) await writeFile(path.join(TARGET, file), markdown);
 await writeFile(path.join(TARGET, 'index.json'), `${JSON.stringify(entries, null, 2)}\n`);
 console.log(`${entries.length} sentence(s) in ${TARGET}`);

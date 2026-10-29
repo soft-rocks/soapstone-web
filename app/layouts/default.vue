@@ -1,5 +1,6 @@
 <script setup lang="ts">
 const { t } = useI18n();
+const breadcrumbs = useBreadcrumbs();
 
 const menuOpen = ref(false);
 
@@ -51,6 +52,8 @@ const links = [
         </template>
       </USlideover>
     </header>
+
+    <UBreadcrumb v-if="breadcrumbs.length" :items="breadcrumbs" class="pt-4" />
 
     <main class="flex-1 pt-4 sm:pt-10">
       <slot />

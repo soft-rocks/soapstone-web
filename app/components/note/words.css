@@ -1,0 +1,77 @@
+/* Shared by <NoteWords> and <NoteFork>. */
+/* Name the layer order first. A component style can load before main.css; without this,
+   components would become the first layer, and the base reset would override it. */
+@layer theme, base, components, utilities;
+
+@layer components {
+  /* A diagram drawn by NoteWords or NoteFork. The SVG keeps its own size, which is 600 units
+     to the slide width; a narrower slide wraps the words into more rows. */
+  .note-words svg {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+
+  .note-words .w-word {
+    fill: var(--ui-text);
+  }
+
+  .note-words .is-key {
+    font-weight: 700;
+  }
+
+  .note-words .w-word.is-slot,
+  .note-words .w-word.is-dim {
+    fill: var(--ui-text-muted);
+  }
+
+  .note-words .w-word.is-gone {
+    fill: var(--ui-text-dimmed);
+  }
+
+  .note-words .w-strike {
+    stroke: var(--ui-text-dimmed);
+    stroke-width: 1.5;
+  }
+
+  .note-words .w-rule {
+    stroke: var(--ui-text);
+    stroke-width: 2;
+  }
+
+  .note-words .w-rule.is-dashed {
+    stroke: var(--ui-text-dimmed);
+    stroke-dasharray: 5 4;
+  }
+
+  .note-words .w-name,
+  .note-words .w-alt {
+    fill: var(--ui-text-muted);
+  }
+
+  .note-words .w-meaning {
+    fill: var(--ui-text);
+  }
+
+  .note-words .w-zh {
+    fill: var(--ui-text-dimmed);
+  }
+
+  .note-words .w-ring {
+    fill: none;
+    stroke: var(--ui-text);
+    stroke-width: 1.5;
+    stroke-linecap: round;
+  }
+
+  .note-words .w-arrow {
+    fill: none;
+    stroke: var(--ui-text-muted);
+    stroke-width: 1.5;
+  }
+
+  .note-words .w-head {
+    fill: var(--ui-text-muted);
+  }
+}

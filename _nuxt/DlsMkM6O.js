@@ -1,0 +1,140 @@
+var e=`# “Tom, dinner is ready.” “OK, Mom. I’m coming.”
+
+## 1. come 和 go、bring 和 take 的方向（\`come\` / \`go\`, \`bring\` / \`take\`）
+
+句型公式：
+
+**主詞 + \`come\` + (\`to\` + 說話的人或聽話的人在的地方)**
+
+**主詞 + \`go\` + (\`to\` + 別的地方)**
+
+**\`bring\` + 東西 / 人 + (\`to\` + 說話的人或聽話的人在的地方)**
+
+**\`take\` + 東西 / 人 + (\`to\` + 別的地方)**
+
+\`come\` 表示往說話的人或聽話的人那裡移動。\`go\` 表示往別的地方移動。原句裡 Tom 要走到媽媽那裡，所以用 \`come\`。帶東西或帶人也照這個分法。\`bring\` 是帶到說話的人或聽話的人那裡。\`take\` 是帶到別的地方。
+
+* Can you come to my party on Saturday?
+  你星期六可以來我的派對嗎？
+* I'm going to the library now.
+  我現在要去圖書館。
+* Please bring your notebook tomorrow.
+  明天請帶你的筆記本來。
+* Take this letter to the post office.
+  把這封信拿去郵局。
+
+## 2. 現在進行式表示馬上要做的動作（present progressive for an action about to happen）
+
+句型公式：
+
+**主詞 + \`be\` + 動詞-ing**
+
+現在進行式可以表示馬上就要做的事。\`come\`、\`go\`、\`leave\` 這類表示移動的動詞常這樣用。原句的 \`I'm coming\` 表示我現在就過去。
+
+* Hurry up. The bus is coming.
+  快點，公車要來了。
+* I'm leaving now. See you tomorrow.
+  我現在要走了。明天見。
+
+## 3. be ready 和 get ready（\`be ready\` / \`get ready\`）
+
+句型公式：
+
+**東西 + \`be ready\`**
+
+**人 + \`be ready to\` + 動詞原形 / \`be ready for\` + 名詞**
+
+**人 + \`get ready\` (+ \`to\` + 動詞原形 / \`for\` + 名詞)**
+
+\`ready\` 是形容詞，意思是準備好了。東西當主詞時，\`be ready\` 表示東西可以用了，或可以吃了。人當主詞時，後面接 \`to\` 加動詞原形或 \`for\` 加名詞，說明準備好做什麼。\`be ready\` 表示已經準備好了。\`get ready\` 表示去做準備。
+
+* Your coffee is ready.
+  你的咖啡好了。
+* Are you ready to order?
+  你準備好點餐了嗎？
+* Get ready. We're leaving in five minutes.
+  準備一下。我們五分鐘後出發。
+
+## 4. 例句
+
+1. “Tom, dinner is ready.” “OK, Mom. I’m coming.”
+「Tom，晚餐好了。」「好，媽，我馬上來。」
+2. Can you come to my party on Saturday?
+你星期六可以來我的派對嗎？
+3. I'm going to the library now.
+我現在要去圖書館。
+4. My grandparents will come to Taipei next week.
+我爺爺奶奶下星期會來台北。
+5. Let's go to the beach this weekend.
+這個週末我們去海邊吧。
+6. Please come here and look at this.
+請過來看看這個。
+7. I'll go to Kyoto tomorrow and come back on Sunday.
+我明天去京都，星期天回來。
+8. Hurry up. The bus is coming.
+快點，公車要來了。
+9. I'm leaving now. See you tomorrow.
+我現在要走了。明天見。
+10. Wait a minute. I'm coming.
+等一下，我馬上來。
+11. The train is coming, so please stand behind the yellow line.
+火車要進站了，請站在黃線後面。
+12. “Are you coming with us?” “Yes, I'm coming.”
+「你要跟我們一起去嗎？」「要，我要去。」
+13. My sister is going out now.
+我姊姊現在要出門。
+14. Don't close the door. I'm going out too.
+不要關門，我也要出去。
+15. Your coffee is ready.
+你的咖啡好了。
+16. Are you ready to order?
+你準備好點餐了嗎？
+17. We are ready for the trip.
+我們準備好去旅行了。
+18. Breakfast is ready. Come and eat.
+早餐好了。來吃吧。
+19. Is my passport ready yet?
+我的護照辦好了嗎？
+20. I'm not ready to go yet.
+我還沒準備好要出門。
+21. The students are ready for the final exam.
+學生們準備好期末考了。
+22. The bath is ready, Grandpa.
+爺爺，洗澡水放好了。
+23. Are you ready for school?
+你準備好去上學了嗎？
+24. “Ken, your friend is here.” “OK, I'm coming.”
+「Ken，你朋友來了。」「好，我來了。」
+25. “Lunch is ready, everyone.” “We're coming.”
+「大家，午餐好了。」「我們來了。」
+26. The pizza will be ready in ten minutes.
+披薩再十分鐘就好了。
+27. Mom, I'm going to Ann's house. I'll be back by six.
+媽，我要去 Ann 家。我六點前回來。
+28. Is everyone ready to start?
+大家準備好開始了嗎？
+29. The taxi is coming in five minutes.
+計程車再五分鐘就來了。
+30. Will you come to the school festival tomorrow?
+你明天會來校慶嗎？
+31. Please bring your notebook tomorrow.
+明天請帶你的筆記本來。
+32. Take this letter to the post office.
+把這封信拿去郵局。
+33. Can I bring my sister to the party?
+我可以帶我妹妹來派對嗎？
+34. Don't forget to take your passport to the airport.
+別忘了帶護照去機場。
+35. Get ready. We're leaving in five minutes.
+準備一下。我們五分鐘後出發。
+36. The children are getting ready for school.
+孩子們正在準備上學。
+37. Ken is getting ready to go out.
+Ken 正在準備出門。
+38. We're getting ready to leave.
+我們正準備要走了。
+39. Ann is getting ready for her trip to Japan.
+Ann 正在準備她的日本旅行。
+40. I need ten minutes to get ready.
+我需要十分鐘準備。
+`;export{e as default};

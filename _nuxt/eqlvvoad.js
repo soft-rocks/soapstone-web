@@ -1,0 +1,112 @@
+var e=`# It is surprising that many Americans don’t care how you pronounce English as long as they can understand what you are trying to say.
+
+## 1. It is + 形容詞 + that ...（\`it is surprising that\`）
+
+句型公式：
+
+**\`It is\` / \`It was\` + \`surprising\` / \`strange\` / \`natural\` + \`that\` + 子句**
+
+\`it\` 是形式主詞，真正的主詞是 \`that\` 子句。形容詞說明說話的人對這件事的看法。講過去的事時用 \`It was\`。
+
+* It is surprising that Tom passed the test.
+  Tom 通過了考試，很令人驚訝。
+* It is natural that you feel nervous.
+  你會緊張是很自然的。
+
+## 2. care + 疑問詞子句（\`don't care how\` / \`what\` / \`whether\`）
+
+句型公式：
+
+**主詞 + \`don't care\` + 疑問詞 / \`whether\` + 主詞 + 動詞**
+
+**主詞 + \`don't care\` + \`who\` + 動詞**
+
+\`care\` 後面可以直接接一個間接問句，不加介系詞。疑問詞可以是 \`how\`、\`what\`、\`where\`、\`who\`，也可以用 \`whether\`。間接問句用直述句的語序。\`who\` 在子句裡當主詞時，後面直接接動詞。原句的 \`how you pronounce English\` 是 \`care\` 後面的間接問句。
+
+* I don't care what other people think.
+  我不在乎別人怎麼想。
+* My father doesn't care whether it rains or not.
+  我爸爸不在乎下不下雨。
+* I don't care who sits next to me on the bus.
+  我不在乎公車上誰坐我旁邊。
+
+## 3. as long as（只要）
+
+句型公式：
+
+**主要子句 + \`as long as\` + 主詞 + 動詞**
+
+**\`As long as\` + 主詞 + 動詞, + 主要子句**
+
+\`as long as\` 的意思是只要。它帶出一個條件。條件成立，主要子句的事就會發生。子句講未來的事時，動詞也用現在式。\`as long as\` 子句放在句首時，後面加逗號。
+
+* You can borrow my bike as long as you bring it back tomorrow.
+  只要你明天還回來，就可以借我的腳踏車。
+* I'll be happy as long as you are with me.
+  只要你跟我在一起，我就會很開心。
+
+## 4. 例句
+
+1. It is surprising that many Americans don’t care how you pronounce English as long as they can understand what you are trying to say.
+令人驚訝的是，很多美國人不在乎你的英文發音怎麼樣，只要他們聽得懂你想說什麼就好。
+2. It is surprising that Tom passed the test.
+Tom 通過了考試，很令人驚訝。
+3. It is natural that you feel nervous.
+你會緊張是很自然的。
+4. It is strange that Ann didn't call me.
+Ann 沒有打電話給我，很奇怪。
+5. It is surprising that so many people came in the rain.
+那麼多人冒雨來，很令人驚訝。
+6. It was strange that the shop was closed on Saturday.
+那家店星期六沒開，很奇怪。
+7. It is natural that children want to play outside.
+小孩想在外面玩是很自然的。
+8. I don't care what other people think.
+我不在乎別人怎麼想。
+9. My father doesn't care whether it rains or not.
+我爸爸不在乎下不下雨。
+10. My mother doesn't care how much it costs.
+我媽媽不在乎要花多少錢。
+11. I don't care where we eat. I'm just hungry.
+我不在乎我們在哪裡吃。我只是餓了。
+12. Tom doesn't care what he wears.
+Tom 不在乎他穿什麼。
+13. Do you care who wins the game?
+你在乎誰贏比賽嗎？
+14. You can borrow my bike as long as you bring it back tomorrow.
+只要你明天還回來，就可以借我的腳踏車。
+15. I'll be happy as long as you are with me.
+只要你跟我在一起，我就會很開心。
+16. You can stay up late as long as you finish your homework.
+只要你寫完功課，就可以晚睡。
+17. As long as it doesn't rain, we'll have the party in the garden.
+只要不下雨，我們就在院子裡辦派對。
+18. Any day is fine as long as it is not Monday.
+只要不是星期一，哪一天都可以。
+19. As long as you try your best, I'll be proud of you.
+只要你盡力，我就會以你為榮。
+20. My teacher doesn't care how slowly I speak as long as I speak in English.
+只要我說英文，我的老師不在乎我說得多慢。
+21. It is surprising that many people don't care what they eat.
+令人驚訝的是，很多人不在乎他們吃什麼。
+22. I don't care how long it takes as long as we get there safely.
+只要我們安全到達，我不在乎要花多久。
+23. It is strange that he doesn't care whether he passes or not.
+他不在乎自己有沒有及格，很奇怪。
+24. You can use my computer as long as you are careful.
+只要你小心，就可以用我的電腦。
+25. My grandmother doesn't care where she travels as long as her family comes too.
+只要她的家人也一起去，我奶奶不在乎去哪裡旅行。
+26. It is surprising that this small café is so popular.
+這家小咖啡店這麼受歡迎，很令人驚訝。
+27. Many people in Taiwan don't care how you speak Chinese as long as they understand you.
+很多台灣人只要聽得懂，就不在乎你的中文說得標不標準。
+28. It was natural that she cried at the end of the movie.
+她在電影結尾哭了，是很自然的。
+29. As long as you understand what I'm trying to say, my English is good enough.
+只要你懂我想說什麼，我的英文就夠好了。
+30. Ken doesn't care what people say about his hair.
+Ken 不在乎別人怎麼說他的頭髮。
+31. I don't care who sits next to me on the bus.
+我不在乎公車上誰坐我旁邊。
+`;export{e as default};

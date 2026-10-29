@@ -1,0 +1,91 @@
+var e=`# The best things you can do to protect nature are to reduce garbage and to use environmentally friendly products.
+
+## 1. 最高級 + 省略關係代名詞的子句（superlative + relative clause）
+
+句型公式：
+
+**\`the best\` / 最高級 + 名詞 + 主詞 + 動詞**
+
+最高級後面的名詞可以接一個子句修飾。關係代名詞 \`that\` 在子句裡當受詞，常省略。原句的 \`the best things you can do\` 是你能做的最好的事。
+
+* This is the best pizza I have ever eaten.
+  這是我吃過最好吃的披薩。
+* The best thing you can do now is to rest.
+  你現在能做的最好的事就是休息。
+
+## 2. be + to 不定詞當主詞補語（\`be\` + \`to\` infinitive）
+
+句型公式：
+
+**主詞 + \`is\` / \`are\` + \`to\` + 動詞原形 (+ \`and to\` + 動詞原形)**
+
+\`to\` 不定詞放在 \`be\` 動詞後面，說明主詞的內容。原句的主詞是能做的事，\`to reduce\` 和 \`to use\` 說明是哪些事。兩個不定詞用 \`and\` 連接，第二個不定詞的 \`to\` 可以保留。
+
+* My dream is to live in Kyoto.
+  我的夢想是住在京都。
+* Our plan is to leave at six and to arrive before noon.
+  我們的計畫是六點出發，中午前到達。
+
+## 3. 例句
+
+1. The best things you can do to protect nature are to reduce garbage and to use environmentally friendly products.
+你為了保護大自然能做的最好的事，就是減少垃圾和使用環保產品。
+2. This is the best pizza I have ever eaten.
+這是我吃過最好吃的披薩。
+3. The best thing you can do now is to rest.
+你現在能做的最好的事就是休息。
+4. That was the most exciting game I have ever watched.
+那是我看過最刺激的比賽。
+5. Tom is the kindest person I know.
+Tom 是我認識最親切的人。
+6. This is the cheapest hotel we could find.
+這是我們能找到最便宜的飯店。
+7. This was the hottest summer I can remember.
+這是我記憶中最熱的夏天。
+8. My dream is to live in Kyoto.
+我的夢想是住在京都。
+9. Our plan is to leave at six and to arrive before noon.
+我們的計畫是六點出發，中午前到達。
+10. Her job is to answer the phone.
+她的工作是接電話。
+11. My goal this year is to read fifty books.
+我今年的目標是讀五十本書。
+12. The first step is to wash your hands.
+第一步是洗手。
+13. The only way to get there is to take a boat.
+去那裡唯一的方法是坐船。
+14. Who is the best singer you know?
+你知道的歌手裡，誰唱得最好？
+15. The only thing I want is to sleep.
+我唯一想要的就是睡覺。
+16. Our plan is to visit three temples in one day.
+我們的計畫是一天去三間寺廟。
+17. This is the longest bridge I have ever crossed.
+這是我走過最長的橋。
+18. His dream was to open a small café.
+他的夢想是開一家小咖啡店。
+19. What's the most interesting place you have visited?
+你去過最有趣的地方是哪裡？
+20. The most important thing you can do before the test is to get enough sleep.
+考試前你能做的最重要的事，是睡飽。
+21. One way to protect nature is to use environmentally friendly products.
+保護自然的一個方法是使用環保產品。
+22. My job this summer is to take care of my little brother.
+我今年夏天的工作是照顧我弟弟。
+23. That is the worst movie I have ever seen.
+那是我看過最爛的電影。
+24. The biggest problem we have in this town is the lack of parking.
+這個小鎮最大的問題是缺少停車位。
+25. The best way to learn English is to use it every day.
+學英文最好的方法是每天用它。
+26. The first thing you should do is to call your parents.
+你第一件該做的事是打電話給你爸媽。
+27. The hardest thing I have ever done was to run a marathon.
+我做過最難的事是跑馬拉松。
+28. Your job is to clean the classroom and to close the windows.
+你的工作是打掃教室和關窗戶。
+29. This is the most beautiful beach I have seen in Okinawa.
+這是我在沖繩看過最美的海灘。
+30. The least you can do is to say thank you.
+你至少可以說聲謝謝。
+`;export{e as default};

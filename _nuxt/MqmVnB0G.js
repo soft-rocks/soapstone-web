@@ -1,0 +1,108 @@
+var e=`# Bear in mind that if you have enthusiasm, you can succeed in anything.
+
+## 1. that 子句裡的 if 子句（\`if\` clause inside a \`that\` clause）
+
+句型公式：
+
+**動詞 + \`that\` + \`if\` + 主詞 + 動詞, + 主詞 + 動詞**
+
+\`that\` 子句可以是一個完整的條件句。\`if\` 子句緊接在 \`that\` 後面，條件句的主要子句接在 \`if\` 子句後面。原句 \`that\` 後面是 \`if you have enthusiasm, you can succeed in anything\`。\`bear in mind\` 的意思是記住，整句是請對方記住這個條件句。主要動詞是過去式時，條件句的現在式改成過去式，\`will\` 改成 \`would\`。
+
+* Remember that if you are late, you can't take the test.
+  記住，如果你遲到，就不能參加考試。
+* My teacher told me that if I practiced every day, I would get better.
+  我的老師跟我說，如果我每天練習，就會進步。
+
+## 2. succeed in + 名詞 / 動詞-ing（\`succeed in\`）
+
+句型公式：
+
+**主詞 + \`succeed in\` + 名詞 / 動詞-ing**
+
+\`succeed in\` 表示做某件事成功。\`in\` 是介系詞，後面接名詞或動詞-ing。原句的 \`succeed in anything\` 後面接代名詞 \`anything\`。
+
+* She succeeded in passing the exam.
+  她成功通過了考試。
+* He succeeded in business.
+  他在事業上很成功。
+
+## 3. anything 在肯定句、問句和否定句（\`anything\`）
+
+句型公式：
+
+**肯定句 + \`anything\`**
+
+**否定句 / 問句 + \`anything\`**
+
+\`anything\` 用在肯定句時，表示任何一件事都可以。原句的 \`succeed in anything\` 表示做什麼事都能成功。問句裡的 \`anything\` 問有沒有任何東西或事情，像 \`Do you need anything?\`。否定句的 \`not ... anything\` 表示什麼都沒有，像 \`I didn't buy anything at the shop.\`。
+
+* Take anything you want from the fridge.
+  冰箱裡的東西，你想拿什麼就拿什麼。
+* I'll do anything for you.
+  我願意為你做任何事。
+
+## 4. 例句
+
+1. Bear in mind that if you have enthusiasm, you can succeed in anything.
+記住，只要你有熱忱，做什麼都能成功。
+2. Remember that if you are late, you can't take the test.
+記住，如果你遲到，就不能參加考試。
+3. My teacher told me that if I practiced every day, I would get better.
+我的老師跟我說，如果我每天練習，就會進步。
+4. Bear in mind that if it rains, the game will be canceled.
+記住，如果下雨，比賽就會取消。
+5. Keep in mind that if you miss the last bus, you'll have to walk home.
+記住，如果你錯過末班公車，就得走路回家。
+6. My mother always says that if you smile, people will smile back.
+我媽媽總是說，如果你微笑，別人也會對你微笑。
+7. I think that if we leave now, we can catch the train.
+我想如果我們現在走，就趕得上火車。
+8. She succeeded in passing the exam.
+她成功通過了考試。
+9. He succeeded in business.
+他在事業上很成功。
+10. Tom succeeded in climbing Mt. Fuji.
+Tom 成功登上了富士山。
+11. We finally succeeded in finding a cheap hotel.
+我們終於成功找到便宜的飯店。
+12. Did you succeed in getting the tickets?
+你成功買到票了嗎？
+13. My sister succeeded in her new job.
+我姊姊在新工作上很成功。
+14. Take anything you want from the fridge.
+冰箱裡的東西，你想拿什麼就拿什麼。
+15. I'll do anything for you.
+我願意為你做任何事。
+16. Ask me anything.
+你可以問我任何事。
+17. My dog eats anything.
+我的狗什麼都吃。
+18. Anything is possible if you try.
+只要你努力，任何事都有可能。
+19. Do you need anything?
+你需要什麼嗎？
+20. I didn't buy anything at the shop.
+我在那家店什麼都沒買。
+21. Bear in mind that if you work hard, you can do anything.
+記住，如果你努力，你什麼都做得到。
+22. With enough practice, you can succeed in anything.
+只要練習夠多，做任何事你都能成功。
+23. Keep in mind that not everyone can succeed in getting into that school.
+記住，不是每個人都能成功考進那所學校。
+24. He will succeed in life because he never gives up.
+他這輩子一定會成功，因為他從不放棄。
+25. Did you eat anything for lunch?
+你午餐有吃東西嗎？
+26. Don't forget that if you need help, you can call me.
+別忘了，如果你需要幫忙，可以打給我。
+27. My grandmother can cook anything.
+我奶奶什麼菜都會煮。
+28. The guide said that if we got lost, we should wait at the gate.
+導遊說，如果我們迷路了，應該在大門口等。
+29. The team succeeded in winning the championship.
+這支隊伍成功贏得冠軍。
+30. You can choose anything from the menu.
+你可以從菜單上選任何東西。
+31. I can't see anything without my glasses.
+沒戴眼鏡，我什麼都看不到。
+`;export{e as default};

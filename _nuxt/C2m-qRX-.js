@@ -1,0 +1,93 @@
+var e=`# It never occurred to me that my remark might hurt her feelings.
+
+## 1. It occurs to + 人 + that 子句（\`it occurs to\` + person + \`that\`-clause）
+
+句型公式：
+
+**It + \`occur\` + \`to\` + 人 + \`that\` + 主詞 + 動詞**
+
+**想法 + \`occur\` + \`to\` + 人**
+
+句首的 \`it\` 是形式主詞，真正的主詞是後面的 \`that\` 子句。\`occur to\` 加人，表示一個想法出現在那個人心裡。原句加上 \`never\`，表示我從來沒想到。主詞也可以是 \`idea\` 這類表示想法的名詞。
+
+* It suddenly occurred to me that today was Mom's birthday.
+  我突然想到今天是媽媽的生日。
+* A good idea occurred to me on the way home.
+  回家的路上我想到一個好主意。
+
+## 2. might 表示可能性（\`might\` for possibility）
+
+句型公式：
+
+**主詞 + \`might\` + 動詞原形**
+
+\`might\` 表示有可能，但是不確定。後面接動詞原形。主要動詞是過去式的時候，子句裡的 \`may\` 改成 \`might\`。原句的 \`might hurt\` 就是這個原因。現在和未來的事也可以用 \`might\`。
+
+* Take an umbrella. It might rain.
+  帶把傘吧。可能會下雨。
+* I thought the shop might be closed.
+  我以為那家店可能關門了。
+
+## 3. 例句
+
+1. It never occurred to me that my remark might hurt her feelings.
+我從來沒想過我說的話可能會傷到她的心。
+2. It suddenly occurred to me that today was Mom's birthday.
+我突然想到今天是媽媽的生日。
+3. Did it occur to you that she might be tired?
+你有沒有想到她可能累了？
+4. It occurred to Tom that he could take the bus instead.
+Tom 想到他可以改搭公車。
+5. It never occurred to us that the store would be closed on Sunday.
+我們從來沒想到那家店星期天會關門。
+6. A good idea occurred to me on the way home.
+回家的路上我想到一個好主意。
+7. It didn't occur to him that he should ask for help.
+他沒想到他應該找人幫忙。
+8. Has it ever occurred to you that your parents worry about you?
+你有沒有想過你爸媽會擔心你？
+9. Take an umbrella. It might rain.
+帶把傘吧。可能會下雨。
+10. I thought the shop might be closed.
+我以為那家店可能關門了。
+11. Tom might be asleep already.
+Tom 可能已經睡了。
+12. We might go to Okinawa this summer.
+我們今年夏天可能會去沖繩。
+13. She said she might be late for class.
+她說她上課可能會遲到。
+14. Don't touch the dog. It might bite you.
+不要摸那隻狗。牠可能會咬你。
+15. I was afraid that I might miss the last train.
+我很怕會錯過末班車。
+16. It occurred to me that I had left my umbrella on the bus.
+我想到我把傘忘在公車上了。
+17. It never occurred to Tom that his sister might be lonely.
+Tom 從來沒想到他妹妹可能會寂寞。
+18. Did it ever occur to you that you might be wrong?
+你有沒有想過你可能是錯的？
+19. Don't wait for me. I might be late.
+不要等我。我可能會晚到。
+20. Ask the teacher. She might know the answer.
+問老師。她可能知道答案。
+21. I thought it might snow, so I wore boots.
+我想可能會下雪，所以我穿了靴子。
+22. It suddenly occurred to Ann that she had forgotten her keys.
+Ann 突然想到她忘了帶鑰匙。
+23. The answer occurred to me while I was taking a shower.
+我在洗澡的時候想到了答案。
+24. It occurred to us that the last bus had already left.
+我們想到末班公車已經開走了。
+25. If you say that, you might hurt his feelings.
+如果你那樣說，你可能會傷他的心。
+26. It occurred to me that I didn't know her phone number.
+我想到我不知道她的電話號碼。
+27. A strange thought occurred to me in the middle of the night.
+半夜我冒出一個奇怪的念頭。
+28. It never occurred to my parents that I might want to study abroad.
+我爸媽從來沒想到我可能會想出國讀書。
+29. The game might be canceled because of the rain.
+比賽可能會因為下雨取消。
+30. Call your mother. She might be worried about you.
+打電話給你媽媽。她可能在擔心你。
+`;export{e as default};

@@ -1,0 +1,110 @@
+var e=`# The tendency for young people to believe everything that is printed is nothing new.
+
+## 1. 名詞 + for + 人 + to 不定詞（noun + \`for\` + person + \`to\`-infinitive）
+
+句型公式：
+
+**名詞 + \`for\` + 人 + \`to\` + 動詞原形**
+
+\`to\` 不定詞可以放在名詞後面，說明這個名詞的內容。\`for\` 加人放在 \`to\` 前面，表示做這個動作的人。原句的 \`young people\` 是相信的人。\`tendency\`、\`time\`、\`chance\`、\`need\` 常這樣用。
+
+* It's time for the children to go to bed.
+  孩子們該睡覺了。
+* This is a good chance for you to practice English.
+  這是你練習英文的好機會。
+
+## 2. everything that + 子句（\`everything that\`）
+
+句型公式：
+
+**\`everything\` / \`anything\` / \`all\` + \`that\` + 子句**
+
+\`that\` 是關係代名詞，帶出子句說明前面的 \`everything\`。\`everything\`、\`anything\`、\`all\` 後面的關係代名詞常用 \`that\`。\`that\` 在子句裡當受詞時可以省略。原句的 \`that\` 在子句裡當主詞。
+
+* You can take everything that is on the table.
+  桌上的東西你都可以拿。
+* Don't believe everything you hear.
+  不要相信你聽到的每件事。
+* Is there anything that I can do for you?
+  有什麼我能為你做的嗎？
+
+## 3. nothing / something + 形容詞（\`nothing new\`）
+
+句型公式：
+
+**\`nothing\` / \`something\` / \`anything\` + 形容詞**
+
+形容詞修飾 \`nothing\`、\`something\`、\`anything\` 時，放在它們後面。\`nothing new\` 表示不是新的事，以前就有了。
+
+* I want something cold to drink.
+  我想喝點冰的東西。
+* There was nothing interesting in the newspaper.
+  報紙上沒什麼有趣的消息。
+* Did you do anything special on your birthday?
+  你生日的時候有做什麼特別的事嗎？
+
+## 4. 例句
+
+1. The tendency for young people to believe everything that is printed is nothing new.
+年輕人相信所有印出來的東西，這種傾向不是什麼新鮮事。
+2. It's time for the children to go to bed.
+孩子們該睡覺了。
+3. This is a good chance for you to practice English.
+這是你練習英文的好機會。
+4. There is no need for you to worry.
+你不需要擔心。
+5. It's time for us to go.
+我們該走了。
+6. We made a plan for everyone to meet at the station at eight.
+我們訂了一個計畫，大家八點在車站集合。
+7. There is a tendency for people to eat too much at New Year.
+人們過年時容易吃太多。
+8. There is no chance for us to win.
+我們沒有贏的機會。
+9. You can take everything that is on the table.
+桌上的東西你都可以拿。
+10. Don't believe everything you hear.
+不要相信你聽到的每件事。
+11. Is there anything that I can do for you?
+有什麼我能為你做的嗎？
+12. This is all that I have.
+我只有這些。
+13. Thank you for everything that you did for me.
+謝謝你為我做的一切。
+14. She told me everything that happened at school.
+她告訴我學校發生的每件事。
+15. I ate everything my mother cooked.
+我吃光了我媽媽煮的所有東西。
+16. I want something cold to drink.
+我想喝點冰的東西。
+17. There was nothing interesting in the newspaper.
+報紙上沒什麼有趣的消息。
+18. Did you do anything special on your birthday?
+你生日的時候有做什麼特別的事嗎？
+19. Is there anything wrong?
+有什麼不對嗎？
+20. Let's try something new this weekend.
+這個週末我們來試點新的東西吧。
+21. Big earthquakes are nothing new in Japan.
+大地震在日本不是新鮮事。
+22. I have nothing important to say.
+我沒有重要的話要說。
+23. Rainy days in June are nothing new in Taiwan.
+六月的雨天在台灣不是新鮮事。
+24. Young people often believe everything that they read online.
+年輕人常常相信他們在網路上讀到的所有東西。
+25. There is no need for Tom to come early.
+Tom 不需要早來。
+26. There is nothing special about this town.
+這個小鎮沒什麼特別的。
+27. My grandfather remembers everything that happened during the war.
+我爺爺記得戰爭期間發生的每件事。
+28. Is there anything else that you need?
+你還需要別的東西嗎？
+29. Tom said something funny, and everyone laughed.
+Tom 說了好笑的話，大家都笑了。
+30. There is a bench for people to rest on.
+這裡有一張讓人休息的長椅。
+31. All that I want is a long vacation.
+我想要的只有一個長假。
+`;export{e as default};

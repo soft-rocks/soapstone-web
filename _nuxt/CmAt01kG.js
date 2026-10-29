@@ -1,0 +1,112 @@
+var e=`# It is impossible to predict where and when there will be a major earthquake.
+
+## 1. It is impossible / possible to + 動詞原形（anticipatory \`it\` with \`impossible\`）
+
+句型公式：
+
+**It + be + \`impossible\` / \`possible\` + (\`for\` + 人) + \`to\` + 動詞原形**
+
+句首的 \`it\` 是形式主詞。真正的主詞是後面的 \`to\` 不定詞片段。\`impossible\` 表示這件事做不到。\`possible\` 表示這件事做得到。要指出是誰做這件事，在 \`to\` 前面加 \`for\` 和人。
+
+* It is impossible to finish this work in one day.
+  一天之內完成這份工作是不可能的。
+* It is possible for us to get there by noon.
+  我們中午之前到那裡是有可能的。
+
+## 2. 間接問句裡的 there is / there will be（\`there\` in indirect questions）
+
+句型公式：
+
+**疑問詞 / \`if\` / \`whether\` + \`there\` + \`is\` / \`are\` / \`will be\` + 名詞**
+
+間接問句用直述句的語序。\`there is\` 和 \`there will be\` 的 \`there\` 放在動詞前面。原句是 \`where there will be\`。直接問的話是 Where will there be a major earthquake? 沒有疑問詞的問題用 \`if\` 或 \`whether\` 帶出。主要動詞是過去式時，改成 \`there was\`、\`there were\` 或 \`there would be\`。
+
+* Do you know where there is a bank?
+  你知道哪裡有銀行嗎？
+* Nobody knows when there will be another typhoon.
+  沒有人知道什麼時候會再有颱風。
+
+## 3. 兩個疑問詞並列（two wh-words joined by \`and\` / \`or\`）
+
+句型公式：
+
+**疑問詞 + \`and\` / \`or\` + 疑問詞 + 主詞 + 動詞**
+
+兩個疑問詞可以用 \`and\` 或 \`or\` 連在一起。它們共用後面的子句。原句的 \`where and when\` 共用 \`there will be a major earthquake\`。
+
+* Please tell me when and where we will meet.
+  請告訴我我們什麼時候、在哪裡見面。
+* I don't remember how or why it happened.
+  我不記得那件事是怎麼發生的、為什麼發生。
+
+## 4. 例句
+
+1. It is impossible to predict where and when there will be a major earthquake.
+大地震會在哪裡、什麼時候發生，是不可能預測的。
+2. It is impossible to finish this work in one day.
+一天之內完成這份工作是不可能的。
+3. It is possible for us to get there by noon.
+我們中午之前到那裡是有可能的。
+4. It was impossible to sleep because of the noise.
+因為噪音，根本不可能睡覺。
+5. It is impossible for me to remember all these words.
+我不可能記住所有這些單字。
+6. Is it possible to see Mt. Fuji from here?
+從這裡有可能看到富士山嗎？
+7. It is not possible to change the date of the ticket.
+這張票不能改日期。
+8. Do you know where there is a bank?
+你知道哪裡有銀行嗎？
+9. Nobody knows when there will be another typhoon.
+沒有人知道什麼時候會再有颱風。
+10. Can you tell me if there is a convenience store near here?
+你可以告訴我這附近有沒有便利商店嗎？
+11. I asked the ticket clerk whether there were any seats left.
+我問售票員還有沒有剩下的座位。
+12. I wonder how many people there will be at the party.
+我在想派對上會有多少人。
+13. The weather report tells us when there will be rain.
+天氣預報告訴我們什麼時候會下雨。
+14. Please check what time there is a bus to the airport.
+請你查一下幾點有去機場的公車。
+15. Please tell me when and where we will meet.
+請告訴我我們什麼時候、在哪裡見面。
+16. I don't remember how or why it happened.
+我不記得那件事是怎麼發生的、為什麼發生。
+17. The police want to know when and where you saw the man.
+警察想知道你是什麼時候、在哪裡看到那個男人的。
+18. Nobody told us where and how we could buy the tickets.
+沒有人告訴我們可以在哪裡、怎麼買票。
+19. Tom asked me why and how I learned Japanese.
+Tom 問我為什麼學日文、怎麼學的。
+20. We don't know yet when or where the next game will be.
+我們還不知道下一場比賽什麼時候、在哪裡舉行。
+21. It is impossible to know when there will be a big earthquake in Taiwan.
+要知道台灣什麼時候會有大地震是不可能的。
+22. It is impossible to say where and when the next typhoon will hit.
+要說出下一個颱風會在哪裡、什麼時候侵襲是不可能的。
+23. Nobody can say exactly where there will be heavy rain tomorrow.
+沒有人能準確說出明天哪裡會下大雨。
+24. Do you know if there will be a test next week?
+你知道下星期會不會考試嗎？
+25. I asked my teacher when there would be a school trip.
+我問老師什麼時候會有校外教學。
+26. She asked me if there was a post office nearby.
+她問我附近有沒有郵局。
+27. Nobody knew when there would be another bus.
+沒有人知道下一班公車什麼時候會來。
+28. It was impossible for her to find a taxi in the rain.
+下雨天她不可能找到計程車。
+29. It is possible to walk from the hotel to the station.
+從飯店走路到車站是可以的。
+30. Is it possible for you to come a little earlier?
+你有可能早一點來嗎？
+31. Tell me when and where the accident happened.
+告訴我車禍是什麼時候、在哪裡發生的。
+32. It was impossible to tell when and where the fire started.
+當時不可能判斷火災是什麼時候、從哪裡開始的。
+33. I asked the waiter if there was a table by the window.
+我問服務生有沒有靠窗的桌子。
+34. She asked whether there were any towels in the room.
+她問房間裡有沒有毛巾。
+`;export{e as default};

@@ -1,0 +1,104 @@
+var e=`# Ann looks happy. Something good must have happened to her.
+
+## 1. look + 形容詞（linking verb \`look\`）
+
+句型公式：
+
+**主詞 + \`look\` + 形容詞**
+
+\`look\` 在這裡是連綴動詞，意思是看起來。後面的形容詞描述說話的人看到的樣子。
+
+* The new teacher looks very young.
+  新老師看起來很年輕。
+* The cake looks delicious.
+  這個蛋糕看起來很好吃。
+
+## 2. must have + 過去分詞（\`must have\` + past participle）
+
+句型公式：
+
+**主詞 + \`must have\` + 過去分詞**
+
+\`must have\` 加過去分詞表示對過去的事有把握的推測。說話的人沒有看到那件事，但從眼前的情況判斷它一定發生過。原句裡說話的人從 Ann 開心的樣子推測有好事發生。
+
+* The ground is wet. It must have rained last night.
+  地上是濕的。昨晚一定下過雨。
+* Tom isn't here. He must have gone home.
+  Tom 不在這裡。他一定是回家了。
+
+## 3. something + 形容詞（\`something\` + adjective）
+
+句型公式：
+
+**\`something\` / \`anything\` / \`nothing\` + 形容詞**
+
+形容詞修飾 \`something\` 這類字的時候，放在它的後面。\`something good\` 是好事。\`nothing special\` 是沒什麼特別的。
+
+* I want to eat something sweet.
+  我想吃點甜的東西。
+* Is there anything interesting on TV?
+  電視上有什麼有趣的節目嗎？
+
+## 4. 例句
+
+1. Ann looks happy. Something good must have happened to her.
+Ann 看起來很開心，一定是有什麼好事發生在她身上。
+2. The new teacher looks very young.
+新老師看起來很年輕。
+3. The cake looks delicious.
+這個蛋糕看起來很好吃。
+4. Tom looked angry when he came in.
+Tom 進來的時候看起來很生氣。
+5. Your new bag looks expensive.
+你的新包包看起來很貴。
+6. The sky looks dark. Let's go home.
+天空看起來很暗。我們回家吧。
+7. The ground is wet. It must have rained last night.
+地上是濕的。昨晚一定下過雨。
+8. Tom isn't here. He must have gone home.
+Tom 不在這裡。他一定是回家了。
+9. I can't find my key. I must have left it at school.
+我找不到我的鑰匙。我一定是把它忘在學校了。
+10. She speaks English very well. She must have lived abroad.
+她英文說得很好。她一定在國外住過。
+11. The lights are off. They must have gone to bed.
+燈關了。他們一定已經去睡了。
+12. You must have been tired after the long trip.
+長途旅行之後你一定很累了。
+13. I want to eat something sweet.
+我想吃點甜的東西。
+14. Is there anything interesting on TV?
+電視上有什麼有趣的節目嗎？
+15. Nothing special happened today.
+今天沒有發生什麼特別的事。
+16. Let's drink something hot.
+我們喝點熱的東西吧。
+17. Let me tell you something funny.
+我跟你說一件好笑的事。
+18. My father looks sad. Something bad must have happened at work.
+我爸爸看起來很難過。工作上一定發生了不好的事。
+19. Ken looks pale. He must have caught a cold.
+Ken 看起來臉色蒼白。他一定是感冒了。
+20. The children look sleepy. They must have played all day.
+孩子們看起來很想睡。他們一定玩了一整天。
+21. She looks excited. She must have heard something good.
+她看起來很興奮。她一定聽到了什麼好事。
+22. You look happy. Did something nice happen?
+你看起來很開心。發生了什麼好事嗎？
+23. The house looks clean. My mother must have cleaned it this morning.
+家裡看起來很乾淨。我媽媽一定是今天早上打掃過了。
+24. Ann must have passed the exam. She's smiling.
+Ann 一定通過考試了。她在笑。
+25. There is nothing wrong with your bike.
+你的腳踏車沒有什麼問題。
+26. Tom looked worried. Something must have happened to his dog.
+Tom 看起來很擔心。他的狗一定出了什麼事。
+27. I'd like to buy something cheap for my sister.
+我想買點便宜的東西給我妹妹。
+28. The road is closed. There must have been an accident.
+那條路封起來了。一定是發生了車禍。
+29. You look different. You must have cut your hair.
+你看起來不一樣。你一定是剪頭髮了。
+30. Did anything exciting happen on your trip to Osaka?
+你去大阪玩的時候，有遇到什麼好玩的事嗎？
+`;export{e as default};

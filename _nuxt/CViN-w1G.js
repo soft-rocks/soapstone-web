@@ -1,0 +1,116 @@
+var e=`# When I visited my hometown for the first time in twenty years, I found that it was no longer what it used to be.
+
+## 1. find that + 子句（\`find that\` + clause）
+
+句型公式：
+
+**主詞 + \`found\` + (\`that\`) + 主詞 + 過去式**
+
+\`find that\` 表示發現某件事。主要動詞是過去式 \`found\` 時，子句的動詞通常也用過去式。原句的 \`it was no longer ...\` 用過去式，就是這個原因。\`that\` 可以省略。
+
+* When I opened the box, I found that it was empty.
+  我打開箱子的時候，發現裡面是空的。
+* I found that the shop was closed.
+  我發現那家店關門了。
+* I found the door was locked.
+  我發現門鎖著。
+
+## 2. no longer（不再）
+
+句型公式：
+
+**主詞 + \`be\` + \`no longer\` + 補語**
+
+**主詞 + \`no longer\` + 一般動詞**
+
+\`no longer\` 表示以前是這樣，現在不是了。它放在 \`be\` 動詞後面，或一般動詞前面。\`not ... any longer\` 的意思一樣。
+
+* He no longer lives in Tokyo.
+  他已經不住在東京了。
+* The store is no longer open on Sundays.
+  那家店星期天已經不開了。
+
+## 3. what + 主詞 + used to be（\`what\` S \`used to be\`）
+
+句型公式：
+
+**\`what\` + 主詞 + \`used to be\`**
+
+**\`what\` + 主詞 + \`is\` / \`was\`**
+
+\`what\` 帶出名詞子句，指一個人或地方的樣子。\`used to be\` 表示以前是這樣，現在不是了。\`what it used to be\` 是它以前的樣子。\`what it is today\` 是它現在的樣子。
+
+* My grandfather is not what he used to be.
+  我爺爺已經不是以前的樣子了。
+* This town is very different from what it was ten years ago.
+  這個小鎮跟十年前的樣子很不一樣。
+
+## 4. 例句
+
+1. When I visited my hometown for the first time in twenty years, I found that it was no longer what it used to be.
+我二十年來第一次回到家鄉，發現那裡已經不是以前的樣子了。
+2. When I opened the box, I found that it was empty.
+我打開箱子的時候，發現裡面是空的。
+3. I found that the shop was closed.
+我發現那家店關門了。
+4. She found that her son was asleep on the sofa.
+她發現她兒子在沙發上睡著了。
+5. We found that the hotel was very close to the beach.
+我們發現飯店離海灘很近。
+6. Tom found that the test was easier than he thought.
+Tom 發現考試比他想的簡單。
+7. He no longer lives in Tokyo.
+他已經不住在東京了。
+8. The store is no longer open on Sundays.
+那家店星期天已經不開了。
+9. I am no longer a child.
+我已經不是小孩了。
+10. My father no longer smokes.
+我爸爸已經不抽菸了。
+11. This bus no longer stops at our school.
+這班公車已經不停我們學校了。
+12. She doesn't play the piano any longer.
+她已經不彈鋼琴了。
+13. My grandfather is not what he used to be.
+我爺爺已經不是以前的樣子了。
+14. This town is very different from what it was ten years ago.
+這個小鎮跟十年前的樣子很不一樣。
+15. The river is no longer what it used to be.
+這條河已經不是以前的樣子了。
+16. I'm not what I used to be. I get tired easily now.
+我已經不像以前了。我現在很容易累。
+17. Thanks to the new station, the area is very different from what it was.
+多虧新車站，這一帶跟以前的樣子很不一樣。
+18. My hometown is very different from what it was when I was a child.
+我的家鄉跟我小時候的樣子很不一樣。
+19. When I went back to my old school, I found that the music room was no longer there.
+我回到以前的學校時，發現音樂教室已經不在了。
+20. Look at this old photo. Our town was very different from what it is today.
+看看這張舊照片。我們的小鎮以前跟現在的樣子很不一樣。
+21. The old bookstore near the station is no longer there.
+車站附近那家舊書店已經不在了。
+22. After ten years in Canada, Ken found that he could no longer speak Japanese well.
+在加拿大住了十年之後，Ken 發現他的日文已經說不好了。
+23. After the new mall opened, the old market was no longer what it used to be.
+新的購物中心開了以後，舊市場就不是以前的樣子了。
+24. My uncle no longer works at the bank. He runs a café now.
+我叔叔已經不在銀行工作了。他現在開一家咖啡店。
+25. When I visited my old school, I found that it was much smaller than I remembered.
+我回去看以前的學校時，發現它比我記得的小很多。
+26. The village isn't quiet any longer because many tourists come here.
+這個村子已經不安靜了，因為很多遊客會來這裡。
+27. Tom is not what he used to be. He can't run fast anymore.
+Tom 已經不是以前的樣子了。他現在跑不快了。
+28. My grandmother found that the village was no longer what it used to be.
+我奶奶發現那個村子已經不是以前的樣子了。
+29. We no longer need this old TV, so let's give it away.
+我們已經不需要這台舊電視了，所以把它送人吧。
+30. Is the town very different from what it was in the 1980s?
+這個小鎮跟一九八〇年代的樣子差很多嗎？
+31. I found the door was locked.
+我發現門鎖著。
+32. When I got to the station, I found the ticket office was closed.
+我到車站的時候，發現售票處關了。
+33. The station in this old photo is very different from what it is now.
+這張舊照片裡的車站跟現在的樣子很不一樣。
+`;export{e as default};

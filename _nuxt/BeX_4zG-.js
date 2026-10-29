@@ -1,0 +1,108 @@
+var e=`# Last summer I took two weeks off, and went on a trip to Europe with my wife.
+
+## 1. take + 時間 + off（\`take\` time \`off\`）
+
+句型公式：
+
+**\`take\` + 時間 + \`off\`**
+
+\`take ... off\` 表示請假，不去上班或上學。時間放在 \`take\` 和 \`off\` 中間。時間可以是一段長度，像 \`a day\`、\`two weeks\`。時間也可以是特定的日子或時段，像 \`Friday\`、\`the afternoon\`。
+
+* I'm going to take a day off tomorrow.
+  我明天要請一天假。
+* My father took three days off to visit my grandmother.
+  我爸爸請了三天假去看我奶奶。
+
+## 2. 一個主詞接兩個動詞（one subject with two verbs）
+
+句型公式：
+
+**主詞 + 動詞 A + ... + (\`,\`) \`and\` + 動詞 B + ...**
+
+同一個主詞做兩件事時，用 \`and\` 連接兩個動詞。第二個動詞前面不再寫主詞。原句的 \`I\` 做了兩件事：\`took two weeks off\` 和 \`went on a trip\`。\`and\` 前面一般不加逗號。原句的逗號只表示停頓，可以省略。
+
+* Tom finished his homework and went to bed.
+  Tom 寫完功課就去睡了。
+* She opened the window and looked outside.
+  她打開窗戶往外看。
+* My sister came home and went straight to her room.
+  我妹妹回到家，就直接進了她的房間。
+
+## 3. last + 時間名詞（\`last summer\`）
+
+句型公式：
+
+**\`last\` / \`next\` / \`this\` + 時間名詞**
+
+\`last summer\`、\`next week\`、\`this morning\` 這類說法前面不加介系詞。這些說法可以放在句首，也可以放在句尾。
+
+* Last summer we stayed at my uncle's house in Tainan.
+  去年夏天我們住在我叔叔台南的家。
+* I'll see you next Monday.
+  我們下星期一見。
+
+## 4. 例句
+
+1. Last summer I took two weeks off, and went on a trip to Europe with my wife.
+去年夏天我請了兩個禮拜的假，跟我太太去歐洲旅行。
+2. I'm going to take a day off tomorrow.
+我明天要請一天假。
+3. My father took three days off to visit my grandmother.
+我爸爸請了三天假去看我奶奶。
+4. Can I take Friday off next week?
+我下星期五可以請假嗎？
+5. She was sick, so she took the afternoon off.
+她生病了，所以下午請了假。
+6. You work too hard. You should take a few days off.
+你工作太認真了。你應該請幾天假。
+7. Ken has never taken a day off from school.
+Ken 上學從來沒有請過一天假。
+8. We went to Kenting last fall and swam in the ocean.
+我們去年秋天去了墾丁，在海裡游泳。
+9. Tom finished his homework and went to bed.
+Tom 寫完功課就去睡了。
+10. She opened the window and looked outside.
+她打開窗戶往外看。
+11. I got up at six, ate breakfast, and left home.
+我六點起床，吃了早餐，然後出門。
+12. My father stopped the car and asked for directions.
+我爸爸把車停下來問路。
+13. Ann bought a ticket and got on the train.
+Ann 買了票，上了火車。
+14. Last summer we stayed at my uncle's house in Tainan.
+去年夏天我們住在我叔叔台南的家。
+15. I'll see you next Monday.
+我們下星期一見。
+16. I got up at six this morning.
+我今天早上六點起床。
+17. Next year my sister will start high school.
+明年我妹妹要上高中了。
+18. It rained a lot last week.
+上星期下了很多雨。
+19. Last night I watched a movie with my brother.
+昨晚我跟我弟弟看了一部電影。
+20. My mother took a week off and went on a trip to Okinawa with her friends.
+我媽媽請了一個星期的假，跟她的朋友去沖繩旅行。
+21. Last spring we went on a trip to Paris.
+去年春天我們去巴黎旅行。
+22. I want to take a month off next year and travel around Japan.
+我明年想請一個月的假，環遊日本。
+23. This summer I'm going on a trip to Canada with my family.
+今年夏天我要跟家人去加拿大旅行。
+24. Last month Tom took a week off to move to a new apartment.
+上個月 Tom 請了一個星期的假搬到新公寓。
+25. Last year my husband and I took a week off and went to Italy.
+去年我先生和我請了一個星期的假，去了義大利。
+26. Last Christmas we went on a short trip to Hong Kong.
+去年聖誕節我們去香港玩了幾天。
+27. Next week I'll take two days off and go to the mountains.
+下星期我會請兩天假去山上。
+28. When are you going to take some time off?
+你什麼時候要休個假？
+29. Last year my grandparents went on a trip to Europe for the first time.
+去年我的爺爺奶奶第一次去歐洲旅行。
+30. She took the whole summer off and went on a trip to South America.
+她整個夏天都休假，去南美洲旅行。
+31. My sister came home and went straight to her room.
+我妹妹回到家，就直接進了她的房間。
+`;export{e as default};

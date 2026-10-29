@@ -1,0 +1,91 @@
+var e=`# When I was a child, I often wished my house were a little larger.
+
+## 1. wish + 過去式（\`wish\` S \`were\` / past tense）
+
+句型公式：
+
+**主詞 + \`wish\` + 主詞 + \`were\` / 過去式動詞**
+
+\`wish\` 後面的子句講跟事實不一樣的情況。子句用過去式。\`be\` 動詞常用 \`were\`。主詞是 \`I\` 或 \`he\` 也用 \`were\`。\`wish\` 本身變成過去式 \`wished\`，子句還是用 \`were\` 或過去式。
+
+* I wish I were taller.
+  真希望我高一點。
+* My sister wishes she had a dog.
+  我妹妹希望她有一隻狗。
+
+## 2. a little + 比較級（\`a little\` + comparative）
+
+句型公式：
+
+**\`a little\` / \`a bit\` / \`much\` + 形容詞 / 副詞比較級**
+
+\`a little\` 放在比較級前面，表示差一點點。\`a bit\` 和 \`a little\` 意思一樣，比較口語。\`much\` 放在比較級前面，表示差很多。原句的 \`a little larger\` 是大一點點。
+
+* Could you speak a little louder?
+  你可以說大聲一點嗎？
+* Going by train is much faster than driving.
+  搭火車比開車快很多。
+
+## 3. 例句
+
+1. When I was a child, I often wished my house were a little larger.
+我小時候常希望我家能再大一點。
+2. I wish I were taller.
+真希望我高一點。
+3. My sister wishes she had a dog.
+我妹妹希望她有一隻狗。
+4. I wish it were Saturday today.
+真希望今天是星期六。
+5. Tom wishes he lived near the sea.
+Tom 希望他住在海邊。
+6. We wish we had more time for the trip.
+我們希望這趟旅行有更多時間。
+7. I wish you were here with us.
+真希望你在這裡跟我們在一起。
+8. When I was little, I wished I were a bird.
+我小時候希望自己是一隻鳥。
+9. She wished she knew the answer.
+她希望自己知道答案。
+10. Could you speak a little louder?
+你可以說大聲一點嗎？
+11. Going by train is much faster than driving.
+搭火車比開車快很多。
+12. My brother is a little older than me.
+我哥哥比我大一點。
+13. It is a bit colder today than yesterday.
+今天比昨天冷一點。
+14. Can you walk a little faster? We'll miss the train.
+你可以走快一點嗎？我們會趕不上火車。
+15. The library is much quieter than the cafeteria.
+圖書館比學生餐廳安靜很多。
+16. I wish I had a little more money.
+真希望我有多一點錢。
+17. Can you make the music a little quieter?
+你可以把音樂調小聲一點嗎？
+18. I wish my brother were a little kinder to me.
+真希望我哥哥對我好一點。
+19. My new school is a little farther from my house than my old one.
+我的新學校比舊的學校離我家遠一點。
+20. Ken wishes he didn't have so much homework.
+Ken 希望他沒有那麼多功課。
+21. When I was a child, I often wished I had a brother.
+我小時候常常希望我有一個哥哥。
+22. I wish my room were a little bigger.
+真希望我的房間大一點。
+23. I wish I didn't have to get up so early.
+真希望我不用那麼早起。
+24. My father often wished he had a little more time to spend with us.
+我爸爸以前常常希望他可以多一點時間陪我們。
+25. Could you come a bit earlier tomorrow?
+你明天可以早一點來嗎？
+26. When Ann was young, she often wished her hair were longer.
+Ann 小時候常常希望她的頭髮長一點。
+27. Our new apartment is a little smaller than the old one.
+我們的新公寓比舊的小一點。
+28. I wish I spoke English a little better.
+真希望我英文說得好一點。
+29. When we were students, we often wished the tests were a bit easier.
+我們當學生的時候，常常希望考試簡單一點。
+30. This coffee is much better than the one at the station.
+這杯咖啡比車站那家的好喝很多。
+`;export{e as default};

@@ -1,0 +1,99 @@
+var e=`# This music is worth listening to over and over again. I recommend it.
+
+## 1. be worth + 動詞-ing（\`be worth\` + 動詞-ing）
+
+句型公式：
+
+**主詞 + \`be worth\` + 動詞-ing**
+
+**主詞 + \`be worth\` + 動詞-ing + 介系詞**
+
+\`be worth\` 加動詞-ing 表示值得做某件事。主詞是那個動作的對象。動詞後面需要介系詞時，介系詞要保留。原句是 \`listen to this music\`，所以寫成 \`worth listening to\`。
+
+* This book is worth reading.
+  這本書值得一讀。
+* Kyoto is worth visiting.
+  京都值得一去。
+* This restaurant is worth waiting for.
+  這家餐廳值得等。
+
+## 2. recommend + 名詞 / 動詞-ing（\`recommend\`）
+
+句型公式：
+
+**主詞 + \`recommend\` + 名詞 / 代名詞 + (\`to\` + 人)**
+
+**主詞 + \`recommend\` + 動詞-ing**
+
+\`recommend\` 表示推薦。後面直接接推薦的東西。要說推薦給誰，用 \`to\` 加人。\`recommend\` 也可以接動詞-ing，表示建議做某件事。
+
+* Can you recommend a good restaurant?
+  你可以推薦一家好餐廳嗎？
+* I recommend this book to all students.
+  我把這本書推薦給所有學生。
+* I recommend taking the train.
+  我建議搭火車。
+
+## 3. 例句
+
+1. This music is worth listening to over and over again. I recommend it.
+這首音樂值得一聽再聽。我推薦它。
+2. This book is worth reading.
+這本書值得一讀。
+3. Kyoto is worth visiting.
+京都值得一去。
+4. This restaurant is worth waiting for.
+這家餐廳值得等。
+5. The movie is worth watching twice.
+這部電影值得看兩次。
+6. Is the museum worth going to?
+那間博物館值得去嗎？
+7. His advice is worth listening to.
+他的建議值得聽。
+8. This old temple is worth seeing.
+這座老寺廟值得一看。
+9. Is this book worth buying?
+這本書值得買嗎？
+10. That restaurant is worth going to again.
+那家餐廳值得再去一次。
+11. I recommend the fish at this restaurant.
+我推薦這家餐廳的魚。
+12. My friend recommended this hotel to me.
+我朋友推薦這家飯店給我。
+13. Can you recommend a good restaurant?
+你可以推薦一家好餐廳嗎？
+14. I recommend this book to all students.
+我把這本書推薦給所有學生。
+15. I recommend taking the train.
+我建議搭火車。
+16. My teacher recommended this dictionary to me.
+我的老師推薦這本字典給我。
+17. What do you recommend?
+你推薦什麼？
+18. The doctor recommended walking every day.
+醫生建議每天走路。
+19. We recommend booking a hotel early in summer.
+我們建議夏天要早點訂飯店。
+20. This old movie is worth watching over and over again.
+這部老電影值得看了又看。
+21. Ann recommended a nice café near the station.
+Ann 推薦了車站附近一家不錯的咖啡店。
+22. Taroko Gorge is worth seeing. I recommend it to everyone.
+太魯閣峽谷值得一看。我推薦大家去。
+23. Which book would you recommend to a beginner?
+你會推薦哪一本書給初學者？
+24. This question is worth thinking about.
+這個問題值得想一想。
+25. I don't recommend eating at that restaurant.
+我不建議在那家餐廳吃飯。
+26. I recommend going early because it gets crowded.
+我建議早點去，因為會變得很擠。
+27. Which hotel would you recommend?
+你會推薦哪一家飯店？
+28. Her speech was worth hearing.
+她的演講值得一聽。
+29. This beach is worth visiting in summer.
+這片海灘夏天值得一去。
+30. If you go to Hokkaido, I recommend trying the soup curry.
+如果你去北海道，我建議試試湯咖哩。
+`;export{e as default};

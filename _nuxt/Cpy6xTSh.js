@@ -1,0 +1,101 @@
+var e=`# This motorbike is about twice as expensive in the U.K. as in Japan.
+
+## 1. 倍數 + as ... as（multiples with \`as\` ... \`as\`）
+
+句型公式：
+
+**倍數 + \`as\` + 形容詞 / 副詞 + \`as\` + B**
+
+**倍數 + \`as much\` + 不可數名詞 / \`as many\` + 複數名詞 + \`as\` + B**
+
+倍數放在第一個 \`as\` 的前面。兩倍用 \`twice\`，三倍以上用 \`three times\`、\`four times\`。一半用 \`half\`。比較數量時，用 \`as much\` 或 \`as many\` 加名詞。原句的 \`about\` 是大約，放在倍數前面。
+
+* My room is twice as big as yours.
+  我的房間是你的兩倍大。
+* This bridge is three times as long as that one.
+  這座橋是那座的三倍長。
+* This bag is half as heavy as my old one.
+  這個包包只有我舊包包的一半重。
+
+## 2. as 後面接介系詞片語（prepositional phrases after \`as\`）
+
+句型公式：
+
+**主詞 + \`be\` + (倍數 / \`just\`) + \`as\` + 形容詞 + 介系詞片語 + \`as\` + 介系詞片語**
+
+比較的對象可以是兩個介系詞片語。第二個 \`as\` 後面的介系詞片語保留介系詞。倍數可以省略。這個句型也可以用在否定句和疑問句。\`just as\` 表示兩邊完全一樣。原句比較的是 \`in the U.K.\` 和 \`in Japan\`。
+
+* Vegetables are twice as expensive in winter as in summer.
+  蔬菜冬天的價格是夏天的兩倍。
+* The beach isn't as crowded in winter as in summer.
+  海灘冬天沒有夏天那麼擠。
+* Is it as hot in Kaohsiung as in Taipei?
+  高雄跟台北一樣熱嗎？
+* This ramen shop is just as busy on weekdays as on weekends.
+  這家拉麵店平日跟週末一樣忙。
+
+## 3. 例句
+
+1. This motorbike is about twice as expensive in the U.K. as in Japan.
+這台機車在英國的價錢大約是在日本的兩倍。
+2. My room is twice as big as yours.
+我的房間是你的兩倍大。
+3. This bridge is three times as long as that one.
+這座橋是那座的三倍長。
+4. This bag is half as heavy as my old one.
+這個包包只有我舊包包的一半重。
+5. My father is twice as old as me.
+我爸爸的年紀是我的兩倍。
+6. Tom has three times as many comics as I do.
+Tom 的漫畫是我的三倍多。
+7. The new train runs twice as fast as the old one.
+新火車的速度是舊火車的兩倍。
+8. This pizza is half as big as that one.
+這個披薩只有那個的一半大。
+9. Our school is four times as large as theirs.
+我們學校是他們學校的四倍大。
+10. My bag is twice as heavy as yours.
+我的包包是你的兩倍重。
+11. This road is three times as wide as that one.
+這條路是那條路的三倍寬。
+12. Tom earns twice as much money as his brother.
+Tom 賺的錢是他弟弟的兩倍。
+13. The trip took twice as long as we expected.
+這趟旅行花的時間是我們預期的兩倍。
+14. This year we had three times as much rain as last year.
+今年的雨量是去年的三倍。
+15. My little sister has half as many toys as I do.
+我妹妹的玩具只有我的一半。
+16. Vegetables are twice as expensive in winter as in summer.
+蔬菜冬天的價格是夏天的兩倍。
+17. The beach isn't as crowded in winter as in summer.
+海灘冬天沒有夏天那麼擠。
+18. Rent is about three times as high in Tokyo as in my hometown.
+東京的房租大約是我家鄉的三倍高。
+19. Is it as hot in Kaohsiung as in Taipei?
+高雄跟台北一樣熱嗎？
+20. This ramen shop is just as busy on weekdays as on weekends.
+這家拉麵店平日跟週末一樣忙。
+21. This city is about twice as big as Taipei.
+這個城市大約是台北的兩倍大。
+22. This mountain is about three times as high as Taipei 101.
+這座山大約是台北 101 的三倍高。
+23. Sushi is just as fresh in Taipei as in Tokyo.
+台北的壽司跟東京的一樣新鮮。
+24. My brother eats twice as much as I do.
+我哥哥吃的量是我的兩倍。
+25. Tom is as quiet at home as at school.
+Tom 在家跟在學校一樣安靜。
+26. Ann reads about three times as many books as her brother.
+Ann 讀的書大約是她弟弟的三倍。
+27. This lake is about half as deep as that one.
+這座湖大約只有那座湖的一半深。
+28. Was the train as crowded in the evening as in the morning?
+火車晚上跟早上一樣擠嗎？
+29. The new library is four times as large as the old one.
+新圖書館是舊圖書館的四倍大。
+30. Prices aren't as high in the countryside as in the city.
+鄉下的物價沒有城市那麼高。
+31. This shirt is just as cheap online as in the store.
+這件襯衫在網路上跟在店裡一樣便宜。
+`;export{e as default};

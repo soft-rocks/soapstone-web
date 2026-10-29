@@ -1,0 +1,91 @@
+var e=`# Bob had changed a lot, so when I saw him at a class reunion, I didn’t recognize him.
+
+## 1. 過去完成式（past perfect）
+
+句型公式：
+
+**主詞 + \`had\` + 過去分詞**
+
+過去完成式表示一件事在過去某個時間點之前已經發生。原句的時間點是同學會。Bob 在同學會之前就已經變了很多。另一件過去的事用過去式。
+
+* When I got to school, the class had already begun.
+  我到學校的時候，課已經開始了。
+* She had never seen snow before she went to Hokkaido.
+  她去北海道之前從來沒看過雪。
+
+## 2. so 帶出結果（\`so\` + result）
+
+句型公式：
+
+**原因子句, + \`so\` + 結果子句**
+
+\`so\` 連接兩個子句。前面的子句是原因，後面的子句是結果。\`so\` 後面的子句裡可以再放一個 \`when\` 子句。
+
+* It was raining, so we stayed home.
+  外面在下雨，所以我們待在家。
+* I was tired, so when I got home, I went to bed right away.
+  我很累，所以我回到家就馬上去睡了。
+
+## 3. 例句
+
+1. Bob had changed a lot, so when I saw him at a class reunion, I didn’t recognize him.
+Bob 變了很多，所以我在同學會上看到他的時候沒認出他來。
+2. When I got to school, the class had already begun.
+我到學校的時候，課已經開始了。
+3. She had never seen snow before she went to Hokkaido.
+她去北海道之前從來沒看過雪。
+4. I had finished my homework when my mother came home.
+我媽媽回到家的時候，我已經寫完功課了。
+5. The movie had started before we got to the theater.
+我們到電影院之前，電影已經開始了。
+6. Tom told me that he had lost his wallet.
+Tom 跟我說他把錢包弄丟了。
+7. I didn't know the town because I had never been there before.
+我不熟那個小鎮，因為我以前從沒去過。
+8. It was raining, so we stayed home.
+外面在下雨，所以我們待在家。
+9. I was tired, so when I got home, I went to bed right away.
+我很累，所以我回到家就馬上去睡了。
+10. The shop was closed, so we went to another one.
+那家店關了，所以我們去了另一家。
+11. Ann was hungry, so she made a sandwich.
+Ann 餓了，所以她做了一個三明治。
+12. I overslept, so I missed breakfast.
+我睡過頭，所以沒吃到早餐。
+13. I had never eaten sushi before I came to Japan.
+我來日本之前從沒吃過壽司。
+14. When the police came, the man had already run away.
+警察來的時候，那個男人已經逃走了。
+15. I knew the way because I had been there before.
+我知道路，因為我以前去過那裡。
+16. The town had changed so much that I couldn't recognize it.
+那個小鎮變了太多，我認不出來了。
+17. The children had gone to bed when their father came home.
+爸爸回到家的時候，孩子們已經睡了。
+18. Ann was tired because she had worked all day.
+Ann 很累，因為她工作了一整天。
+19. My hometown had changed a lot, so I didn't recognize the station.
+我的家鄉變了很多，所以我認不出那個車站。
+20. She had cut her hair short, so I didn't recognize her at first.
+她把頭髮剪短了，所以我一開始沒認出她。
+21. He had grown a beard, so nobody recognized him at the party.
+他留了鬍子，所以在派對上沒有人認出他。
+22. I hadn't seen Ken for ten years, so when we met at the airport, I didn't recognize him.
+我十年沒見到 Ken 了，所以我們在機場碰面的時候，我沒認出他。
+23. When I came back from Canada, the streets near my house had changed a lot.
+我從加拿大回來的時候，我家附近的街道已經變了很多。
+24. I forgot my umbrella, so I got wet on the way home.
+我忘了帶傘，所以回家路上淋濕了。
+25. She studied hard, so she passed the exam easily.
+她很努力讀書，所以輕鬆通過了考試。
+26. My grandfather didn't recognize me because I had grown so much.
+我爺爺沒認出我，因為我長大了很多。
+27. We've just had lunch, so we're not hungry.
+我們剛吃過午餐，所以不餓。
+28. My old teacher had hardly changed, so I recognized her right away at the reunion.
+我以前的老師幾乎沒變，所以我在同學會上馬上就認出她了。
+29. The restaurant had moved, so when we went there, we couldn't find it.
+那家餐廳搬走了，所以我們去的時候找不到。
+30. The tickets were too expensive, so we didn't go to the concert.
+票太貴了，所以我們沒去聽演唱會。
+`;export{e as default};

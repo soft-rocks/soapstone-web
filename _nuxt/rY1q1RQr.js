@@ -1,0 +1,112 @@
+var e=`# It would be dangerous to drink two bottles of whiskey and drive a car.
+
+## 1. 形式主詞的 it（anticipatory it）
+
+句型公式：
+
+**It + be + 形容詞 / 名詞 + (\`for\` + 人) + \`to\` + 動詞原形**
+
+句首的 \`it\` 是形式主詞。它本身沒有意思，只佔主詞的位置。真正的主詞是後面的 \`to\` 不定詞片段。原句真正的主詞是 \`to drink two bottles of whiskey and drive a car\`。要說是誰做這件事，在 \`to\` 前面加 \`for\` 和人。
+
+* It is dangerous to swim in this river.
+  在這條河裡游泳很危險。
+* It was hard for me to find an empty seat.
+  要找到空位對我來說很難。
+* Is it safe to drink the tap water here?
+  這裡的自來水可以直接喝嗎？
+
+## 2. 假設的 would（hypothetical \`would\`）
+
+句型公式：
+
+**主詞 + \`would\` + 動詞原形**
+
+\`would\` 說在一個假設的條件下會有什麼結果。這個條件還沒有發生。條件不一定要用 \`if\` 子句說出來。原句的條件是 \`to\` 不定詞片段 \`to drink two bottles of whiskey and drive a car\`。條件也可以是句首的名詞或動詞-ing 片段。
+
+* A taxi would be faster.
+  搭計程車會比較快。
+* Moving to Osaka would mean leaving all my friends.
+  搬去大阪就表示要離開我所有的朋友。
+* “Shall we meet at six?” “That would be great.”
+  「我們六點見好嗎？」「那太好了。」
+
+## 3. 共用一個 to 的並列不定詞（two infinitives sharing one \`to\`）
+
+句型公式：
+
+**\`to\` + 動詞原形 + ... + \`and\` + 動詞原形 + ...**
+
+\`and\` 連接兩個不定詞。\`and\` 後面的動詞共用前面的 \`to\`，前面不再放 \`to\`。每個動詞可以有自己的受詞。原句的 \`drink\` 帶 \`two bottles of whiskey\`，\`drive\` 帶 \`a car\`。
+
+* I just want to go home and sleep.
+  我只想回家睡覺。
+* She went out to buy some milk and pick up her son.
+  她出門去買牛奶、接兒子。
+* Remember to lock the door and turn off the lights.
+  記得鎖門、關燈。
+
+## 4. 例句
+
+1. It would be dangerous to drink two bottles of whiskey and drive a car.
+喝兩瓶威士忌再開車會很危險。
+2. It is dangerous to swim in this river.
+在這條河裡游泳很危險。
+3. It was hard for me to find an empty seat.
+要找到空位對我來說很難。
+4. Is it safe to drink the tap water here?
+這裡的自來水可以直接喝嗎？
+5. It's not easy to learn a language.
+學一種語言不容易。
+6. It was a pleasure to work with you.
+跟你共事很愉快。
+7. It is impossible for Tom to finish the report tonight.
+Tom 今晚不可能寫完這份報告。
+8. Was it difficult to get tickets for the concert?
+演唱會的票難買嗎？
+9. It's important to get enough sleep before an exam.
+考試前睡飽很重要。
+10. It's a good idea to bring an umbrella today.
+今天帶把傘比較好。
+11. A taxi would be faster.
+搭計程車會比較快。
+12. Moving to Osaka would mean leaving all my friends.
+搬去大阪就表示要離開我所有的朋友。
+13. “Shall we meet at six?” “That would be great.”
+「我們六點見好嗎？」「那太好了。」
+14. A bigger table would look nice in this room.
+這個房間放大一點的桌子會很好看。
+15. Ten thousand yen would be enough for the trip.
+這趟旅行一萬日圓應該就夠了。
+16. I'd love to come, but my boss wouldn't let me leave early.
+我很想去，可是我老闆不會讓我早退的。
+17. Without your help, this job would take me all week.
+沒有你幫忙，這份工作要花我一整個星期。
+18. A warm bath would help you sleep.
+泡個熱水澡會幫助你入睡。
+19. Selling the car now would be a mistake.
+現在把車賣掉會是個錯誤。
+20. My parents would be angry if they saw my room.
+我爸媽要是看到我的房間會很生氣。
+21. I just want to go home and sleep.
+我只想回家睡覺。
+22. She went out to buy some milk and pick up her son.
+她出門去買牛奶、接兒子。
+23. Remember to lock the door and turn off the lights.
+記得鎖門、關燈。
+24. We decided to rent a car and drive along the coast.
+我們決定租車，沿著海岸開。
+25. He promised to call me and explain everything.
+他答應會打電話給我，把事情全部解釋清楚。
+26. You need to sit down and relax for a while.
+你需要坐下來休息一下。
+27. My plan is to finish work early and go to the gym.
+我的計畫是早點下班，然後去健身房。
+28. I'd like to take a shower and change my clothes first.
+我想先洗個澡、換個衣服。
+29. Tell your brother to wash his hands and come to the table.
+叫你弟弟洗手，過來吃飯。
+30. It would be fun to rent bikes and ride around the lake.
+租腳踏車繞著湖騎會很好玩。
+31. It would be impossible to drink ten cups of coffee and sleep well.
+喝十杯咖啡還要睡得好，是不可能的。
+`;export{e as default};

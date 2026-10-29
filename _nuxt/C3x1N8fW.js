@@ -1,0 +1,91 @@
+var e=`# It is a pity that many Japanese people mistakenly believe that they have only to speak English to be internationally minded.
+
+## 1. It is a pity that ...（\`it is a pity that\`）
+
+句型公式：
+
+**\`It is a pity that\` + 子句**
+
+\`it\` 是形式主詞，真正的主詞是後面的 \`that\` 子句。\`a pity\` 是可惜的事。\`It is a shame that\` 的意思一樣。
+
+* It is a pity that you can't come to the party.
+  很可惜你不能來派對。
+* It was a pity that it rained on the day of the festival.
+  活動那天下雨，很可惜。
+
+## 2. have only to + 動詞原形（\`have only to\` / \`only have to\`）
+
+句型公式：
+
+**主詞 + \`have only to\` / \`only have to\` + 動詞原形 + (\`to\` + 動詞原形)**
+
+\`have only to\` 表示只要做這一件事就夠了。後面常再接一個 \`to\` 不定詞，說明做了以後的結果或目的。原句的意思是很多人以為只要會說英文，就有國際觀。
+
+* You have only to press this button to start the machine.
+  你只要按這個按鈕，機器就會啟動。
+* You only have to ask, and I'll help you.
+  你只要開口，我就會幫你。
+
+## 3. 例句
+
+1. It is a pity that many Japanese people mistakenly believe that they have only to speak English to be internationally minded.
+很可惜，很多日本人誤以為只要會說英文就算有國際觀。
+2. It is a pity that you can't come to the party.
+很可惜你不能來派對。
+3. It was a pity that it rained on the day of the festival.
+活動那天下雨，很可惜。
+4. It is a pity that the old bookstore closed.
+那家舊書店關了，很可惜。
+5. It is a shame that Tom missed the game.
+Tom 錯過了比賽，很可惜。
+6. It was a pity that we didn't have more time in Kyoto.
+很可惜，我們沒能在京都多待一點時間。
+7. It is a pity that few young people read newspapers now.
+現在很少年輕人看報紙，很可惜。
+8. You have only to press this button to start the machine.
+你只要按這個按鈕，機器就會啟動。
+9. You only have to ask, and I'll help you.
+你只要開口，我就會幫你。
+10. You have only to look at the map to find the station.
+你只要看地圖就找得到車站。
+11. We only have to wait ten more minutes.
+我們只要再等十分鐘。
+12. You have only to tell the truth.
+你只要說實話就好。
+13. You only have to walk five minutes to get to the beach.
+你只要走五分鐘就到海邊。
+14. It is a pity that the rain spoiled our picnic.
+很可惜，下雨把我們的野餐搞砸了。
+15. You have only to add hot water to make this soup.
+你只要加熱水就能做出這碗湯。
+16. It was a pity that you couldn't see the fireworks.
+你沒看到煙火，很可惜。
+17. You only have to fill in this form.
+你只要填這張表就好。
+18. It is a shame that the old theater will close.
+那間老戲院要關了，很可惜。
+19. It is a pity that many people believe they have only to buy a good racket to play well.
+很可惜，很多人以為只要買一支好球拍就能打得好。
+20. Some people mistakenly believe that they only have to study the night before the test.
+有些人誤以為只要在考試前一晚讀書就好。
+21. It is a pity that Ann mistakenly thought the party was on Sunday.
+很可惜，Ann 誤以為派對在星期天。
+22. You have only to smile to make friends in this town.
+在這個小鎮，你只要微笑就能交到朋友。
+23. It is a shame that so much food is thrown away every day.
+每天有這麼多食物被丟掉，很可惜。
+24. You have only to follow the signs to find the exit.
+你只要跟著指標走，就能找到出口。
+25. You only have to show your ticket at the gate.
+你只要在門口出示你的票就好。
+26. It was a pity that the museum was closed when we got there.
+我們到的時候博物館關了，很可惜。
+27. It is a pity that we live so far apart.
+很可惜我們住得那麼遠。
+28. You have only to practice every day to get better at the piano.
+你只要每天練習，鋼琴就會彈得更好。
+29. It is a pity that you have to leave so soon.
+你這麼快就要走，很可惜。
+30. Some parents wrongly believe that they have only to send their children to a cram school to make them smart.
+有些父母誤以為只要把孩子送去補習班，就能讓他們變聰明。
+`;export{e as default};

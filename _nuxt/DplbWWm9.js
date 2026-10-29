@@ -1,0 +1,106 @@
+var e=`# In order to stay healthy, you should have a balanced diet and get regular exercise.
+
+## 1. in order to + 動詞原形（\`in order to\`）
+
+句型公式：
+
+**\`In order to\` + 動詞原形, + 主要子句**
+
+**主要子句 + \`in order to\` + 動詞原形**
+
+\`in order to\` 表示目的，意思跟表示目的的 \`to\` 不定詞一樣。它比單用 \`to\` 正式。否定是 \`in order not to\`。
+
+* I got up early in order to watch the sunrise.
+  我為了看日出很早就起床。
+* We left early in order not to be late.
+  我們早點出發，以免遲到。
+
+## 2. stay + 形容詞（linking verb \`stay\`）
+
+句型公式：
+
+**主詞 + \`stay\` + 形容詞**
+
+\`stay\` 在這裡是連綴動詞，表示保持一個狀態。後面接 \`healthy\`、\`awake\`、\`warm\`、\`calm\` 這類形容詞。
+
+* Drink coffee if you want to stay awake.
+  如果你想保持清醒就喝咖啡。
+* Please stay calm.
+  請保持冷靜。
+
+## 3. 表示建議的 should（\`should\` for advice）
+
+句型公式：
+
+**主詞 + \`should\` + 動詞原形**
+
+\`should\` 表示說話的人認為對方應該做的事。否定是 \`shouldn't\`。問別人意見時，把 \`should\` 放在主詞前面，像 \`Should I ...?\`。
+
+* You should see a doctor.
+  你應該去看醫生。
+* Should I bring something to the party?
+  我應該帶點東西去派對嗎？
+
+## 4. 例句
+
+1. In order to stay healthy, you should have a balanced diet and get regular exercise.
+為了保持健康，你應該均衡飲食，並且規律運動。
+2. I got up early in order to watch the sunrise.
+我為了看日出很早就起床。
+3. We left early in order not to be late.
+我們早點出發，以免遲到。
+4. In order to pass the exam, Tom studied every night.
+為了通過考試，Tom 每天晚上讀書。
+5. She went to Canada in order to learn English.
+她去加拿大是為了學英文。
+6. In order to save money, I make my own lunch.
+為了省錢，我自己做午餐。
+7. I spoke quietly in order not to wake the baby.
+我小聲說話，以免吵醒寶寶。
+8. Drink coffee if you want to stay awake.
+如果你想保持清醒就喝咖啡。
+9. Please stay calm.
+請保持冷靜。
+10. Wear a coat to stay warm.
+穿外套保暖。
+11. My grandfather walks every day to stay healthy.
+我爺爺每天走路來保持健康。
+12. I couldn't stay awake during the movie.
+看電影的時候我沒辦法保持清醒。
+13. The shop stays open until midnight.
+那家店營業到半夜。
+14. You should see a doctor.
+你應該去看醫生。
+15. Should I bring something to the party?
+我應該帶點東西去派對嗎？
+16. You shouldn't play video games all night.
+你不應該整晚打電動。
+17. We should leave now.
+我們現在應該出發。
+18. You should drink more water in summer.
+夏天你應該多喝水。
+19. In order to stay healthy, my mother eats a lot of vegetables.
+為了保持健康，我媽媽吃很多蔬菜。
+20. You should get enough sleep in order to stay healthy.
+為了保持健康，你應該睡飽。
+21. In order to lose weight, you should eat less and walk more.
+為了變瘦，你應該吃少一點，多走路。
+22. You should stay home if you have a fever.
+如果你發燒，你應該待在家。
+23. The baby stayed quiet on the long train ride.
+寶寶在長途火車上一直很安靜。
+24. Should we take a taxi in order to get there on time?
+為了準時到，我們應該搭計程車嗎？
+25. He borrowed money from his brother in order to buy a car.
+他為了買車，跟他哥哥借錢。
+26. You shouldn't skip breakfast.
+你不應該不吃早餐。
+27. In order not to catch a cold, you should wash your hands often.
+為了避免感冒，你應該常洗手。
+28. It's important to stay calm in an earthquake.
+地震的時候保持冷靜很重要。
+29. Ken goes to the gym three times a week in order to stay strong.
+Ken 一個星期去健身房三次來維持體力。
+30. You should have a balanced diet if you want to stay healthy.
+如果你想保持健康，你應該飲食均衡。
+`;export{e as default};

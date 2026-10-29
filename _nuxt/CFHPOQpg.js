@@ -1,0 +1,116 @@
+var e=`# A lot of people have personal computers, but very few of them know how to use them effectively.
+
+## 1. few、a few 和 very few（\`few\` / \`a few\` / \`very few\`）
+
+句型公式：
+
+**\`a few\` + 可數名詞複數**
+
+**\`few\` / \`very few\` + 可數名詞複數**
+
+**\`few\` / \`a few\` / \`very few\` + \`of\` + \`them\` / \`us\` / \`the\` + 名詞 / 所有格 + 名詞**
+
+\`a few\` 表示有一些。\`few\` 表示很少，幾乎沒有。\`very few\` 表示非常少。後面要接特定的一群人或東西時，先加 \`of\`。\`of\` 後面接 \`them\`、\`us\` 這類代名詞，或接 \`the\` 加名詞、所有格加名詞。
+
+* I have a few friends in Osaka.
+  我在大阪有幾個朋友。
+* Very few students came to school during the typhoon.
+  颱風天很少學生來學校。
+* We invited thirty people, but very few of them came.
+  我們邀了三十個人，但很少人來。
+
+## 2. how to + 動詞原形（\`how to\`）
+
+句型公式：
+
+**動詞 + \`how to\` + 動詞原形**
+
+\`how to\` 加動詞原形表示做某件事的方法。它常放在 \`know\`、\`learn\`、\`show\`、\`tell\` 後面當受詞。
+
+* Do you know how to get to the station?
+  你知道怎麼去車站嗎？
+* My mother showed me how to make dumplings.
+  我媽媽教我怎麼包餃子。
+
+## 3. 副詞放在受詞後面（adverb after the object）
+
+句型公式：
+
+**動詞 + 受詞 + 副詞**
+
+\`effectively\`、\`carefully\`、\`well\` 這類副詞修飾動詞，說明動作做得怎麼樣。動詞有受詞的時候，副詞不放在動詞和受詞中間。原句的 \`effectively\` 放在受詞 \`them\` 後面。
+
+* Please read the question carefully.
+  請仔細讀題目。
+* He uses his time well.
+  他很會利用時間。
+
+## 4. 例句
+
+1. A lot of people have personal computers, but very few of them know how to use them effectively.
+很多人有個人電腦，可是他們之中很少人知道怎麼有效地使用電腦。
+2. I have a few friends in Osaka.
+我在大阪有幾個朋友。
+3. Very few students came to school during the typhoon.
+颱風天很少學生來學校。
+4. We invited thirty people, but very few of them came.
+我們邀了三十個人，但很少人來。
+5. There are a few eggs in the fridge.
+冰箱裡有幾顆蛋。
+6. Few people live on this small island.
+很少人住在這個小島上。
+7. Very few of the students answered the last question.
+很少學生答出最後一題。
+8. Can you wait a few minutes?
+你可以等幾分鐘嗎？
+9. Do you know how to get to the station?
+你知道怎麼去車站嗎？
+10. My mother showed me how to make dumplings.
+我媽媽教我怎麼包餃子。
+11. I'm learning how to drive.
+我正在學怎麼開車。
+12. Could you tell me how to use this machine?
+你可以告訴我怎麼用這台機器嗎？
+13. Nobody knew how to open the box.
+沒有人知道怎麼打開那個箱子。
+14. Please read the question carefully.
+請仔細讀題目。
+15. He uses his time well.
+他很會利用時間。
+16. She explained the rules clearly.
+她把規則解釋得很清楚。
+17. You should use your money wisely.
+你應該把錢花在該花的地方。
+18. Many students have dictionaries, but few of them use them well.
+很多學生有字典，但他們之中很少人會好好使用。
+19. Very few people know how to fix this old car.
+很少人知道怎麼修這台舊車。
+20. A lot of tourists come to Taipei, but very few of them visit this temple.
+很多遊客來台北，但他們之中很少人來這間廟。
+21. My grandfather doesn't know how to use a smartphone.
+我爺爺不知道怎麼用智慧型手機。
+22. I learned how to study effectively from my teacher.
+我跟老師學會了怎麼有效地讀書。
+23. A few of my classmates know how to play the guitar.
+我班上有幾個同學會彈吉他。
+24. Very few of us knew the answer.
+我們之中很少人知道答案。
+25. Lots of people have bikes, but few people ride them to work.
+很多人有腳踏車，但很少人騎腳踏車上班。
+26. Can you show me how to use this app effectively?
+你可以教我怎麼有效地使用這個 app 嗎？
+27. I stayed in Kyoto for a few days.
+我在京都待了幾天。
+28. Tom knows how to cook Italian food.
+Tom 會做義大利菜。
+29. She finished the work quickly and went home.
+她很快做完工作就回家了。
+30. Very few of the shops are open on New Year's Day.
+元旦那天很少店有開。
+31. A few of my friends came to see me in the hospital.
+我有幾個朋友來醫院看我。
+32. Few of us had seen snow before.
+我們之中很少人以前看過雪。
+33. The teacher told us how to write a good essay.
+老師告訴我們怎麼寫一篇好作文。
+`;export{e as default};

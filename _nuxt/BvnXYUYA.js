@@ -1,0 +1,97 @@
+var e=`# If you live in a developing country for a while, you have an opportunity to look at Japan from a different point of view.
+
+## 1. 表示一般情況的 if（\`if\` + present, present）
+
+句型公式：
+
+**\`If\` + 主詞 + 現在式, + 主詞 + 現在式**
+
+\`if\` 子句和主要子句都用現在式時，表示一般的情況。只要條件成立，結果通常就會發生。這不是假設語氣，講的是實際會發生的事。
+
+* If you heat ice, it melts.
+  如果你把冰加熱，它就會融化。
+* If I watch scary movies, I can't sleep.
+  如果我看恐怖片，就會睡不著。
+
+## 2. opportunity to + 動詞原形（\`opportunity to\` / \`chance to\`）
+
+句型公式：
+
+**\`have\` / \`get\` + \`an opportunity to\` / \`a chance to\` + 動詞原形**
+
+**\`give\` + 人 + \`an opportunity to\` / \`a chance to\` + 動詞原形**
+
+**\`take the opportunity to\` + 動詞原形**
+
+\`opportunity\` 和 \`chance\` 表示做某件事的機會。\`to\` 不定詞放在後面，說明是做什麼的機會。\`opportunity\` 比 \`chance\` 正式。主詞是帶來機會的事情時，用 \`give\` 加人。\`take the opportunity to\` 表示利用機會去做一件事。
+
+* I had an opportunity to meet the writer.
+  我有機會見到那位作家。
+* Did you get a chance to see the castle?
+  你有機會去看那座城堡嗎？
+
+## 3. 例句
+
+1. If you live in a developing country for a while, you have an opportunity to look at Japan from a different point of view.
+如果你在開發中國家住一陣子，就有機會從不同的角度看日本。
+2. If you heat ice, it melts.
+如果你把冰加熱，它就會融化。
+3. If I watch scary movies, I can't sleep.
+如果我看恐怖片，就會睡不著。
+4. If you mix blue and yellow, you get green.
+如果你把藍色和黃色混在一起，就會得到綠色。
+5. If my sister is sad, she eats chocolate.
+如果我姊姊難過，她就吃巧克力。
+6. If you press this button, the door opens.
+如果你按這個按鈕，門就會打開。
+7. If it rains, the soccer game is canceled.
+如果下雨，足球比賽就會取消。
+8. I had an opportunity to meet the writer.
+我有機會見到那位作家。
+9. Did you get a chance to see the castle?
+你有機會去看那座城堡嗎？
+10. This trip is a good opportunity to make new friends.
+這趟旅行是交新朋友的好機會。
+11. I hope I get a chance to visit Taiwan again.
+我希望我有機會再去台灣。
+12. Students have an opportunity to study abroad in the second year.
+學生在第二年有機會出國讀書。
+13. We didn't get a chance to say goodbye.
+我們沒有機會說再見。
+14. If you don't water plants, they die.
+如果你不給植物澆水，它們就會死。
+15. If I sleep less than six hours, I get a headache.
+如果我睡不到六個小時，我就會頭痛。
+16. You'll have a chance to ask questions after the talk.
+演講之後你會有機會發問。
+17. I never get a chance to sleep late on weekdays.
+平日我從來沒有機會睡晚一點。
+18. If it is sunny, you can see Mt. Fuji from here.
+如果天氣晴朗，你從這裡看得到富士山。
+19. If you live abroad, you have a chance to learn about other cultures.
+如果你住在國外，你就有機會了解其他的文化。
+20. If you work at a hotel, you have an opportunity to meet people from many countries.
+如果你在飯店工作，你就有機會遇到很多國家的人。
+21. Living in Osaka gave me a chance to look at Tokyo from a different point of view.
+住在大阪讓我有機會從不同的觀點看東京。
+22. If you travel alone, you see things from a different point of view.
+如果你一個人旅行，你就會從不同的觀點看事情。
+23. The festival is a good chance to try local food.
+這個祭典是吃當地美食的好機會。
+24. This summer job gave me a chance to save some money.
+這份暑期工作讓我有機會存一點錢。
+25. If my dog sees a cat, he barks.
+如果我的狗看到貓，牠就會叫。
+26. I took the opportunity to practice my English with the tourists.
+我利用這個機會跟遊客練習英文。
+27. If you talk with old people, you learn a lot about the past.
+如果你跟老人聊天，你就會學到很多以前的事。
+28. If the light is red, cars stop.
+如果是紅燈，車子就會停下來。
+29. If you stay with a host family, you have a chance to eat home cooking.
+如果你住在寄宿家庭，你就有機會吃到家常菜。
+30. Volunteer work gives you an opportunity to see your town from a new point of view.
+志工工作讓你有機會從新的觀點看你住的小鎮。
+31. During the trip, we took the opportunity to visit my aunt in Tainan.
+旅行途中，我們利用機會去台南看我阿姨。
+`;export{e as default};

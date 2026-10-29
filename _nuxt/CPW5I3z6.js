@@ -1,0 +1,120 @@
+var e=`# It has been only a week since I began a part-time job at a convenience store, but I’m already used to it.
+
+## 1. It has been + 時間 + since + 過去式（\`It has been ... since\`）
+
+句型公式：
+
+**It + \`has been\` + 一段時間 + \`since\` + 主詞 + 過去式**
+
+這個句型表示從某件事發生到現在過了多久。\`since\` 後面的子句用過去式，表示那件事開始的時間點。口語常縮寫成 \`It's been\`。\`only\` 放在時間前面，表示時間很短。
+
+* It has been two years since we moved here.
+  我們搬來這裡已經兩年了。
+* It's been a long time since I last saw you.
+  自從上次見到你，已經好久了。
+
+## 2. be used to 和 get used to（\`be used to\` / \`get used to\`）
+
+句型公式：
+
+**主詞 + \`be used to\` + 名詞 / 動詞-ing**
+
+**主詞 + \`get used to\` + 名詞 / 動詞-ing**
+
+\`be used to\` 表示已經習慣某件事。這裡的 \`to\` 是介系詞，後面接名詞、代名詞或動詞-ing。原句的 \`it\` 指前面的打工。\`get used to\` 表示漸漸變得習慣。
+
+* I'm used to getting up early.
+  我習慣早起了。
+* She is not used to the cold weather.
+  她不習慣寒冷的天氣。
+* You will soon get used to the new school.
+  你很快就會習慣新學校。
+* You'll soon get used to wearing a uniform.
+  你很快就會習慣穿制服。
+
+## 3. already 和 yet（\`already\` / \`yet\`）
+
+句型公式：
+
+**主詞 + \`be\` + \`already\` + ...**
+
+**主詞 + \`have\` / \`has\` + \`already\` + 過去分詞**
+
+**否定句 / 問句 + \`yet\`**
+
+\`already\` 表示事情比預期早發生。它放在 \`be\` 動詞後面，或 \`have\` 和過去分詞中間。否定句和問句通常用 \`yet\`，放在句尾。
+
+* I have already finished my homework.
+  我已經寫完功課了。
+* Has your package arrived yet?
+  你的包裹到了嗎？
+* I haven't eaten lunch yet.
+  我還沒吃午餐。
+
+## 4. 例句
+
+1. It has been only a week since I began a part-time job at a convenience store, but I’m already used to it.
+我在便利商店開始打工才一個禮拜，可是我已經習慣了。
+2. It has been two years since we moved here.
+我們搬來這裡已經兩年了。
+3. It's been a long time since I last saw you.
+自從上次見到你，已經好久了。
+4. It has been three months since my grandfather died.
+我爺爺過世已經三個月了。
+5. It's been five years since I started learning English.
+我開始學英文已經五年了。
+6. How long has it been since you came to Japan?
+你來日本多久了？
+7. It has been ten days since it last rained.
+上次下雨到現在已經十天了。
+8. I'm used to getting up early.
+我習慣早起了。
+9. She is not used to the cold weather.
+她不習慣寒冷的天氣。
+10. You will soon get used to the new school.
+你很快就會習慣新學校。
+11. Are you used to Japanese food yet?
+你已經習慣日本的食物了嗎？
+12. My father is used to driving on the left.
+我爸爸習慣靠左開車了。
+13. It took me a month to get used to my new job.
+我花了一個月才習慣我的新工作。
+14. I'm not used to speaking English in front of people.
+我不習慣在別人面前說英文。
+15. Tom quickly got used to life in Taipei.
+Tom 很快就習慣了台北的生活。
+16. I have already finished my homework.
+我已經寫完功課了。
+17. Has your package arrived yet?
+你的包裹到了嗎？
+18. I haven't eaten lunch yet.
+我還沒吃午餐。
+19. It's only nine o'clock, but she is already asleep.
+才九點，她已經睡著了。
+20. The movie has already started.
+電影已經開始了。
+21. Have you bought the tickets yet?
+你買票了嗎？
+22. The new student hasn't made any friends yet.
+新同學還沒交到任何朋友。
+23. It has been a month since Ann joined our club, and she is already used to it.
+自從 Ann 加入我們社團已經一個月了，她已經習慣了。
+24. It's been two weeks since I started working at a restaurant, but I'm still not used to it.
+我開始在一家餐廳工作已經兩個星期了，但我還是不習慣。
+25. My sister has lived alone for a year, so she is used to cooking for herself.
+我姊姊一個人住了一年，所以她習慣自己煮飯了。
+26. It has been only three days since school started, but I'm already tired.
+開學才三天，但我已經累了。
+27. My brother never got used to the hot summers in Tainan.
+我哥哥一直沒習慣台南炎熱的夏天。
+28. We are used to earthquakes in Japan.
+在日本我們習慣了地震。
+29. I've already told him the news.
+我已經告訴他這個消息了。
+30. It's been a year since I last went to the dentist.
+我上次去看牙醫到現在已經一年了。
+31. You'll soon get used to wearing a uniform.
+你很快就會習慣穿制服。
+32. I'm slowly getting used to living alone.
+我慢慢習慣一個人住了。
+`;export{e as default};

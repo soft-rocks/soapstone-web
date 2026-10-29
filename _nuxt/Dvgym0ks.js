@@ -1,0 +1,104 @@
+var e=`# The internet is widely used, so sales of personal computers have been rapidly increasing over the last few years.
+
+## 1. 被動語態加副詞（passive with an adverb）
+
+句型公式：
+
+**主詞 + \`be\` + 副詞 + 過去分詞**
+
+被動語態是 \`be\` 動詞加過去分詞，表示主詞接受動作。副詞可以放在 \`be\` 動詞和過去分詞中間。原句的 \`widely\` 表示範圍很廣，放在 \`is\` 和 \`used\` 中間。\`well\`、\`often\`、\`highly\` 也常放在這個位置。
+
+* English is widely spoken in Singapore.
+  新加坡很多人說英語。
+* This bridge is often used by students.
+  學生常走這座橋。
+
+## 2. 現在完成進行式（present perfect progressive）
+
+句型公式：
+
+**主詞 + \`have\` / \`has\` + \`been\` + 動詞-ing**
+
+現在完成進行式表示一個動作從過去開始，一直持續到現在。這個動作可能還會繼續。它常跟 \`for\`、\`since\`、\`over the last few years\` 一起用。原句表示銷售量這幾年一直在增加。
+
+* I have been studying English for six years.
+  我學英文已經學了六年。
+* It has been snowing since last night.
+  從昨晚開始一直在下雪。
+
+## 3. over the last + 時間（\`over the last few years\`）
+
+句型公式：
+
+**\`over the last\` / \`over the past\` + 數字 / \`few\` + 時間單位**
+
+這個說法表示從過去某個時間到現在的這段期間。它常跟現在完成式或現在完成進行式一起用。\`last\` 和 \`past\` 在這裡意思一樣。
+
+* Prices have gone up over the last two years.
+  過去兩年物價上漲了。
+* The town has changed a lot over the past ten years.
+  過去十年這個小鎮改變了很多。
+
+## 4. 例句
+
+1. The internet is widely used, so sales of personal computers have been rapidly increasing over the last few years.
+網路被廣泛使用，所以個人電腦的銷售量過去幾年一直快速成長。
+2. English is widely spoken in Singapore.
+新加坡很多人說英語。
+3. This bridge is often used by students.
+學生常走這座橋。
+4. This book is widely read in Japan.
+在日本很多人讀這本書。
+5. The new teacher is well liked by the students.
+新老師很受學生喜愛。
+6. Smartphones are widely used by young people.
+很多年輕人都在用智慧型手機。
+7. This restaurant is highly recommended by tourists.
+很多觀光客大力推薦這家餐廳。
+8. This doctor is highly respected in the village.
+這位醫生在村子裡很受尊敬。
+9. I have been studying English for six years.
+我學英文已經學了六年。
+10. It has been snowing since last night.
+從昨晚開始一直在下雪。
+11. Dad has been washing the car for an hour.
+爸爸洗車已經洗了一個小時。
+12. How long have you been waiting here?
+你在這裡等多久了？
+13. She has been working at this hospital since 2018.
+她從 2018 年起一直在這家醫院工作。
+14. We have been looking for our cat for three days.
+我們找我們的貓找了三天。
+15. The number of tourists in Kyoto has been increasing every year.
+京都的觀光客人數每年都在增加。
+16. Prices have gone up over the last two years.
+過去兩年物價上漲了。
+17. The town has changed a lot over the past ten years.
+過去十年這個小鎮改變了很多。
+18. I have read five books over the last two months.
+過去兩個月我讀了五本書。
+19. Over the past few weeks, it has been very hot.
+過去幾個星期一直很熱。
+20. Ken has been practicing the guitar every day over the last few months.
+過去幾個月 Ken 每天都在練吉他。
+21. Over the last few years, more and more people have been using electric scooters in Taiwan.
+過去幾年在台灣愈來愈多人在騎電動機車。
+22. Online stores are widely used, so many small shops have been closing over the past few years.
+很多人在網路商店買東西，所以過去幾年有很多小店陸續關門。
+23. My grandmother has been feeling better over the last few days.
+這幾天我奶奶覺得一天比一天好。
+24. This dish is often eaten at New Year.
+這道菜常在過年時吃。
+25. The park is well kept by the city.
+市政府把公園維護得很好。
+26. The population of this village has been getting smaller over the past twenty years.
+過去二十年這個村子的人口一直在減少。
+27. I've been learning Japanese since I was fifteen.
+我從十五歲開始一直在學日文。
+28. This app is widely used by students in Taiwan.
+台灣很多學生都在用這個 app。
+29. It has been snowing heavily over the last two days.
+過去兩天一直在下大雪。
+30. Sales of electric cars have been rising over the past few years.
+過去幾年電動車的銷售量一直在上升。
+`;export{e as default};

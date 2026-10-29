@@ -1,0 +1,124 @@
+var e=`# Most Japanese high school students go to a cram school to prepare for the college entrance exam.
+
+## 1. most 和 most of（\`most\` + noun / \`most of\` + the noun）
+
+句型公式：
+
+**\`most\` + 複數名詞 / 不可數名詞**
+
+**\`most of\` + \`the\` / 所有格 + 名詞**
+
+**\`most of\` + \`us\` / \`them\`**
+
+\`most\` 直接接名詞，指一般的一群人或東西。原句的 \`most Japanese high school students\` 指日本的高中生整體。\`most of\` 指一群特定的人或東西。\`of\` 後面的名詞前面要有 \`the\` 或 \`my\` 這類字。\`of\` 後面也可以直接接 \`us\`、\`them\`。
+
+* Most children like ice cream.
+  大部分的小孩喜歡冰淇淋。
+* Most fruit is cheaper in summer.
+  大部分的水果夏天比較便宜。
+* Most of the students in my class live near the school.
+  我們班上大部分的學生住在學校附近。
+* Tom has many comics, and he has read most of them.
+  Tom 有很多漫畫，他大部分都看過了。
+
+## 2. 表示目的的 to 不定詞（infinitive of purpose）
+
+句型公式：
+
+**主詞 + 動詞 + ... + \`to\` + 動詞原形**
+
+句尾的 \`to\` 不定詞說明做前面那個動作的目的。原句裡學生去補習班，目的是準備考試。
+
+* I went to the library to borrow some books.
+  我去圖書館借一些書。
+* She got up early to catch the first train.
+  她早起去趕第一班火車。
+
+## 3. prepare for 和 prepare（\`prepare for\` + noun / \`prepare\` + object）
+
+句型公式：
+
+**\`prepare for\` + 名詞**
+
+**\`prepare\` + 受詞**
+
+\`prepare for\` 後面接即將發生的事，意思是為那件事做準備。\`prepare\` 直接接受詞，意思是把那樣東西做好或備好。
+
+* I'm preparing for a job interview.
+  我正在準備一場工作面試。
+* My mother is preparing dinner in the kitchen.
+  我媽媽正在廚房準備晚餐。
+
+## 4. 例句
+
+1. Most Japanese high school students go to a cram school to prepare for the college entrance exam.
+大部分日本高中生都會去補習班準備大學入學考試。
+2. Most people in this town go to work by bike.
+這個小鎮大部分的人騎腳踏車上班。
+3. Most children like ice cream.
+大部分的小孩喜歡冰淇淋。
+4. Most stores close at nine on Sundays.
+大部分的店星期天九點關門。
+5. Most fruit is cheaper in summer.
+大部分的水果夏天比較便宜。
+6. Most fast food is not good for your health.
+大部分的速食對健康不好。
+7. Most of the students in my class live near the school.
+我們班上大部分的學生住在學校附近。
+8. Most of my friends have a smartphone.
+我大部分的朋友都有智慧型手機。
+9. I spent most of the money on books.
+那筆錢我大部分拿去買書了。
+10. Most of us were tired after the long trip.
+長途旅行之後，我們大部分人都累了。
+11. Most of us walk to school.
+我們大部分人走路上學。
+12. Tom has many comics, and he has read most of them.
+Tom 有很多漫畫，他大部分都看過了。
+13. I invited ten friends to my party, and most of them came.
+我邀了十個朋友來我的派對，大部分都來了。
+14. I went to the library to borrow some books.
+我去圖書館借一些書。
+15. She got up early to catch the first train.
+她早起去趕第一班火車。
+16. We saved money to buy a new car.
+我們存錢買新車。
+17. Tom studies hard to pass the exam.
+Tom 為了通過考試努力讀書。
+18. My father went to the station to meet my aunt.
+我爸爸去車站接我阿姨。
+19. I called Ann to ask about the homework.
+我打電話給 Ann 問作業的事。
+20. Many students stay at school late to prepare for the school festival.
+很多學生在學校留到很晚，準備校慶。
+21. Let's meet tomorrow to prepare for the meeting.
+我們明天見面準備這場會議吧。
+22. I'm preparing for a job interview.
+我正在準備一場工作面試。
+23. The team is preparing for the big game on Saturday.
+這支隊伍正在為星期六的大比賽做準備。
+24. She prepared for the trip by learning some Spanish.
+她學了一些西班牙文，為這趟旅行做準備。
+25. My mother is preparing dinner in the kitchen.
+我媽媽正在廚房準備晚餐。
+26. The teacher prepared a short test for us.
+老師為我們準備了一個小考。
+27. I have to prepare a speech for English class.
+我得為英文課準備一篇演講稿。
+28. Most students in Japan take an entrance exam to get into high school.
+在日本，大部分的學生為了進高中要參加入學考試。
+29. My brother goes to a cram school to study math.
+我哥哥去補習班讀數學。
+30. Most of the passengers were asleep.
+大部分的乘客都睡著了。
+31. Most high school students in Taiwan wear uniforms.
+台灣大部分的高中生穿制服。
+32. I went to the bookstore to buy a dictionary.
+我去書店買一本字典。
+33. Most of my classmates are preparing for the college entrance exam.
+我大部分的同學都在準備大學入學考試。
+34. He practiced every day to prepare for the speech contest.
+他每天練習，為演講比賽做準備。
+35. Most people use the internet to find information.
+大部分的人用網路找資料。
+`;export{e as default};

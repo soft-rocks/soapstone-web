@@ -1,0 +1,171 @@
+var e=`# If you take the train to Tokyo Disneyland from here, you have to change three times.
+
+## 1. if 子句用現在式（conditional with the present tense）
+
+句型公式：
+
+**\`If\` + 主詞 + 現在式, 主詞 + \`will\` / \`have to\` / \`can\` + 動詞原形**
+
+**\`If\` + 主詞 + 現在式, 祈使句**
+
+\`if\` 子句表示條件。條件是未來可能發生的事，子句也用現在式，不用 \`will\`。主要子句可以用 \`will\`、\`have to\`、\`can\` 或祈使句。\`if\` 子句可以放在句首，也可以放在句尾。放在句首時，後面加逗號。
+
+* If it rains tomorrow, we will stay home.
+  如果明天下雨，我們就待在家。
+* You can use my bike if you need it.
+  如果你需要，可以用我的腳踏車。
+
+## 2. have to 表示必須（\`have to\`）
+
+句型公式：
+
+**主詞 + \`have to\` / \`has to\` / \`had to\` + 動詞原形**
+
+**主詞 + \`don't have to\` + 動詞原形**
+
+\`have to\` 表示因為規定或情況，必須做某件事。主詞是第三人稱單數時用 \`has to\`。過去式是 \`had to\`。\`don't have to\` 表示不需要做。
+
+* I have to get up at six tomorrow.
+  我明天必須六點起床。
+* She had to wait for an hour.
+  她只好等了一個小時。
+* You don't have to bring lunch.
+  你不用帶午餐。
+
+## 3. take + 交通工具 和 by + 交通工具（\`take\` / \`by\` + transport）
+
+句型公式：
+
+**\`take\` + \`the\` / \`a\` + 交通工具 + (\`to\` + 地方)**
+
+**\`by\` + 交通工具**
+
+**\`on foot\`**
+
+**\`on\` / \`in\` + \`the\` / 所有格 + 交通工具**
+
+\`take\` 加交通工具表示搭那個交通工具。要說去哪裡，後面加 \`to\` 和地方。\`by\` 加交通工具也是這個意思，這時候名詞前面不加 \`the\`、\`a\` 或 \`my\`。走路用 \`on foot\`，不用 \`by foot\`。說人或東西在交通工具上，公車、火車、飛機用 \`on\`，汽車、計程車用 \`in\`。
+
+* I take the bus to school.
+  我搭公車上學。
+* Grandpa came to Tokyo by plane.
+  爺爺搭飛機來東京。
+* My sister goes to school on foot.
+  我妹妹走路上學。
+* We went to the beach in my uncle's car.
+  我們坐我叔叔的車去海邊。
+
+## 4. change trains 和其他用複數的說法（\`change trains\` / \`shake hands\`）
+
+句型公式：
+
+**主詞 + \`change\` + \`trains\` / \`buses\` / \`planes\` + (\`at\` / \`in\` + 地方)**
+
+**主詞 + \`shake hands\` / \`make friends\` / \`change seats\` + (\`with\` + 人)**
+
+\`change\` 在這裡表示換車。後面接 \`trains\`、\`buses\` 或 \`planes\`。這些字用複數，因為換車會用到兩班車。原句的 \`change\` 後面省略了 \`trains\`，意思不變。換車的地點用 \`at\` 加車站，或用 \`in\` 加城市。
+
+兩個人互相做的動作也用複數名詞，名詞前面不加 \`a\`。\`shake hands\` 是握手，\`make friends\` 是交朋友，\`change seats\` 是換座位。
+
+* You need to change trains at Tokyo Station.
+  你需要在東京車站換車。
+* I changed buses twice on the way.
+  我在路上換了兩次公車。
+* Can we change seats?
+  我們可以換座位嗎？
+* Ken made friends with a boy from Korea.
+  Ken 跟一個韓國男孩交了朋友。
+
+## 5. 例句
+
+1. If you take the train to Tokyo Disneyland from here, you have to change three times.
+如果你從這裡搭火車去東京迪士尼樂園，要換三次車。
+2. If it rains tomorrow, we will stay home.
+如果明天下雨，我們就待在家。
+3. You can use my bike if you need it.
+如果你需要，可以用我的腳踏車。
+4. If you are hungry, eat this sandwich.
+如果你餓了，吃這個三明治吧。
+5. If you miss the last train, you will have to take a taxi.
+如果你錯過末班車，你就得搭計程車。
+6. Call me if you get lost.
+如果你迷路了，打電話給我。
+7. If we leave now, we can catch the eight o'clock bus.
+如果我們現在出發，就趕得上八點的公車。
+8. I have to get up at six tomorrow.
+我明天必須六點起床。
+9. She had to wait for an hour.
+她只好等了一個小時。
+10. You don't have to bring lunch.
+你不用帶午餐。
+11. My brother has to wear a uniform at school.
+我弟弟在學校必須穿制服。
+12. Do we have to buy tickets in advance?
+我們必須事先買票嗎？
+13. I take the bus to school.
+我搭公車上學。
+14. Grandpa came to Tokyo by plane.
+爺爺搭飛機來東京。
+15. Let's take a taxi to the hotel.
+我們搭計程車去飯店吧。
+16. My father takes the subway to work.
+我爸爸搭地鐵上班。
+17. It takes two hours to go to Nagoya by bus.
+搭巴士去名古屋要兩個小時。
+18. You need to change trains at Tokyo Station.
+你需要在東京車站換車。
+19. I changed buses twice on the way.
+我在路上換了兩次公車。
+20. Do I have to change trains to get to Yokohama?
+去橫濱我必須換車嗎？
+21. If you take the express, you don't have to change.
+如果你搭快車，就不用換車。
+22. We changed trains at Osaka Station and took the bullet train to Hiroshima.
+我們在大阪換車，搭新幹線去廣島。
+23. Change at the next station for the airport.
+去機場的話請在下一站換車。
+24. If you take the MRT from Taipei Main Station, you can get to the zoo in thirty minutes.
+如果你從台北車站搭捷運，三十分鐘就能到動物園。
+25. If you don't hurry, you will be late for school.
+如果你不快點，上學就會遲到。
+26. I had to change trains three times to visit my grandmother.
+為了去看我奶奶，我得換三次車。
+27. If you go by car, you have to pay for parking.
+如果你開車去，就必須付停車費。
+28. She changes trains at Shinjuku every morning.
+她每天早上在新宿換車。
+29. You have to show your ticket when you get off the train.
+下火車的時候你必須出示車票。
+30. If the bus is late, Ken has to walk to school.
+如果公車誤點，Ken 就得走路去學校。
+31. My sister goes to school on foot.
+我妹妹走路上學。
+32. I left my umbrella on the bus.
+我把傘忘在公車上了。
+33. We went to the beach in my uncle's car.
+我們坐我叔叔的車去海邊。
+34. Is it faster to go by taxi or on foot?
+搭計程車去比較快，還是走路去比較快？
+35. Can we change seats?
+我們可以換座位嗎？
+36. Ken made friends with a boy from Korea.
+Ken 跟一個韓國男孩交了朋友。
+37. The two players shook hands after the game.
+兩個選手在比賽後握手。
+38. We had to change planes in Hong Kong.
+我們得在香港轉機。
+39. You have to change buses at the next stop.
+你必須在下一站換公車。
+40. We changed planes in Seoul.
+我們在首爾轉機。
+41. Would you like to change seats with me?
+你要跟我換座位嗎？
+42. I made friends with my neighbor's son.
+我跟鄰居的兒子交了朋友。
+43. The teacher shook hands with every student.
+老師跟每個學生握手。
+44. There were many students on the train.
+火車上有很多學生。
+45. I left my bag in the taxi.
+我把包包忘在計程車上了。
+`;export{e as default};

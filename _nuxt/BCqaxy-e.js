@@ -1,0 +1,112 @@
+var e=`# I’d like to work as a volunteer helping victims of natural disasters, such as floods or earthquakes.
+
+## 1. would like to + 動詞原形（\`would like to\`）
+
+句型公式：
+
+**主詞 + \`would like to\` + 動詞原形**
+
+\`would like to\` 表示想要做某件事。它比 \`want to\` 客氣。\`I'd\` 是 \`I would\` 的縮寫。問句是 \`Would you like to ...?\`，用來邀請別人。
+
+* I'd like to visit Kyoto someday.
+  我有一天想去京都。
+* Would you like to come to my party?
+  你想來我的派對嗎？
+
+## 2. 現在分詞修飾名詞（present participle after a noun）
+
+句型公式：
+
+**名詞 + 動詞-ing + ...**
+
+名詞後面的動詞-ing 修飾這個名詞。它說明這個人或東西做什麼，或正在做什麼。原句的 \`a volunteer helping victims\` 是幫助受災者的志工。
+
+* The woman cooking in the kitchen is my aunt.
+  在廚房煮飯的那個女人是我阿姨。
+* There are many volunteers cleaning the beach.
+  有很多志工在清理海灘。
+
+## 3. such as 舉例（\`such as\`）
+
+句型公式：
+
+**名詞 + \`such as\` + 例子 + \`and\` / \`or\` + 例子**
+
+\`such as\` 放在名詞後面，舉出屬於這個名詞的例子。兩個例子用 \`and\` 或 \`or\` 連接。\`or\` 表示例子裡的任何一種。原句的 \`floods or earthquakes\` 是 \`natural disasters\` 的例子。
+
+* Don't eat snacks such as chips or candy before dinner.
+  晚餐前不要吃洋芋片或糖果這類零食。
+* In winter you need warm clothes such as coats and gloves.
+  冬天你需要外套和手套這類保暖的衣服。
+
+## 4. 例句
+
+1. I’d like to work as a volunteer helping victims of natural disasters, such as floods or earthquakes.
+我想當志工，幫助洪水或地震這類天災的受災者。
+2. I'd like to visit Kyoto someday.
+我有一天想去京都。
+3. Would you like to come to my party?
+你想來我的派對嗎？
+4. I'd like to ask you a question.
+我想問你一個問題。
+5. We would like to thank everyone for coming today.
+我們想謝謝大家今天來。
+6. My parents would like to meet your family.
+我爸媽想跟你的家人見面。
+7. Would you like to have some tea?
+你想喝點茶嗎？
+8. Would you like to join us for dinner?
+你想跟我們一起吃晚餐嗎？
+9. I'd like to buy a ticket to Osaka, please.
+我想買一張去大阪的票。
+10. The girl wearing a yellow hat is my sister.
+戴黃帽子的女孩是我妹妹。
+11. The boy holding the umbrella is my classmate.
+拿著雨傘的那個男生是我同學。
+12. I saw a man selling roasted sweet potatoes at the station.
+我在車站看到一個賣烤地瓜的男人。
+13. The woman cooking in the kitchen is my aunt.
+在廚房煮飯的那個女人是我阿姨。
+14. There are many volunteers cleaning the beach.
+有很多志工在清理海灘。
+15. The people living in this town are very friendly.
+住在這個小鎮的人很友善。
+16. The woman selling flowers at the station is my aunt.
+在車站賣花的那個女人是我阿姨。
+17. Students joining the club must come to the meeting.
+加入社團的學生必須來開會。
+18. I'd like to work as a teacher helping students from other countries.
+我想當一個幫助外國學生的老師。
+19. After the earthquake, many volunteers helping the victims came to the town.
+地震之後，很多幫助受災者的志工來到那個小鎮。
+20. My uncle is a volunteer teaching English to children.
+我叔叔是教小孩英文的志工。
+21. I'd like to work as a guide showing tourists around Tokyo.
+我想當一個帶遊客逛東京的導遊。
+22. Would you like to work as a volunteer at the school festival?
+你想在校慶當志工嗎？
+23. The doctors working in that hospital are very kind.
+在那家醫院工作的醫生都很親切。
+24. I'd like to talk to the man standing by the door.
+我想跟站在門邊的那位先生說話。
+25. I'd like to learn how to help people after a flood.
+我想學怎麼在洪水之後幫助人。
+26. She worked as a volunteer helping old people in her town.
+她在她的小鎮當志工，幫助老人。
+27. There were many people waiting outside the shop.
+店外面有很多人在等。
+28. The man waiting at the gate is my uncle.
+在門口等的那個男人是我叔叔。
+29. I'd like to go to the mountains this weekend.
+我這個週末想去山上。
+30. Many people working as volunteers went to the area after the typhoon.
+颱風之後，很多當志工的人去了那個地區。
+31. Don't eat snacks such as chips or candy before dinner.
+晚餐前不要吃洋芋片或糖果這類零食。
+32. In winter you need warm clothes such as coats and gloves.
+冬天你需要外套和手套這類保暖的衣服。
+33. You can't bring things such as knives or scissors on the plane.
+你不能帶刀子或剪刀這類東西上飛機。
+34. We sold food such as hot dogs and fried noodles at the school festival.
+我們在校慶賣熱狗和炒麵這類食物。
+`;export{e as default};

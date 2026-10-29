@@ -1,0 +1,106 @@
+var e=`# I apologized to Ann for being late, but she didn’t forgive me.
+
+## 1. apologize to + 人 + for + 事情（\`apologize to\` ... \`for\`）
+
+句型公式：
+
+**主詞 + \`apologize to\` + 人 + \`for\` + 名詞 / 動詞-ing**
+
+\`apologize\` 是不及物動詞。道歉的對象用 \`to\` 帶出。道歉的原因用 \`for\` 帶出。
+
+* I apologized to my teacher for my mistake.
+  我為我的錯誤向老師道歉。
+* You should apologize to your sister for breaking her cup.
+  你應該為打破你妹妹的杯子向她道歉。
+
+## 2. 介系詞 + being + 形容詞（gerund \`being\` after a preposition）
+
+句型公式：
+
+**介系詞 + (\`not\`) + \`being\` + 形容詞**
+
+介系詞後面的動詞要用動名詞。\`be\` 動詞的動名詞是 \`being\`。\`being late\` 的意思是遲到這件事。否定式是 \`not being\`。
+
+* Thank you for being so kind.
+  謝謝你這麼親切。
+* I'm tired of being busy every day.
+  我受夠了每天都這麼忙。
+* He was sorry for not being careful.
+  他很抱歉自己不夠小心。
+
+## 3. forgive + 人 + for + 事情（\`forgive\` ... \`for\`）
+
+句型公式：
+
+**主詞 + \`forgive\` + 人 + (\`for\` + 名詞 / 動詞-ing)**
+
+\`forgive\` 直接接人當受詞，人的前面不加 \`to\`。原諒的原因用 \`for\` 帶出。\`for\` 的部分可以省略。
+
+* Please forgive me for being rude.
+  請原諒我這麼沒禮貌。
+* She never forgave him for lying to her.
+  她從來沒有原諒他對她說謊。
+
+## 4. 例句
+
+1. I apologized to Ann for being late, but she didn’t forgive me.
+我為遲到的事向 Ann 道歉，可是她沒有原諒我。
+2. I apologized to my teacher for my mistake.
+我為我的錯誤向老師道歉。
+3. You should apologize to your sister for breaking her cup.
+你應該為打破你妹妹的杯子向她道歉。
+4. Tom apologized to us for the noise.
+Tom 為了噪音向我們道歉。
+5. The station staff apologized to the passengers for the delay.
+車站人員為誤點向乘客道歉。
+6. I want to apologize to you for what I said yesterday.
+我想為我昨天說的話向你道歉。
+7. Did you apologize to your mother for forgetting her birthday?
+你有為忘記你媽媽的生日向她道歉嗎？
+8. Thank you for being so kind.
+謝謝你這麼親切。
+9. I'm tired of being busy every day.
+我受夠了每天都這麼忙。
+10. He was sorry for not being careful.
+他很抱歉自己不夠小心。
+11. I'm sorry for not being honest with you.
+很抱歉我沒有對你說實話。
+12. She is afraid of being alone at night.
+她害怕晚上一個人。
+13. Thank you for being patient with me.
+謝謝你對我這麼有耐心。
+14. Please forgive me for being rude.
+請原諒我這麼沒禮貌。
+15. She never forgave him for lying to her.
+她從來沒有原諒他對她說謊。
+16. I'm sorry. Please forgive me.
+對不起。請原諒我。
+17. My father forgave me for breaking his camera.
+我爸爸原諒我弄壞了他的相機。
+18. I can't forgive Tom for reading my diary.
+我無法原諒 Tom 看了我的日記。
+19. Will you forgive us for coming so late?
+你會原諒我們這麼晚才來嗎？
+20. She apologized to her friend for being rude, and her friend forgave her.
+她為了沒禮貌向朋友道歉，她的朋友原諒了她。
+21. He apologized to the teacher for not doing his homework.
+他為了沒寫作業向老師道歉。
+22. I apologized to my host family for coming home late.
+我為了晚回家向我的寄宿家庭道歉。
+23. Ann forgave her brother for eating her cake.
+Ann 原諒她弟弟吃了她的蛋糕。
+24. My grandmother is proud of being healthy at ninety.
+我奶奶對自己九十歲還很健康感到驕傲。
+25. Thank you for not being angry with me.
+謝謝你沒有生我的氣。
+26. I apologized to the old man for stepping on his foot.
+我為了踩到那位老先生的腳向他道歉。
+27. Did she forgive you for being late again?
+她有原諒你又遲到嗎？
+28. He never apologized to me, so I didn't forgive him.
+他從來沒有向我道歉，所以我沒有原諒他。
+29. We apologized to our neighbors for the loud party.
+我們為了派對太吵向鄰居道歉。
+30. I'm worried about being late for the exam.
+我擔心考試會遲到。
+`;export{e as default};

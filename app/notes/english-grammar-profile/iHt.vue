@@ -29,28 +29,28 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">myself</span>
           <span
-            ><NoteMark sentence="I made this dress myself." :marks="['myself.']" /><span
-              class="translation"
-              >這件洋裝是我自己做的。</span
-            ></span
+            ><NoteMark
+              sentence="Thanks, I'm glad you like it. I made this dress myself."
+              :marks="['myself']"
+            /><span class="translation">謝謝，很高興你喜歡。這件洋裝是我自己做的。</span></span
           >
         </div>
         <div>
           <span class="term">yourself</span>
           <span
             ><NoteMark
-              sentence="You should decide yourself what to do."
+              sentence="Don't trust the numbers in the report. You should check them yourself before the meeting."
               :marks="['yourself']"
-            /><span class="translation">你應該自己決定要怎麼做。</span></span
+            /><span class="translation">別相信報告裡的數字。開會前你應該自己檢查一遍。</span></span
           >
         </div>
         <div>
           <span class="term">himself</span>
           <span
-            ><NoteMark sentence="He built the bookshelf himself." :marks="['himself.']" /><span
-              class="translation"
-              >書架是他自己做的。</span
-            ></span
+            ><NoteMark
+              sentence="My dad didn't buy it in a shop. He built the bookshelf himself."
+              :marks="['himself']"
+            /><span class="translation">我爸爸不是在店裡買的。書架是他自己做的。</span></span
           >
         </div>
       </div>
@@ -62,18 +62,20 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">名詞後面</span>
           <span
             ><NoteMark
-              sentence="It was the director himself who showed us around the garden."
+              sentence="We visited the film studio last week. It was the director himself who showed us around the garden."
               :marks="['the director himself']"
-            /><span class="translation">帶我們參觀花園的是導演本人。</span></span
+            /><span class="translation"
+              >我們上星期去參觀電影片廠。帶我們參觀花園的是導演本人。</span
+            ></span
           >
         </div>
         <div>
           <span class="term">代名詞後面</span>
           <span
-            ><NoteMark sentence="I myself have never been to London." :marks="['I myself']" /><span
-              class="translation"
-              >我本人從來沒去過倫敦。</span
-            ></span
+            ><NoteMark
+              sentence="My whole family loves London. I myself have never been there."
+              :marks="['I myself']"
+            /><span class="translation">我全家都很愛倫敦。我本人從來沒去過。</span></span
           >
         </div>
       </div>
@@ -86,7 +88,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span
             ><NoteMark sentence="She designed the logo herself." :marks="['herself.']" /><span
               class="translation"
-              >拿掉 herself，句子還是完整的。</span
+              >標誌是她自己設計的。</span
             ></span
           >
         </div>
@@ -95,31 +97,36 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span
             ><NoteMark sentence="She hurt herself." :marks="['herself.']" /><span
               class="translation"
-              >herself 是 hurt 的受詞，不能拿掉。</span
+              >她弄傷了自己。</span
             ></span
           >
         </div>
       </div>
+      <p class="remark">hurt herself 的 herself 是受詞，不能拿掉。</p>
     </NoteSlide>
 
     <NoteSlide title="my brother 是男性，用 himself" mark="herself.">
       <NoteFix
-        wrong="My brother fixed the car herself."
-        right="My brother fixed the car himself."
+        wrong="We didn't go to a garage. My brother fixed the car herself."
+        right="We didn't go to a garage. My brother fixed the car himself."
         fix="himself."
       />
     </NoteSlide>
 
     <NoteSlide title="正確的形式是 himself">
       <NoteFix
-        wrong="He painted the house hisself."
-        right="He painted the house himself."
+        wrong="Uncle Jim didn't pay anyone. He put up the fence hisself."
+        right="Uncle Jim didn't pay anyone. He put up the fence himself."
         fix="himself."
       />
     </NoteSlide>
 
     <NoteSlide title="主詞用 I，myself 放在句尾">
-      <NoteFix wrong="Myself will call the hotel." right="I'll call the hotel myself." fix="I'll" />
+      <NoteFix
+        wrong="Nobody has booked a room yet. Myself will call the hotel."
+        right="Nobody has booked a room yet. I'll call the hotel myself."
+        fix="I'll"
+      />
     </NoteSlide>
   </NoteDeck>
 

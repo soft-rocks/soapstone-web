@@ -25,22 +25,35 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">在 Emily 的奶奶家。</p>
     </NoteSlide>
 
+    <NoteSlide title="說過的名詞 C 可以省略" mark="house">
+      <NoteWords
+        :size="28"
+        :parts="[
+          { t: 'It\'s', kind: 'dim' },
+          { t: 'my flatmate\'s', role: '名詞 A + \'s', kind: 'key' },
+          { t: 'brother\'s', role: '名詞 B + \'s', kind: 'key' },
+          { t: 'bike.', role: '名詞 C', kind: 'gone' },
+        ]"
+      />
+      <p class="translation">（這輛腳踏車）是我室友的哥哥的。</p>
+    </NoteSlide>
+
     <NoteSlide title="從最後的名詞往前讀" mark="Emily's grandmother's house">
       <div class="rows is-labeled">
         <div>
           <span class="term">房子 → 奶奶的 → Emily 的</span>
           <span
             ><NoteMark
-              sentence="They stayed at Emily's grandmother's house."
+              sentence="We stayed at Emily's grandmother's house."
               :marks="['Emily\'s grandmother\'s']"
-            /><span class="translation">他們住在 Emily 的奶奶家。</span></span
+            /><span class="translation">我們住在 Emily 的奶奶家。</span></span
           >
         </div>
         <div>
           <span class="term">相簿 → 媽媽的 → Ann 的</span>
           <span
             ><NoteMark
-              sentence="There were no photos of him in Ann's mother's albums."
+              sentence="There were no photographs of him in Ann's mother's albums."
               :marks="['Ann\'s mother\'s']"
             /><span class="translation">Ann 她媽媽的相簿裡沒有一張他的照片。</span></span
           >
@@ -56,19 +69,19 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="人的所有格用 's" mark="Emily's grandmother's">
+    <NoteSlide title="第一個名詞也要加 's" mark="Emily's grandmother's">
       <NoteFix
-        wrong="We met at the party of the sister of Sarah."
-        right="We met at Sarah's sister's party."
-        fix="Sarah's sister's"
+        wrong="We met him at Sarah sister's party."
+        right="We met him at Sarah's sister's party."
+        fix="Sarah's"
       />
     </NoteSlide>
 
     <NoteSlide title="擁有的人在前，東西在最後" mark="house">
       <NoteFix
-        wrong="I borrowed my sister's car's friend."
-        right="I borrowed my sister's friend's car."
-        fix="friend's car"
+        wrong="We sat in my uncle's garden's neighbour."
+        right="We sat in my uncle's neighbour's garden."
+        fix="neighbour's garden"
       />
     </NoteSlide>
   </NoteDeck>

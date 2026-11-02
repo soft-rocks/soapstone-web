@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + would + 原形動詞">
+    <NoteSlide title="would 說過去常常做的事" mark="would">
       <NoteWords
         :size="24"
         :parts="[
@@ -24,19 +24,29 @@ defineProps<{ note: (typeof notes)[number] }>();
         ]"
       />
     </NoteSlide>
-    <NoteSlide title="would、原形動詞">
+    <NoteSlide title="would 只說過去的動作，狀態用 used to" mark="would">
       <div class="rows is-labeled">
         <div>
           <span class="term">would</span>
-          <span>以前常常。說過去重複的動作。</span>
+          <span
+            ><NoteMark sentence="We would swim every day." :marks="['would swim']" /><span
+              class="translation"
+              >我們以前每天都會游泳。</span
+            ></span
+          >
         </div>
         <div>
-          <span class="term">原形動詞</span>
-          <span>過去的習慣。</span>
+          <span class="term">used to</span>
+          <span
+            ><NoteMark sentence="We used to live by the sea." :marks="['used to live']" /><span
+              class="translation"
+              >我們以前住在海邊。</span
+            ></span
+          >
         </div>
       </div>
     </NoteSlide>
-    <NoteSlide title="用在故事裡" mark="would">
+    <NoteSlide title="故事常用 would 說人物過去的習慣" mark="would">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
@@ -48,16 +58,15 @@ defineProps<{ note: (typeof notes)[number] }>();
           >
         </div>
       </div>
-      <p class="remark">故事常用 would 說人物過去的習慣。</p>
     </NoteSlide>
     <NoteSlide title="說過去的狀態用 used to，不用 would" mark="would">
       <NoteFix
         wrong="When I was young, I would have long hair."
         right="When I was young, I used to have long hair."
-        :fix="['used to']"
+        :fix="['used', 'to']"
       />
     </NoteSlide>
-    <NoteSlide title="would 後面接原形動詞" mark="would">
+    <NoteSlide title="would 後面不用過去式" mark="would">
       <NoteFix
         wrong="We would went to the park every Sunday."
         right="We would go to the park every Sunday."

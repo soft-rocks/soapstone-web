@@ -61228,47 +61228,57 @@
     "translation": "他們在 Emily 的奶奶家一起待了兩個星期。",
     "name": "一個名詞片語中連用兩個所有格 's",
     "sentences": [
-      "After fourteen months of dating, they spent two weeks together at Emily's grandmother's house.",
-      "We had the party at my best friend's parents' flat.",
-      "The wedding was in Tom's uncle's garden.",
-      "I spent the summer at my cousin's aunt's farm in Wales.",
+      "We had the party at my best friend's brother's flat. He was away for the weekend.",
+      "The wedding was in Tom's uncle's garden. It was full of roses.",
+      "I spent the summer at my cousin's aunt's farm in Wales. I fed the sheep every morning.",
+      "We're staying at my wife's sister's cottage this week. It's right by the sea.",
       "Nobody knew what he looked like. There were no photographs of him in Ann's mother's albums.",
-      "I found my grandfather's father's watch in an old box.",
-      "She wore her mother's mother's wedding ring.",
-      "The story is based on the writer's father's diaries.",
-      "I borrowed my sister's friend's car for the weekend.",
-      "The police found the thief in his neighbour's son's garage.",
+      "I found my grandfather's father's watch in an old box. It's over a hundred years old.",
+      "My sister got married last June. She wore our mother's mother's wedding ring.",
+      "The story is based on the writer's father's diaries. He found them after the funeral.",
+      "My car was at the garage. I borrowed my sister's friend's car for the weekend.",
+      "The police found the thief in his neighbour's son's garage. He was hiding behind some boxes.",
       "Have you read my brother's girlfriend's novel? It's really good.",
-      "The plan was my manager's boss's idea, not hers.",
-      "The detective noticed that the letter was written in the victim's brother's handwriting.",
-      "The child had been living at his mother's partner's house for a year.",
-      "The singer's late husband's paintings were sold for millions.",
-      "We're invited to my colleague's daughter's christening.",
-      "The dog in the photo is my friend's grandmother's.",
-      "Jack's wife's family live in Canada.",
+      "Don't blame my manager. The plan was my manager's boss's idea, not hers.",
+      "The detective recognised the victim's brother's handwriting on the letter.",
+      "Social workers visited the family. The child had been living at his mother's partner's house for a year.",
+      "An auction house in London sold the singer's late husband's paintings. They made millions.",
+      "Thieves broke into the museum. They took the king's son's sword.",
+      "We're invited to my colleague's daughter's christening. It's on Sunday at the church.",
+      "The dog in the photo is my friend's grandmother's. It's very friendly.",
+      "Jack's wife's family live in Canada. He's moving there with her next year.",
+      "My daughter needed a dress for the school dance. She borrowed my sister's friend's old dress.",
       "\"Whose bike is this?\" \"It's my flatmate's brother's. He left it here.\"",
       "\"Where did you meet him?\" \"At Sarah's sister's birthday party.\"",
-      "\"Is that your coat?\" \"No, it's my husband's father's.\""
+      "\"Is that your coat?\" \"No, it's my husband's father's.\"",
+      "\"Who's that baby?\" \"That's my cousin's friend's son.\"",
+      "We went on a school trip. We visited our teacher's father's farm.",
+      "The office was empty. I left the files on my boss's assistant's desk.",
+      "Lucy got the job easily. Her uncle's friend's company needed a designer.",
+      "Mum is driving the team to the match today. My brother's coach's car broke down.",
+      "It was the best night of the year. We danced at our neighbour's son's wedding.",
+      "My friend's dad's jokes are terrible, but I always laugh at them.",
+      "You need a new phone? My brother's friend's shop sells cheap phones."
     ],
     "examples": [
       {
         "heading": "① 名詞 's + 家人 's + 地方",
         "items": [
           {
-            "en": "After fourteen months of dating, they spent two weeks together at Emily's grandmother's house.",
-            "zh": "交往了十四個月以後，他們在 Emily 的奶奶家一起待了兩個星期。"
+            "en": "We had the party at my best friend's brother's flat. He was away for the weekend.",
+            "zh": "我們在我最好朋友的哥哥家辦派對。他週末不在家。"
           },
           {
-            "en": "We had the party at my best friend's parents' flat.",
-            "zh": "我們在我最好朋友的爸媽家辦派對。"
+            "en": "The wedding was in Tom's uncle's garden. It was full of roses.",
+            "zh": "婚禮在 Tom 的叔叔家的花園舉行。那裡開滿了玫瑰。"
           },
           {
-            "en": "The wedding was in Tom's uncle's garden.",
-            "zh": "婚禮在 Tom 的叔叔家的花園舉行。"
+            "en": "I spent the summer at my cousin's aunt's farm in Wales. I fed the sheep every morning.",
+            "zh": "我那年夏天在威爾斯，住在我表哥的阿姨的農場。我每天早上餵羊。"
           },
           {
-            "en": "I spent the summer at my cousin's aunt's farm in Wales.",
-            "zh": "我那年夏天在威爾斯，住在我表哥的阿姨的農場。"
+            "en": "We're staying at my wife's sister's cottage this week. It's right by the sea.",
+            "zh": "我們這星期住在我太太的姊姊的小屋。它就在海邊。"
           }
         ]
       },
@@ -61280,16 +61290,16 @@
             "zh": "沒人知道他長什麼樣子。Ann 她媽媽的相簿裡沒有一張他的照片。"
           },
           {
-            "en": "I found my grandfather's father's watch in an old box.",
-            "zh": "我在一個舊箱子裡找到我曾祖父的手錶。"
+            "en": "I found my grandfather's father's watch in an old box. It's over a hundred years old.",
+            "zh": "我在一個舊箱子裡找到我曾祖父的手錶。它有一百多年了。"
           },
           {
-            "en": "She wore her mother's mother's wedding ring.",
-            "zh": "她戴著她外婆的結婚戒指。"
+            "en": "My sister got married last June. She wore our mother's mother's wedding ring.",
+            "zh": "我姊姊去年六月結婚。她戴著我們外婆的結婚戒指。"
           },
           {
-            "en": "The story is based on the writer's father's diaries.",
-            "zh": "這個故事是根據作者父親的日記寫的。"
+            "en": "The story is based on the writer's father's diaries. He found them after the funeral.",
+            "zh": "這個故事是根據作者父親的日記寫的。他在葬禮後找到那些日記。"
           }
         ]
       },
@@ -61297,20 +61307,20 @@
         "heading": "③ 名詞 's + 朋友或同事 's + 東西",
         "items": [
           {
-            "en": "I borrowed my sister's friend's car for the weekend.",
-            "zh": "我週末借了我姊姊的朋友的車。"
+            "en": "My car was at the garage. I borrowed my sister's friend's car for the weekend.",
+            "zh": "我的車在修車廠。我週末借了我姊姊的朋友的車。"
           },
           {
-            "en": "The police found the thief in his neighbour's son's garage.",
-            "zh": "警察在他鄰居兒子的車庫裡找到那個小偷。"
+            "en": "The police found the thief in his neighbour's son's garage. He was hiding behind some boxes.",
+            "zh": "警察在小偷的鄰居兒子的車庫裡找到他。他躲在一些箱子後面。"
           },
           {
             "en": "Have you read my brother's girlfriend's novel? It's really good.",
             "zh": "你讀過我哥哥女朋友寫的小說嗎？寫得很好。"
           },
           {
-            "en": "The plan was my manager's boss's idea, not hers.",
-            "zh": "這個計畫是我主管的上司想的，不是她想的。"
+            "en": "Don't blame my manager. The plan was my manager's boss's idea, not hers.",
+            "zh": "別怪我主管。這個計畫是我主管的上司想的，不是她想的。"
           }
         ]
       },
@@ -61318,33 +61328,41 @@
         "heading": "④ 小說和報導",
         "items": [
           {
-            "en": "The detective noticed that the letter was written in the victim's brother's handwriting.",
-            "zh": "偵探發現那封信是被害人的哥哥的筆跡。"
+            "en": "The detective recognised the victim's brother's handwriting on the letter.",
+            "zh": "偵探認出信上是被害人的哥哥的筆跡。"
           },
           {
-            "en": "The child had been living at his mother's partner's house for a year.",
-            "zh": "那個孩子在他媽媽的伴侶家住了一年。"
+            "en": "Social workers visited the family. The child had been living at his mother's partner's house for a year.",
+            "zh": "社工去了那一家。那個孩子在他媽媽的伴侶家住了一年。"
           },
           {
-            "en": "The singer's late husband's paintings were sold for millions.",
-            "zh": "那位歌手已故丈夫的畫賣了好幾百萬。"
+            "en": "An auction house in London sold the singer's late husband's paintings. They made millions.",
+            "zh": "倫敦一家拍賣行賣出了那位歌手已故丈夫的畫。那些畫賣了好幾百萬。"
+          },
+          {
+            "en": "Thieves broke into the museum. They took the king's son's sword.",
+            "zh": "小偷闖進博物館。他們偷走了國王兒子的劍。"
           }
         ]
       },
       {
-        "heading": "⑤ 不同的情境",
+        "heading": "⑤ 家人和朋友",
         "items": [
           {
-            "en": "We're invited to my colleague's daughter's christening.",
-            "zh": "我們受邀去參加我同事女兒的受洗典禮。"
+            "en": "We're invited to my colleague's daughter's christening. It's on Sunday at the church.",
+            "zh": "我們受邀去參加我同事女兒的受洗典禮。典禮在星期天，在教堂舉行。"
           },
           {
-            "en": "The dog in the photo is my friend's grandmother's.",
-            "zh": "照片裡的狗是我朋友的奶奶養的。"
+            "en": "The dog in the photo is my friend's grandmother's. It's very friendly.",
+            "zh": "照片裡的狗是我朋友的奶奶養的。牠很友善。"
           },
           {
-            "en": "Jack's wife's family live in Canada.",
-            "zh": "Jack 太太的家人住在加拿大。"
+            "en": "Jack's wife's family live in Canada. He's moving there with her next year.",
+            "zh": "Jack 太太的家人住在加拿大。他明年要跟她搬去那裡。"
+          },
+          {
+            "en": "My daughter needed a dress for the school dance. She borrowed my sister's friend's old dress.",
+            "zh": "我女兒需要一件參加學校舞會的洋裝。她借了我姊姊的朋友以前穿的洋裝。"
           }
         ]
       },
@@ -61362,6 +61380,43 @@
           {
             "en": "\"Is that your coat?\" \"No, it's my husband's father's.\"",
             "zh": "那是你的外套嗎？不是，是我公公的。"
+          },
+          {
+            "en": "\"Who's that baby?\" \"That's my cousin's friend's son.\"",
+            "zh": "那個寶寶是誰？是我表姊的朋友的兒子。"
+          }
+        ]
+      },
+      {
+        "heading": "⑦ 學校和工作",
+        "items": [
+          {
+            "en": "We went on a school trip. We visited our teacher's father's farm.",
+            "zh": "我們去校外教學。我們參觀了我們老師的爸爸的農場。"
+          },
+          {
+            "en": "The office was empty. I left the files on my boss's assistant's desk.",
+            "zh": "辦公室裡沒人。我把文件放在我老闆的助理的桌上。"
+          },
+          {
+            "en": "Lucy got the job easily. Her uncle's friend's company needed a designer.",
+            "zh": "Lucy 很輕鬆就拿到那份工作。她叔叔的朋友的公司需要一個設計師。"
+          },
+          {
+            "en": "Mum is driving the team to the match today. My brother's coach's car broke down.",
+            "zh": "媽媽今天開車載球隊去比賽。我弟弟的教練的車壞了。"
+          },
+          {
+            "en": "It was the best night of the year. We danced at our neighbour's son's wedding.",
+            "zh": "那是一年中最棒的晚上。我們在鄰居兒子的婚禮上跳舞。"
+          },
+          {
+            "en": "My friend's dad's jokes are terrible, but I always laugh at them.",
+            "zh": "我朋友的爸爸講的笑話很冷，可是我每次都會笑。"
+          },
+          {
+            "en": "You need a new phone? My brother's friend's shop sells cheap phones.",
+            "zh": "你需要新手機嗎？我哥哥的朋友的店在賣便宜的手機。"
           }
         ]
       }
@@ -65718,54 +65773,61 @@
     "translation": "我家附近有一些商店。",
     "name": "數量限定詞加複數名詞",
     "sentences": [
-      "I live in a small town. Near my home there are some shops.",
-      "I've got some books for you.",
-      "My aunt sent me some postcards from Italy.",
-      "I need some stamps for these letters.",
-      "Some girls in my class play football.",
-      "My house is small. My house has got three rooms.",
-      "The bus to the city takes forty minutes.",
-      "Our school has two hundred students and fifteen teachers.",
-      "My cat has four kittens.",
-      "I drink two glasses of milk every morning.",
-      "I lived here when I was a child. I had a lot of friends in this town.",
-      "There are a lot of cars on the road today.",
-      "My grandma has a lot of plants in her garden.",
-      "We saw a lot of animals at the farm.",
-      "School is hard this year. For homework we have to write lots of things.",
-      "There are lots of people in the park on Sundays.",
-      "She has lots of DVDs.",
-      "My town has lots of restaurants.",
+      "My aunt is on holiday by the sea in Italy. She sent me some postcards.",
+      "I'm going to the post office. I need some stamps for these letters.",
+      "The school has a new girls' team this year. Some girls in my class play football.",
+      "There's no electricity at the cabin. We should take some candles.",
+      "I've made too much food. Some friends are coming for dinner tonight.",
+      "Leave early tomorrow. The bus to the city takes forty minutes.",
+      "Our school is quite small. It has two hundred students and fifteen teachers.",
+      "Do you want a kitten? My cat has four kittens.",
+      "I drink two glasses of milk every morning. My doctor says it's good for my bones.",
+      "We're going to Spain in July. We'll stay for ten days.",
+      "Leave the car at home. There are a lot of cars on the road today.",
+      "My grandma gets up early to water the garden. She has a lot of plants.",
+      "We saw a lot of animals at the farm. The kids loved it.",
+      "I need a bigger bag. I've bought a lot of presents for my family.",
+      "Get there early. There are lots of people in the park on Sundays.",
+      "We can watch a film at Anna's place. She has lots of DVDs.",
+      "You won't go hungry. My town has lots of restaurants.",
+      "Don't worry about the test. We did lots of exercises in class.",
       "My flat is near the station. It has two bedrooms.",
-      "In my street there are some old houses and a lot of trees.",
-      "There are lots of children in my building.",
+      "In my street there are some old houses and a lot of trees. It's very green.",
+      "There are lots of children in my building. It's never quiet.",
+      "My grandparents live in a small village. There are only three shops and a church.",
       "\"Have you got any pets?\" \"Yes, two dogs.\"",
       "\"What did you buy?\" \"Some T-shirts and a lot of socks.\"",
-      "\"Are there any good cafés here?\" \"Yes, lots of cafés.\""
+      "\"Are there any good cafés here?\" \"Yes, there are lots of cafés.\"",
+      "\"How many brothers and sisters have you got?\" \"Three brothers and one sister.\"",
+      "I'm so busy this week. I have five exams.",
+      "The office is very big. There are a lot of desks and computers.",
+      "Our teacher is very kind. She gave us some sweets after the test.",
+      "The library is great. It has lots of books about animals.",
+      "My dad works very hard. He has two jobs."
     ],
     "examples": [
       {
         "heading": "① some + 複數名詞",
         "items": [
           {
-            "en": "I live in a small town. Near my home there are some shops.",
-            "zh": "我住在一個小鎮。我家附近有一些商店。"
+            "en": "My aunt is on holiday by the sea in Italy. She sent me some postcards.",
+            "zh": "我阿姨在義大利的海邊度假。她寄了幾張明信片給我。"
           },
           {
-            "en": "I've got some books for you.",
-            "zh": "我有幾本書要給你。"
+            "en": "I'm going to the post office. I need some stamps for these letters.",
+            "zh": "我要去郵局。這些信我需要幾張郵票。"
           },
           {
-            "en": "My aunt sent me some postcards from Italy.",
-            "zh": "我阿姨從義大利寄了幾張明信片給我。"
+            "en": "The school has a new girls' team this year. Some girls in my class play football.",
+            "zh": "學校今年有一支新的女子球隊。我們班有幾個女生踢足球。"
           },
           {
-            "en": "I need some stamps for these letters.",
-            "zh": "這些信我需要幾張郵票。"
+            "en": "There's no electricity at the cabin. We should take some candles.",
+            "zh": "小木屋沒有電。我們應該帶幾根蠟燭去。"
           },
           {
-            "en": "Some girls in my class play football.",
-            "zh": "我們班有幾個女生踢足球。"
+            "en": "I've made too much food. Some friends are coming for dinner tonight.",
+            "zh": "我煮了太多吃的。今晚有幾個朋友要來吃晚餐。"
           }
         ]
       },
@@ -65773,24 +65835,24 @@
         "heading": "② 數字 + 複數名詞",
         "items": [
           {
-            "en": "My house is small. My house has got three rooms.",
-            "zh": "我家很小。我家有三個房間。"
+            "en": "Leave early tomorrow. The bus to the city takes forty minutes.",
+            "zh": "明天早點出門。搭公車到市區要四十分鐘。"
           },
           {
-            "en": "The bus to the city takes forty minutes.",
-            "zh": "搭公車到市區要四十分鐘。"
+            "en": "Our school is quite small. It has two hundred students and fifteen teachers.",
+            "zh": "我們學校蠻小的。它有兩百個學生和十五位老師。"
           },
           {
-            "en": "Our school has two hundred students and fifteen teachers.",
-            "zh": "我們學校有兩百個學生和十五位老師。"
+            "en": "Do you want a kitten? My cat has four kittens.",
+            "zh": "你想要一隻小貓嗎？我的貓生了四隻小貓。"
           },
           {
-            "en": "My cat has four kittens.",
-            "zh": "我的貓生了四隻小貓。"
+            "en": "I drink two glasses of milk every morning. My doctor says it's good for my bones.",
+            "zh": "我每天早上喝兩杯牛奶。醫生說這對骨頭很好。"
           },
           {
-            "en": "I drink two glasses of milk every morning.",
-            "zh": "我每天早上喝兩杯牛奶。"
+            "en": "We're going to Spain in July. We'll stay for ten days.",
+            "zh": "我們七月要去西班牙。我們會待十天。"
           }
         ]
       },
@@ -65798,20 +65860,20 @@
         "heading": "③ a lot of + 複數名詞",
         "items": [
           {
-            "en": "I lived here when I was a child. I had a lot of friends in this town.",
-            "zh": "我小時候住在這裡。我在這個鎮上有很多朋友。"
+            "en": "Leave the car at home. There are a lot of cars on the road today.",
+            "zh": "把車留在家裡吧。今天路上車很多。"
           },
           {
-            "en": "There are a lot of cars on the road today.",
-            "zh": "今天路上車很多。"
+            "en": "My grandma gets up early to water the garden. She has a lot of plants.",
+            "zh": "我奶奶很早起床澆花園。她有很多植物。"
           },
           {
-            "en": "My grandma has a lot of plants in her garden.",
-            "zh": "我奶奶的花園裡有很多植物。"
+            "en": "We saw a lot of animals at the farm. The kids loved it.",
+            "zh": "我們在農場看到很多動物。孩子們很喜歡。"
           },
           {
-            "en": "We saw a lot of animals at the farm.",
-            "zh": "我們在農場看到很多動物。"
+            "en": "I need a bigger bag. I've bought a lot of presents for my family.",
+            "zh": "我需要大一點的包包。我幫家人買了很多禮物。"
           }
         ]
       },
@@ -65819,20 +65881,20 @@
         "heading": "④ lots of + 複數名詞",
         "items": [
           {
-            "en": "School is hard this year. For homework we have to write lots of things.",
-            "zh": "今年的課業很重。我們的功課要寫很多東西。"
+            "en": "Get there early. There are lots of people in the park on Sundays.",
+            "zh": "早點去。星期天公園裡人很多。"
           },
           {
-            "en": "There are lots of people in the park on Sundays.",
-            "zh": "星期天公園裡人很多。"
+            "en": "We can watch a film at Anna's place. She has lots of DVDs.",
+            "zh": "我們可以去 Anna 家看電影。她有很多 DVD。"
           },
           {
-            "en": "She has lots of DVDs.",
-            "zh": "她有很多 DVD。"
+            "en": "You won't go hungry. My town has lots of restaurants.",
+            "zh": "你不會餓到的。我住的鎮有很多餐廳。"
           },
           {
-            "en": "My town has lots of restaurants.",
-            "zh": "我住的鎮有很多餐廳。"
+            "en": "Don't worry about the test. We did lots of exercises in class.",
+            "zh": "別擔心考試。我們在課堂上做了很多練習。"
           }
         ]
       },
@@ -65844,12 +65906,16 @@
             "zh": "我的公寓在車站附近。有兩間臥室。"
           },
           {
-            "en": "In my street there are some old houses and a lot of trees.",
-            "zh": "我住的街上有一些老房子和很多樹。"
+            "en": "In my street there are some old houses and a lot of trees. It's very green.",
+            "zh": "我住的街上有一些老房子和很多樹。那裡很綠。"
           },
           {
-            "en": "There are lots of children in my building.",
-            "zh": "我住的大樓裡有很多小孩。"
+            "en": "There are lots of children in my building. It's never quiet.",
+            "zh": "我住的大樓裡有很多小孩。那裡從來不安靜。"
+          },
+          {
+            "en": "My grandparents live in a small village. There are only three shops and a church.",
+            "zh": "我爺爺奶奶住在一個小村子。那裡只有三家商店和一間教堂。"
           }
         ]
       },
@@ -65865,8 +65931,37 @@
             "zh": "你買了什麼？幾件 T 恤和很多襪子。"
           },
           {
-            "en": "\"Are there any good cafés here?\" \"Yes, lots of cafés.\"",
-            "zh": "這裡有好的咖啡店嗎？有，很多。"
+            "en": "\"Are there any good cafés here?\" \"Yes, there are lots of cafés.\"",
+            "zh": "這裡有好的咖啡店嗎？有，有很多咖啡店。"
+          },
+          {
+            "en": "\"How many brothers and sisters have you got?\" \"Three brothers and one sister.\"",
+            "zh": "你有幾個兄弟姊妹？三個兄弟和一個姊妹。"
+          }
+        ]
+      },
+      {
+        "heading": "⑦ 學校和工作",
+        "items": [
+          {
+            "en": "I'm so busy this week. I have five exams.",
+            "zh": "我這星期好忙。我有五個考試。"
+          },
+          {
+            "en": "The office is very big. There are a lot of desks and computers.",
+            "zh": "辦公室很大。有很多桌子和電腦。"
+          },
+          {
+            "en": "Our teacher is very kind. She gave us some sweets after the test.",
+            "zh": "我們的老師很好。考完試她給了我們一些糖果。"
+          },
+          {
+            "en": "The library is great. It has lots of books about animals.",
+            "zh": "那間圖書館很棒。它有很多關於動物的書。"
+          },
+          {
+            "en": "My dad works very hard. He has two jobs.",
+            "zh": "我爸爸工作很辛苦。他做兩份工作。"
           }
         ]
       }
@@ -65879,54 +65974,61 @@
     "translation": "比賽很刺激，因為兩隊都打得很好，不過最後是印度贏了。",
     "name": "數量限定詞加複數名詞（all、both、a few）",
     "sentences": [
-      "This notice is for all students: we are going to have a concert at school.",
-      "All students in Year 9 need to bring a packed lunch on Friday.",
-      "All rooms have free Wi-Fi.",
-      "All drivers in the race got a cup at the end.",
-      "I like all kinds of music, from rock to jazz.",
-      "It was exciting, as both teams played well, but India won the match.",
+      "The trip is on Friday. All students in Year 9 need to bring a packed lunch.",
+      "You can use your laptop anywhere in the hotel. All rooms have free Wi-Fi.",
+      "Nobody went home empty-handed. All drivers in the race got a cup at the end.",
+      "My playlist is very long. I like all kinds of music, from rock to jazz.",
+      "There are three bus routes in our town. All buses stop at the station.",
       "Hold the cup with both hands. It's hot.",
-      "There are shops on both sides of the street.",
-      "Both girls want to be doctors.",
-      "I've read both books, and I prefer the first one.",
-      "Hi Tom! I'm just writing to say hello, and to tell you a few things.",
-      "We're staying at the beach for a few days.",
-      "I'll be ready in a few minutes.",
-      "A few people were waiting outside the shop.",
-      "I've got a few questions about the homework.",
-      "All the guests left before midnight.",
-      "We stayed in a small hotel for a few nights.",
-      "Both players were tired at the end of the game.",
-      "All flights to Paris are cancelled because of the snow.",
-      "A few students stayed after class to talk to the teacher.",
-      "Both my grandmothers live in the country.",
-      "\"Which one do you like?\" \"I like both colours.\"",
+      "You don't need to cross the road. There are shops on both sides of the street.",
+      "My nieces study very hard. Both girls want to be doctors.",
+      "Our teacher gave us two novels to read. I've read both books, and I prefer the first one.",
+      "Both my parents work at the hospital. They often work at night.",
+      "We've rented a little house. We're staying at the beach for a few days.",
+      "I'm just drying my hair. I'll be ready in a few minutes.",
+      "It was opening day. A few people were waiting outside the shop.",
+      "Can you help me after class? I've got a few questions about the homework.",
+      "We need some things for the picnic. Let's buy a few apples and some bread.",
+      "The party ended early. All the guests left before midnight.",
+      "The town was very quiet. We stayed in a small hotel for a few nights.",
+      "The match lasted four hours. Both players were tired at the end of the game.",
+      "We lost the first game. We won a few matches later in the season.",
+      "The airport is closed. All flights to Paris are cancelled because of the snow.",
+      "Tickets are selling fast. A few seats are still available for Saturday's concert.",
+      "Both entrances are closed today. Please use the side door.",
+      "The museum is free today. All visitors must leave their bags at the door.",
+      "\"Should we paint the bedroom blue or green?\" \"I don't know. I like both colours.\"",
       "\"Have you got any stamps?\" \"Yes, a few stamps. How many do you need?\"",
-      "\"Can everyone come to the meeting?\" \"Yes, all teachers will be there.\""
+      "\"Can I bring my dog into the café?\" \"Sorry, all dogs must stay outside.\"",
+      "\"Did you take any photos?\" \"Just a few photos of the lake.\"",
+      "I've been very busy. I've had a few exams this month.",
+      "My parents send their love. Both my brothers say hello too.",
+      "The new school is great. All my teachers are very friendly.",
+      "I'm sending you a few photos from our holiday."
     ],
     "examples": [
       {
         "heading": "① all + 複數名詞",
         "items": [
           {
-            "en": "This notice is for all students: we are going to have a concert at school.",
-            "zh": "這份通知是給全體學生的：學校要辦一場音樂會。"
+            "en": "The trip is on Friday. All students in Year 9 need to bring a packed lunch.",
+            "zh": "校外教學在星期五。九年級所有學生都要帶便當。"
           },
           {
-            "en": "All students in Year 9 need to bring a packed lunch on Friday.",
-            "zh": "九年級所有學生星期五都要帶便當。"
+            "en": "You can use your laptop anywhere in the hotel. All rooms have free Wi-Fi.",
+            "zh": "你在飯店哪裡都能用筆電。所有房間都有免費 Wi-Fi。"
           },
           {
-            "en": "All rooms have free Wi-Fi.",
-            "zh": "所有房間都有免費 Wi-Fi。"
+            "en": "Nobody went home empty-handed. All drivers in the race got a cup at the end.",
+            "zh": "沒有人空手回家。參加比賽的所有車手最後都拿到一個獎盃。"
           },
           {
-            "en": "All drivers in the race got a cup at the end.",
-            "zh": "參加比賽的所有車手最後都拿到一個獎盃。"
+            "en": "My playlist is very long. I like all kinds of music, from rock to jazz.",
+            "zh": "我的播放清單很長。我各種音樂都喜歡，從搖滾到爵士。"
           },
           {
-            "en": "I like all kinds of music, from rock to jazz.",
-            "zh": "我各種音樂都喜歡，從搖滾到爵士。"
+            "en": "There are three bus routes in our town. All buses stop at the station.",
+            "zh": "我們鎮上有三條公車路線。所有公車都會停車站。"
           }
         ]
       },
@@ -65934,24 +66036,24 @@
         "heading": "② both + 複數名詞",
         "items": [
           {
-            "en": "It was exciting, as both teams played well, but India won the match.",
-            "zh": "比賽很刺激，因為兩隊都打得很好，不過最後是印度贏了。"
-          },
-          {
             "en": "Hold the cup with both hands. It's hot.",
             "zh": "兩隻手捧著杯子。很燙。"
           },
           {
-            "en": "There are shops on both sides of the street.",
-            "zh": "街道兩邊都有商店。"
+            "en": "You don't need to cross the road. There are shops on both sides of the street.",
+            "zh": "你不用過馬路。街道兩邊都有商店。"
           },
           {
-            "en": "Both girls want to be doctors.",
-            "zh": "兩個女孩都想當醫生。"
+            "en": "My nieces study very hard. Both girls want to be doctors.",
+            "zh": "我的兩個姪女都很用功。兩個女孩都想當醫生。"
           },
           {
-            "en": "I've read both books, and I prefer the first one.",
-            "zh": "兩本書我都讀過，我比較喜歡第一本。"
+            "en": "Our teacher gave us two novels to read. I've read both books, and I prefer the first one.",
+            "zh": "老師給了我們兩本小說要讀。兩本書我都讀過，我比較喜歡第一本。"
+          },
+          {
+            "en": "Both my parents work at the hospital. They often work at night.",
+            "zh": "我爸媽都在醫院工作。他們常上夜班。"
           }
         ]
       },
@@ -65959,24 +66061,24 @@
         "heading": "③ a few + 複數名詞",
         "items": [
           {
-            "en": "Hi Tom! I'm just writing to say hello, and to tell you a few things.",
-            "zh": "嗨，Tom！我只是寫信打個招呼，順便跟你說幾件事。"
+            "en": "We've rented a little house. We're staying at the beach for a few days.",
+            "zh": "我們租了一間小房子。我們要在海邊待幾天。"
           },
           {
-            "en": "We're staying at the beach for a few days.",
-            "zh": "我們要在海邊待幾天。"
+            "en": "I'm just drying my hair. I'll be ready in a few minutes.",
+            "zh": "我在吹頭髮。我再幾分鐘就好了。"
           },
           {
-            "en": "I'll be ready in a few minutes.",
-            "zh": "我再幾分鐘就好了。"
+            "en": "It was opening day. A few people were waiting outside the shop.",
+            "zh": "那天是開幕日。有幾個人在店外面等。"
           },
           {
-            "en": "A few people were waiting outside the shop.",
-            "zh": "有幾個人在店外面等。"
+            "en": "Can you help me after class? I've got a few questions about the homework.",
+            "zh": "下課後你可以幫我嗎？我對功課有幾個問題。"
           },
           {
-            "en": "I've got a few questions about the homework.",
-            "zh": "我對功課有幾個問題。"
+            "en": "We need some things for the picnic. Let's buy a few apples and some bread.",
+            "zh": "我們野餐需要一些東西。我們買幾顆蘋果和一些麵包吧。"
           }
         ]
       },
@@ -65984,33 +66086,41 @@
         "heading": "④ 過去的事",
         "items": [
           {
-            "en": "All the guests left before midnight.",
-            "zh": "所有客人都在半夜以前走了。"
+            "en": "The party ended early. All the guests left before midnight.",
+            "zh": "派對很早就結束了。所有客人都在半夜以前走了。"
           },
           {
-            "en": "We stayed in a small hotel for a few nights.",
-            "zh": "我們在一間小旅館住了幾晚。"
+            "en": "The town was very quiet. We stayed in a small hotel for a few nights.",
+            "zh": "那個小鎮很安靜。我們在一間小旅館住了幾晚。"
           },
           {
-            "en": "Both players were tired at the end of the game.",
-            "zh": "比賽結束的時候，兩個選手都很累。"
+            "en": "The match lasted four hours. Both players were tired at the end of the game.",
+            "zh": "比賽打了四個小時。比賽結束的時候，兩個選手都很累。"
+          },
+          {
+            "en": "We lost the first game. We won a few matches later in the season.",
+            "zh": "我們輸了第一場。後來這一季我們贏了幾場比賽。"
           }
         ]
       },
       {
-        "heading": "⑤ 不同的情境",
+        "heading": "⑤ 通知和公告",
         "items": [
           {
-            "en": "All flights to Paris are cancelled because of the snow.",
-            "zh": "因為下雪，所有飛往巴黎的班機都取消了。"
+            "en": "The airport is closed. All flights to Paris are cancelled because of the snow.",
+            "zh": "機場關閉了。因為下雪，所有飛往巴黎的班機都取消了。"
           },
           {
-            "en": "A few students stayed after class to talk to the teacher.",
-            "zh": "有幾個學生下課後留下來跟老師說話。"
+            "en": "Tickets are selling fast. A few seats are still available for Saturday's concert.",
+            "zh": "票賣得很快。星期六的音樂會還有幾個座位。"
           },
           {
-            "en": "Both my grandmothers live in the country.",
-            "zh": "我外婆和奶奶都住在鄉下。"
+            "en": "Both entrances are closed today. Please use the side door.",
+            "zh": "兩個入口今天都關閉。請走側門。"
+          },
+          {
+            "en": "The museum is free today. All visitors must leave their bags at the door.",
+            "zh": "博物館今天免費。所有參觀者都要把包包放在門口。"
           }
         ]
       },
@@ -66018,16 +66128,41 @@
         "heading": "⑥ 對話",
         "items": [
           {
-            "en": "\"Which one do you like?\" \"I like both colours.\"",
-            "zh": "你喜歡哪一個？兩種顏色我都喜歡。"
+            "en": "\"Should we paint the bedroom blue or green?\" \"I don't know. I like both colours.\"",
+            "zh": "臥室要漆藍色還是綠色？我不知道。兩種顏色我都喜歡。"
           },
           {
             "en": "\"Have you got any stamps?\" \"Yes, a few stamps. How many do you need?\"",
             "zh": "你有郵票嗎？有，有幾張。你要幾張？"
           },
           {
-            "en": "\"Can everyone come to the meeting?\" \"Yes, all teachers will be there.\"",
-            "zh": "大家都能來開會嗎？能，所有老師都會到。"
+            "en": "\"Can I bring my dog into the café?\" \"Sorry, all dogs must stay outside.\"",
+            "zh": "我可以帶狗進咖啡店嗎？抱歉，所有的狗都要待在外面。"
+          },
+          {
+            "en": "\"Did you take any photos?\" \"Just a few photos of the lake.\"",
+            "zh": "你有拍照嗎？只拍了幾張湖的照片。"
+          }
+        ]
+      },
+      {
+        "heading": "⑦ 寫信給朋友",
+        "items": [
+          {
+            "en": "I've been very busy. I've had a few exams this month.",
+            "zh": "我最近很忙。我這個月有幾個考試。"
+          },
+          {
+            "en": "My parents send their love. Both my brothers say hello too.",
+            "zh": "我爸媽問候你。我兩個哥哥也跟你問好。"
+          },
+          {
+            "en": "The new school is great. All my teachers are very friendly.",
+            "zh": "新學校很棒。我所有的老師都很友善。"
+          },
+          {
+            "en": "I'm sending you a few photos from our holiday.",
+            "zh": "我寄幾張我們度假的照片給你。"
           }
         ]
       }
@@ -66382,53 +66517,61 @@
     "translation": "我每年都會去印度看我的朋友和家人。",
     "name": "數量限定詞 a、every 加單數名詞",
     "sentences": [
-      "In my home there are three bedrooms. I have a big kitchen and a small toilet.",
-      "The first floor has two bedrooms and a big bathroom with a bath.",
-      "My brother has a dog and a cat.",
-      "Our school has a swimming pool and a library.",
-      "I live in a small flat in the city centre.",
-      "I go to India every year to see my friends and family.",
-      "My mum phones her sister every evening.",
-      "We have English lessons every Tuesday.",
-      "My dad goes swimming every morning.",
-      "My cousins come to stay with us every summer.",
-      "Every student has a locker.",
-      "Every room in our house has a window.",
-      "The teacher knows every child's name.",
-      "Every shop in the street was closed.",
+      "The house is perfect for us. The first floor has two bedrooms and a big bathroom with a bath.",
+      "My brother has a dog and a cat. He lives in a house with a garden.",
+      "We can swim and read at lunchtime. Our school has a swimming pool and a library.",
+      "I can walk to work. I live in a small flat in the city centre.",
+      "It's very cold here in winter. I need a warm coat.",
+      "My mum phones her sister every evening. They talk for hours.",
+      "Our teacher is from London. We have English lessons every Tuesday.",
+      "My dad goes swimming every morning. He's very fit for his age.",
+      "My cousins come to stay with us every summer. We go to the beach together.",
+      "The market is very busy. It opens every Friday.",
+      "You can leave your books at school. Every student has a locker.",
+      "The house is very bright. Every room in our house has a window.",
+      "Our village school is very small. The teacher knows every child's name.",
+      "It was a public holiday. Every shop in the street was closed.",
+      "Mum cleaned the whole house. Every window is shining now.",
       "Hi! My name is Paulo. I have a sister and a brother.",
-      "I'm from Brazil, and I go to a language school every afternoon.",
-      "I have a part-time job in a café.",
-      "Can I have a sandwich and a cup of tea, please?",
-      "I wash my dad's car every weekend for some pocket money.",
-      "There's a bus to the airport every hour.",
+      "My name's Ana and I'm new in London. I'm from Brazil, and I go to a language school every afternoon.",
+      "I'm a student, but I have a part-time job in a café. I work there at weekends.",
+      "I love sport. I go running every weekend.",
+      "I'm hungry. Can I have an egg sandwich and a cup of tea, please?",
+      "I'm saving for a bike. I wash my dad's car every weekend for some pocket money.",
+      "You don't need a taxi. There's a bus to the airport every hour.",
+      "My grandmother is ninety. We visit her every Sunday.",
       "\"How often do you play tennis?\" \"Every Sunday.\"",
       "\"Have you got a pet?\" \"Yes, a rabbit.\"",
-      "\"Do you walk to school?\" \"Yes, every day.\""
+      "\"Do you walk to school?\" \"Yes, every day.\"",
+      "\"What did you buy?\" \"A new phone. My old one broke.\"",
+      "My new job is great. I have an office with a view of the sea.",
+      "My flatmates love films. We go to the cinema every Friday night.",
+      "There's a lovely park near my flat. I walk there every evening.",
+      "Don't worry about me. Every person in my new class is friendly."
     ],
     "examples": [
       {
         "heading": "① a + 單數名詞",
         "items": [
           {
-            "en": "In my home there are three bedrooms. I have a big kitchen and a small toilet.",
-            "zh": "我家有三間臥室。有一間大廚房和一間小廁所。"
+            "en": "The house is perfect for us. The first floor has two bedrooms and a big bathroom with a bath.",
+            "zh": "這房子很適合我們。二樓有兩間臥室和一間有浴缸的大浴室。"
           },
           {
-            "en": "The first floor has two bedrooms and a big bathroom with a bath.",
-            "zh": "二樓有兩間臥室和一間有浴缸的大浴室。"
+            "en": "My brother has a dog and a cat. He lives in a house with a garden.",
+            "zh": "我哥哥養了一隻狗和一隻貓。他住在一棟有花園的房子。"
           },
           {
-            "en": "My brother has a dog and a cat.",
-            "zh": "我哥哥養了一隻狗和一隻貓。"
+            "en": "We can swim and read at lunchtime. Our school has a swimming pool and a library.",
+            "zh": "我們午餐時間可以游泳和看書。我們學校有一座游泳池和一間圖書館。"
           },
           {
-            "en": "Our school has a swimming pool and a library.",
-            "zh": "我們學校有一座游泳池和一間圖書館。"
+            "en": "I can walk to work. I live in a small flat in the city centre.",
+            "zh": "我可以走路上班。我住在市中心的一間小公寓。"
           },
           {
-            "en": "I live in a small flat in the city centre.",
-            "zh": "我住在市中心的一間小公寓。"
+            "en": "It's very cold here in winter. I need a warm coat.",
+            "zh": "這裡冬天很冷。我需要一件保暖的外套。"
           }
         ]
       },
@@ -66436,24 +66579,24 @@
         "heading": "② every + 時間",
         "items": [
           {
-            "en": "I go to India every year to see my friends and family.",
-            "zh": "我每年都會去印度看我的朋友和家人。"
+            "en": "My mum phones her sister every evening. They talk for hours.",
+            "zh": "我媽媽每天晚上都打電話給她姊姊。她們一聊就好幾個小時。"
           },
           {
-            "en": "My mum phones her sister every evening.",
-            "zh": "我媽媽每天晚上都打電話給她姊姊。"
+            "en": "Our teacher is from London. We have English lessons every Tuesday.",
+            "zh": "我們的老師是倫敦人。我們每個星期二都有英文課。"
           },
           {
-            "en": "We have English lessons every Tuesday.",
-            "zh": "我們每個星期二都有英文課。"
+            "en": "My dad goes swimming every morning. He's very fit for his age.",
+            "zh": "我爸爸每天早上都去游泳。以他的年紀來說，他身體很好。"
           },
           {
-            "en": "My dad goes swimming every morning.",
-            "zh": "我爸爸每天早上都去游泳。"
+            "en": "My cousins come to stay with us every summer. We go to the beach together.",
+            "zh": "我的表兄弟姊妹每年夏天都來我們家住。我們會一起去海邊。"
           },
           {
-            "en": "My cousins come to stay with us every summer.",
-            "zh": "我的表兄弟姊妹每年夏天都來我們家住。"
+            "en": "The market is very busy. It opens every Friday.",
+            "zh": "市集很熱鬧。它每個星期五開。"
           }
         ]
       },
@@ -66461,20 +66604,24 @@
         "heading": "③ every + 人或東西",
         "items": [
           {
-            "en": "Every student has a locker.",
-            "zh": "每個學生都有一個置物櫃。"
+            "en": "You can leave your books at school. Every student has a locker.",
+            "zh": "你可以把書留在學校。每個學生都有一個置物櫃。"
           },
           {
-            "en": "Every room in our house has a window.",
-            "zh": "我們家每個房間都有窗戶。"
+            "en": "The house is very bright. Every room in our house has a window.",
+            "zh": "房子很明亮。我們家每個房間都有窗戶。"
           },
           {
-            "en": "The teacher knows every child's name.",
-            "zh": "老師知道每個孩子的名字。"
+            "en": "Our village school is very small. The teacher knows every child's name.",
+            "zh": "我們村子的學校很小。老師知道每個孩子的名字。"
           },
           {
-            "en": "Every shop in the street was closed.",
-            "zh": "那條街上每家店都關門了。"
+            "en": "It was a public holiday. Every shop in the street was closed.",
+            "zh": "那天是國定假日。那條街上每家店都關門了。"
+          },
+          {
+            "en": "Mum cleaned the whole house. Every window is shining now.",
+            "zh": "媽媽把整間房子打掃乾淨了。每扇窗戶現在都亮晶晶的。"
           }
         ]
       },
@@ -66486,29 +66633,37 @@
             "zh": "嗨！我叫 Paulo。我有一個姊姊和一個弟弟。"
           },
           {
-            "en": "I'm from Brazil, and I go to a language school every afternoon.",
-            "zh": "我來自巴西，每天下午都去語言學校。"
+            "en": "My name's Ana and I'm new in London. I'm from Brazil, and I go to a language school every afternoon.",
+            "zh": "我叫 Ana，剛來倫敦。我來自巴西，每天下午都去語言學校。"
           },
           {
-            "en": "I have a part-time job in a café.",
-            "zh": "我在一家咖啡店打工。"
+            "en": "I'm a student, but I have a part-time job in a café. I work there at weekends.",
+            "zh": "我是學生，可是我在一家咖啡店打工。我週末在那裡工作。"
+          },
+          {
+            "en": "I love sport. I go running every weekend.",
+            "zh": "我很愛運動。我每個週末都去跑步。"
           }
         ]
       },
       {
-        "heading": "⑤ 不同的情境",
+        "heading": "⑤ 日常生活",
         "items": [
           {
-            "en": "Can I have a sandwich and a cup of tea, please?",
-            "zh": "請給我一份三明治和一杯茶。"
+            "en": "I'm hungry. Can I have an egg sandwich and a cup of tea, please?",
+            "zh": "我餓了。請給我一份蛋三明治和一杯茶。"
           },
           {
-            "en": "I wash my dad's car every weekend for some pocket money.",
-            "zh": "我每個週末幫爸爸洗車，賺點零用錢。"
+            "en": "I'm saving for a bike. I wash my dad's car every weekend for some pocket money.",
+            "zh": "我在存錢買腳踏車。我每個週末幫爸爸洗車，賺點零用錢。"
           },
           {
-            "en": "There's a bus to the airport every hour.",
-            "zh": "每個小時有一班公車到機場。"
+            "en": "You don't need a taxi. There's a bus to the airport every hour.",
+            "zh": "你不需要計程車。每個小時有一班公車到機場。"
+          },
+          {
+            "en": "My grandmother is ninety. We visit her every Sunday.",
+            "zh": "我奶奶九十歲了。我們每個星期天都去看她。"
           }
         ]
       },
@@ -66526,6 +66681,31 @@
           {
             "en": "\"Do you walk to school?\" \"Yes, every day.\"",
             "zh": "你走路上學嗎？對，每天都走。"
+          },
+          {
+            "en": "\"What did you buy?\" \"A new phone. My old one broke.\"",
+            "zh": "你買了什麼？一支新手機。我的舊手機壞了。"
+          }
+        ]
+      },
+      {
+        "heading": "⑦ 寫信給朋友",
+        "items": [
+          {
+            "en": "My new job is great. I have an office with a view of the sea.",
+            "zh": "我的新工作很棒。我有一間看得到海的辦公室。"
+          },
+          {
+            "en": "My flatmates love films. We go to the cinema every Friday night.",
+            "zh": "我的室友很愛電影。我們每個星期五晚上都去看電影。"
+          },
+          {
+            "en": "There's a lovely park near my flat. I walk there every evening.",
+            "zh": "我公寓附近有一座很漂亮的公園。我每天晚上都去那裡散步。"
+          },
+          {
+            "en": "Don't worry about me. Every person in my new class is friendly.",
+            "zh": "別擔心我。我新班上的每個人都很友善。"
           }
         ]
       }
@@ -120979,16 +121159,16 @@
     "name": "would 表示過去的習慣",
     "sentences": [
       "Last year I worked in a busy restaurant. In my opinion I worked very hard. I would spend a lot of hours at work.",
-      "I would start at six in the morning and finish late at night.",
-      "My boss would check every plate before it left the kitchen.",
-      "We would have a short break at three o'clock.",
-      "I would take the last bus home after work.",
-      "On Fridays the restaurant would be full until midnight.",
-      "The pirates were clever. At night they would go to the rocky seaside and light a fire to trick the boats.",
+      "My last job was in a hotel kitchen. I would start at six in the morning and finish late at night.",
+      "The head chef was very strict. He would check every plate before it left the kitchen.",
+      "Lunch was the busiest time of the day. We would have a short break at three o'clock.",
+      "I lived far from the restaurant. I would take the last bus home after work.",
+      "Friday nights were the hardest. The restaurant would be full until midnight.",
+      "The pirates were clever. At night they would go down to the rocks and light a fire to trick the ships.",
       "Every morning the old fisherman would sit by the harbour and mend his nets.",
-      "The girl would climb the tree and watch the road for her father.",
-      "The king would walk around the city at night in old clothes.",
-      "The wolf would come to the village when the snow was deep.",
+      "The girl's father worked far away in the city. She would climb the tree and watch the road for him.",
+      "The king wanted to know what his people thought. He would walk around the city at night in old clothes.",
+      "Winters in the mountains were long and hard. The wolves would come to the village when the snow was deep.",
       "Every evening the children would gather around the fire for a story.",
       "When I was a child, my grandmother would bake bread every Saturday.",
       "When we were young, we would play in the woods until dark.",
@@ -120996,19 +121176,19 @@
       "When my dad was a boy, he would swim in the river every summer.",
       "When we lived in Italy, we would eat outside every evening.",
       "When I was small, my brother would tell me scary stories at night.",
-      "My grandfather would often fall asleep in his armchair after lunch.",
-      "We would always go to the same beach every summer.",
-      "My aunt would often send us parcels from Canada.",
-      "Our teacher would always start the lesson with a song.",
-      "My friends and I would often meet at the café after school.",
-      "The dog would always wait for me at the door.",
-      "Every Sunday we would visit my grandparents, and then we would have lunch together.",
-      "After school I would do my homework, and then I would go to football practice.",
-      "In summer we would get up early, and then we would cycle to the lake.",
-      "My mum would cook dinner, and then my dad would wash up.",
-      "Every morning she would feed the chickens, and then she would collect the eggs.",
-      "At Christmas we would decorate the tree, and then we would sing carols.",
-      "On rainy days we would build a tent in the living room, and then we would read inside it."
+      "Grandpa always had a big lunch. He would often fall asleep in his armchair afterwards.",
+      "Our family holidays were all the same. We would always go to the same beach in Cornwall.",
+      "My aunt moved to Toronto when I was five. She would often send us parcels from Canada.",
+      "I loved my primary school. Our teacher would always start the lesson with a song.",
+      "At sixteen we had a lot of free time. My friends and I would often meet at the café after school.",
+      "I really miss our old dog. He would always wait for me at the door.",
+      "My weekends as a child were always the same. Every Sunday we would visit my grandparents, and then we would have lunch together.",
+      "I was a busy kid. After school I would do my homework, and then I would go to football practice.",
+      "Our holidays by the lake were simple. In summer we would get up early, and then we would cycle to the lake.",
+      "My parents always shared the work at home. My mum would cook dinner, and then my dad would wash up.",
+      "My grandmother lived on a farm. Every morning she would feed the chickens, and then she would collect the eggs.",
+      "Christmas in our house was always busy. Every year we would decorate the tree, and then we would sing carols.",
+      "My sister and I loved bad weather. On rainy days we would build a tent in the living room, and then we would read inside it."
     ],
     "examples": [
       {
@@ -121019,24 +121199,24 @@
             "zh": "去年我在一家很忙的餐廳工作。我認為我工作得很努力。我常常在工作上花很多時間。"
           },
           {
-            "en": "I would start at six in the morning and finish late at night.",
-            "zh": "我常常早上六點開始，晚上很晚才結束。"
+            "en": "My last job was in a hotel kitchen. I would start at six in the morning and finish late at night.",
+            "zh": "我上一份工作是在飯店廚房。我常常早上六點開始，晚上很晚才結束。"
           },
           {
-            "en": "My boss would check every plate before it left the kitchen.",
-            "zh": "我老闆常常會在每一盤菜離開廚房前檢查。"
+            "en": "The head chef was very strict. He would check every plate before it left the kitchen.",
+            "zh": "主廚很嚴格。每一盤菜端出廚房前，他都會檢查。"
           },
           {
-            "en": "We would have a short break at three o'clock.",
-            "zh": "我們常常在三點的時候休息一下。"
+            "en": "Lunch was the busiest time of the day. We would have a short break at three o'clock.",
+            "zh": "午餐是一天中最忙的時候。我們常常在三點的時候休息一下。"
           },
           {
-            "en": "I would take the last bus home after work.",
-            "zh": "下班後我常常搭最後一班公車回家。"
+            "en": "I lived far from the restaurant. I would take the last bus home after work.",
+            "zh": "我住得離餐廳很遠。下班後我常常搭最後一班公車回家。"
           },
           {
-            "en": "On Fridays the restaurant would be full until midnight.",
-            "zh": "星期五餐廳常常客滿到半夜。"
+            "en": "Friday nights were the hardest. The restaurant would be full until midnight.",
+            "zh": "星期五晚上最累。餐廳常常客滿到半夜。"
           }
         ]
       },
@@ -121044,24 +121224,24 @@
         "heading": "② 主詞 + would + 原形動詞：故事裡人物的習慣",
         "items": [
           {
-            "en": "The pirates were clever. At night they would go to the rocky seaside and light a fire to trick the boats.",
-            "zh": "那些海盜很聰明。晚上他們常常會去岩石海岸生火，欺騙船隻。"
+            "en": "The pirates were clever. At night they would go down to the rocks and light a fire to trick the ships.",
+            "zh": "那些海盜很聰明。晚上他們常常會到岩石邊生火，騙過往的船。"
           },
           {
             "en": "Every morning the old fisherman would sit by the harbour and mend his nets.",
             "zh": "每天早上那個老漁夫都會坐在港口邊補他的網。"
           },
           {
-            "en": "The girl would climb the tree and watch the road for her father.",
-            "zh": "那個女孩常常會爬上樹，看著路等她爸爸回來。"
+            "en": "The girl's father worked far away in the city. She would climb the tree and watch the road for him.",
+            "zh": "那個女孩的爸爸在很遠的城市工作。她常常會爬上樹，看著路等他回來。"
           },
           {
-            "en": "The king would walk around the city at night in old clothes.",
-            "zh": "國王常常晚上穿著舊衣服在城裡走來走去。"
+            "en": "The king wanted to know what his people thought. He would walk around the city at night in old clothes.",
+            "zh": "國王想知道人民在想什麼。他常常晚上穿著舊衣服在城裡走來走去。"
           },
           {
-            "en": "The wolf would come to the village when the snow was deep.",
-            "zh": "雪很深的時候，狼常常會來村子裡。"
+            "en": "Winters in the mountains were long and hard. The wolves would come to the village when the snow was deep.",
+            "zh": "山上的冬天又長又難熬。雪很深的時候，狼群常常會來村子裡。"
           },
           {
             "en": "Every evening the children would gather around the fire for a story.",
@@ -121070,7 +121250,7 @@
         ]
       },
       {
-        "heading": "③ When + 主詞 + was …, + 主詞 + would + 原形動詞：童年的回憶",
+        "heading": "③ When + 主詞 + 過去式 …, + 主詞 + would + 原形動詞：童年的回憶",
         "items": [
           {
             "en": "When I was a child, my grandmother would bake bread every Saturday.",
@@ -121102,28 +121282,28 @@
         "heading": "④ 主詞 + would often / always + 原形動詞：說多常",
         "items": [
           {
-            "en": "My grandfather would often fall asleep in his armchair after lunch.",
-            "zh": "我爺爺午餐後常常會在扶手椅上睡著。"
+            "en": "Grandpa always had a big lunch. He would often fall asleep in his armchair afterwards.",
+            "zh": "爺爺午餐總是吃很多。他吃完常常會在扶手椅上睡著。"
           },
           {
-            "en": "We would always go to the same beach every summer.",
-            "zh": "我們每年夏天總是會去同一個海灘。"
+            "en": "Our family holidays were all the same. We would always go to the same beach in Cornwall.",
+            "zh": "我們家的假期都一樣。我們總是會去康瓦爾的同一個海灘。"
           },
           {
-            "en": "My aunt would often send us parcels from Canada.",
-            "zh": "我阿姨常常會從加拿大寄包裹給我們。"
+            "en": "My aunt moved to Toronto when I was five. She would often send us parcels from Canada.",
+            "zh": "我阿姨在我五歲時搬到多倫多。她常常會從加拿大寄包裹給我們。"
           },
           {
-            "en": "Our teacher would always start the lesson with a song.",
-            "zh": "我們老師總是會用一首歌開始上課。"
+            "en": "I loved my primary school. Our teacher would always start the lesson with a song.",
+            "zh": "我很喜歡我的小學。我們老師總是會用一首歌開始上課。"
           },
           {
-            "en": "My friends and I would often meet at the café after school.",
-            "zh": "我和朋友常常放學後在咖啡館碰面。"
+            "en": "At sixteen we had a lot of free time. My friends and I would often meet at the café after school.",
+            "zh": "我們十六歲的時候有很多空閒時間。我和朋友常常放學後在咖啡館碰面。"
           },
           {
-            "en": "The dog would always wait for me at the door.",
-            "zh": "那隻狗總是會在門口等我。"
+            "en": "I really miss our old dog. He would always wait for me at the door.",
+            "zh": "我很想念我們的老狗。牠總是會在門口等我。"
           }
         ]
       },
@@ -121131,32 +121311,32 @@
         "heading": "⑤ 主詞 + would + 原形動詞, and then + 主詞 + would + 原形動詞：一連串的習慣",
         "items": [
           {
-            "en": "Every Sunday we would visit my grandparents, and then we would have lunch together.",
-            "zh": "每個星期天我們都會去看我的祖父母，然後一起吃午餐。"
+            "en": "My weekends as a child were always the same. Every Sunday we would visit my grandparents, and then we would have lunch together.",
+            "zh": "我小時候的週末都一樣。每個星期天我們都會去看我的祖父母，然後一起吃午餐。"
           },
           {
-            "en": "After school I would do my homework, and then I would go to football practice.",
-            "zh": "放學後我會先寫功課，然後去練足球。"
+            "en": "I was a busy kid. After school I would do my homework, and then I would go to football practice.",
+            "zh": "我小時候很忙。放學後我會先寫功課，然後去練足球。"
           },
           {
-            "en": "In summer we would get up early, and then we would cycle to the lake.",
-            "zh": "夏天我們會早起，然後騎腳踏車去湖邊。"
+            "en": "Our holidays by the lake were simple. In summer we would get up early, and then we would cycle to the lake.",
+            "zh": "我們在湖邊的假期很簡單。夏天我們會早起，然後騎腳踏車去湖邊。"
           },
           {
-            "en": "My mum would cook dinner, and then my dad would wash up.",
-            "zh": "我媽媽會煮晚餐，然後我爸爸會洗碗。"
+            "en": "My parents always shared the work at home. My mum would cook dinner, and then my dad would wash up.",
+            "zh": "我爸媽總是分擔家事。我媽媽會煮晚餐，然後我爸爸會洗碗。"
           },
           {
-            "en": "Every morning she would feed the chickens, and then she would collect the eggs.",
-            "zh": "每天早上她會餵雞，然後撿雞蛋。"
+            "en": "My grandmother lived on a farm. Every morning she would feed the chickens, and then she would collect the eggs.",
+            "zh": "我奶奶住在農場。每天早上她會餵雞，然後撿雞蛋。"
           },
           {
-            "en": "At Christmas we would decorate the tree, and then we would sing carols.",
-            "zh": "聖誕節我們會裝飾聖誕樹，然後唱聖誕歌。"
+            "en": "Christmas in our house was always busy. Every year we would decorate the tree, and then we would sing carols.",
+            "zh": "我們家的聖誕節總是很忙。每年我們會裝飾聖誕樹，然後唱聖誕歌。"
           },
           {
-            "en": "On rainy days we would build a tent in the living room, and then we would read inside it.",
-            "zh": "下雨天我們會在客廳搭帳篷，然後在裡面讀書。"
+            "en": "My sister and I loved bad weather. On rainy days we would build a tent in the living room, and then we would read inside it.",
+            "zh": "我和我妹妹很喜歡壞天氣。下雨天我們會在客廳搭帳篷，然後在裡面讀書。"
           }
         ]
       }
@@ -123838,69 +124018,69 @@
     "translation": "現在，你至少要高中畢業，雇主才會考慮用你。",
     "name": "have to 完成式表示過去的義務",
     "sentences": [
-      "To work at the bank, you have to have finished a business degree.",
-      "These days you have to have done an internship to get a good job.",
-      "To work as a nurse here, you have to have trained for three years.",
-      "Teachers have to have passed a special exam before they can work in state schools.",
-      "Pilots have to have flown a thousand hours before they can fly passengers.",
-      "Applicants have to have lived in the city for at least a year.",
-      "Staff have to have completed the safety training before they use the machines.",
-      "To vote in the club elections, members have to have paid their fees.",
-      "To become a citizen, you have to have lived in the country for ten years.",
-      "Children have to have had all their injections before they start school.",
-      "Players have to have rested for two days after a head injury.",
-      "Your passport has to have been issued in the last ten years.",
-      "To take the course, students have to have studied maths at school.",
-      "In my grandfather's time, you had to have served in the army to get a government job.",
-      "Before 1990, women had to have married to get a loan from this bank.",
-      "To get into the old university, students had to have learned Latin.",
-      "Back then, you had to have worked for the company for twenty years to get a pension.",
-      "In the past, doctors had to have studied for seven years.",
-      "To join the club in those days, you had to have been born in the town.",
-      "To get into a state university, you usually had to have been studying in a public school.",
-      "To get the grant, you had to have been living in the area for three years.",
-      "To join the team, players had to have been training with the club since childhood.",
-      "To apply for the job, you had to have been teaching for at least five years.",
-      "To get a free ticket, you had to have been waiting in the queue since the morning.",
-      "To get a place in the home, you had to have been paying into the fund for years.",
-      "From next year, all drivers will have to have taken a first aid course.",
-      "New teachers will have to have spent a year in a school before they qualify.",
-      "By 2030, builders will have to have put solar panels on every new house.",
-      "Students will have to have read the book before the first class.",
-      "All workers will have to have learned basic computer skills by the end of the year.",
-      "Visitors will have to have booked their tickets online."
+      "Companies want more and more these days. Nowadays, one has to have finished at least senior high school for any employer to consider hiring you.",
+      "My cousin graduated last summer. These days you have to have done an internship to get a good job.",
+      "My sister wants to work at the city hospital. To work as a nurse here, you have to have trained for three years.",
+      "My friend wants to teach in a state school. Teachers have to have passed a special exam before they can work in state schools.",
+      "I asked a pilot about her job. Pilots have to have flown a thousand hours before they can fly passengers.",
+      "The council has cheap flats for local people. Applicants have to have lived in the city for at least a year.",
+      "The factory has new rules this year. Staff have to have completed the safety training before they use the machines.",
+      "The tennis club is choosing a new chair. To vote in the club elections, members have to have paid their fees.",
+      "My neighbour applied for a passport here. To become a citizen, you have to have lived in the country for ten years.",
+      "The school sent a letter to new parents. Children have to have had all their injections before they start school.",
+      "Our coach is very careful. After a head injury, players have to have rested for two days before they play again.",
+      "Check your documents before you book. You have to have renewed your passport in the last ten years.",
+      "I want to sign up for the physics course. To take the course, students have to have studied maths at school.",
+      "My grandfather was a soldier for two years. In his day, you had to have served in the army to get a government job.",
+      "My uncle flew planes for forty years. Before 1990, pilots at this airline had to have served in the air force.",
+      "My grandfather studied at Oxford. To get in back then, students had to have learned Latin.",
+      "My grandmother worked at the mill all her life. Back then, you had to have worked for the company for twenty years to get a pension.",
+      "My uncle became a doctor in 1970. In the past, doctors had to have studied for seven years.",
+      "The old club had strict rules. To join the club in those days, you had to have grown up in the town.",
+      "My father wanted to study medicine. To get into medical school, you had to have been studying science for two years.",
+      "We moved to the area in 2015. To get the grant, you had to have been living in the area for three years.",
+      "The best players grew up at the club. To join the team, players had to have been training with the club since childhood.",
+      "The college wanted experienced staff. To apply for the job, you had to have been teaching for at least five years.",
+      "The free concert was very popular. To get a ticket, you had to have been queuing since the morning.",
+      "My grandmother finally got a room. To get a place in the home, you had to have been paying into the fund for years.",
+      "The government has new road rules. From next year, all drivers will have to have taken a first aid course.",
+      "Teacher training is changing. New teachers will have to have spent a year in a school before they qualify.",
+      "The city has a plan for clean energy. From 2030, every new house will have to have passed an energy test before people move in.",
+      "The reading list for the course is out. Students will have to have read the book before the first class.",
+      "The company is buying new software. All workers will have to have learned basic computer skills by the end of the year.",
+      "The museum is very busy in summer. Visitors will have to have booked their tickets online before they arrive."
     ],
     "examples": [
       {
         "heading": "① has / have to have + 過去分詞：現在找工作的條件",
         "items": [
           {
-            "en": "To work at the bank, you have to have finished a business degree.",
-            "zh": "要在那家銀行工作，你必須念完商學學位。"
+            "en": "Companies want more and more these days. Nowadays, one has to have finished at least senior high school for any employer to consider hiring you.",
+            "zh": "現在公司的要求越來越多。現在一個人至少要念完高中，雇主才會考慮僱用你。"
           },
           {
-            "en": "These days you have to have done an internship to get a good job.",
-            "zh": "現在你必須實習過，才找得到好工作。"
+            "en": "My cousin graduated last summer. These days you have to have done an internship to get a good job.",
+            "zh": "我表哥去年夏天畢業了。現在你必須實習過，才找得到好工作。"
           },
           {
-            "en": "To work as a nurse here, you have to have trained for three years.",
-            "zh": "要在這裡當護理師，你必須受過三年訓練。"
+            "en": "My sister wants to work at the city hospital. To work as a nurse here, you have to have trained for three years.",
+            "zh": "我姊姊想在市立醫院工作。要在這裡當護理師，你必須受過三年訓練。"
           },
           {
-            "en": "Teachers have to have passed a special exam before they can work in state schools.",
-            "zh": "老師必須通過一項特別的考試，才能在公立學校工作。"
+            "en": "My friend wants to teach in a state school. Teachers have to have passed a special exam before they can work in state schools.",
+            "zh": "我朋友想在公立學校教書。老師必須通過一項特別的考試，才能在公立學校工作。"
           },
           {
-            "en": "Pilots have to have flown a thousand hours before they can fly passengers.",
-            "zh": "飛行員必須飛滿一千個小時，才能載乘客。"
+            "en": "I asked a pilot about her job. Pilots have to have flown a thousand hours before they can fly passengers.",
+            "zh": "我問了一位飛行員她的工作。飛行員必須飛滿一千個小時，才能載乘客。"
           },
           {
-            "en": "Applicants have to have lived in the city for at least a year.",
-            "zh": "申請人必須已經在這個城市住滿至少一年。"
+            "en": "The council has cheap flats for local people. Applicants have to have lived in the city for at least a year.",
+            "zh": "市議會有給本地人的便宜公寓。申請人必須已經在這個城市住滿至少一年。"
           },
           {
-            "en": "Staff have to have completed the safety training before they use the machines.",
-            "zh": "員工必須完成安全訓練才能使用機器。"
+            "en": "The factory has new rules this year. Staff have to have completed the safety training before they use the machines.",
+            "zh": "工廠今年有新規定。員工必須完成安全訓練才能使用機器。"
           }
         ]
       },
@@ -123908,28 +124088,28 @@
         "heading": "② has / have to have + 過去分詞：現在其他的規定",
         "items": [
           {
-            "en": "To vote in the club elections, members have to have paid their fees.",
-            "zh": "要在社團選舉投票，會員必須已經繳了會費。"
+            "en": "The tennis club is choosing a new chair. To vote in the club elections, members have to have paid their fees.",
+            "zh": "網球俱樂部在選新主席。要在社團選舉投票，會員必須已經繳了會費。"
           },
           {
-            "en": "To become a citizen, you have to have lived in the country for ten years.",
-            "zh": "要成為公民，你必須已經在這個國家住滿十年。"
+            "en": "My neighbour applied for a passport here. To become a citizen, you have to have lived in the country for ten years.",
+            "zh": "我的鄰居在這裡申請護照。要成為公民，你必須已經在這個國家住滿十年。"
           },
           {
-            "en": "Children have to have had all their injections before they start school.",
-            "zh": "孩子入學前必須打完所有的預防針。"
+            "en": "The school sent a letter to new parents. Children have to have had all their injections before they start school.",
+            "zh": "學校寄了一封信給新生家長。孩子入學前必須打完所有的預防針。"
           },
           {
-            "en": "Players have to have rested for two days after a head injury.",
-            "zh": "頭部受傷後，球員必須休息兩天。"
+            "en": "Our coach is very careful. After a head injury, players have to have rested for two days before they play again.",
+            "zh": "我們的教練很謹慎。頭部受傷後，球員必須休息滿兩天才能再上場。"
           },
           {
-            "en": "Your passport has to have been issued in the last ten years.",
-            "zh": "你的護照必須是最近十年內核發的。（被動）"
+            "en": "Check your documents before you book. You have to have renewed your passport in the last ten years.",
+            "zh": "訂票之前先檢查你的證件。你必須在最近十年內換過護照。"
           },
           {
-            "en": "To take the course, students have to have studied maths at school.",
-            "zh": "要修這門課，學生必須在中學學過數學。"
+            "en": "I want to sign up for the physics course. To take the course, students have to have studied maths at school.",
+            "zh": "我想報名物理課。要修這門課，學生必須在中學學過數學。"
           }
         ]
       },
@@ -123937,28 +124117,28 @@
         "heading": "③ had to have + 過去分詞：過去的規定",
         "items": [
           {
-            "en": "In my grandfather's time, you had to have served in the army to get a government job.",
-            "zh": "在我爺爺的年代，你必須服過兵役才能找到政府的工作。"
+            "en": "My grandfather was a soldier for two years. In his day, you had to have served in the army to get a government job.",
+            "zh": "我爺爺當了兩年兵。在他那個年代，你必須服過兵役才能找到政府的工作。"
           },
           {
-            "en": "Before 1990, women had to have married to get a loan from this bank.",
-            "zh": "1990 年以前，女性必須已婚才能向這家銀行貸款。"
+            "en": "My uncle flew planes for forty years. Before 1990, pilots at this airline had to have served in the air force.",
+            "zh": "我叔叔開了四十年的飛機。1990 年以前，這家航空公司的飛行員必須在空軍服役過。"
           },
           {
-            "en": "To get into the old university, students had to have learned Latin.",
-            "zh": "要進那所古老的大學，學生必須學過拉丁文。"
+            "en": "My grandfather studied at Oxford. To get in back then, students had to have learned Latin.",
+            "zh": "我爺爺在牛津念書。那時候要進牛津，學生必須學過拉丁文。"
           },
           {
-            "en": "Back then, you had to have worked for the company for twenty years to get a pension.",
-            "zh": "那時候，你必須在公司工作滿二十年才能領退休金。"
+            "en": "My grandmother worked at the mill all her life. Back then, you had to have worked for the company for twenty years to get a pension.",
+            "zh": "我奶奶一輩子都在磨坊工作。那時候，你必須在公司工作滿二十年才能領退休金。"
           },
           {
-            "en": "In the past, doctors had to have studied for seven years.",
-            "zh": "以前醫生必須讀七年書。"
+            "en": "My uncle became a doctor in 1970. In the past, doctors had to have studied for seven years.",
+            "zh": "我叔叔一九七〇年當上醫生。以前醫生必須讀七年書。"
           },
           {
-            "en": "To join the club in those days, you had to have been born in the town.",
-            "zh": "那個年代要加入這個俱樂部，你必須是在這個鎮上出生的。（被動）"
+            "en": "The old club had strict rules. To join the club in those days, you had to have grown up in the town.",
+            "zh": "那個老俱樂部規定很嚴格。那個年代要加入這個俱樂部，你必須是在這個鎮上長大的。"
           }
         ]
       },
@@ -123966,28 +124146,28 @@
         "heading": "④ had to have been + -ing：過去要求持續的事",
         "items": [
           {
-            "en": "To get into a state university, you usually had to have been studying in a public school.",
-            "zh": "要進州立大學，你通常必須一直在公立學校就讀。"
+            "en": "My father wanted to study medicine. To get into medical school, you had to have been studying science for two years.",
+            "zh": "我爸爸想讀醫學系。要進醫學院，你必須已經念了兩年的理科。"
           },
           {
-            "en": "To get the grant, you had to have been living in the area for three years.",
-            "zh": "要拿到補助，你必須已經在這個地區住了三年。"
+            "en": "We moved to the area in 2015. To get the grant, you had to have been living in the area for three years.",
+            "zh": "我們二〇一五年搬到這一區。要拿到補助，你必須已經在這個地區住了三年。"
           },
           {
-            "en": "To join the team, players had to have been training with the club since childhood.",
-            "zh": "要加入這支球隊，球員必須從小就在俱樂部訓練。"
+            "en": "The best players grew up at the club. To join the team, players had to have been training with the club since childhood.",
+            "zh": "最好的球員都是在俱樂部長大的。要加入這支球隊，球員必須從小就在俱樂部訓練。"
           },
           {
-            "en": "To apply for the job, you had to have been teaching for at least five years.",
-            "zh": "要應徵這份工作，你必須已經教了至少五年書。"
+            "en": "The college wanted experienced staff. To apply for the job, you had to have been teaching for at least five years.",
+            "zh": "那所學院想要有經驗的員工。要應徵這份工作，你必須已經教了至少五年書。"
           },
           {
-            "en": "To get a free ticket, you had to have been waiting in the queue since the morning.",
-            "zh": "要拿到免費的票，你必須從早上就在排隊。"
+            "en": "The free concert was very popular. To get a ticket, you had to have been queuing since the morning.",
+            "zh": "那場免費演唱會很熱門。要拿到票，你必須從早上就在排隊。"
           },
           {
-            "en": "To get a place in the home, you had to have been paying into the fund for years.",
-            "zh": "要在那家養老院得到床位，你必須已經繳了好幾年的基金。"
+            "en": "My grandmother finally got a room. To get a place in the home, you had to have been paying into the fund for years.",
+            "zh": "我奶奶終於得到一個床位。要在那家養老院得到床位，你必須已經繳了好幾年的基金。"
           }
         ]
       },
@@ -123995,28 +124175,28 @@
         "heading": "⑤ will have to have + 過去分詞：未來的規定",
         "items": [
           {
-            "en": "From next year, all drivers will have to have taken a first aid course.",
-            "zh": "從明年起，所有駕駛都必須上過急救課程。"
+            "en": "The government has new road rules. From next year, all drivers will have to have taken a first aid course.",
+            "zh": "政府有新的交通規定。從明年起，所有駕駛都必須上過急救課程。"
           },
           {
-            "en": "New teachers will have to have spent a year in a school before they qualify.",
-            "zh": "新老師取得資格之前，必須已經在學校待過一年。"
+            "en": "Teacher training is changing. New teachers will have to have spent a year in a school before they qualify.",
+            "zh": "師資培訓在改變。新老師取得資格之前，必須已經在學校待過一年。"
           },
           {
-            "en": "By 2030, builders will have to have put solar panels on every new house.",
-            "zh": "到了 2030 年，建商必須已經在每間新房子裝好太陽能板。"
+            "en": "The city has a plan for clean energy. From 2030, every new house will have to have passed an energy test before people move in.",
+            "zh": "市政府有一個乾淨能源的計畫。從 2030 年起，每間新房子都必須先通過能源檢測，才能讓人入住。"
           },
           {
-            "en": "Students will have to have read the book before the first class.",
-            "zh": "學生必須在第一堂課之前讀完這本書。"
+            "en": "The reading list for the course is out. Students will have to have read the book before the first class.",
+            "zh": "這門課的書單出來了。學生必須在第一堂課之前讀完這本書。"
           },
           {
-            "en": "All workers will have to have learned basic computer skills by the end of the year.",
-            "zh": "所有工人到年底都必須學會基本的電腦技能。"
+            "en": "The company is buying new software. All workers will have to have learned basic computer skills by the end of the year.",
+            "zh": "公司要買新的軟體。所有工人到年底都必須學會基本的電腦技能。"
           },
           {
-            "en": "Visitors will have to have booked their tickets online.",
-            "zh": "參觀者必須已經在網路上訂好門票。"
+            "en": "The museum is very busy in summer. Visitors will have to have booked their tickets online before they arrive.",
+            "zh": "博物館夏天很多人。參觀者到達之前必須已經在網路上訂好門票。"
           }
         ]
       }
@@ -130082,36 +130262,36 @@
     "name": "間接引述中 would 當 will 的過去式",
     "sentences": [
       "I invited the writer to our school. She accepted the invitation and said that she would come on the 21st of June.",
-      "My brother said he would pick me up after the concert.",
-      "The weather forecast said it would be sunny all weekend.",
-      "My parents said they would think about buying a dog.",
-      "The plumber said he would come back on Monday.",
-      "My friend said she would bring her guitar to the party.",
-      "He told me I would like the film, and he was right!",
-      "The doctor told my mum she would need to rest for a week.",
-      "My teacher told us the exam would be on Tuesday.",
-      "The guide told us the bus would leave at nine.",
-      "My grandmother told me she would teach me to knit.",
-      "The manager told the staff that the office would close early.",
-      "I was worried about him, so I felt better when he said that he would be at home.",
-      "I was so happy when she said she would visit us at Christmas.",
-      "We were relieved when the mechanic said the car would be fine.",
-      "I was surprised when my boss said I would get a pay rise.",
-      "The children were excited when Dad said we would go to the zoo.",
-      "I was disappointed when they said the shop would close.",
-      "My best friend promised she would keep my secret.",
-      "The company promised they would refund my money.",
-      "My dad promised he would come to my football match.",
-      "They promised they would write to us every month.",
-      "The new neighbours promised they would keep their dog quiet at night.",
-      "The builders promised the work would be finished by May.",
-      "She said she wouldn't be able to come to the meeting.",
-      "My sister said she wouldn't tell anyone.",
-      "The teacher said the test wouldn't be difficult.",
-      "He said he wouldn't need the car tomorrow.",
-      "They said it wouldn't take long to fix.",
-      "My mum said she wouldn't be home until late.",
-      "The shop assistant said the dress wouldn't fit me."
+      "I didn't have a lift home. My brother said he would pick me up after the concert.",
+      "We packed our swimming things. The weather forecast said it would be sunny all weekend.",
+      "I've wanted a puppy for years. My parents said they would think about buying a dog.",
+      "The kitchen tap is still dripping. The plumber said he would come back on Monday.",
+      "We needed some music for the evening. My friend said she would bring her guitar to the party.",
+      "My cousin gave me a DVD. He told me I would like the film, and he was right!",
+      "Mum hurt her back at work. The doctor told her she would need to rest for a week.",
+      "We asked about the history test. My teacher told us the exam would be on Tuesday.",
+      "We had breakfast at eight. The guide told us the bus would leave at nine.",
+      "My grandmother makes lovely woolly hats. She told me she would teach me to knit.",
+      "It was the day before the holiday. The manager told the staff that the office would close early.",
+      "My son was out late in the storm. I felt better when he phoned and said that he would be home soon.",
+      "My aunt lives in Canada. I was so happy when she said she would visit us at Christmas.",
+      "We heard a loud noise from the engine. We were relieved when the mechanic said the car would be fine.",
+      "I've worked there for five years. I was surprised when my boss said I would get a pay rise.",
+      "It was the first day of the holidays. The children were excited when Dad said we would go to the zoo.",
+      "I've bought my bread there for years. I was disappointed when the owners said the shop would close.",
+      "I told my best friend about my new boyfriend. She promised she would keep my secret.",
+      "The phone I ordered never arrived. The company promised they would refund my money.",
+      "My dad missed my last three games. He promised he would come to my next match.",
+      "Our friends moved to New Zealand. They promised they would write to us every month.",
+      "We complained about the barking. The new neighbours promised they would keep their dog quiet at night.",
+      "Work on our extension started in March. The builders promised they would finish it by May.",
+      "Anna phoned this morning. She said she wouldn't be able to come to the meeting.",
+      "I told my sister about the surprise party. She said she wouldn't tell anyone.",
+      "We asked about the spelling test. The teacher said the test wouldn't be difficult.",
+      "My brother is taking the train to work tomorrow. He said he wouldn't need the car.",
+      "The man at the bike shop looked at my bike. He said it wouldn't take long to fix.",
+      "I had dinner on my own last night. My mum said she wouldn't be home until late.",
+      "I loved the dress in the window. The shop assistant said it wouldn't fit me."
     ],
     "examples": [
       {
@@ -130122,24 +130302,24 @@
             "zh": "我邀請那位作家來我們學校。她接受了邀請，說她六月二十一日會來。"
           },
           {
-            "en": "My brother said he would pick me up after the concert.",
-            "zh": "我哥哥說演唱會後他會來接我。"
+            "en": "I didn't have a lift home. My brother said he would pick me up after the concert.",
+            "zh": "我沒有人載我回家。我哥哥說演唱會後他會來接我。"
           },
           {
-            "en": "The weather forecast said it would be sunny all weekend.",
-            "zh": "天氣預報說整個週末都會是晴天。"
+            "en": "We packed our swimming things. The weather forecast said it would be sunny all weekend.",
+            "zh": "我們打包了游泳的東西。天氣預報說整個週末都會是晴天。"
           },
           {
-            "en": "My parents said they would think about buying a dog.",
-            "zh": "我爸媽說他們會考慮養狗。"
+            "en": "I've wanted a puppy for years. My parents said they would think about buying a dog.",
+            "zh": "我想要一隻小狗好幾年了。我爸媽說他們會考慮養狗。"
           },
           {
-            "en": "The plumber said he would come back on Monday.",
-            "zh": "水管工人說他星期一會再來。"
+            "en": "The kitchen tap is still dripping. The plumber said he would come back on Monday.",
+            "zh": "廚房的水龍頭還在滴水。水管工人說他星期一會再來。"
           },
           {
-            "en": "My friend said she would bring her guitar to the party.",
-            "zh": "我朋友說她會帶她的吉他去派對。"
+            "en": "We needed some music for the evening. My friend said she would bring her guitar to the party.",
+            "zh": "我們晚上需要一些音樂。我朋友說她會帶她的吉他去派對。"
           }
         ]
       },
@@ -130147,57 +130327,57 @@
         "heading": "② 主詞 + told + 人 + (that) + 主詞 + would + 原形動詞",
         "items": [
           {
-            "en": "He told me I would like the film, and he was right!",
-            "zh": "他告訴我我會喜歡那部電影，他說對了！"
+            "en": "My cousin gave me a DVD. He told me I would like the film, and he was right!",
+            "zh": "我表哥給了我一片 DVD。他告訴我我會喜歡那部電影，他說對了！"
           },
           {
-            "en": "The doctor told my mum she would need to rest for a week.",
-            "zh": "醫生告訴我媽媽她需要休息一個星期。"
+            "en": "Mum hurt her back at work. The doctor told her she would need to rest for a week.",
+            "zh": "媽媽工作時傷了背。醫生告訴她需要休息一個星期。"
           },
           {
-            "en": "My teacher told us the exam would be on Tuesday.",
-            "zh": "我的老師告訴我們考試會在星期二。"
+            "en": "We asked about the history test. My teacher told us the exam would be on Tuesday.",
+            "zh": "我們問了歷史考試的事。我的老師告訴我們考試會在星期二。"
           },
           {
-            "en": "The guide told us the bus would leave at nine.",
-            "zh": "導遊告訴我們巴士九點會出發。"
+            "en": "We had breakfast at eight. The guide told us the bus would leave at nine.",
+            "zh": "我們八點吃早餐。導遊告訴我們巴士九點會出發。"
           },
           {
-            "en": "My grandmother told me she would teach me to knit.",
-            "zh": "我奶奶告訴我她會教我織毛線。"
+            "en": "My grandmother makes lovely woolly hats. She told me she would teach me to knit.",
+            "zh": "我奶奶會織很漂亮的毛線帽。她告訴我她會教我織毛線。"
           },
           {
-            "en": "The manager told the staff that the office would close early.",
-            "zh": "經理告訴員工辦公室會提早關門。"
+            "en": "It was the day before the holiday. The manager told the staff that the office would close early.",
+            "zh": "那天是放假前一天。經理告訴員工辦公室會提早關門。"
           }
         ]
       },
       {
-        "heading": "③ I felt / was + 形容詞 + when + 主詞 + said + 主詞 + would + 原形動詞",
+        "heading": "③ 主詞 + was / felt + 形容詞 + when + 主詞 + said + 主詞 + would + 原形動詞",
         "items": [
           {
-            "en": "I was worried about him, so I felt better when he said that he would be at home.",
-            "zh": "我很擔心他，所以他說他會在家的時候，我覺得好多了。"
+            "en": "My son was out late in the storm. I felt better when he phoned and said that he would be home soon.",
+            "zh": "我兒子在暴風雨中很晚還在外面。他打電話說很快就會到家，我才覺得好多了。"
           },
           {
-            "en": "I was so happy when she said she would visit us at Christmas.",
-            "zh": "她說聖誕節會來看我們的時候，我好高興。"
+            "en": "My aunt lives in Canada. I was so happy when she said she would visit us at Christmas.",
+            "zh": "我阿姨住在加拿大。她說聖誕節會來看我們的時候，我好高興。"
           },
           {
-            "en": "We were relieved when the mechanic said the car would be fine.",
-            "zh": "修車師傅說車子會沒事的時候，我們鬆了一口氣。"
+            "en": "We heard a loud noise from the engine. We were relieved when the mechanic said the car would be fine.",
+            "zh": "我們聽到引擎發出很大的聲音。修車師傅說車子會沒事的時候，我們鬆了一口氣。"
           },
           {
-            "en": "I was surprised when my boss said I would get a pay rise.",
-            "zh": "我老闆說我會加薪的時候，我很驚訝。"
+            "en": "I've worked there for five years. I was surprised when my boss said I would get a pay rise.",
+            "zh": "我在那裡工作五年了。我老闆說我會加薪的時候，我很驚訝。"
           },
           {
-            "en": "The children were excited when Dad said we would go to the zoo.",
-            "zh": "爸爸說我們會去動物園的時候，孩子們很興奮。"
+            "en": "It was the first day of the holidays. The children were excited when Dad said we would go to the zoo.",
+            "zh": "那是放假的第一天。爸爸說我們會去動物園的時候，孩子們很興奮。"
           },
           {
-            "en": "I was disappointed when they said the shop would close.",
-            "zh": "他們說那家店會關門的時候，我很失望。"
+            "en": "I've bought my bread there for years. I was disappointed when the owners said the shop would close.",
+            "zh": "我好幾年都在那裡買麵包。老闆說那家店會關門的時候，我很失望。"
           }
         ]
       },
@@ -130205,28 +130385,28 @@
         "heading": "④ 主詞 + promised + (that) + 主詞 + would + 原形動詞",
         "items": [
           {
-            "en": "My best friend promised she would keep my secret.",
-            "zh": "我最好的朋友答應她會保守我的秘密。"
+            "en": "I told my best friend about my new boyfriend. She promised she would keep my secret.",
+            "zh": "我跟我最好的朋友說了我新男友的事。她答應會保守我的秘密。"
           },
           {
-            "en": "The company promised they would refund my money.",
-            "zh": "那家公司答應他們會退錢給我。"
+            "en": "The phone I ordered never arrived. The company promised they would refund my money.",
+            "zh": "我訂的手機一直沒送到。那家公司答應他們會退錢給我。"
           },
           {
-            "en": "My dad promised he would come to my football match.",
-            "zh": "我爸爸答應他會來看我的足球比賽。"
+            "en": "My dad missed my last three games. He promised he would come to my next match.",
+            "zh": "我爸爸錯過了我最近三場比賽。他答應會來看我下一場比賽。"
           },
           {
-            "en": "They promised they would write to us every month.",
-            "zh": "他們答應每個月會寫信給我們。"
+            "en": "Our friends moved to New Zealand. They promised they would write to us every month.",
+            "zh": "我們的朋友搬去紐西蘭了。他們答應每個月會寫信給我們。"
           },
           {
-            "en": "The new neighbours promised they would keep their dog quiet at night.",
-            "zh": "新鄰居保證晚上會讓他們的狗安靜。"
+            "en": "We complained about the barking. The new neighbours promised they would keep their dog quiet at night.",
+            "zh": "我們抱怨狗叫聲。新鄰居保證晚上會讓他們的狗安靜。"
           },
           {
-            "en": "The builders promised the work would be finished by May.",
-            "zh": "工人保證工程五月前會完成。（被動）"
+            "en": "Work on our extension started in March. The builders promised they would finish it by May.",
+            "zh": "我們的擴建三月開工。工人保證他們五月前會完工。"
           }
         ]
       },
@@ -130234,32 +130414,32 @@
         "heading": "⑤ 主詞 + said + 主詞 + wouldn't + 原形動詞：轉述否定",
         "items": [
           {
-            "en": "She said she wouldn't be able to come to the meeting.",
-            "zh": "她說她不能來開會。"
+            "en": "Anna phoned this morning. She said she wouldn't be able to come to the meeting.",
+            "zh": "Anna 今天早上打電話來。她說她不能來開會。"
           },
           {
-            "en": "My sister said she wouldn't tell anyone.",
-            "zh": "我妹妹說她不會告訴任何人。"
+            "en": "I told my sister about the surprise party. She said she wouldn't tell anyone.",
+            "zh": "我跟我妹妹說了驚喜派對的事。她說她不會告訴任何人。"
           },
           {
-            "en": "The teacher said the test wouldn't be difficult.",
-            "zh": "老師說考試不會很難。"
+            "en": "We asked about the spelling test. The teacher said the test wouldn't be difficult.",
+            "zh": "我們問了拼字考試的事。老師說考試不會很難。"
           },
           {
-            "en": "He said he wouldn't need the car tomorrow.",
-            "zh": "他說他明天不會需要車子。"
+            "en": "My brother is taking the train to work tomorrow. He said he wouldn't need the car.",
+            "zh": "我哥哥明天要搭火車去上班。他說他不會需要車子。"
           },
           {
-            "en": "They said it wouldn't take long to fix.",
-            "zh": "他們說修理不會花很久。"
+            "en": "The man at the bike shop looked at my bike. He said it wouldn't take long to fix.",
+            "zh": "腳踏車店的人看了我的腳踏車。他說修理不會花很久。"
           },
           {
-            "en": "My mum said she wouldn't be home until late.",
-            "zh": "我媽媽說她很晚才會回家。"
+            "en": "I had dinner on my own last night. My mum said she wouldn't be home until late.",
+            "zh": "我昨晚一個人吃晚餐。我媽媽說她很晚才會回家。"
           },
           {
-            "en": "The shop assistant said the dress wouldn't fit me.",
-            "zh": "店員說那件洋裝我穿不下。"
+            "en": "I loved the dress in the window. The shop assistant said it wouldn't fit me.",
+            "zh": "我很喜歡櫥窗裡那件洋裝。店員說我穿不下。"
           }
         ]
       }
@@ -133868,20 +134048,20 @@
     "sentences": [
       "Sorry we left without you this morning. We had to go because the bus driver wouldn't wait.",
       "I asked the shop for a refund, but they wouldn't give me my money back.",
-      "My little brother wouldn't eat his dinner last night.",
-      "The children wouldn't go to bed until midnight.",
-      "She wouldn't tell me why she was upset.",
-      "The waiter wouldn't let us sit by the window.",
+      "My little brother only wanted ice cream. He wouldn't eat his dinner last night.",
+      "We had a party for New Year. The children wouldn't go to bed until midnight.",
+      "I found my sister crying in her room. She wouldn't tell me why she was upset.",
+      "It was a lovely evening. The waiter wouldn't give us a table outside.",
       "I wanted that guitar more than anything, but my parents would not allow me to buy it.",
       "When I was fourteen, my dad wouldn't let me take the train to London by myself.",
-      "The teacher would not allow us to use our phones in class.",
-      "My mum wouldn't let me have a dog when I was small.",
-      "The guard wouldn't let us into the building without a pass.",
-      "The doctor would not allow him to play football for a month.",
+      "We had a very strict maths teacher. She would not allow us to use our phones in class.",
+      "I always wanted a pet. My mum wouldn't let me have a dog when I was small.",
+      "I left my pass at home. The guard wouldn't let me into the building without it.",
+      "My cousin broke his leg in the spring. The doctor would not allow him to play football for a month.",
       "We were late because the car wouldn't start.",
       "The window wouldn't open, so the room was very hot.",
-      "My computer wouldn't turn on this morning.",
-      "The key wouldn't turn in the lock.",
+      "I had an online meeting at nine. My computer wouldn't turn on this morning.",
+      "I got home late last night. The key wouldn't turn in the lock.",
       "The printer wouldn't work, so I couldn't print my homework.",
       "It was so cold that the tap in the garden wouldn't turn.",
       "The shop wouldn't take cards, so I had to find a cash machine.",
@@ -133890,13 +134070,13 @@
       "The hotel wouldn't give us a bigger room, so we went somewhere else.",
       "The dog wouldn't come inside, so we left the door open.",
       "My friend wouldn't listen to my advice, so she made a big mistake.",
-      "He would not change his mind, no matter what we said.",
-      "The cat would not come down, no matter how much we called her.",
-      "She would not say sorry, no matter how angry her mother was.",
-      "The old man would not sell his house, no matter how much money they offered.",
-      "My grandfather would not use a mobile phone, no matter how often we asked.",
-      "The door would not open, no matter how hard I pushed.",
-      "The children would not sleep, no matter what story I read them."
+      "My uncle wanted to sell the family farm. He would not change his mind, no matter what we said.",
+      "Our cat climbed to the top of the tree. She would not come down, no matter how much we called her.",
+      "My sister broke Mum's favourite vase. She would not say sorry, no matter how angry Mum was.",
+      "A company wanted to build flats on an old man's land. He would not sell his house, no matter how much money they offered.",
+      "We bought my grandfather a new phone for his birthday. He would not use it, no matter how often we asked.",
+      "I was locked out of the shed. The door would not open, no matter how hard I pushed.",
+      "The children were too excited after the party. They would not sleep, no matter what story I read them."
     ],
     "examples": [
       {
@@ -133911,25 +134091,25 @@
             "zh": "我跟那家店要求退款，可是他們不肯退錢給我。"
           },
           {
-            "en": "My little brother wouldn't eat his dinner last night.",
-            "zh": "我弟弟昨天晚上不肯吃晚餐。"
+            "en": "My little brother only wanted ice cream. He wouldn't eat his dinner last night.",
+            "zh": "我弟弟只想吃冰淇淋。他昨天晚上不肯吃晚餐。"
           },
           {
-            "en": "The children wouldn't go to bed until midnight.",
-            "zh": "孩子們一直到半夜都不肯睡覺。"
+            "en": "We had a party for New Year. The children wouldn't go to bed until midnight.",
+            "zh": "我們辦了新年派對。孩子們一直到半夜都不肯睡覺。"
           },
           {
-            "en": "She wouldn't tell me why she was upset.",
-            "zh": "她不肯告訴我她為什麼難過。"
+            "en": "I found my sister crying in her room. She wouldn't tell me why she was upset.",
+            "zh": "我發現我妹妹在房間裡哭。她不肯告訴我她為什麼難過。"
           },
           {
-            "en": "The waiter wouldn't let us sit by the window.",
-            "zh": "服務生不讓我們坐在窗邊。"
+            "en": "It was a lovely evening. The waiter wouldn't give us a table outside.",
+            "zh": "那天晚上天氣很好。服務生不肯給我們外面的位子。"
           }
         ]
       },
       {
-        "heading": "② 主詞 + would not allow / let + 人 + …：過去不准",
+        "heading": "② 主詞 + wouldn't / would not + let / allow + 人：過去不准",
         "items": [
           {
             "en": "I wanted that guitar more than anything, but my parents would not allow me to buy it.",
@@ -133940,20 +134120,20 @@
             "zh": "我十四歲的時候，我爸爸不讓我一個人搭火車去倫敦。"
           },
           {
-            "en": "The teacher would not allow us to use our phones in class.",
-            "zh": "老師不准我們上課用手機。"
+            "en": "We had a very strict maths teacher. She would not allow us to use our phones in class.",
+            "zh": "我們有一個很嚴格的數學老師。她不准我們上課用手機。"
           },
           {
-            "en": "My mum wouldn't let me have a dog when I was small.",
-            "zh": "我小時候我媽媽不讓我養狗。"
+            "en": "I always wanted a pet. My mum wouldn't let me have a dog when I was small.",
+            "zh": "我一直想養寵物。我小時候我媽媽不讓我養狗。"
           },
           {
-            "en": "The guard wouldn't let us into the building without a pass.",
-            "zh": "沒有通行證，警衛不讓我們進大樓。"
+            "en": "I left my pass at home. The guard wouldn't let me into the building without it.",
+            "zh": "我把通行證忘在家裡了。沒有通行證，警衛不讓我進大樓。"
           },
           {
-            "en": "The doctor would not allow him to play football for a month.",
-            "zh": "醫生一個月內不准他踢足球。"
+            "en": "My cousin broke his leg in the spring. The doctor would not allow him to play football for a month.",
+            "zh": "我表哥春天摔斷了腿。醫生一個月內不准他踢足球。"
           }
         ]
       },
@@ -133969,12 +134149,12 @@
             "zh": "窗戶打不開，所以房間很熱。"
           },
           {
-            "en": "My computer wouldn't turn on this morning.",
-            "zh": "我的電腦今天早上開不了機。"
+            "en": "I had an online meeting at nine. My computer wouldn't turn on this morning.",
+            "zh": "我九點有一個線上會議。我的電腦今天早上開不了機。"
           },
           {
-            "en": "The key wouldn't turn in the lock.",
-            "zh": "鑰匙在鎖裡轉不動。"
+            "en": "I got home late last night. The key wouldn't turn in the lock.",
+            "zh": "我昨晚很晚才回家。鑰匙在鎖裡轉不動。"
           },
           {
             "en": "The printer wouldn't work, so I couldn't print my homework.",
@@ -134019,32 +134199,32 @@
         "heading": "⑤ 主詞 + would not + 原形動詞, no matter + 子句：怎樣都不肯",
         "items": [
           {
-            "en": "He would not change his mind, no matter what we said.",
-            "zh": "不管我們說什麼，他都不肯改變主意。"
+            "en": "My uncle wanted to sell the family farm. He would not change his mind, no matter what we said.",
+            "zh": "我叔叔想賣掉家裡的農場。不管我們說什麼，他都不肯改變主意。"
           },
           {
-            "en": "The cat would not come down, no matter how much we called her.",
-            "zh": "不管我們叫了多少次，那隻貓都不肯下來。"
+            "en": "Our cat climbed to the top of the tree. She would not come down, no matter how much we called her.",
+            "zh": "我們的貓爬到樹頂上。不管我們叫了多少次，牠都不肯下來。"
           },
           {
-            "en": "She would not say sorry, no matter how angry her mother was.",
-            "zh": "不管她媽媽有多生氣，她都不肯道歉。"
+            "en": "My sister broke Mum's favourite vase. She would not say sorry, no matter how angry Mum was.",
+            "zh": "我妹妹打破了媽媽最喜歡的花瓶。不管媽媽有多生氣，她都不肯道歉。"
           },
           {
-            "en": "The old man would not sell his house, no matter how much money they offered.",
-            "zh": "不管他們出多少錢，那個老人都不肯賣他的房子。"
+            "en": "A company wanted to build flats on an old man's land. He would not sell his house, no matter how much money they offered.",
+            "zh": "一家公司想在那個老人的土地上蓋公寓。不管他們出多少錢，他都不肯賣他的房子。"
           },
           {
-            "en": "My grandfather would not use a mobile phone, no matter how often we asked.",
-            "zh": "不管我們問了多少次，我爺爺都不肯用手機。"
+            "en": "We bought my grandfather a new phone for his birthday. He would not use it, no matter how often we asked.",
+            "zh": "我們買了一支新手機送我爺爺當生日禮物。不管我們問了多少次，他都不肯用。"
           },
           {
-            "en": "The door would not open, no matter how hard I pushed.",
-            "zh": "不管我多用力推，門都打不開。"
+            "en": "I was locked out of the shed. The door would not open, no matter how hard I pushed.",
+            "zh": "我被鎖在小屋外面。不管我多用力推，門都打不開。"
           },
           {
-            "en": "The children would not sleep, no matter what story I read them.",
-            "zh": "不管我唸什麼故事給他們聽，孩子們都不肯睡。"
+            "en": "The children were too excited after the party. They would not sleep, no matter what story I read them.",
+            "zh": "孩子們派對後太興奮了。不管我唸什麼故事給他們聽，他們都不肯睡。"
           }
         ]
       }

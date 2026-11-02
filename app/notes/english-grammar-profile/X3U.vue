@@ -39,9 +39,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">數字</span>
           <span
-            ><NoteMark sentence="My house has got three rooms." :marks="['three']" /><span
+            ><NoteMark sentence="It has got three rooms." :marks="['three']" /><span
               class="translation"
-              >我家有三個房間。</span
+              >它有三個房間。</span
             ></span
           >
         </div>
@@ -57,10 +57,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">lots of</span>
           <span
-            ><NoteMark sentence="We have to write lots of things." :marks="['lots of']" /><span
-              class="translation"
-              >我們要寫很多東西。</span
-            ></span
+            ><NoteMark
+              sentence="For homework we have to write lots of things."
+              :marks="['lots of']"
+            /><span class="translation">我們要寫很多東西。</span></span
           >
         </div>
       </div>
@@ -76,14 +76,18 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="two 以上接複數名詞" mark="some">
       <NoteFix
-        wrong="My house has got three room."
-        right="My house has got three rooms."
-        fix="rooms"
+        wrong="The hotel has got six swimming pool."
+        right="The hotel has got six swimming pools."
+        fix="pools"
       />
     </NoteSlide>
 
     <NoteSlide title="a lot 要加 of" mark="some">
-      <NoteFix wrong="I have a lot friends." right="I have a lot of friends." fix="a lot of" />
+      <NoteFix
+        wrong="My grandparents have a lot grandchildren."
+        right="My grandparents have a lot of grandchildren."
+        fix="a lot of"
+      />
     </NoteSlide>
   </NoteDeck>
 

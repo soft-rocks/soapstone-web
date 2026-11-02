@@ -12,31 +12,27 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + have to / has to + have + 過去分詞">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">have to have + 過去分詞</span>
-          <span>現在的規定，要求某件事已經完成。</span>
-        </div>
-        <div>
-          <span class="term">had to have + 過去分詞</span>
-          <span>過去的規定，要求某件事已經完成。</span>
-        </div>
-        <div>
-          <span class="term">had to have been + -&#x2060;ing</span>
-          <span>過去的規定，要求某件事已經持續一段時間。</span>
-        </div>
-      </div>
+    <NoteSlide title="have to have 加過去分詞，要求某件事已經完成" mark="have">
+      <NoteWords
+        :size="24"
+        :parts="[
+          { t: 'Nowadays, one', role: '主詞', kind: 'dim' },
+          { t: 'has to', kind: 'key' },
+          { t: 'have', kind: 'key', ring: true },
+          { t: 'finished', role: '過去分詞', kind: 'key' },
+          { t: 'at least senior high school.', kind: 'dim' },
+        ]"
+      />
     </NoteSlide>
-    <NoteSlide title="現在和過去的規定">
+    <NoteSlide title="have to have 是現在的規定，had to have 是過去的規定" mark="have">
       <div class="rows is-labeled">
         <div>
           <span class="term">現在</span>
           <span
-            ><NoteMark sentence="You have to have lived here for five years." :marks="[]" /><span
-              class="translation"
-              >你必須已經在這裡住滿五年。</span
-            ></span
+            ><NoteMark
+              sentence="You have to have lived here for five years."
+              :marks="['have', 'to', 'have#2', 'lived']"
+            /><span class="translation">你必須已經在這裡住滿五年。</span></span
           >
         </div>
         <div>
@@ -44,13 +40,13 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span
             ><NoteMark
               sentence="In those days, you had to have served in the army."
-              :marks="[]"
+              :marks="['had to have served']"
             /><span class="translation">那個年代你必須已經服過兵役。</span></span
           >
         </div>
       </div>
     </NoteSlide>
-    <NoteSlide title="用 one 和 you 說一般人" mark="one">
+    <NoteSlide title="正式的寫作用 one 說一般人，口語用 you" mark="one">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
@@ -62,7 +58,6 @@ defineProps<{ note: (typeof notes)[number] }>();
           >
         </div>
       </div>
-      <p class="remark">正式的寫作常用 one 說一般人。口語用 you。</p>
     </NoteSlide>
     <NoteSlide title="第二個 have 後面接過去分詞" mark="have">
       <NoteFix
@@ -78,11 +73,11 @@ defineProps<{ note: (typeof notes)[number] }>();
         :fix="['have']"
       />
     </NoteSlide>
-    <NoteSlide title="have been 後面接 -ing">
+    <NoteSlide title="have been 後面接 -ing" mark="have">
       <NoteFix
-        wrong="You had to have been study in a public school."
-        right="You had to have been studying in a public school."
-        :fix="['studying']"
+        wrong="You had to have been work there for a year."
+        right="You had to have been working there for a year."
+        :fix="['working']"
       />
     </NoteSlide>
   </NoteDeck>

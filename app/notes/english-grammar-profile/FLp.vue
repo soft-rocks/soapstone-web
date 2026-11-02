@@ -12,28 +12,26 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + said + (that) + 主詞 + would + 原形動詞">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">said / told</span>
-          <span>轉述的動詞，用過去式。</span>
-        </div>
-        <div>
-          <span class="term">would</span>
-          <span>原本的 will。</span>
-        </div>
-        <div>
-          <span class="term">原形動詞</span>
-          <span>轉述的內容。</span>
-        </div>
-      </div>
+    <NoteSlide title="said 後面轉述的 will 改成 would" mark="would">
+      <NoteWords
+        :size="24"
+        :parts="[
+          { t: 'She accepted the invitation and', kind: 'dim' },
+          { t: 'said', role: '轉述動詞（過去式）', kind: 'key' },
+          { t: 'that she', kind: 'dim' },
+          { t: 'would', role: '原本的 will', kind: 'key', ring: true },
+          { t: 'come', role: '原形動詞' },
+          { t: 'on the 21st of June.', kind: 'dim' },
+        ]"
+      />
     </NoteSlide>
-    <NoteSlide title="will 變成 would">
+    <NoteSlide title="直接引述的 will，間接引述時變成 would" mark="would">
       <div class="rows is-labeled">
         <div>
           <span class="term">直接引述</span>
           <span
-            ><NoteMark sentence='"I will come," she said.' :marks="[]" /><span class="translation"
+            ><NoteMark sentence='"I will come," she said.' :marks="['will']" /><span
+              class="translation"
               >她說：「我會來。」</span
             ></span
           >
@@ -41,38 +39,60 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">間接引述</span>
           <span
-            ><NoteMark sentence="She said she would come." :marks="[]" /><span class="translation"
+            ><NoteMark sentence="She said she would come." :marks="['would']" /><span
+              class="translation"
               >她說她會來。</span
             ></span
           >
         </div>
       </div>
     </NoteSlide>
-    <NoteSlide title="說話者的預測" mark="would">
+    <NoteSlide title="promised 後面也用 would，won't 變成 wouldn't" mark="said">
+      <div class="rows is-labeled">
+        <div>
+          <span class="term">promised</span>
+          <span
+            ><NoteMark
+              sentence="She promised she would keep my secret."
+              :marks="['promised', 'would']"
+            /><span class="translation">她答應會保守我的秘密。</span></span
+          >
+        </div>
+        <div>
+          <span class="term">wouldn't</span>
+          <span
+            ><NoteMark sentence="She said she wouldn't tell anyone." :marks="['wouldn\'t']" /><span
+              class="translation"
+              >她說她不會告訴任何人。</span
+            ></span
+          >
+        </div>
+      </div>
+    </NoteSlide>
+    <NoteSlide title="轉述過去的預測也用 would" mark="would">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="He told me I would like it, and he was right!"
+              sentence="My uncle told me I would love sailing, and he was right!"
               :marks="['would']"
-            /><span class="translation">他告訴我我會喜歡，他說對了！</span></span
+            /><span class="translation">我叔叔告訴我我會很愛航海，他說對了！</span></span
           >
         </div>
       </div>
-      <p class="remark">轉述別人過去的預測時也用 would。</p>
     </NoteSlide>
-    <NoteSlide title="would 後面接原形動詞" mark="would">
+    <NoteSlide title="would 後面的動詞不加 -s" mark="would">
       <NoteFix
-        wrong="She said she would comes on Friday."
-        right="She said she would come on Friday."
+        wrong="My aunt said she would comes to stay for a week."
+        right="My aunt said she would come to stay for a week."
         :fix="['come']"
       />
     </NoteSlide>
-    <NoteSlide title="told 後面要接人">
+    <NoteSlide title="told 後面要接人" mark="said">
       <NoteFix
-        wrong="He told that he would call."
-        right="He told me that he would call."
+        wrong="The landlord told that he would fix the heating."
+        right="The landlord told me that he would fix the heating."
         :fix="['me']"
       />
     </NoteSlide>

@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + wouldn't + 原形動詞">
+    <NoteSlide title="wouldn't 說過去不肯做的事" mark="wouldn't">
       <NoteWords
         :size="24"
         :parts="[
@@ -23,68 +23,72 @@ defineProps<{ note: (typeof notes)[number] }>();
         ]"
       />
     </NoteSlide>
-    <NoteSlide title="wouldn't、would not allow / let、原形動詞">
+    <NoteSlide title="wouldn't let 和 would not allow 說過去不准" mark="wouldn't">
       <div class="rows is-labeled">
         <div>
-          <span class="term">wouldn't</span>
-          <span>過去不肯、不願意。</span>
+          <span class="term">wouldn't let</span>
+          <span
+            ><NoteMark
+              sentence="The guard wouldn't let me into the building without it."
+              :marks="['wouldn\'t let']"
+            /><span class="translation">沒有通行證，警衛不讓我進大樓。</span></span
+          >
         </div>
         <div>
-          <span class="term">would not allow / let</span>
-          <span>過去不准。</span>
-        </div>
-        <div>
-          <span class="term">原形動詞</span>
-          <span>不肯做的事。</span>
+          <span class="term">would not allow</span>
+          <span
+            ><NoteMark
+              sentence="She would not allow us to use our phones in class."
+              :marks="['would not allow']"
+            /><span class="translation">她不准我們上課用手機。</span></span
+          >
         </div>
       </div>
     </NoteSlide>
-    <NoteSlide title="人不願意" mark="wouldn't">
+    <NoteSlide title="wouldn't 說人過去不願意做的事" mark="wouldn't">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
-            ><NoteMark sentence="My parents would not allow me to buy it." :marks="[]" /><span
-              class="translation"
-              >我爸媽不准我買。</span
-            ></span
+            ><NoteMark
+              sentence="My brother wouldn't lend me his bike."
+              :marks="['wouldn\'t']"
+            /><span class="translation">我哥哥不肯借我他的腳踏車。</span></span
           >
         </div>
       </div>
-      <p class="remark">wouldn't 說人過去不願意做某件事。</p>
     </NoteSlide>
-    <NoteSlide title="東西不肯動" mark="wouldn't">
+    <NoteSlide title="wouldn't 也說東西過去不能用" mark="wouldn't">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
-            ><NoteMark sentence="The door wouldn't open." :marks="['wouldn\'t']" /><span
+            ><NoteMark sentence="The old lift wouldn't move." :marks="['wouldn\'t']" /><span
               class="translation"
-              >門打不開。</span
+              >那台舊電梯動不了。</span
             ></span
           >
         </div>
       </div>
-      <p class="remark">wouldn't 也可以說東西過去不能用，好像它們不肯動。</p>
     </NoteSlide>
     <NoteSlide title="would 的否定是 wouldn't" mark="wouldn't">
       <NoteFix
-        wrong="The driver didn't would wait."
-        right="The driver wouldn't wait."
+        wrong="The shop didn't would change the shirt."
+        right="The shop wouldn't change the shirt."
         :fix="['wouldn\'t']"
       />
     </NoteSlide>
-    <NoteSlide title="allow 加人後面要接 to 和原形動詞" mark="to">
+    <NoteSlide title="allow 加人後面要接 to 和原形動詞" mark="wouldn't">
       <NoteFix
         wrong="They wouldn't allow me go."
         right="They wouldn't allow me to go."
         :fix="['to']"
       />
     </NoteSlide>
-    <NoteSlide title="let 加人後面直接接原形動詞">
+    <NoteSlide title="let 加人後面直接接原形動詞" mark="wouldn't">
       <NoteFix
-        wrong="My mum wouldn't let me to stay out."
-        right="My mum wouldn't let me stay out."
+        wrong="My mum wouldn't let me to stay out after ten."
+        right="My mum wouldn't let me stay out after ten."
         :fix="['stay']"
       />
     </NoteSlide>

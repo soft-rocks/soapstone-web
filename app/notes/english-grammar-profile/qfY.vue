@@ -30,28 +30,51 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">all</span>
           <span
-            ><NoteMark sentence="This notice is for all students." :marks="['all students']" /><span
-              class="translation"
-              >這份通知是給全體學生的。</span
-            ></span
+            ><NoteMark
+              sentence="This notice is for all students: we are going to have a concert at school."
+              :marks="['all students']"
+            /><span class="translation">這份通知是給全體學生的：學校要辦一場音樂會。</span></span
           >
         </div>
         <div>
           <span class="term">both</span>
           <span
-            ><NoteMark sentence="Both teams played well." :marks="['Both teams']" /><span
+            ><NoteMark sentence="Both boys make me laugh." :marks="['Both boys']" /><span
               class="translation"
-              >兩隊都打得很好。</span
+              >兩個男生都讓我笑。</span
             ></span
           >
         </div>
         <div>
           <span class="term">a few</span>
           <span
-            ><NoteMark sentence="I want to tell you a few things." :marks="['a few things']" /><span
-              class="translation"
-              >我想跟你說幾件事。</span
-            ></span
+            ><NoteMark
+              sentence="I'm just writing to say hello, and to tell you a few things."
+              :marks="['a few things']"
+            /><span class="translation">我只是寫信打個招呼，順便跟你說幾件事。</span></span
+          >
+        </div>
+      </div>
+    </NoteSlide>
+
+    <NoteSlide title="all 和 both 後面可以先接 the 或 my" mark="both">
+      <div class="rows is-labeled">
+        <div>
+          <span class="term">all the</span>
+          <span
+            ><NoteMark
+              sentence="All the guests left before midnight."
+              :marks="['All the guests']"
+            /><span class="translation">所有客人都在半夜以前走了。</span></span
+          >
+        </div>
+        <div>
+          <span class="term">both my</span>
+          <span
+            ><NoteMark
+              sentence="Both my parents work at the hospital."
+              :marks="['Both my parents']"
+            /><span class="translation">我爸媽都在醫院工作。</span></span
           >
         </div>
       </div>
@@ -89,13 +112,17 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="不可數名詞用 a little" mark="both">
-      <NoteFix wrong="Can I have a few milk?" right="Can I have a little milk?" fix="a little" />
+      <NoteFix
+        wrong="I take my coffee with a few milk."
+        right="I take my coffee with a little milk."
+        fix="a little"
+      />
     </NoteSlide>
 
     <NoteSlide title="a few 接複數名詞" mark="teams">
       <NoteFix
-        wrong="I'll be back in a few minute."
-        right="I'll be back in a few minutes."
+        wrong="The bus will leave in a few minute."
+        right="The bus will leave in a few minutes."
         fix="minutes"
       />
     </NoteSlide>

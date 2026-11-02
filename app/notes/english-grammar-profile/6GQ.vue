@@ -26,22 +26,23 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我每年都去印度</p>
     </NoteSlide>
 
-    <NoteSlide title="a 和 every" mark="every year">
+    <NoteSlide title="a 說一個，every 說全部" mark="every year">
       <div class="rows is-labeled">
         <div>
           <span class="term">a</span>
           <span
-            ><NoteMark sentence="I have a big kitchen." :marks="['a']" /><span class="translation"
-              >我有一間大廚房。</span
+            ><NoteMark sentence="I have a big kitchen and a small toilet." :marks="['a']" /><span
+              class="translation"
+              >有一間大廚房和一間小廁所。</span
             ></span
           >
         </div>
         <div>
           <span class="term">every</span>
           <span
-            ><NoteMark sentence="I take the train every morning." :marks="['every']" /><span
+            ><NoteMark sentence="Every bedroom has a desk." :marks="['Every']" /><span
               class="translation"
-              >我每天早上都搭火車。</span
+              >每間臥室都有一張書桌。</span
             ></span
           >
         </div>
@@ -73,14 +74,18 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="every 後面用 morning，不用 mornings" mark="year">
       <NoteFix
-        wrong="I take the train every mornings."
-        right="I take the train every morning."
+        wrong="My grandfather reads the newspaper every mornings."
+        right="My grandfather reads the newspaper every morning."
         fix="morning"
       />
     </NoteSlide>
 
     <NoteSlide title="單數名詞前面要有 a" mark="every">
-      <NoteFix wrong="I have big kitchen." right="I have a big kitchen." fix="a big" />
+      <NoteFix
+        wrong="Our new flat has big balcony."
+        right="Our new flat has a big balcony."
+        fix="a big"
+      />
     </NoteSlide>
 
     <NoteSlide title="every 前面不加介系詞" mark="every year">

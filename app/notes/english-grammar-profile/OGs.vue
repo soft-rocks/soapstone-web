@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + will + 原形動詞">
+    <NoteSlide title="will 說某類人一般的行為，帶有無奈" mark="will">
       <NoteWords
         :size="24"
         :parts="[
@@ -23,23 +23,20 @@ defineProps<{ note: (typeof notes)[number] }>();
         ]"
       />
     </NoteSlide>
-    <NoteSlide title="will、重讀 will、原形動詞" mark="will">
+    <NoteSlide title="If you will 說對方硬要做的事，後果自己承擔" mark="will">
       <div class="rows is-labeled">
         <div>
-          <span class="term">will</span>
-          <span>總是會、就是會。說一般的行為。</span>
-        </div>
-        <div>
-          <span class="term">重讀 will</span>
-          <span>口語裡把 will 唸得很重，表示不贊成。</span>
-        </div>
-        <div>
-          <span class="term">原形動詞</span>
-          <span>讓人煩的行為。</span>
+          <span class="term">If you will</span>
+          <span
+            ><NoteMark
+              sentence="If you will eat so much chocolate, you'll feel sick."
+              :marks="['If you will']"
+            /><span class="translation">如果你硬要吃那麼多巧克力，你會不舒服。</span></span
+          >
         </div>
       </div>
     </NoteSlide>
-    <NoteSlide title="說話者的不滿" mark="will">
+    <NoteSlide title="重讀 will 表示對某人的習慣不滿" mark="will">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
@@ -51,16 +48,15 @@ defineProps<{ note: (typeof notes)[number] }>();
           >
         </div>
       </div>
-      <p class="remark">重讀 will 表示說話者對某人的習慣很不滿。</p>
     </NoteSlide>
-    <NoteSlide title="will 後面接原形動詞" mark="will">
+    <NoteSlide title="will 後面的動詞不加 -s" mark="will">
       <NoteFix
         wrong="She will leaves the lights on."
         right="She will leave the lights on."
         :fix="['leave']"
       />
     </NoteSlide>
-    <NoteSlide title="will 後面的動詞不變化，一律用原形" mark="will">
+    <NoteSlide title="will 後面不用 -ing" mark="will">
       <NoteFix
         wrong="Children will asking questions."
         right="Children will ask questions."

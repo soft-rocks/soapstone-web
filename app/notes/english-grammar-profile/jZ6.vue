@@ -12,51 +12,45 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + will + (often / usually) + 原形動詞" mark="will">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">will</span>
-          <span>常常會、通常會。說習慣或典型的情況。</span>
-        </div>
-        <div>
-          <span class="term">often / usually</span>
-          <span>放在 will 後面，說多常發生。</span>
-        </div>
-        <div>
-          <span class="term">原形動詞</span>
-          <span>習慣的行為。</span>
-        </div>
-      </div>
+    <NoteSlide title="will often 說人常常會做的事" mark="will">
+      <NoteWords
+        :size="24"
+        :parts="[
+          { t: 'She', role: '主詞' },
+          { t: 'will', kind: 'key', ring: true },
+          { t: 'often', role: '頻率副詞', alts: ['usually'] },
+          { t: 'knock', role: '原形動詞', kind: 'key' },
+          { t: 'on the door to see how you are.', kind: 'dim' },
+        ]"
+      />
     </NoteSlide>
-    <NoteSlide title="不是說未來" mark="will">
+    <NoteSlide title="這個 will 說習慣，不說未來" mark="will">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="My grandfather will sit in the garden for hours."
+              sentence="On Sundays my dad will wash the car and then read the paper."
               :marks="['will']"
-            /><span class="translation">我爺爺常常會在花園裡坐好幾個小時。</span></span
+            /><span class="translation">星期天我爸爸常常會洗車，然後看報紙。</span></span
           >
         </div>
       </div>
-      <p class="remark">這個 will 說的是一般的習慣，不是以後的事。</p>
     </NoteSlide>
-    <NoteSlide title="說東西的典型特徵" mark="will">
+    <NoteSlide title="will usually 說東西通常的樣子" mark="will">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
             ><NoteMark
               sentence="A good curry will usually contain garlic and onion."
-              :marks="['will']"
+              :marks="['will usually']"
             /><span class="translation">好的咖哩通常會有大蒜和洋蔥。</span></span
           >
         </div>
       </div>
-      <p class="remark">will 也可以說東西通常的樣子，常用在介紹和說明。</p>
     </NoteSlide>
-    <NoteSlide title="will 後面接原形動詞" mark="will">
+    <NoteSlide title="will 後面的動詞不加 -s" mark="will">
       <NoteFix
         wrong="She will often knocks on the door."
         right="She will often knock on the door."
@@ -70,7 +64,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :fix="['will']"
       />
     </NoteSlide>
-    <NoteSlide title="副詞後面直接接原形動詞">
+    <NoteSlide title="usually 後面直接接原形動詞" mark="will">
       <NoteFix
         wrong="The dish will usually to contain rice."
         right="The dish will usually contain rice."

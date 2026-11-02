@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + would like + to + 原形動詞">
+    <NoteSlide title="would like 後面接 to 和原形動詞，說想做的事" mark="would">
       <NoteWords
         :size="24"
         :parts="[
@@ -24,41 +24,36 @@ defineProps<{ note: (typeof notes)[number] }>();
         ]"
       />
     </NoteSlide>
-    <NoteSlide title="would like、'd like、to + 原形動詞">
+    <NoteSlide title="like 說一般的喜好，would like 說這次想要的東西" mark="like">
       <div class="rows is-labeled">
+        <div>
+          <span class="term">like</span>
+          <span
+            ><NoteMark sentence="I like Spanish food." :marks="['like']" /><span class="translation"
+              >我喜歡西班牙菜。</span
+            ></span
+          >
+        </div>
         <div>
           <span class="term">would like</span>
-          <span>想要。比 want 有禮貌。</span>
-        </div>
-        <div>
-          <span class="term">'d like</span>
-          <span>口語常用的縮寫，像 I'd like、we'd like。</span>
-        </div>
-        <div>
-          <span class="term">to + 原形動詞</span>
-          <span>想做的事。</span>
-        </div>
-      </div>
-    </NoteSlide>
-    <NoteSlide title="所有主詞都一樣" mark="would like">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">例句</span>
           <span
-            ><NoteMark
-              sentence="She would like a cup of tea."
-              :marks="['would like', 'She']"
-            /><span class="translation">她想喝一杯茶。</span></span
+            ><NoteMark sentence="I'd like some Spanish food." :marks="['I\'d like']" /><span
+              class="translation"
+              >我想吃一些西班牙菜。</span
+            ></span
           >
         </div>
       </div>
-      <p class="remark">would like 的主詞是 he 或 she 時也不加 -&#x2060;s。</p>
     </NoteSlide>
-    <NoteSlide title="would like 後面接動詞時要加 to" mark="would like">
+    <NoteSlide title="would like 後面接動詞時要加 to" mark="like">
       <NoteFix wrong="I would like eat pizza." right="I would like to eat pizza." :fix="['to']" />
     </NoteSlide>
     <NoteSlide title="would 後面接原形 like" mark="would">
-      <NoteFix wrong="She would likes a coffee." right="She would like a coffee." :fix="['like']" />
+      <NoteFix
+        wrong="My boss would likes a black coffee with sugar."
+        right="My boss would like a black coffee with sugar."
+        :fix="['like']"
+      />
     </NoteSlide>
     <NoteSlide title="to 後面接原形動詞" mark="to">
       <NoteFix

@@ -12,65 +12,58 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="Will you please + 原形動詞 + …？">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">Will you please</span>
-          <span>請您……。正式的請求。</span>
-        </div>
-        <div>
-          <span class="term">Will you … !</span>
-          <span>句尾用驚嘆號時，是生氣的命令。</span>
-        </div>
-        <div>
-          <span class="term">原形動詞</span>
-          <span>請對方做的事。</span>
-        </div>
-      </div>
+    <NoteSlide title="please 放在 you 和原形動詞中間" mark="please">
+      <NoteWords
+        :size="24"
+        :parts="[
+          { t: 'Will you', kind: 'key' },
+          { t: 'please', kind: 'key', ring: true },
+          { t: 'send', role: '原形動詞' },
+          { t: 'me his name, address and telephone number?', kind: 'dim' },
+        ]"
+      />
     </NoteSlide>
-    <NoteSlide title="正式信件的請求" mark="Will you please">
+    <NoteSlide title="商業信件用 Will you please 請對方提供資料" mark="please">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="Will you please inform me about the exact price?"
+              sentence="Will you please tell us the delivery date for our order?"
               :marks="['Will you please']"
-            /><span class="translation">可以請您告訴我確切的價格嗎？</span></span
+            /><span class="translation">可以請您告訴我們訂單的交貨日期嗎？</span></span
           >
         </div>
       </div>
-      <p class="remark">商業信件常用 Will you please 請對方提供資料。</p>
     </NoteSlide>
-    <NoteSlide title="生氣的命令" mark="Will you">
+    <NoteSlide title="Will you 的句尾用驚嘆號，是生氣的命令" mark="Will">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
-            ><NoteMark sentence="Will you be quiet!" :marks="['Will you']" /><span
+            ><NoteMark sentence="Will you be quiet!" :marks="['Will you', 'quiet!']" /><span
               class="translation"
               >你給我安靜！</span
             ></span
           >
         </div>
       </div>
-      <p class="remark">Will you 加命令，句尾用驚嘆號，表示說話者很不耐煩。</p>
     </NoteSlide>
-    <NoteSlide title="please 放在 you 後面" mark="please">
+    <NoteSlide title="please 不放在 will 和 you 中間" mark="please">
       <NoteFix
-        wrong="Will please you send it?"
-        right="Will you please send it?"
+        wrong="Will please you send me the invoice?"
+        right="Will you please send me the invoice?"
         :fix="['you', 'send']"
       />
     </NoteSlide>
     <NoteSlide title="please 後面接原形動詞" mark="please">
       <NoteFix
-        wrong="Will you please sending the form?"
-        right="Will you please send the form?"
+        wrong="Will you please sending your bank details by Friday?"
+        right="Will you please send your bank details by Friday?"
         :fix="['send']"
       />
     </NoteSlide>
-    <NoteSlide title="請求用 will you please，不用 do" mark="Will you please">
+    <NoteSlide title="請求用 will you please，不用 do" mark="Will">
       <NoteFix
         wrong="Do you please call me back?"
         right="Will you please call me back?"

@@ -32,12 +32,12 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'What', role: '疑問詞' },
           { t: 'were', role: 'be：過去式', kind: 'key' },
-          { t: 'you', role: '主詞' },
-          { t: 'doing', role: '動詞-ing' },
-          { t: 'at ten last night?', kind: 'dim' },
+          { t: 'the kids', role: '主詞' },
+          { t: 'watching', role: '動詞-ing' },
+          { t: 'when the power went out?', kind: 'dim' },
         ]"
       />
-      <p class="translation">你昨晚十點在做什麼？</p>
+      <p class="translation">停電的時候孩子們在看什麼？</p>
     </NoteSlide>
 
     <NoteSlide title="現在進行式問正在發生的事，也問安排好的計畫" mark="going">
@@ -45,18 +45,18 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">正在發生</span>
           <span
-            ><NoteMark sentence="What are you reading?" :marks="['reading']" /><span
+            ><NoteMark sentence="What is your dad fixing in the shed?" :marks="['fixing']" /><span
               class="translation"
-              >你在讀什麼？</span
+              >你爸爸在小屋裡修什麼？</span
             ></span
           >
         </div>
         <div>
           <span class="term">安排好的計畫</span>
           <span
-            ><NoteMark sentence="When are you coming here?" :marks="['coming']" /><span
+            ><NoteMark sentence="When are your parents flying home?" :marks="['flying']" /><span
               class="translation"
-              >你什麼時候要來這裡？</span
+              >你爸媽什麼時候飛回家？</span
             ></span
           >
         </div>
@@ -67,28 +67,44 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="32"
         :parts="[
-          { t: 'What', role: 'at 的受詞', kind: 'key' },
-          { t: 'are you looking', kind: 'dim' },
-          { t: 'at?', role: '介系詞', kind: 'key' },
+          { t: 'What', role: 'about 的受詞', kind: 'key' },
+          { t: 'are the students complaining', kind: 'dim' },
+          { t: 'about?', role: '介系詞', kind: 'key' },
         ]"
       />
-      <p class="translation">你在看什麼？</p>
+      <p class="translation">學生們在抱怨什麼？</p>
     </NoteSlide>
 
     <NoteSlide title="進行式的疑問句要有 be" mark="are">
-      <NoteFix wrong="Where you going?" right="Where are you going?" fix="are" />
+      <NoteFix
+        wrong="Where you taking all those boxes?"
+        right="Where are you taking all those boxes?"
+        fix="are"
+      />
     </NoteSlide>
 
     <NoteSlide title="進行式用 be，不用 do" mark="are">
-      <NoteFix wrong="What do you doing?" right="What are you doing?" fix="are" />
+      <NoteFix
+        wrong="What do you painting in the garden?"
+        right="What are you painting in the garden?"
+        fix="are"
+      />
     </NoteSlide>
 
-    <NoteSlide title="主詞是 they 時用 are" mark="are">
-      <NoteFix wrong="Why is they laughing?" right="Why are they laughing?" fix="are" />
+    <NoteSlide title="主詞是複數時用 are" mark="are">
+      <NoteFix
+        wrong="Why is the neighbours cutting down that tree?"
+        right="Why are the neighbours cutting down that tree?"
+        fix="are"
+      />
     </NoteSlide>
 
     <NoteSlide title="進行式的動詞要加 -ing" mark="going">
-      <NoteFix wrong="What is she make?" right="What is she making?" fix="making" />
+      <NoteFix
+        wrong="What is your grandmother knit?"
+        right="What is your grandmother knitting?"
+        fix="knitting"
+      />
     </NoteSlide>
   </NoteDeck>
 

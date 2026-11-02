@@ -16,7 +16,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'There is', role: 'There + be' },
+          { t: 'There is', role: '虛主詞 + be 動詞' },
           { t: 'always', kind: 'dim' },
           { t: 'something you can improve,', role: '名詞片語' },
           { t: 'isn\'t there?', role: '附加問句', kind: 'key' },
@@ -25,15 +25,15 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">總是有可以改進的地方，不是嗎？</p>
     </NoteSlide>
 
-    <NoteSlide title="否定的直述句接肯定的 is there" mark="isn't there">
+    <NoteSlide title="否定的直述句接肯定的附加問句" mark="isn't there">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'There isn\'t much difference,', role: '否定的直述句' },
-          { t: 'is there?', role: '肯定的附加問句', kind: 'key' },
+          { t: 'There aren\'t enough chairs for everyone,', role: '否定的直述句' },
+          { t: 'are there?', role: '肯定的附加問句', kind: 'key' },
         ]"
       />
-      <p class="translation">沒有什麼差別，對吧？</p>
+      <p class="translation">椅子不夠大家坐，對吧？</p>
     </NoteSlide>
 
     <NoteSlide title="be 和助動詞跟著直述句的時態" mark="is">
@@ -53,23 +53,23 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="no 和 nothing 讓直述句變成否定，附加問句用肯定" mark="isn't">
+    <NoteSlide title="no、nothing、hardly 讓直述句變成否定，附加問句用肯定" mark="isn't">
       <NoteWords
         :size="30"
         :parts="[
           { t: 'There\'s', kind: 'dim' },
-          { t: 'nothing', role: '否定的字', kind: 'key', ring: true },
-          { t: 'we can do,', kind: 'dim' },
+          { t: 'hardly any', role: '否定詞', kind: 'key', ring: true },
+          { t: 'petrol in the car,', kind: 'dim' },
           { t: 'is there?', role: '肯定的附加問句', kind: 'key' },
         ]"
       />
-      <p class="translation">我們什麼也做不了，對吧？</p>
+      <p class="translation">車子裡幾乎沒油了，對吧？</p>
     </NoteSlide>
 
     <NoteSlide title="附加問句的主詞用 there，不用 it" mark="there">
       <NoteFix
-        wrong="There's a bank near here, isn't it?"
-        right="There's a bank near here, isn't there?"
+        wrong="There's a lift in this building, isn't it?"
+        right="There's a lift in this building, isn't there?"
         fix="there"
       />
     </NoteSlide>
@@ -84,8 +84,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="no 的句子接肯定的附加問句" mark="isn't">
       <NoteFix
-        wrong="There's no milk left, isn't there?"
-        right="There's no milk left, is there?"
+        wrong="There's no bread in the cupboard, isn't there?"
+        right="There's no bread in the cupboard, is there?"
         fix="is"
       />
     </NoteSlide>

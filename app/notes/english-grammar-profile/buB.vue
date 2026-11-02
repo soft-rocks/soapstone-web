@@ -26,48 +26,56 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">你為什麼不能兩件事都做？</p>
     </NoteSlide>
 
-    <NoteSlide title="can't 問做不到，won't 問不肯，couldn't 問過去" mark="can't">
+    <NoteSlide title="Why 後面的情態動詞決定問哪一種原因" mark="can't">
       <div class="rows is-labeled">
         <div>
           <span class="term">won't<br /><i>不肯</i></span>
           <span
-            ><NoteMark sentence="Why won't he answer the phone?" :marks="['won\'t']" /><span
+            ><NoteMark sentence="Why won't the baby stop crying?" :marks="['won\'t']" /><span
               class="translation"
-              >他為什麼不接電話？</span
+              >寶寶為什麼一直哭不停？</span
             ></span
           >
         </div>
         <div>
           <span class="term">couldn't<br /><i>過去做不到</i></span>
           <span
-            ><NoteMark sentence="Why couldn't I control myself?" :marks="['couldn\'t']" /><span
+            ><NoteMark sentence="Why couldn't the plane land?" :marks="['couldn\'t']" /><span
               class="translation"
-              >我當時為什麼控制不了自己？</span
+              >飛機當時為什麼不能降落？</span
             ></span
           >
         </div>
         <div>
           <span class="term">shouldn't<br /><i>覺得應該可以</i></span>
           <span
-            ><NoteMark sentence="Why shouldn't I tell her?" :marks="['shouldn\'t']" /><span
-              class="translation"
-              >我為什麼不應該告訴她？</span
-            ></span
+            ><NoteMark
+              sentence="Why shouldn't students wear trainers?"
+              :marks="['shouldn\'t']"
+            /><span class="translation">學生為什麼不應該穿運動鞋？</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
     <NoteSlide title="情態動詞放在主詞前面" mark="can't you">
-      <NoteFix wrong="Why you can't come?" right="Why can't you come?" fix="can't you" />
+      <NoteFix
+        wrong="Why you can't stay for lunch?"
+        right="Why can't you stay for lunch?"
+        fix="can't you"
+      />
     </NoteSlide>
 
     <NoteSlide title="情態動詞的否定不用 don't" mark="can't">
-      <NoteFix wrong="Why don't you can swim?" right="Why can't you swim?" fix="can't" />
+      <NoteFix
+        wrong="Why don't we can use the lift?"
+        right="Why can't we use the lift?"
+        fix="can't"
+      />
     </NoteSlide>
 
     <NoteSlide title="will not 縮寫成 won't" mark="can't">
-      <NoteFix wrong="Why willn't she talk to me?" right="Why won't she talk to me?" fix="won't" />
+      <NoteFix wrong="Why willn't the car start?" right="Why won't the car start?" fix="won't" />
     </NoteSlide>
   </NoteDeck>
 

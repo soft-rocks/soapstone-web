@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">你昨晚有看那場足球比賽嗎？</p>
     </NoteSlide>
 
-    <NoteSlide title="現在式用 Do 或 Does，主詞是 he、she、it 用 Does" mark="Did">
+    <NoteSlide title="現在式用 Do 或 Does，主詞是第三人稱單數時用 Does" mark="Did">
       <div class="rows is-labeled">
         <div>
           <span class="term">Do</span>
@@ -52,27 +52,36 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="28"
         :parts="[
-          { t: '&quot;Did you see it?&quot;', kind: 'dim' },
-          { t: '&quot;Yes, I did.&quot;', role: '有', kind: 'key' },
-          { t: '&quot;No, I didn\'t.&quot;', role: '沒有', kind: 'key' },
+          { t: '&quot;Did you call the plumber?&quot;', kind: 'dim' },
+          { t: '&quot;Yes, I did.&quot;', role: '肯定回答', kind: 'key' },
+          { t: '&quot;No, I didn\'t.&quot;', role: '否定回答', kind: 'key' },
         ]"
       />
+      <p class="translation">「你打電話給水電工了嗎？」「打了。」／「還沒。」</p>
     </NoteSlide>
 
     <NoteSlide title="Did 後面用原形動詞" mark="see">
-      <NoteFix wrong="Did you saw the match?" right="Did you see the match?" fix="see" />
+      <NoteFix
+        wrong="Did you bought milk on the way home?"
+        right="Did you buy milk on the way home?"
+        fix="buy"
+      />
     </NoteSlide>
 
     <NoteSlide title="單數名詞當主詞時用 Does" mark="Did">
       <NoteFix
-        wrong="Do your brother play tennis?"
-        right="Does your brother play tennis?"
+        wrong="Do your uncle grow his own vegetables?"
+        right="Does your uncle grow his own vegetables?"
         fix="Does"
       />
     </NoteSlide>
 
     <NoteSlide title="Does 後面的動詞不加 -s" mark="see">
-      <NoteFix wrong="Does she likes chocolate?" right="Does she like chocolate?" fix="like" />
+      <NoteFix
+        wrong="Does the library opens on Sundays?"
+        right="Does the library open on Sundays?"
+        fix="open"
+      />
     </NoteSlide>
   </NoteDeck>
 

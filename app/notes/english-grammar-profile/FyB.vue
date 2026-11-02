@@ -16,7 +16,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="28"
         :parts="[
-          { t: 'Can', role: 'Can', kind: 'key' },
+          { t: 'Can', role: '情態動詞', kind: 'key' },
           { t: 'you', role: '主詞' },
           { t: 'come', role: '原形動詞', kind: 'key' },
           { t: 'to dinner at my house?', kind: 'dim' },
@@ -30,25 +30,27 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">能力</span>
           <span
-            ><NoteMark sentence="Can you swim?" :marks="['swim']" /><span class="translation"
-              >你會游泳嗎？</span
+            ><NoteMark sentence="Can your grandmother use a computer?" :marks="['Can your grandmother']" /><span
+              class="translation"
+              >你奶奶會用電腦嗎？</span
             ></span
           >
         </div>
         <div>
           <span class="term">請對方幫忙</span>
           <span
-            ><NoteMark sentence="Can you bring some music?" :marks="['bring']" /><span
+            ><NoteMark sentence="Can you check my spelling?" :marks="['Can you']" /><span
               class="translation"
-              >你可以帶一些音樂來嗎？</span
+              >你可以幫我檢查拼字嗎？</span
             ></span
           >
         </div>
         <div>
           <span class="term">可不可以</span>
           <span
-            ><NoteMark sentence="Can I sit here?" :marks="['I']" /><span class="translation"
-              >我可以坐這裡嗎？</span
+            ><NoteMark sentence="Can I park my car in front of your garage?" :marks="['Can I']" /><span
+              class="translation"
+              >我可以把車停在你的車庫前面嗎？</span
             ></span
           >
         </div>
@@ -59,23 +61,32 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="28"
         :parts="[
-          { t: '&quot;Can you come?&quot;', kind: 'dim' },
-          { t: '&quot;Yes, I can.&quot;', role: '可以', kind: 'key' },
-          { t: '&quot;No, I can\'t.&quot;', role: '不行', kind: 'key' },
+          { t: '&quot;Can you ski?&quot;', kind: 'dim' },
+          { t: '&quot;Yes, I can.&quot;', role: '肯定回答', kind: 'key' },
+          { t: '&quot;No, I can\'t.&quot;', role: '否定回答', kind: 'key' },
         ]"
       />
+      <p class="translation">「你會滑雪嗎？」「會。」／「不會。」</p>
     </NoteSlide>
 
     <NoteSlide title="有 can 的疑問句不加 do" mark="Can">
-      <NoteFix wrong="Do you can swim?" right="Can you swim?" fix="Can" />
+      <NoteFix wrong="Do you can whistle?" right="Can you whistle?" fix="Can" />
     </NoteSlide>
 
     <NoteSlide title="can 後面不加 to" mark="come">
-      <NoteFix wrong="Can you to help me?" right="Can you help me?" fix="help" />
+      <NoteFix
+        wrong="Can you to pick up some bread on your way home?"
+        right="Can you pick up some bread on your way home?"
+        fix="pick"
+      />
     </NoteSlide>
 
     <NoteSlide title="疑問句的 can 放在主詞前面" mark="Can you">
-      <NoteFix wrong="You can come tomorrow?" right="Can you come tomorrow?" fix="Can you" />
+      <NoteFix
+        wrong="Your sister can babysit on Friday?"
+        right="Can your sister babysit on Friday?"
+        fix="Can your sister"
+      />
     </NoteSlide>
   </NoteDeck>
 

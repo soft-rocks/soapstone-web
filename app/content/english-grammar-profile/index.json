@@ -199686,11 +199686,11 @@
       "Your cousins are so tall. Do they play basketball?",
       "The kitchen is so clean! Did you do all the washing-up?",
       "Did we get any letters today?",
-      "Will you be at home this evening?",
+      "The plumber is coming at six. Will you be in when he arrives?",
       "I've never been to a job interview. Should I wear a suit?",
       "Will they finish the work on time?",
       "The film starts in ten minutes. Shall we take a taxi?",
-      "I've read your plan. What do you think about that?",
+      "I've told you my plan for the trip. What do you think about it?",
       "Your neighbours are always away in August. Where do they go?",
       "The party starts at eight. When should we leave the house?",
       "The trains aren't running today. How can we get to the airport?",
@@ -199699,7 +199699,16 @@
       "Do we need to bring our books tomorrow?",
       "\"Can I borrow your pen?\" \"Sure, here you are.\"",
       "\"Which bus do you take to school?\" \"The number 12.\"",
-      "\"Did they enjoy the film?\" \"Yes, they loved it.\""
+      "\"Did they enjoy the film?\" \"Yes, they loved it.\"",
+      "It's getting late. Should we call a taxi?",
+      "Your sister speaks great French. Did she live in Paris?",
+      "I can't find my glasses anywhere. Have you seen them?",
+      "This box is too heavy for me. Could you carry it upstairs?",
+      "We've got two free tickets. Shall we go to the concert together?",
+      "Your parents look tired. Did they arrive late last night?",
+      "I'm making pasta tonight. Do you eat meat?",
+      "The museum is closed today. Where can we go instead?",
+      "Will I need a jacket this evening?"
     ],
     "examples": [
       {
@@ -199748,8 +199757,8 @@
         "heading": "③ Will / Shall / Should + 主格代名詞",
         "items": [
           {
-            "en": "Will you be at home this evening?",
-            "zh": "你今天晚上會在家嗎？"
+            "en": "The plumber is coming at six. Will you be in when he arrives?",
+            "zh": "水管工人六點會來，他到的時候你會在家嗎？"
           },
           {
             "en": "I've never been to a job interview. Should I wear a suit?",
@@ -199769,8 +199778,8 @@
         "heading": "④ 疑問詞 + 助動詞 + 主格代名詞",
         "items": [
           {
-            "en": "I've read your plan. What do you think about that?",
-            "zh": "我讀了你的計畫。你覺得那件事怎麼樣？"
+            "en": "I've told you my plan for the trip. What do you think about it?",
+            "zh": "我跟你說了旅行的計畫，你覺得怎麼樣？"
           },
           {
             "en": "Your neighbours are always away in August. Where do they go?",
@@ -199817,6 +199826,47 @@
           {
             "en": "\"Did they enjoy the film?\" \"Yes, they loved it.\"",
             "zh": "他們喜歡那部電影嗎？喜歡，他們很愛。"
+          }
+        ]
+      },
+      {
+        "heading": "⑦ 更多例子",
+        "items": [
+          {
+            "en": "It's getting late. Should we call a taxi?",
+            "zh": "時間晚了，我們要叫計程車嗎？"
+          },
+          {
+            "en": "Your sister speaks great French. Did she live in Paris?",
+            "zh": "你姊姊法文說得很好，她住過巴黎嗎？"
+          },
+          {
+            "en": "I can't find my glasses anywhere. Have you seen them?",
+            "zh": "我到處都找不到眼鏡，你有看到嗎？"
+          },
+          {
+            "en": "This box is too heavy for me. Could you carry it upstairs?",
+            "zh": "這個箱子對我來說太重了，你可以幫我搬上樓嗎？"
+          },
+          {
+            "en": "We've got two free tickets. Shall we go to the concert together?",
+            "zh": "我們有兩張免費的票，要不要一起去聽音樂會？"
+          },
+          {
+            "en": "Your parents look tired. Did they arrive late last night?",
+            "zh": "你爸媽看起來很累，他們昨晚很晚才到嗎？"
+          },
+          {
+            "en": "I'm making pasta tonight. Do you eat meat?",
+            "zh": "我今晚要煮義大利麵，你吃肉嗎？"
+          },
+          {
+            "en": "The museum is closed today. Where can we go instead?",
+            "zh": "博物館今天沒開，我們可以改去哪裡？"
+          },
+          {
+            "en": "Will I need a jacket this evening?",
+            "zh": "今天晚上我會需要外套嗎？"
           }
         ]
       }
@@ -211762,7 +211812,7 @@
     "translation": "我把手機忘在你家了。你有看到嗎？",
     "name": "是非疑問句的助動詞 have",
     "sentences": [
-      "I left my mobile phone at your house yesterday. Have you seen it?",
+      "I can't find my library card anywhere. Have you seen it?",
       "I've just watched the football final with my family. Have you watched it?",
       "You look different. Have you cut your hair?",
       "Have you heard the news? Sarah is getting married!",
@@ -211799,8 +211849,8 @@
         "heading": "① Have you + 過去分詞：問最近的事",
         "items": [
           {
-            "en": "I left my mobile phone at your house yesterday. Have you seen it?",
-            "zh": "我昨天把手機忘在你家了。你有看到嗎？"
+            "en": "I can't find my library card anywhere. Have you seen it?",
+            "zh": "我到處都找不到我的借書證。你有看到嗎？"
           },
           {
             "en": "I've just watched the football final with my family. Have you watched it?",
@@ -212378,7 +212428,7 @@
       "The kids want to swim every day. Does the hotel have a pool for children?",
       "The doctor looked at my swollen ankle. \"Does it hurt when I touch it here?\"",
       "It's meant to be a surprise. Does your mum suspect anything?",
-      "That last goal was amazing! Did you see the football match last night?",
+      "That last goal was amazing! Did you watch the game on TV?",
       "There's a new shop opposite my house. Did you notice it when you came?",
       "Welcome back from Greece! Did you have a good time?",
       "Lucy had her driving test this morning. Did she pass?",
@@ -212464,8 +212514,8 @@
         "heading": "③ Did + 主詞 + 原形動詞",
         "items": [
           {
-            "en": "That last goal was amazing! Did you see the football match last night?",
-            "zh": "最後那一球太精彩了！你昨晚有看那場足球比賽嗎？"
+            "en": "That last goal was amazing! Did you watch the game on TV?",
+            "zh": "最後那一球太精彩了！你有看電視轉播嗎？"
           },
           {
             "en": "There's a new shop opposite my house. Did you notice it when you came?",
@@ -212561,7 +212611,7 @@
     "translation": "你昨天的晚餐怎麼樣？",
     "name": "wh- 疑問句的主要動詞 be",
     "sentences": [
-      "You went to the new restaurant last night. How was your dinner?",
+      "You went to the new Thai place last night. How was the food?",
       "Hi, Tom! How are you, my friend?",
       "Come and sit down, sweetheart. How was your first day at school?",
       "You've just come back from Spain. How was the weather?",
@@ -212571,12 +212621,12 @@
       "Excuse me, I need some cash. Where's the nearest cash machine?",
       "You're late. Where were you?",
       "Where's your dog? Is it OK?",
-      "Where were you born?",
+      "Your accent is lovely. Where were your parents born?",
       "Nice to meet you. What's your name?",
       "What's the time? I left my watch at home.",
       "You were at the garage all morning. What was the problem with your car?",
       "I want to cook for you on Saturday. What's your favourite dish?",
-      "What are those birds on the roof?",
+      "What are those big white flowers in your garden?",
       "Who is that girl next to Anna?",
       "I found an old class photo. Who was the tall boy at the back?",
       "Who's your new teacher? Is she nice?",
@@ -212598,8 +212648,8 @@
         "heading": "① How + be",
         "items": [
           {
-            "en": "You went to the new restaurant last night. How was your dinner?",
-            "zh": "你昨晚去了那家新餐廳。晚餐怎麼樣？"
+            "en": "You went to the new Thai place last night. How was the food?",
+            "zh": "你昨晚去了那家新的泰國餐廳。東西好吃嗎？"
           },
           {
             "en": "Hi, Tom! How are you, my friend?",
@@ -212643,8 +212693,8 @@
             "zh": "你的狗呢？牠還好嗎？"
           },
           {
-            "en": "Where were you born?",
-            "zh": "你在哪裡出生的？"
+            "en": "Your accent is lovely. Where were your parents born?",
+            "zh": "你的口音很好聽。你爸媽在哪裡出生的？"
           }
         ]
       },
@@ -212668,8 +212718,8 @@
             "zh": "我星期六想煮飯給你吃。你最喜歡哪道菜？"
           },
           {
-            "en": "What are those birds on the roof?",
-            "zh": "屋頂上那些是什麼鳥？"
+            "en": "What are those big white flowers in your garden?",
+            "zh": "你院子裡那些白色的大花是什麼？"
           }
         ]
       },
@@ -213164,7 +213214,7 @@
     "translation": "你可以來我家吃晚餐嗎？",
     "name": "情態動詞開頭的 是非疑問句",
     "sentences": [
-      "I'm cooking on Saturday. Can you come to dinner at my house?",
+      "I'm making curry on Saturday. Can you and Ben come round?",
       "It's my birthday on Friday. Can you come to my party?",
       "We're going to the beach. Can you come with us?",
       "I need help with my maths project. Can you meet me after school?",
@@ -213175,7 +213225,7 @@
       "I forgot my calculator. Can I borrow yours for the test?",
       "I can't talk now, I'm on the bus. Can you call me tonight?",
       "We need someone for the band. Can you play the guitar?",
-      "Can you swim? The water is deep here.",
+      "Can you swim well? The water is deep here.",
       "We're going to Paris next week. Can your brother speak any French at all?",
       "Can she drive? She's only seventeen.",
       "Can you read this? The writing is very small.",
@@ -213201,8 +213251,8 @@
         "heading": "① Can you + 原形動詞：邀請",
         "items": [
           {
-            "en": "I'm cooking on Saturday. Can you come to dinner at my house?",
-            "zh": "我星期六要煮飯。你可以來我家吃晚餐嗎？"
+            "en": "I'm making curry on Saturday. Can you and Ben come round?",
+            "zh": "我星期六要煮咖哩。你和 Ben 可以過來嗎？"
           },
           {
             "en": "It's my birthday on Friday. Can you come to my party?",
@@ -213255,8 +213305,8 @@
             "zh": "我們樂團需要人。你會彈吉他嗎？"
           },
           {
-            "en": "Can you swim? The water is deep here.",
-            "zh": "你會游泳嗎？這裡的水很深。"
+            "en": "Can you swim well? The water is deep here.",
+            "zh": "你游泳游得好嗎？這裡的水很深。"
           },
           {
             "en": "We're going to Paris next week. Can your brother speak any French at all?",
@@ -214375,7 +214425,7 @@
     "translation": "這件事你為什麼都不說點什麼？",
     "name": "wh- 否定疑問句（助動詞 do 加主要動詞）",
     "sentences": [
-      "Your room has been wet for weeks. Why didn't you say something about it?",
+      "The car has been making that noise for weeks. Why didn't you take it to the garage?",
       "You wrote that the concert was cancelled. Why didn't you check with the ticket office first?",
       "I waited for an hour. Why didn't you call me?",
       "Why didn't you come to my party? Everyone asked about you.",
@@ -214412,8 +214462,8 @@
         "heading": "① Why didn't + 主詞 + 原形動詞：問過去為什麼沒做",
         "items": [
           {
-            "en": "Your room has been wet for weeks. Why didn't you say something about it?",
-            "zh": "你的房間濕了好幾個星期。這件事你為什麼都不說點什麼？"
+            "en": "The car has been making that noise for weeks. Why didn't you take it to the garage?",
+            "zh": "這台車那個聲音已經響好幾個星期了。你為什麼沒拿去修車廠？"
           },
           {
             "en": "You wrote that the concert was cancelled. Why didn't you check with the ticket office first?",
@@ -214571,7 +214621,7 @@
     "translation": "你為什麼不能兩件事都做？",
     "name": "情態動詞的否定 wh- 疑問句",
     "sentences": [
-      "Your job is in the morning and the club meets in the evening. Why can't you do both things?",
+      "The pool is open until nine. Why can't you swim after work?",
       "Everyone else is going. Why can't I go to the party?",
       "Why can't we take the car? It's raining.",
       "I know you weren't at the library. Why can't you just tell me the truth?",
@@ -214608,8 +214658,8 @@
         "heading": "① Why can't + 主詞 + 原形動詞",
         "items": [
           {
-            "en": "Your job is in the morning and the club meets in the evening. Why can't you do both things?",
-            "zh": "你的工作在早上，社團在晚上。你為什麼不能兩件事都做？"
+            "en": "The pool is open until nine. Why can't you swim after work?",
+            "zh": "游泳池開到九點。你為什麼不能下班後去游泳？"
           },
           {
             "en": "Everyone else is going. Why can't I go to the party?",
@@ -215169,7 +215219,7 @@
     "translation": "總是有可以改進的地方，不是嗎？",
     "name": "there be 的附加問句",
     "sentences": [
-      "Don't give up after one bad game. There is always something you can improve, isn't there?",
+      "Don't worry about one bad test. There's always another chance, isn't there?",
       "I need some cash. There's a bank near here, isn't there?",
       "Let's eat out tonight. There are lots of good restaurants in this street, aren't there?",
       "There's a train at six, isn't there? We can still catch it.",
@@ -215206,8 +215256,8 @@
         "heading": "① There is / There are + 否定的附加問句",
         "items": [
           {
-            "en": "Don't give up after one bad game. There is always something you can improve, isn't there?",
-            "zh": "別因為一場比賽打不好就放棄。總是有可以改進的地方，不是嗎？"
+            "en": "Don't worry about one bad test. There's always another chance, isn't there?",
+            "zh": "別為了一次考不好擔心。總是還有下一次機會，不是嗎？"
           },
           {
             "en": "I need some cash. There's a bank near here, isn't there?",
@@ -216943,7 +216993,7 @@
     "translation": "你要跟誰一起去？",
     "name": "wh- 疑問句的助動詞 be",
     "sentences": [
-      "I heard you have tickets for the concert. Who are you going with?",
+      "I heard you're taking the train to Paris. Who are you travelling with?",
       "You've been texting all evening. Who are you sending messages to?",
       "Your sister has been at the window for an hour. Who is she waiting for?",
       "Who were you dancing with at the party?",
@@ -216969,7 +217019,7 @@
       "Your suitcase is huge. How long are you going away for?",
       "What are you looking at? There's nothing there.",
       "Tom has been at his desk all evening with a pen. Who is he writing to?",
-      "What are you worrying about?",
+      "Your exam went really well. What are you still worrying about?",
       "You're covered in mud. Where are you coming from?",
       "You were carrying a big box on the bus. Where were you taking it?",
       "What was she saying when I came in?",
@@ -216980,8 +217030,8 @@
         "heading": "① Who + be + 主詞 + 動詞-ing",
         "items": [
           {
-            "en": "I heard you have tickets for the concert. Who are you going with?",
-            "zh": "我聽說你有演唱會的票。你要跟誰一起去？"
+            "en": "I heard you're taking the train to Paris. Who are you travelling with?",
+            "zh": "我聽說你要搭火車去巴黎。你要跟誰一起去？"
           },
           {
             "en": "You've been texting all evening. Who are you sending messages to?",
@@ -217114,8 +217164,8 @@
             "zh": "Tom 拿著筆在書桌前坐了一整晚。他在寫信給誰？"
           },
           {
-            "en": "What are you worrying about?",
-            "zh": "你在擔心什麼？"
+            "en": "Your exam went really well. What are you still worrying about?",
+            "zh": "你考試考得很好。你還在擔心什麼？"
           },
           {
             "en": "You're covered in mud. Where are you coming from?",
@@ -221942,7 +221992,7 @@
       "My sister was in the bathroom for an hour, so I told her to hurry up.",
       "\"Go away! I'm busy,\" my brother shouted.",
       "We're going away for the weekend.",
-      "I'm going to get up early tomorrow and go running.",
+      "We're going to set off at dawn and come back before dark.",
       "\"Can you come over on Sunday?\" \"Sure, I'll come over after lunch.\"",
       "We're going out for pizza tonight. Do you want to come?",
       "\"What time did you wake up this morning?\" \"Around nine. I was so tired.\"",
@@ -222081,8 +222131,8 @@
         "heading": "⑦ 未來的計畫",
         "items": [
           {
-            "en": "I'm going to get up early tomorrow and go running.",
-            "zh": "我明天要早起去跑步。"
+            "en": "We're going to set off at dawn and come back before dark.",
+            "zh": "我們打算天一亮就出發，天黑前回來。"
           },
           {
             "en": "\"Can you come over on Sunday?\" \"Sure, I'll come over after lunch.\"",
@@ -234258,7 +234308,7 @@
       "He explained to us that he couldn't come because of work.",
       "They complained to him that the food was cold.",
       "My son admitted to me that he hadn't done his homework.",
-      "He admitted that he had made a mistake.",
+      "In the end, the minister admitted that the plan had failed.",
       "The guide explained that the castle was over 800 years old.",
       "\"Did they like the hotel?\" \"No, they complained that it was noisy.\"",
       "She mentioned that her brother lives in Paris.",
@@ -234405,8 +234455,8 @@
         "heading": "⑧ 不說出聽話的人",
         "items": [
           {
-            "en": "He admitted that he had made a mistake.",
-            "zh": "他承認他犯了錯。"
+            "en": "In the end, the minister admitted that the plan had failed.",
+            "zh": "最後，部長承認那個計畫失敗了。"
           },
           {
             "en": "The guide explained that the castle was over 800 years old.",

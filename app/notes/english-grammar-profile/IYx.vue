@@ -32,18 +32,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">explain<br /><i>轉述動詞 + to + 人</i></span>
           <span
             ><NoteMark
-              sentence="She explained to me that the bus was late."
+              sentence="The mechanic explained to me that the brakes were worn."
               :marks="['to me']"
-            /><span class="translation">她跟我解釋說公車誤點了。</span></span
+            /><span class="translation">技師跟我解釋說煞車磨損了。</span></span
           >
         </div>
         <div>
           <span class="term">tell<br /><i>tell + 人</i></span>
           <span
-            ><NoteMark sentence="She told me that the bus was late." :marks="['told me']" /><span
-              class="translation"
-              >她跟我說公車誤點了。</span
-            ></span
+            ><NoteMark
+              sentence="My landlord told me that the rent was going up."
+              :marks="['told me']"
+            /><span class="translation">房東跟我說房租要漲了。</span></span
           >
         </div>
       </div>
@@ -55,18 +55,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">有介系詞片語</span>
           <span
             ><NoteMark
-              sentence="He admitted to his boss that he was wrong."
-              :marks="['to his boss']"
-            /><span class="translation">他向老闆承認他錯了。</span></span
+              sentence="The boy admitted to the shopkeeper that he had taken the sweets."
+              :marks="['to the shopkeeper']"
+            /><span class="translation">那個男孩向店老闆承認糖果是他拿的。</span></span
           >
         </div>
         <div>
           <span class="term">省略</span>
           <span
-            ><NoteMark sentence="He admitted that he was wrong." :marks="['admitted that']" /><span
-              class="translation"
-              >他承認他錯了。</span
-            ></span
+            ><NoteMark
+              sentence="The coach admitted that the team had played badly."
+              :marks="['admitted that']"
+            /><span class="translation">教練承認球隊打得很差。</span></span
           >
         </div>
       </div>
@@ -74,9 +74,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="explain 後面接聽話的人時，要加 to" mark="to">
       <NoteFix
-        wrong="He explained me that the room was full."
-        right="He explained to me that the room was full."
-        fix="to me"
+        wrong="The receptionist explained us that the hotel was fully booked."
+        right="The receptionist explained to us that the hotel was fully booked."
+        fix="to us"
       />
     </NoteSlide>
 

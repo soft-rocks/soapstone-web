@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'I left my mobile phone at your house.', role: '前一句', kind: 'dim' },
-          { t: 'Have', role: 'have', kind: 'key' },
+          { t: 'Have', role: '助動詞', kind: 'key' },
           { t: 'you', role: '主詞' },
           { t: 'seen', role: '過去分詞', kind: 'key' },
           { t: 'it?', role: '受詞' },
@@ -53,7 +53,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'Have you got', role: '= Do you have', kind: 'key' },
+          { t: 'Have you got', role: '問有沒有', kind: 'key' },
           { t: 'a pen?', role: '受詞' },
         ]"
       />
@@ -61,14 +61,18 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="have 後面接過去分詞" mark="seen">
-      <NoteFix wrong="Have you saw my keys?" right="Have you seen my keys?" fix="seen" />
+      <NoteFix
+        wrong="Have you took your medicine today?"
+        right="Have you taken your medicine today?"
+        fix="taken"
+      />
     </NoteSlide>
 
     <NoteSlide title="現在完成式的疑問句不加 do" mark="Have">
       <NoteFix wrong="Do you have finished?" right="Have you finished?" fix="Have" />
     </NoteSlide>
 
-    <NoteSlide title="主詞是 she 時用 Has" mark="Have">
+    <NoteSlide title="第三人稱單數的主詞用 Has" mark="Have">
       <NoteFix wrong="Have she called you?" right="Has she called you?" fix="Has" />
     </NoteSlide>
   </NoteDeck>

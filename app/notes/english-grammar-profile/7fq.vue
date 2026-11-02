@@ -18,7 +18,8 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'How', role: '疑問詞', kind: 'key' },
           { t: 'was', role: 'be', kind: 'key' },
-          { t: 'your dinner yesterday?', role: '主詞' },
+          { t: 'your dinner', role: '主詞' },
+          { t: 'yesterday?', role: '時間', kind: 'dim' },
         ]"
       />
       <p class="translation">你昨天的晚餐怎麼樣？</p>
@@ -29,25 +30,27 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">is</span>
           <span
-            ><NoteMark sentence="Who is that girl?" :marks="['is']" /><span class="translation"
-              >那個女孩是誰？</span
+            ><NoteMark sentence="Where is the nearest pharmacy?" :marks="['is']" /><span
+              class="translation"
+              >最近的藥局在哪裡？</span
             ></span
           >
         </div>
         <div>
           <span class="term">are</span>
           <span
-            ><NoteMark sentence="Where are my keys?" :marks="['are']" /><span class="translation"
-              >我的鑰匙在哪裡？</span
+            ><NoteMark sentence="Why are the streets so empty today?" :marks="['are']" /><span
+              class="translation"
+              >今天街上為什麼這麼空？</span
             ></span
           >
         </div>
         <div>
-          <span class="term">were</span>
+          <span class="term">was</span>
           <span
-            ><NoteMark sentence="How many people were at the party?" :marks="['were']" /><span
+            ><NoteMark sentence="Who was the woman in the red coat?" :marks="['was']" /><span
               class="translation"
-              >派對上有多少人？</span
+              >穿紅外套的那位女士是誰？</span
             ></span
           >
         </div>
@@ -58,7 +61,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="32"
         :parts="[
-          { t: 'What\'s', role: 'What is', kind: 'key', ring: true },
+          { t: 'What\'s', role: '疑問詞 + be', kind: 'key', ring: true },
           { t: 'your name?', role: '主詞' },
         ]"
       />

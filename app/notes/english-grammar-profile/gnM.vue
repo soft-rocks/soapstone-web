@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們可以聊一下嗎？</p>
     </NoteSlide>
 
-    <NoteSlide title="Yes / No 問句和疑問詞問句" mark="Can we">
+    <NoteSlide title="Yes / No 問句和疑問詞問句都把助動詞放在主詞前面" mark="Can we">
       <div class="rows is-labeled">
         <div>
           <span class="term">Yes / No 問句</span>
@@ -38,16 +38,16 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">疑問詞問句</span>
           <span
-            ><NoteMark sentence="What do you think about that?" :marks="['do you']" /><span
-              class="translation"
-              >你覺得那件事怎麼樣？</span
-            ></span
+            ><NoteMark
+              sentence="What do you usually have for breakfast?"
+              :marks="['do you']"
+            /><span class="translation">你早餐通常吃什麼？</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="直述句和問句" mark="Can we">
+    <NoteSlide title="直述句的主詞在前，問句的助動詞在前" mark="Can we">
       <div class="rows is-labeled">
         <div>
           <span class="term">直述句</span>
@@ -75,11 +75,15 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="疑問詞後面要有助動詞" mark="Can">
-      <NoteFix wrong="What you think about that?" right="What do you think about that?" fix="do" />
+      <NoteFix wrong="Where you live now?" right="Where do you live now?" fix="do" />
     </NoteSlide>
 
     <NoteSlide title="did 後面用原形" mark="have">
-      <NoteFix wrong="Did they went to the party?" right="Did they go to the party?" fix="go" />
+      <NoteFix
+        wrong="Did they went to the zoo by train?"
+        right="Did they go to the zoo by train?"
+        fix="go"
+      />
     </NoteSlide>
   </NoteDeck>
 

@@ -31,10 +31,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">時間</span>
           <span
-            ><NoteMark sentence="We can meet up at 2 pm." :marks="['at 2 pm']" /><span
-              class="translation"
-              >我們可以下午兩點碰面。</span
-            ></span
+            ><NoteMark
+              sentence="The twins usually wake up around dawn."
+              :marks="['around dawn']"
+            /><span class="translation">那對雙胞胎通常天一亮就醒了。</span></span
           >
         </div>
         <div>
@@ -50,9 +50,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">to + 地方</span>
           <span
             ><NoteMark
-              sentence="Shall we go out to a concert this weekend?"
-              :marks="['to a concert']"
-            /><span class="translation">我們這個週末要不要出去聽演唱會？</span></span
+              sentence="My cousin came over to our flat for dinner."
+              :marks="['to our flat']"
+            /><span class="translation">我表哥來我們公寓吃晚餐。</span></span
           >
         </div>
       </div>
@@ -63,26 +63,27 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">come in<br /><i>進來</i></span>
           <span
-            ><NoteMark sentence="Please come in." :marks="['in']" /><span class="translation"
-              >請進。</span
+            ><NoteMark sentence="Come in quickly and shut the door." :marks="['in']" /><span
+              class="translation"
+              >快進來，把門關上。</span
             ></span
           >
         </div>
         <div>
           <span class="term">come back<br /><i>回來</i></span>
           <span
-            ><NoteMark sentence="I'll come back at five." :marks="['back']" /><span
+            ><NoteMark sentence="The swallows come back every spring." :marks="['back']" /><span
               class="translation"
-              >我五點會回來。</span
+              >燕子每年春天都會回來。</span
             ></span
           >
         </div>
         <div>
           <span class="term">come over<br /><i>過來</i></span>
           <span
-            ><NoteMark sentence="Can you come over tonight?" :marks="['over']" /><span
+            ><NoteMark sentence="My grandparents are coming over for tea." :marks="['over']" /><span
               class="translation"
-              >你今晚可以過來嗎？</span
+              >我爺爺奶奶要過來喝下午茶。</span
             ></span
           >
         </div>
@@ -90,11 +91,19 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="起床是 get up，up 不能省略" mark="up">
-      <NoteFix wrong="I get at seven every day." right="I get up at seven every day." fix="up" />
+      <NoteFix
+        wrong="On school days my son gets at half past six."
+        right="On school days my son gets up at half past six."
+        fix="up"
+      />
     </NoteSlide>
 
     <NoteSlide title="小品詞放在動詞後面" mark="up">
-      <NoteFix wrong="Please in come." right="Please come in." fix="come in" />
+      <NoteFix
+        wrong="Our guests in came through the garden."
+        right="Our guests came in through the garden."
+        fix="came in"
+      />
     </NoteSlide>
 
     <NoteSlide title="說自己醒來，wake up 後面不接受詞" mark="get up">
@@ -106,17 +115,21 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="片語動詞的動詞照時態變化，小品詞不變" mark="get">
-      <NoteFix wrong="Yesterday I get up at six." right="Yesterday I got up at six." fix="got" />
+      <NoteFix
+        wrong="Last Monday the whole family get up before dawn."
+        right="Last Monday the whole family got up before dawn."
+        fix="got"
+      />
     </NoteSlide>
 
     <NoteSlide title="wake up 有受詞時，是叫醒別人">
-      <NoteMark sentence="My mum wakes me up at seven." :marks="['me']" />
-      <p class="translation">我媽七點叫我起床。</p>
+      <NoteMark sentence="The thunder woke the baby up." :marks="['the baby']" />
+      <p class="translation">雷聲把寶寶吵醒了。</p>
     </NoteSlide>
 
-    <NoteSlide title="here 是地方副詞，不是小品詞">
-      <NoteMark sentence="Come here." :marks="['here']" />
-      <p class="translation">過來。</p>
+    <NoteSlide title="upstairs 是地方副詞，不是小品詞">
+      <NoteMark sentence="Come upstairs and see my new room." :marks="['upstairs']" />
+      <p class="translation">上樓來看我的新房間。</p>
     </NoteSlide>
   </NoteDeck>
 

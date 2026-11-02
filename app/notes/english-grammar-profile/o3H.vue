@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="I'd like to + 原形動詞">
+    <NoteSlide title="If possible 加 I'd like to，客氣地說希望的安排" mark="I'd like to">
       <NoteWords
         :size="24"
         :parts="[
@@ -23,51 +23,37 @@ defineProps<{ note: (typeof notes)[number] }>();
         ]"
       />
     </NoteSlide>
-    <NoteSlide title="would like、if possible">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">would like</span>
-          <span>想要。說願望和偏好。</span>
-        </div>
-        <div>
-          <span class="term">if possible</span>
-          <span>如果可以的話。讓請求更客氣。</span>
-        </div>
-      </div>
-    </NoteSlide>
-    <NoteSlide title="點餐">
+    <NoteSlide title="點餐時用 I would like 加食物" mark="like">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
             ><NoteMark
               sentence="I would like the chicken, please."
-              :marks="['I would like']"
+              :marks="['would like']"
             /><span class="translation">我要雞肉，謝謝。</span></span
           >
         </div>
       </div>
-      <p class="remark">在餐廳點餐時，常用 I would like 加食物。</p>
     </NoteSlide>
-    <NoteSlide title="說偏好">
+    <NoteSlide title="說偏好時，would like 後面接名詞" mark="like">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
-            ><NoteMark sentence="I'd like the window seat, if possible." :marks="[]" /><span
-              class="translation"
-              >如果可以，我想要靠窗的位子。</span
-            ></span
+            ><NoteMark
+              sentence="I'd like an aisle seat on the flight, if possible."
+              :marks="['I\'d like', 'aisle seat']"
+            /><span class="translation">如果可以，我想要飛機上靠走道的位子。</span></span
           >
         </div>
       </div>
-      <p class="remark">說自己比較想要哪一個時，也可以用 would like。</p>
     </NoteSlide>
     <NoteSlide title="would like 後面接 to 和原形動詞" mark="to">
       <NoteFix
         wrong="I'd like coming on Tuesday, if possible."
         right="I'd like to come on Tuesday, if possible."
-        :fix="['to come']"
+        :fix="['to', 'come']"
       />
     </NoteSlide>
     <NoteSlide title="would like 後面接動詞時要加 to" mark="to">

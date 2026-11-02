@@ -26,33 +26,28 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">說的是汽車這個東西，不是開車的人。</p>
     </NoteSlide>
 
-    <NoteSlide title="in itself 放在形容詞或名詞片語後面，也可以緊接在主詞後面" mark="in itself.">
+    <NoteSlide title="in itself 放在形容詞或名詞片語後面" mark="in itself.">
       <div class="rows is-labeled">
         <div>
           <span class="term">形容詞</span>
           <span
             ><NoteMark
-              sentence="The plan is not wrong in itself; we just started it too late."
+              sentence="Our new shop failed. The plan was not wrong in itself; we just started it too late."
               :marks="['wrong in itself;']"
-            /><span class="translation">這個計畫本身沒錯，我們只是太晚開始。</span></span
+            /><span class="translation"
+              >我們的新店失敗了。這個計畫本身沒錯，我們只是太晚開始。</span
+            ></span
           >
         </div>
         <div>
           <span class="term">名詞片語</span>
           <span
             ><NoteMark
-              sentence="Finishing the marathon was an achievement in itself."
+              sentence="My time was very slow, but I didn't care. Finishing the marathon was an achievement in itself."
               :marks="['an achievement in itself.']"
-            /><span class="translation">跑完馬拉松本身就是一項成就。</span></span
-          >
-        </div>
-        <div>
-          <span class="term">主詞後面</span>
-          <span
-            ><NoteMark
-              sentence="Money in itself doesn't make people happy."
-              :marks="['Money in itself']"
-            /><span class="translation">錢本身不會讓人快樂。</span></span
+            /><span class="translation"
+              >我的時間很慢，可是我不在乎。跑完馬拉松本身就是一項成就。</span
+            ></span
           >
         </div>
       </div>
@@ -74,24 +69,24 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="複數名詞用 in themselves" mark="in itself.">
       <NoteFix
-        wrong="These problems are not serious in itself."
-        right="These problems are not serious in themselves."
+        wrong="The report lists three problems. These problems are not serious in itself."
+        right="The report lists three problems. These problems are not serious in themselves."
         fix="themselves."
       />
     </NoteSlide>
 
     <NoteSlide title="固定說法是 in itself，不是 in it" mark="in itself.">
       <NoteFix
-        wrong="The plan isn't bad in it."
-        right="The plan isn't bad in itself."
+        wrong="Don't give up the idea of a school garden. The plan isn't bad in it."
+        right="Don't give up the idea of a school garden. The plan isn't bad in itself."
         fix="itself."
       />
     </NoteSlide>
 
     <NoteSlide title="表示本身的固定說法用介系詞 in" mark="in itself.">
       <NoteFix
-        wrong="Money on itself won't solve the problem."
-        right="Money in itself won't solve the problem."
+        wrong="The school needs better teachers, not just new computers. Money on itself won't solve the problem."
+        right="The school needs better teachers, not just new computers. Money in itself won't solve the problem."
         fix="in"
       />
     </NoteSlide>

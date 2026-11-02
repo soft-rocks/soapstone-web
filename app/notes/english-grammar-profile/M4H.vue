@@ -12,60 +12,44 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + would / 'd + love + to + 原形動詞" mark="I'd">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">would love</span>
-          <span>很想要。</span>
-        </div>
-        <div>
-          <span class="term">would prefer</span>
-          <span>比較想要。</span>
-        </div>
-        <div>
-          <span class="term">'d</span>
-          <span>would 的縮寫，像 I'd、we'd、she'd。</span>
-        </div>
-      </div>
+    <NoteSlide title="I'd 是 I would，後面接 love to 和原形動詞" mark="I'd">
+      <NoteWords
+        :size="24"
+        :parts="[
+          { t: 'I\'d', role: 'I would', kind: 'key', ring: true },
+          { t: 'love to', role: '動詞 + to', kind: 'key', alts: ['prefer to'] },
+          { t: 'have', role: '原形動詞' },
+          { t: 'a pen-friend in Japan.', kind: 'dim' },
+        ]"
+      />
     </NoteSlide>
-    <NoteSlide title="選時間">
+    <NoteSlide title="would prefer 加名詞，常用來選時間" mark="I'd">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
             ><NoteMark
               sentence="I would prefer Sunday afternoon."
-              :marks="['I would prefer']"
+              :marks="['would prefer']"
             /><span class="translation">我比較想要星期天下午。</span></span
           >
         </div>
       </div>
-      <p class="remark">I would prefer 常用來選時間或選擇。</p>
     </NoteSlide>
-    <NoteSlide title="所有主詞都用 would">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">例句</span>
-          <span
-            ><NoteMark sentence="She would love a new bike." :marks="['would']" /><span
-              class="translation"
-              >她很想要一台新的腳踏車。</span
-            ></span
-          >
-        </div>
-      </div>
-      <p class="remark">would 不加 -&#x2060;s。</p>
-    </NoteSlide>
-    <NoteSlide title="would 後面接原形動詞">
-      <NoteFix wrong="She would loves to come." right="She would love to come." :fix="['love']" />
+    <NoteSlide title="would 後面的動詞不加 -s" mark="I'd">
+      <NoteFix
+        wrong="She would loves to come to the zoo with us."
+        right="She would love to come to the zoo with us."
+        :fix="['love']"
+      />
     </NoteSlide>
     <NoteSlide title="would love 後面接動詞時要加 to" mark="to">
       <NoteFix wrong="I'd love have a dog." right="I'd love to have a dog." :fix="['to']" />
     </NoteSlide>
-    <NoteSlide title="would 後面直接接原形動詞">
+    <NoteSlide title="would 後面不加 to" mark="I'd">
       <NoteFix
-        wrong="I would to prefer the train."
-        right="I would prefer the train."
+        wrong="I would to prefer a later flight."
+        right="I would prefer a later flight."
         :fix="['prefer']"
       />
     </NoteSlide>

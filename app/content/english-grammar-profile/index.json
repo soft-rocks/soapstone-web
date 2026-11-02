@@ -91940,36 +91940,36 @@
     "name": "would 的肯定句",
     "sentences": [
       "I love Japanese films and comics. I'd love to have a pen-friend in Japan.",
-      "I'd love to visit New York one day.",
-      "I'd love to learn to ride a horse.",
-      "I'd love to see your new flat.",
-      "I'd love to come to your party on Saturday.",
-      "I'd love to play in a band with my friends.",
+      "So many of my favourite films are set in New York. I'd love to visit it one day.",
+      "My cousin has two horses. I'd love to learn to ride a horse.",
+      "You've been talking about your new flat for weeks. I'd love to see it.",
+      "Thanks for the invitation. I'd love to come to your party on Saturday.",
+      "I've been playing the drums for two years. I'd love to play in a band with my friends.",
       "Saturday is busy for me. I would prefer Sunday afternoon for the cinema.",
       "I would prefer the train. I don't like flying.",
-      "I would prefer a cup of tea, if you have one.",
-      "I would prefer the green dress. It looks nicer.",
-      "I would prefer a seat by the window.",
-      "I would prefer pizza tonight, not pasta.",
-      "My little brother would love a puppy for his birthday.",
-      "I would love a big slice of that chocolate cake.",
-      "My mum would love some flowers for Mother's Day.",
-      "We would love a holiday by the sea this year.",
-      "She would love a new bike for her birthday.",
-      "My grandparents would love a visit from us.",
+      "No coffee for me, thanks. I would prefer a cup of tea, if you have one.",
+      "You asked which dress I want for the party. I would prefer the green one.",
+      "The flight is ten hours long. I would prefer a seat by the window.",
+      "We had pasta last night. I would prefer pizza tonight, not pasta.",
+      "My little brother talks about dogs all the time. He would love a puppy for his birthday.",
+      "I'm so hungry after the walk. I would love a big slice of that chocolate cake.",
+      "My mum loves her garden. She would love some flowers for Mother's Day.",
+      "We had no holiday last year. We would love a holiday by the sea this year.",
+      "My daughter's old bike is too small. She would love a new one for her birthday.",
+      "My grandparents live alone in the country. They would love a visit from us.",
       "I would prefer to stay at home tonight. I'm tired.",
-      "She would prefer to walk to school.",
-      "We would prefer to eat outside in the garden.",
-      "My dad would prefer to drive than take the bus.",
+      "The school is only ten minutes from my niece's house. She would prefer to walk there.",
+      "It's a warm evening. We would prefer to eat outside in the garden.",
+      "The bus always stops a lot. My dad would prefer to drive rather than take the bus.",
       "I'd prefer to study in the library. It's quieter.",
-      "They would prefer to leave early in the morning.",
-      "I would love to go skiing with you in the winter.",
-      "She would like to travel with her best friend.",
-      "I'd love to spend more time with my grandmother.",
-      "We would love to have dinner with your family.",
-      "He would like to work with animals.",
-      "I'd love to go to the festival with all of you.",
-      "My sister would love to share a flat with her friends."
+      "The roads get busy after nine. My parents would prefer to leave early in the morning.",
+      "You're such a good skier. I would love to go skiing with you in the winter.",
+      "My cousin is planning a trip to Italy. She would like to travel with her best friend.",
+      "My grandmother is getting old. I'd love to spend more time with her.",
+      "Thanks for asking us. We would love to have dinner with your family.",
+      "My son loves the farm. He would like to work with his uncle there.",
+      "I'm free that weekend. I'd love to go to the festival with all of you.",
+      "My sister is tired of living with our parents. She would love to share a flat with her friends."
     ],
     "examples": [
       {
@@ -91980,24 +91980,24 @@
             "zh": "我很喜歡日本電影和漫畫。我很想要有一個日本的筆友。"
           },
           {
-            "en": "I'd love to visit New York one day.",
-            "zh": "我很想有一天能去紐約。"
+            "en": "So many of my favourite films are set in New York. I'd love to visit it one day.",
+            "zh": "我很多最喜歡的電影都以紐約為背景。我很想有一天能去那裡。"
           },
           {
-            "en": "I'd love to learn to ride a horse.",
-            "zh": "我很想學騎馬。"
+            "en": "My cousin has two horses. I'd love to learn to ride a horse.",
+            "zh": "我表姊有兩匹馬。我很想學騎馬。"
           },
           {
-            "en": "I'd love to see your new flat.",
-            "zh": "我很想看看你的新公寓。"
+            "en": "You've been talking about your new flat for weeks. I'd love to see it.",
+            "zh": "你講你的新公寓講了好幾個星期了。我很想去看看。"
           },
           {
-            "en": "I'd love to come to your party on Saturday.",
-            "zh": "我很想去參加你星期六的派對。"
+            "en": "Thanks for the invitation. I'd love to come to your party on Saturday.",
+            "zh": "謝謝你的邀請。我很想去參加你星期六的派對。"
           },
           {
-            "en": "I'd love to play in a band with my friends.",
-            "zh": "我很想跟朋友一起玩樂團。"
+            "en": "I've been playing the drums for two years. I'd love to play in a band with my friends.",
+            "zh": "我打鼓打了兩年。我很想跟朋友一起玩樂團。"
           }
         ]
       },
@@ -92013,20 +92013,20 @@
             "zh": "我比較想搭火車。我不喜歡坐飛機。"
           },
           {
-            "en": "I would prefer a cup of tea, if you have one.",
-            "zh": "如果有的話，我比較想要一杯茶。"
+            "en": "No coffee for me, thanks. I would prefer a cup of tea, if you have one.",
+            "zh": "我不要咖啡，謝謝。如果有的話，我比較想要一杯茶。"
           },
           {
-            "en": "I would prefer the green dress. It looks nicer.",
-            "zh": "我比較想要綠色的洋裝。它比較好看。"
+            "en": "You asked which dress I want for the party. I would prefer the green one.",
+            "zh": "你問我派對想穿哪件洋裝。我比較想要綠色那件。"
           },
           {
-            "en": "I would prefer a seat by the window.",
-            "zh": "我比較想要靠窗的位子。"
+            "en": "The flight is ten hours long. I would prefer a seat by the window.",
+            "zh": "這班飛機要飛十個小時。我比較想要靠窗的位子。"
           },
           {
-            "en": "I would prefer pizza tonight, not pasta.",
-            "zh": "我今天晚上比較想吃披薩，不要義大利麵。"
+            "en": "We had pasta last night. I would prefer pizza tonight, not pasta.",
+            "zh": "我們昨晚吃義大利麵。我今天晚上比較想吃披薩，不要義大利麵。"
           }
         ]
       },
@@ -92034,28 +92034,28 @@
         "heading": "③ 主詞 + would love + 名詞：很想要的東西",
         "items": [
           {
-            "en": "My little brother would love a puppy for his birthday.",
-            "zh": "我弟弟生日很想要一隻小狗。"
+            "en": "My little brother talks about dogs all the time. He would love a puppy for his birthday.",
+            "zh": "我弟弟一天到晚都在說狗。他生日很想要一隻小狗。"
           },
           {
-            "en": "I would love a big slice of that chocolate cake.",
-            "zh": "我很想要一大塊那個巧克力蛋糕。"
+            "en": "I'm so hungry after the walk. I would love a big slice of that chocolate cake.",
+            "zh": "散步完我好餓。我很想要一大塊那個巧克力蛋糕。"
           },
           {
-            "en": "My mum would love some flowers for Mother's Day.",
-            "zh": "母親節我媽媽會很想要一些花。"
+            "en": "My mum loves her garden. She would love some flowers for Mother's Day.",
+            "zh": "我媽媽很喜歡她的花園。母親節她會很想要一些花。"
           },
           {
-            "en": "We would love a holiday by the sea this year.",
-            "zh": "我們今年很想去海邊度假。"
+            "en": "We had no holiday last year. We would love a holiday by the sea this year.",
+            "zh": "我們去年沒有度假。我們今年很想去海邊度假。"
           },
           {
-            "en": "She would love a new bike for her birthday.",
-            "zh": "她生日很想要一台新的腳踏車。"
+            "en": "My daughter's old bike is too small. She would love a new one for her birthday.",
+            "zh": "我女兒的舊腳踏車太小了。她生日很想要一台新的。"
           },
           {
-            "en": "My grandparents would love a visit from us.",
-            "zh": "我的祖父母會很想要我們去看他們。"
+            "en": "My grandparents live alone in the country. They would love a visit from us.",
+            "zh": "我的祖父母兩個人住在鄉下。他們會很想要我們去看他們。"
           }
         ]
       },
@@ -92067,24 +92067,24 @@
             "zh": "我今天晚上比較想待在家裡。我很累。"
           },
           {
-            "en": "She would prefer to walk to school.",
-            "zh": "她比較想走路上學。"
+            "en": "The school is only ten minutes from my niece's house. She would prefer to walk there.",
+            "zh": "學校離我姪女家只要十分鐘。她比較想走路去。"
           },
           {
-            "en": "We would prefer to eat outside in the garden.",
-            "zh": "我們比較想在花園裡吃飯。"
+            "en": "It's a warm evening. We would prefer to eat outside in the garden.",
+            "zh": "今天傍晚很暖和。我們比較想在花園裡吃飯。"
           },
           {
-            "en": "My dad would prefer to drive than take the bus.",
-            "zh": "我爸爸比較想開車，不想搭公車。"
+            "en": "The bus always stops a lot. My dad would prefer to drive rather than take the bus.",
+            "zh": "公車總是停很多站。我爸爸比較想開車，不想搭公車。"
           },
           {
             "en": "I'd prefer to study in the library. It's quieter.",
             "zh": "我比較想在圖書館讀書。比較安靜。"
           },
           {
-            "en": "They would prefer to leave early in the morning.",
-            "zh": "他們比較想早上早點出發。"
+            "en": "The roads get busy after nine. My parents would prefer to leave early in the morning.",
+            "zh": "九點以後路上會很多車。我爸媽比較想早上早點出發。"
           }
         ]
       },
@@ -92092,32 +92092,32 @@
         "heading": "⑤ 主詞 + would like / love + to + 原形動詞 + with + 人",
         "items": [
           {
-            "en": "I would love to go skiing with you in the winter.",
-            "zh": "我很想冬天跟你去滑雪。"
+            "en": "You're such a good skier. I would love to go skiing with you in the winter.",
+            "zh": "你滑雪滑得很好。我很想冬天跟你去滑雪。"
           },
           {
-            "en": "She would like to travel with her best friend.",
-            "zh": "她想跟她最好的朋友一起旅行。"
+            "en": "My cousin is planning a trip to Italy. She would like to travel with her best friend.",
+            "zh": "我表妹在計畫去義大利旅行。她想跟她最好的朋友一起旅行。"
           },
           {
-            "en": "I'd love to spend more time with my grandmother.",
-            "zh": "我很想多花時間陪我奶奶。"
+            "en": "My grandmother is getting old. I'd love to spend more time with her.",
+            "zh": "我奶奶年紀越來越大了。我很想多花時間陪她。"
           },
           {
-            "en": "We would love to have dinner with your family.",
-            "zh": "我們很想跟你的家人一起吃晚餐。"
+            "en": "Thanks for asking us. We would love to have dinner with your family.",
+            "zh": "謝謝你邀請我們。我們很想跟你的家人一起吃晚餐。"
           },
           {
-            "en": "He would like to work with animals.",
-            "zh": "他想從事跟動物有關的工作。"
+            "en": "My son loves the farm. He would like to work with his uncle there.",
+            "zh": "我兒子很喜歡農場。他想跟他叔叔在那裡工作。"
           },
           {
-            "en": "I'd love to go to the festival with all of you.",
-            "zh": "我很想跟你們大家一起去節慶。"
+            "en": "I'm free that weekend. I'd love to go to the festival with all of you.",
+            "zh": "那個週末我有空。我很想跟你們大家一起去節慶。"
           },
           {
-            "en": "My sister would love to share a flat with her friends.",
-            "zh": "我姊姊很想跟她的朋友合租一間公寓。"
+            "en": "My sister is tired of living with our parents. She would love to share a flat with her friends.",
+            "zh": "我姊姊不想再跟我們爸媽住了。她很想跟她的朋友合租一間公寓。"
           }
         ]
       }
@@ -134620,36 +134620,36 @@
     "name": "would like 表示願望和偏好",
     "sentences": [
       "I don't have classes on Tuesday. If possible, I'd like to come to see you on Tuesday afternoon.",
-      "If possible, I'd like to change my appointment to Thursday.",
-      "If possible, I'd like to sit near the front of the class.",
-      "If possible, I'd like to start the new job in September.",
-      "If possible, I'd like to pay in two parts.",
-      "If possible, I'd like to have a room on the ground floor.",
-      "For my main course, I would like the chicken with potatoes and some vegetables.",
-      "I would like the tomato soup to start, please.",
-      "I'd like a cheese sandwich and a cup of tea.",
-      "My son would like the pasta with no sauce.",
-      "I'd like a large orange juice, please.",
-      "We would like two coffees and a piece of chocolate cake.",
-      "I'd like the window seat, if possible.",
-      "I'd like a quiet room at the back of the hotel, if possible.",
+      "I'm sorry, but I have to work on Wednesday. If possible, I'd like to change my appointment to Thursday.",
+      "I can't read the board from the back. If possible, I'd like to sit near the front of the class.",
+      "Thank you for offering me the job. If possible, I'd like to start the new job in September.",
+      "The course costs six hundred pounds. If possible, I'd like to pay in two parts.",
+      "My father can't climb stairs easily. If possible, I'd like to have a room on the ground floor.",
+      "I've looked at the menu. For my main course, I would like the chicken with potatoes and some vegetables.",
+      "The waiter is ready to take our order. I would like the tomato soup to start, please.",
+      "I only want something light for lunch. I'd like a cheese sandwich and a cup of tea.",
+      "My son doesn't like tomato. He would like the pasta with no sauce.",
+      "I'm so thirsty after my run. I'd like a large orange juice, please.",
+      "We're having a break from shopping. We would like two coffees and a piece of chocolate cake.",
+      "I'm checking in for my flight to Rome. I'd like the window seat, if possible.",
+      "I sleep badly in noisy places. I'd like a quiet room at the back of the hotel, if possible.",
       "My eyes get tired on screens. I'd like a paper copy of the report, if possible.",
-      "I'd like the blue one, if possible. It's my favourite colour.",
-      "We'd like a table outside, if possible.",
-      "I'd like a single room for three nights, if possible.",
-      "I'd like to travel around South America one day.",
-      "I'd like to learn to speak Japanese one day.",
-      "I'd like to have my own restaurant one day.",
-      "I'd like to see the Northern Lights one day.",
-      "I'd like to write a book about my grandmother's life one day.",
-      "I'd like to run a marathon one day.",
-      "My mum would like to retire to a small village by the sea.",
-      "My best friend would like to become a vet.",
-      "The children would like to spend the afternoon at the park.",
-      "My dad would like to go fishing on Sunday morning.",
-      "Our teacher would like to take us to the science museum.",
-      "My grandparents would like to celebrate their anniversary in Paris.",
-      "My sister would like to have a big wedding in the summer."
+      "The shop has this bag in three colours. I'd like the blue one, if possible.",
+      "It's a lovely sunny evening. We'd like a table outside, if possible.",
+      "I'm phoning to book a room for my business trip. I'd like a single room for three nights, if possible.",
+      "I've always loved the Andes. I'd like to travel around South America one day.",
+      "I love Japanese films. I'd like to learn to speak Japanese one day.",
+      "I've worked in kitchens for ten years. I'd like to have my own restaurant one day.",
+      "I've seen photos of the sky in Norway. I'd like to see the Northern Lights one day.",
+      "My grandmother had an amazing life. I'd like to write a book about her one day.",
+      "I've just finished my first half marathon. I'd like to run a marathon one day.",
+      "My mum is tired of the noise in the city. She would like to retire to a small village by the sea.",
+      "My best friend loves animals. She would like to become a vet.",
+      "It's a sunny day, and the children are bored at home. They would like to spend the afternoon at the park.",
+      "My dad has bought a new fishing rod. He would like to go fishing on Sunday morning.",
+      "We're learning about space this term. Our teacher would like to take us to the science museum.",
+      "My grandparents have been married for fifty years. They would like to celebrate their anniversary in Paris.",
+      "My sister got engaged last month. She would like to have a big wedding in the summer."
     ],
     "examples": [
       {
@@ -134660,24 +134660,24 @@
             "zh": "我星期二沒有課。如果可以的話，我想星期二下午去找您。"
           },
           {
-            "en": "If possible, I'd like to change my appointment to Thursday.",
-            "zh": "如果可以的話，我想把預約改到星期四。"
+            "en": "I'm sorry, but I have to work on Wednesday. If possible, I'd like to change my appointment to Thursday.",
+            "zh": "很抱歉，我星期三要上班。如果可以的話，我想把預約改到星期四。"
           },
           {
-            "en": "If possible, I'd like to sit near the front of the class.",
-            "zh": "如果可以的話，我想坐在教室前面。"
+            "en": "I can't read the board from the back. If possible, I'd like to sit near the front of the class.",
+            "zh": "我坐後面看不清楚黑板。如果可以的話，我想坐在教室前面。"
           },
           {
-            "en": "If possible, I'd like to start the new job in September.",
-            "zh": "如果可以的話，我想九月開始新工作。"
+            "en": "Thank you for offering me the job. If possible, I'd like to start the new job in September.",
+            "zh": "謝謝你們給我這份工作。如果可以的話，我想九月開始新工作。"
           },
           {
-            "en": "If possible, I'd like to pay in two parts.",
-            "zh": "如果可以的話，我想分兩次付款。"
+            "en": "The course costs six hundred pounds. If possible, I'd like to pay in two parts.",
+            "zh": "這門課要六百英鎊。如果可以的話，我想分兩次付款。"
           },
           {
-            "en": "If possible, I'd like to have a room on the ground floor.",
-            "zh": "如果可以的話，我想要一樓的房間。"
+            "en": "My father can't climb stairs easily. If possible, I'd like to have a room on the ground floor.",
+            "zh": "我爸爸爬樓梯不太方便。如果可以的話，我想要一樓的房間。"
           }
         ]
       },
@@ -134685,28 +134685,28 @@
         "heading": "② I would like + 食物：點餐",
         "items": [
           {
-            "en": "For my main course, I would like the chicken with potatoes and some vegetables.",
-            "zh": "主菜我要雞肉配馬鈴薯和一些蔬菜。"
+            "en": "I've looked at the menu. For my main course, I would like the chicken with potatoes and some vegetables.",
+            "zh": "我看過菜單了。主菜我要雞肉配馬鈴薯和一些蔬菜。"
           },
           {
-            "en": "I would like the tomato soup to start, please.",
-            "zh": "前菜我要番茄湯，謝謝。"
+            "en": "The waiter is ready to take our order. I would like the tomato soup to start, please.",
+            "zh": "服務生準備好幫我們點餐了。前菜我要番茄湯，謝謝。"
           },
           {
-            "en": "I'd like a cheese sandwich and a cup of tea.",
-            "zh": "我要一個起司三明治和一杯茶。"
+            "en": "I only want something light for lunch. I'd like a cheese sandwich and a cup of tea.",
+            "zh": "午餐我只想吃點清淡的。我要一個起司三明治和一杯茶。"
           },
           {
-            "en": "My son would like the pasta with no sauce.",
-            "zh": "我兒子要不加醬的義大利麵。"
+            "en": "My son doesn't like tomato. He would like the pasta with no sauce.",
+            "zh": "我兒子不喜歡番茄。他要不加醬的義大利麵。"
           },
           {
-            "en": "I'd like a large orange juice, please.",
-            "zh": "請給我一大杯柳橙汁。"
+            "en": "I'm so thirsty after my run. I'd like a large orange juice, please.",
+            "zh": "跑完步我好渴。請給我一大杯柳橙汁。"
           },
           {
-            "en": "We would like two coffees and a piece of chocolate cake.",
-            "zh": "我們要兩杯咖啡和一塊巧克力蛋糕。"
+            "en": "We're having a break from shopping. We would like two coffees and a piece of chocolate cake.",
+            "zh": "我們逛街休息一下。我們要兩杯咖啡和一塊巧克力蛋糕。"
           }
         ]
       },
@@ -134714,28 +134714,28 @@
         "heading": "③ I'd like + 名詞, if possible：說偏好",
         "items": [
           {
-            "en": "I'd like the window seat, if possible.",
-            "zh": "如果可以，我想要靠窗的位子。"
+            "en": "I'm checking in for my flight to Rome. I'd like the window seat, if possible.",
+            "zh": "我在辦理飛往羅馬的登機手續。如果可以，我想要靠窗的位子。"
           },
           {
-            "en": "I'd like a quiet room at the back of the hotel, if possible.",
-            "zh": "如果可以，我想要飯店後面安靜的房間。"
+            "en": "I sleep badly in noisy places. I'd like a quiet room at the back of the hotel, if possible.",
+            "zh": "我在吵的地方睡不好。如果可以，我想要飯店後面安靜的房間。"
           },
           {
             "en": "My eyes get tired on screens. I'd like a paper copy of the report, if possible.",
             "zh": "我的眼睛看螢幕會累。如果可以，我想要一份紙本報告。"
           },
           {
-            "en": "I'd like the blue one, if possible. It's my favourite colour.",
-            "zh": "如果可以，我想要藍色那個。那是我最喜歡的顏色。"
+            "en": "The shop has this bag in three colours. I'd like the blue one, if possible.",
+            "zh": "這家店的這款包包有三種顏色。如果可以，我想要藍色那個。"
           },
           {
-            "en": "We'd like a table outside, if possible.",
-            "zh": "如果可以，我們想要外面的桌子。"
+            "en": "It's a lovely sunny evening. We'd like a table outside, if possible.",
+            "zh": "這是一個陽光很好的傍晚。如果可以，我們想要外面的桌子。"
           },
           {
-            "en": "I'd like a single room for three nights, if possible.",
-            "zh": "如果可以，我想要一間單人房住三晚。"
+            "en": "I'm phoning to book a room for my business trip. I'd like a single room for three nights, if possible.",
+            "zh": "我打電話來訂出差的房間。如果可以，我想要一間單人房住三晚。"
           }
         ]
       },
@@ -134743,28 +134743,28 @@
         "heading": "④ I'd like to + 原形動詞 + one day：說願望",
         "items": [
           {
-            "en": "I'd like to travel around South America one day.",
-            "zh": "我希望有一天能環遊南美洲。"
+            "en": "I've always loved the Andes. I'd like to travel around South America one day.",
+            "zh": "我一直很喜歡安地斯山脈。我希望有一天能環遊南美洲。"
           },
           {
-            "en": "I'd like to learn to speak Japanese one day.",
-            "zh": "我希望有一天能學會說日文。"
+            "en": "I love Japanese films. I'd like to learn to speak Japanese one day.",
+            "zh": "我很喜歡日本電影。我希望有一天能學會說日文。"
           },
           {
-            "en": "I'd like to have my own restaurant one day.",
-            "zh": "我希望有一天能有自己的餐廳。"
+            "en": "I've worked in kitchens for ten years. I'd like to have my own restaurant one day.",
+            "zh": "我在廚房工作了十年。我希望有一天能有自己的餐廳。"
           },
           {
-            "en": "I'd like to see the Northern Lights one day.",
-            "zh": "我希望有一天能看到北極光。"
+            "en": "I've seen photos of the sky in Norway. I'd like to see the Northern Lights one day.",
+            "zh": "我看過挪威天空的照片。我希望有一天能看到北極光。"
           },
           {
-            "en": "I'd like to write a book about my grandmother's life one day.",
-            "zh": "我希望有一天能寫一本關於我奶奶一生的書。"
+            "en": "My grandmother had an amazing life. I'd like to write a book about her one day.",
+            "zh": "我奶奶的一生很精彩。我希望有一天能寫一本關於她的書。"
           },
           {
-            "en": "I'd like to run a marathon one day.",
-            "zh": "我希望有一天能跑一場馬拉松。"
+            "en": "I've just finished my first half marathon. I'd like to run a marathon one day.",
+            "zh": "我剛跑完我的第一場半程馬拉松。我希望有一天能跑一場馬拉松。"
           }
         ]
       },
@@ -134772,32 +134772,32 @@
         "heading": "⑤ 主詞 + would like + to + 原形動詞：說別人的願望",
         "items": [
           {
-            "en": "My mum would like to retire to a small village by the sea.",
-            "zh": "我媽媽想退休後搬到海邊的小村子。"
+            "en": "My mum is tired of the noise in the city. She would like to retire to a small village by the sea.",
+            "zh": "我媽媽受不了城市的吵鬧。她想退休後搬到海邊的小村子。"
           },
           {
-            "en": "My best friend would like to become a vet.",
-            "zh": "我最好的朋友想當獸醫。"
+            "en": "My best friend loves animals. She would like to become a vet.",
+            "zh": "我最好的朋友很喜歡動物。她想當獸醫。"
           },
           {
-            "en": "The children would like to spend the afternoon at the park.",
-            "zh": "孩子們想在公園度過下午。"
+            "en": "It's a sunny day, and the children are bored at home. They would like to spend the afternoon at the park.",
+            "zh": "天氣很好，孩子們在家很無聊。他們想在公園度過下午。"
           },
           {
-            "en": "My dad would like to go fishing on Sunday morning.",
-            "zh": "我爸爸星期天早上想去釣魚。"
+            "en": "My dad has bought a new fishing rod. He would like to go fishing on Sunday morning.",
+            "zh": "我爸爸買了一支新的釣竿。他星期天早上想去釣魚。"
           },
           {
-            "en": "Our teacher would like to take us to the science museum.",
-            "zh": "我們老師想帶我們去科學博物館。"
+            "en": "We're learning about space this term. Our teacher would like to take us to the science museum.",
+            "zh": "我們這學期在學太空。我們老師想帶我們去科學博物館。"
           },
           {
-            "en": "My grandparents would like to celebrate their anniversary in Paris.",
-            "zh": "我的祖父母想在巴黎慶祝他們的結婚紀念日。"
+            "en": "My grandparents have been married for fifty years. They would like to celebrate their anniversary in Paris.",
+            "zh": "我的祖父母結婚五十年了。他們想在巴黎慶祝他們的結婚紀念日。"
           },
           {
-            "en": "My sister would like to have a big wedding in the summer.",
-            "zh": "我姊姊想在夏天辦一個盛大的婚禮。"
+            "en": "My sister got engaged last month. She would like to have a big wedding in the summer.",
+            "zh": "我姊姊上個月訂婚了。她想在夏天辦一個盛大的婚禮。"
           }
         ]
       }
@@ -195616,11 +195616,11 @@
     "translation": "晚上你們可以跳跳舞或聽聽音樂，自己找點樂子。",
     "name": "複數反身代名詞當動詞的受詞",
     "sentences": [
-      "Let's introduce ourselves before the meeting starts.",
+      "Some of us haven't met before. Let's introduce ourselves before the meeting starts.",
       "We taught ourselves to cook during lockdown.",
       "We kept asking ourselves what we had done wrong.",
       "We dried ourselves with the hotel towels after the swim.",
-      "We shouldn't blame ourselves for the accident.",
+      "The other car came out of nowhere. We shouldn't blame ourselves for the accident.",
       "My husband and I treated ourselves to a weekend in Paris.",
       "Oh no, we've locked ourselves out of the car again!",
       "As a team, we pushed ourselves hard this season.",
@@ -195640,12 +195640,12 @@
       "The children entertained themselves with a box of old toys.",
       "My parents bought themselves a new car for their anniversary.",
       "Several workers have hurt themselves on this machine.",
-      "The twins can dress themselves now.",
+      "They're four years old. The twins can dress themselves now.",
       "Many adults ask themselves whether zoos are cruel.",
       "The guests helped themselves to cake and coffee.",
       "The thieves gave themselves away by posting photos online.",
       "During the storm, they locked themselves in the bathroom.",
-      "Cats spend hours washing themselves.",
+      "Our two cats are always clean. Cats spend hours washing themselves.",
       "The new employees introduced themselves at the morning meeting.",
       "Some players blamed themselves for losing the final."
     ],
@@ -195654,8 +195654,8 @@
         "heading": "① ourselves",
         "items": [
           {
-            "en": "Let's introduce ourselves before the meeting starts.",
-            "zh": "會議開始前我們先自我介紹吧。"
+            "en": "Some of us haven't met before. Let's introduce ourselves before the meeting starts.",
+            "zh": "我們有些人還沒見過面。會議開始前我們先自我介紹吧。"
           },
           {
             "en": "We taught ourselves to cook during lockdown.",
@@ -195670,8 +195670,8 @@
             "zh": "游完泳後，我們用飯店的毛巾把自己擦乾。"
           },
           {
-            "en": "We shouldn't blame ourselves for the accident.",
-            "zh": "我們不應該為這場意外怪自己。"
+            "en": "The other car came out of nowhere. We shouldn't blame ourselves for the accident.",
+            "zh": "另一台車突然冒出來。我們不應該為這場意外怪自己。"
           },
           {
             "en": "My husband and I treated ourselves to a weekend in Paris.",
@@ -195760,8 +195760,8 @@
             "zh": "好幾個工人被這台機器弄傷過。"
           },
           {
-            "en": "The twins can dress themselves now.",
-            "zh": "那對雙胞胎現在會自己穿衣服了。"
+            "en": "They're four years old. The twins can dress themselves now.",
+            "zh": "他們四歲了。那對雙胞胎現在會自己穿衣服了。"
           },
           {
             "en": "Many adults ask themselves whether zoos are cruel.",
@@ -195780,8 +195780,8 @@
             "zh": "暴風雨的時候，他們把自己鎖在浴室裡。"
           },
           {
-            "en": "Cats spend hours washing themselves.",
-            "zh": "貓會花好幾個小時把自己舔乾淨。"
+            "en": "Our two cats are always clean. Cats spend hours washing themselves.",
+            "zh": "我們的兩隻貓總是很乾淨。貓會花好幾個小時把自己舔乾淨。"
           },
           {
             "en": "The new employees introduced themselves at the morning meeting.",
@@ -206913,24 +206913,24 @@
     "name": "固定說法 in itself 加強語氣",
     "sentences": [
       "Eating chocolate isn't bad in itself, but you shouldn't eat a whole bar every day.",
-      "The job was boring in itself, but I liked my colleagues.",
+      "I stayed at the bank for five years. The job was boring in itself, but I liked my colleagues.",
       "A little stress is useful in itself; it helps you focus.",
       "The mistake wasn't serious in itself, but it caused a lot of confusion.",
       "Is technology harmful in itself, or only when people misuse it?",
-      "Spending time with your family is important in itself.",
+      "Don't worry about planning a big trip. Spending time with your family is important in itself.",
       "Criticism isn't unkind in itself, as long as it's fair.",
-      "Waiting for the results was stressful in itself.",
-      "The novel is interesting in itself, but the film adds a lot.",
+      "I didn't sleep for a week before the letter came. Waiting for the results was stressful in itself.",
+      "Read the book before you see the film. The novel is interesting in itself, but the film adds a lot.",
       "Borrowing money isn't wrong in itself. Just make sure you can pay it back.",
-      "A quiet evening at home can be relaxing in itself.",
+      "You don't need to go out every Friday. A quiet evening at home can be relaxing in itself.",
       "Finding a parking space in this city is a challenge in itself.",
       "Getting to the island is an adventure in itself. You need two boats and a bus.",
       "Being invited to an interview is a good sign in itself.",
       "For my grandmother, using a smartphone is a big step in itself.",
-      "Learning a new language is a reward in itself.",
-      "The walk up to the castle is a workout in itself.",
+      "You may never use your Italian at work. Learning a new language is a reward in itself.",
+      "There are three hundred steps. The walk up to the castle is a workout in itself.",
       "Writing the grant application was a full-time job in itself.",
-      "Meeting the president was an honour in itself.",
+      "We only spoke for a minute. Meeting the president was an honour in itself.",
       "Keeping a garden alive in this heat is an art in itself.",
       "Getting five kids out the door by eight is a small miracle in itself.",
       "Just being nominated for the award was a victory in itself.",
@@ -206940,7 +206940,7 @@
       "This medicine in itself is safe, but don't take it with alcohol.",
       "Exercise in itself won't help you lose weight unless you also eat well.",
       "The house in itself wasn't special, but the view was amazing.",
-      "Failure in itself is nothing to be ashamed of.",
+      "You didn't pass this time, but you'll try again. Failure in itself is nothing to be ashamed of.",
       "The app in itself is free; you only pay for the extra features.",
       "A long flight in itself doesn't bother me. It's the jet lag I hate.",
       "Does the treatment in itself carry any risk, doctor?"
@@ -206954,8 +206954,8 @@
             "zh": "吃巧克力本身不是壞事，可是你不該每天吃一整條。"
           },
           {
-            "en": "The job was boring in itself, but I liked my colleagues.",
-            "zh": "那份工作本身很無聊，可是我喜歡我的同事。"
+            "en": "I stayed at the bank for five years. The job was boring in itself, but I liked my colleagues.",
+            "zh": "我在銀行待了五年。那份工作本身很無聊，可是我喜歡我的同事。"
           },
           {
             "en": "A little stress is useful in itself; it helps you focus.",
@@ -206970,28 +206970,28 @@
             "zh": "科技本身有害嗎？還是只有在人們誤用的時候才有害？"
           },
           {
-            "en": "Spending time with your family is important in itself.",
-            "zh": "和家人相處本身就很重要。"
+            "en": "Don't worry about planning a big trip. Spending time with your family is important in itself.",
+            "zh": "別煩惱要計畫一趟大旅行。和家人相處本身就很重要。"
           },
           {
             "en": "Criticism isn't unkind in itself, as long as it's fair.",
             "zh": "批評本身並不刻薄，只要它是公正的。"
           },
           {
-            "en": "Waiting for the results was stressful in itself.",
-            "zh": "等結果這件事本身就很有壓力。"
+            "en": "I didn't sleep for a week before the letter came. Waiting for the results was stressful in itself.",
+            "zh": "信寄來之前我一個星期都沒睡好。等結果這件事本身就很有壓力。"
           },
           {
-            "en": "The novel is interesting in itself, but the film adds a lot.",
-            "zh": "這本小說本身很有趣，可是電影又加了很多東西。"
+            "en": "Read the book before you see the film. The novel is interesting in itself, but the film adds a lot.",
+            "zh": "看電影之前先讀書。這本小說本身很有趣，可是電影又加了很多東西。"
           },
           {
             "en": "Borrowing money isn't wrong in itself. Just make sure you can pay it back.",
             "zh": "借錢本身沒有錯，只要確定你還得起就好。"
           },
           {
-            "en": "A quiet evening at home can be relaxing in itself.",
-            "zh": "在家度過一個安靜的晚上本身就很放鬆。"
+            "en": "You don't need to go out every Friday. A quiet evening at home can be relaxing in itself.",
+            "zh": "你不用每個星期五都出門。在家度過一個安靜的晚上本身就很放鬆。"
           }
         ]
       },
@@ -207015,20 +207015,20 @@
             "zh": "對我奶奶來說，用智慧型手機本身就是一大步。"
           },
           {
-            "en": "Learning a new language is a reward in itself.",
-            "zh": "學一門新語言本身就是一種收穫。"
+            "en": "You may never use your Italian at work. Learning a new language is a reward in itself.",
+            "zh": "你可能永遠不會在工作上用到義大利文。學一門新語言本身就是一種收穫。"
           },
           {
-            "en": "The walk up to the castle is a workout in itself.",
-            "zh": "走上城堡本身就是一種運動。"
+            "en": "There are three hundred steps. The walk up to the castle is a workout in itself.",
+            "zh": "有三百級階梯。走上城堡本身就是一種運動。"
           },
           {
             "en": "Writing the grant application was a full-time job in itself.",
             "zh": "寫那份補助申請書本身就像一份全職工作。"
           },
           {
-            "en": "Meeting the president was an honour in itself.",
-            "zh": "能見到總統本身就是一種榮幸。"
+            "en": "We only spoke for a minute. Meeting the president was an honour in itself.",
+            "zh": "我們只說了一分鐘的話。能見到總統本身就是一種榮幸。"
           },
           {
             "en": "Keeping a garden alive in this heat is an art in itself.",
@@ -207072,8 +207072,8 @@
             "zh": "房子本身沒什麼特別，可是景色很棒。"
           },
           {
-            "en": "Failure in itself is nothing to be ashamed of.",
-            "zh": "失敗本身沒什麼好丟臉的。"
+            "en": "You didn't pass this time, but you'll try again. Failure in itself is nothing to be ashamed of.",
+            "zh": "你這次沒過，可是你會再試一次。失敗本身沒什麼好丟臉的。"
           },
           {
             "en": "The app in itself is free; you only pay for the extra features.",

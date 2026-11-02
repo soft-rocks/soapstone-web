@@ -17,10 +17,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'It', role: '形式主詞' },
-          { t: 'was', role: 'be' },
+          { t: 'was', role: 'be 動詞' },
           { t: 'Paul', role: '焦點', kind: 'key', ring: true },
           { t: 'who', role: '關係代名詞' },
-          { t: 'stole the money.', role: '子句的其餘部分' },
+          { t: 'stole the money.', role: '動詞片語' },
         ]"
       />
       <p class="translation">偷錢的是 Paul。</p>
@@ -119,10 +119,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'It', role: '形式主詞', kind: 'dim' },
-          { t: 'is', role: '跟著 It', kind: 'key' },
+          { t: 'is', role: '單數 be 動詞', kind: 'key' },
           { t: 'my parents', role: '焦點' },
           { t: 'who', kind: 'dim' },
-          { t: 'pay', role: '跟著 my parents', kind: 'key' },
+          { t: 'pay', role: '複數動詞', kind: 'key' },
           { t: 'the rent.', kind: 'dim' },
         ]"
       />
@@ -177,7 +177,7 @@ defineProps<{ note: (typeof notes)[number] }>();
             ><NoteMark
               sentence="It was Paul who stole the money."
               :marks="['It was', 'who']"
-            /><span class="translation">剩下 Paul stole the money.</span></span
+            /><span class="translation">偷錢的是 Paul。</span></span
           >
         </div>
         <div>
@@ -185,11 +185,15 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span
             ><NoteMark sentence="It is true that he lied." :marks="['It is', 'that']" /><span
               class="translation"
-              >剩下 true he lied，不是句子。</span
+              >他說謊是真的。</span
             ></span
           >
         </div>
       </div>
+      <p class="remark">
+        拿掉後，分裂句剩下 <code>Paul stole the money</code>，是完整的句子。另一句剩下
+        <code>true he lied</code>，不是句子。
+      </p>
     </NoteSlide>
 
     <NoteSlide title="what 分裂句的焦點放在句尾" mark="Paul">

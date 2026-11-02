@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'You', role: '主詞' },
-          { t: 'needn\'t', role: 'need not', kind: 'key' },
+          { t: 'needn\'t', role: '否定情態動詞', kind: 'key' },
           { t: 'come', role: '原形動詞', kind: 'key' },
           { t: 'if you\'re busy.', role: '條件子句', kind: 'dim' },
         ]"
@@ -61,19 +61,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">半情態動詞</span>
           <span
-            ><NoteMark sentence="You needn't worry." :marks="['needn\'t']" /><span
+            ><NoteMark sentence="You needn't wash the dishes." :marks="['needn\'t']" /><span
               class="translation"
-              >你不必擔心。</span
+              >你不必洗碗。</span
             ></span
           >
         </div>
         <div>
           <span class="term">一般動詞</span>
           <span
-            ><NoteMark sentence="You don't need to worry." :marks="['don\'t need to']" /><span
-              class="translation"
-              >你不需要擔心。</span
-            ></span
+            ><NoteMark
+              sentence="You don't need to wash the car."
+              :marks="['don\'t need to']"
+            /><span class="translation">你不需要洗車。</span></span
           >
         </div>
       </div>
@@ -89,11 +89,19 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="半情態動詞不照主詞變化" mark="needn't">
-      <NoteFix wrong="He needsn't come tomorrow." right="He needn't come tomorrow." fix="needn't" />
+      <NoteFix
+        wrong="My sister needsn't work this Saturday."
+        right="My sister needn't work this Saturday."
+        fix="needn't"
+      />
     </NoteSlide>
 
     <NoteSlide title="don't need 是一般動詞的說法，後面要加 to" mark="needn't">
-      <NoteFix wrong="You don't need worry." right="You don't need to worry." fix="to" />
+      <NoteFix
+        wrong="You don't need pay for parking here."
+        right="You don't need to pay for parking here."
+        fix="to"
+      />
     </NoteSlide>
 
     <NoteSlide title="How dare you 後面直接接原形動詞">
@@ -108,8 +116,18 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFork
         stem="You"
         :branches="[
-          { head: 'needn\'t', rest: 'bring a coat.', meaning: '不必', zh: '你不必帶外套。' },
-          { head: 'mustn\'t', rest: 'bring a coat.', meaning: '禁止', zh: '你不可以帶外套。' },
+          {
+            head: 'needn\'t',
+            rest: 'bring a sleeping bag.',
+            meaning: '不必',
+            zh: '你不必帶睡袋。',
+          },
+          {
+            head: 'mustn\'t',
+            rest: 'bring any glass bottles.',
+            meaning: '禁止',
+            zh: '你不可以帶玻璃瓶。',
+          },
         ]"
       />
     </NoteSlide>

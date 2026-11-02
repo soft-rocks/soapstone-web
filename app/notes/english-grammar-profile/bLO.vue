@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="32"
         :parts="[
           { t: 'It', role: '主詞' },
-          { t: 'sounds peaceful,', role: '動詞：sounds' },
+          { t: 'sounds peaceful,', role: '一般動詞' },
           { t: 'doesn\'t it?', role: '否定的附加問句', kind: 'key' },
         ]"
       />
@@ -28,19 +28,39 @@ defineProps<{ note: (typeof notes)[number] }>();
       <div class="rows is-labeled">
         <div>
           <span class="term">have</span>
-          <span>We've arranged to meet at 12, <b>haven't we</b>?</span>
+          <span
+            ><NoteMark
+              sentence="We've arranged to meet at twelve, haven't we?"
+              :marks="['haven\'t we']"
+            /><span class="translation">我們約好十二點見面，對吧？</span></span
+          >
         </div>
         <div>
           <span class="term">should</span>
-          <span>We should rent some films, <b>shouldn't we</b>?</span>
+          <span
+            ><NoteMark
+              sentence="We should leave soon, shouldn't we?"
+              :marks="['shouldn\'t we']"
+            /><span class="translation">我們應該快點出發，對吧？</span></span
+          >
         </div>
         <div>
           <span class="term">could</span>
-          <span>We could go together, <b>couldn't we</b>?</span>
+          <span
+            ><NoteMark
+              sentence="You could ask your teacher for help, couldn't you?"
+              :marks="['couldn\'t you']"
+            /><span class="translation">你可以請老師幫忙，對吧？</span></span
+          >
         </div>
         <div>
           <span class="term">will</span>
-          <span>You'll see the show, <b>won't you</b>?</span>
+          <span
+            ><NoteMark sentence="It'll be dark by six, won't it?" :marks="['won\'t it']" /><span
+              class="translation"
+              >六點天就黑了，對吧？</span
+            ></span
+          >
         </div>
       </div>
     </NoteSlide>
@@ -50,8 +70,8 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'I think', kind: 'dim' },
-          { t: 'it would be fantastic,', role: '子句：it would' },
-          { t: 'wouldn\'t it?', role: '跟著子句', kind: 'key' },
+          { t: 'it would be fantastic,', role: '子句' },
+          { t: 'wouldn\'t it?', role: '附加問句', kind: 'key' },
         ]"
       />
       <p class="translation">我覺得那會很棒，你說是不是？</p>

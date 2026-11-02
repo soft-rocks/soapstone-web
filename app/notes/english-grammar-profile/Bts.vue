@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="asked + wh 詞 + 子句，轉述 wh 問句">
+    <NoteSlide title="asked 加 wh 詞和子句，轉述 wh 問句">
       <NoteWords
         :size="30"
         :parts="[
@@ -139,7 +139,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">那位客人想知道多少錢。</p>
     </NoteSlide>
 
-    <NoteSlide title="時態不後移：引述動詞是現在式，或問的事還成立">
+    <NoteSlide title="引述動詞是現在式或問的事還成立時，時態不後移">
       <div class="rows is-labeled">
         <div>
           <span class="term">現在式</span>
@@ -213,7 +213,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">「什麼時候會在電視上播？」我問。</p>
     </NoteSlide>
 
-    <NoteSlide title="wh 詞加子句是問題，to + 原形動詞是請求">
+    <NoteSlide title="wh 詞加子句是問題，不定詞是請求">
       <div class="rows is-labeled">
         <div>
           <span class="term">問題</span>

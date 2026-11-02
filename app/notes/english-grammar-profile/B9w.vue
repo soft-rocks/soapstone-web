@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="22"
         :parts="[
           { t: 'We', role: '主詞' },
-          { t: 'could', role: '建議', kind: 'key', ring: true },
+          { t: 'could', role: '情態動詞', kind: 'key', ring: true },
           { t: 'meet', role: '原形動詞', kind: 'key' },
           { t: 'in the nice cafe next to your house', role: '地點', kind: 'dim' },
           { t: 'and have', role: 'and + 原形動詞', kind: 'key' },
@@ -65,7 +65,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'Could', kind: 'key', ring: true },
           { t: 'it', role: '主詞' },
-          { t: 'be', role: 'be', kind: 'key' },
+          { t: 'be', role: '原形動詞', kind: 'key' },
           { t: 'at 5.30 pm?', role: '時間' },
         ]"
       />
@@ -76,8 +76,8 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="24"
         :parts="[
-          { t: 'Maybe', role: 'Maybe 或 Perhaps', kind: 'key', ring: true, alts: ['Perhaps'] },
-          { t: 'we could ask', role: '主詞 + could + 原形動詞' },
+          { t: 'Maybe', role: '副詞', kind: 'key', ring: true, alts: ['Perhaps'] },
+          { t: 'we could ask', role: '主詞 + 情態動詞 + 動詞' },
           { t: 'Lisa to join us.', kind: 'dim' },
         ]"
       />
@@ -135,7 +135,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="28"
         :parts="[
-          { t: 'Shall we', role: '問對方要不要一起做', kind: 'key', ring: true },
+          { t: 'Shall we', role: '情態動詞 + 主詞', kind: 'key', ring: true },
           { t: 'meet at seven?', kind: 'dim' },
         ]"
       />
@@ -147,7 +147,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="24"
         :parts="[
           { t: 'My grandfather', kind: 'dim' },
-          { t: 'could speak', role: '過去的能力', kind: 'key', ring: true },
+          { t: 'could speak', role: '情態動詞 + 動詞', kind: 'key', ring: true },
           { t: 'three languages.', kind: 'dim' },
         ]"
       />

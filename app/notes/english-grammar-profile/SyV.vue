@@ -12,11 +12,11 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="I dare say + (that) + 子句">
+    <NoteSlide title="I dare say + (that) + 子句" mark="I dare say">
       <div class="rows is-labeled">
         <div>
           <span class="term">I dare say</span>
-          <span>我想、大概。比較正式，也有點老派。</span>
+          <span>我想、大概。比較正式，也比較舊式。</span>
         </div>
         <div>
           <span class="term">that</span>
@@ -28,14 +28,14 @@ defineProps<{ note: (typeof notes)[number] }>();
         </div>
       </div>
     </NoteSlide>
-    <NoteSlide title="放在句尾或句中">
+    <NoteSlide title="放在句尾或句中" mark="I dare say">
       <div class="rows is-labeled">
         <div>
           <span class="term">句尾</span>
           <span
-            ><NoteMark sentence="You're tired after the trip, I dare say." :marks="[]" /><span
+            ><NoteMark sentence="It'll rain later, I dare say." :marks="['I dare say']" /><span
               class="translation"
-              >你旅行後大概累了吧。</span
+              >晚一點大概會下雨吧。</span
             ></span
           >
         </div>
@@ -43,9 +43,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">句中</span>
           <span
             ><NoteMark
-              sentence="The canteen, which I dare say needs improvement, is very busy at lunch."
-              :marks="[]"
-            /><span class="translation">餐廳中午很擠，我想它需要改善。</span></span
+              sentence="The museum, which I dare say few tourists know about, is free on Sundays."
+              :marks="['I dare say']"
+            /><span class="translation">那間博物館星期天免費，我想知道它的觀光客不多。</span></span
           >
         </div>
       </div>
@@ -65,7 +65,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">I dare say 也常用來先承認對方的話，再提出不同的看法。</p>
     </NoteSlide>
     <NoteSlide title="主詞是 I，dare 不加 -s" mark="dare">
-      <NoteFix wrong="I dares say it will rain." right="I dare say it will rain." :fix="['dare']" />
+      <NoteFix
+        wrong="I dares say the trains will be full today."
+        right="I dare say the trains will be full today."
+        :fix="['dare']"
+      />
     </NoteSlide>
     <NoteSlide title="dare 後面接原形動詞 say" mark="dare">
       <NoteFix

@@ -14,6 +14,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteDeck :sentence="note.title">
     <NoteSlide
       title="主詞 + am / is / are / was / were + allowed / supposed / able + to + 原形動詞"
+      mark="allowed to"
     >
       <div class="rows is-labeled">
         <div>
@@ -35,28 +36,28 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">be allowed to</span>
           <span
-            ><NoteMark sentence="Are you allowed to go out in your break?" :marks="[]" /><span
-              class="translation"
-              >你休息時可以出去嗎？</span
-            ></span
+            ><NoteMark
+              sentence="Are you allowed to wear jeans at work?"
+              :marks="['allowed to']"
+            /><span class="translation">你上班可以穿牛仔褲嗎？</span></span
           >
         </div>
         <div>
           <span class="term">be supposed to</span>
           <span
-            ><NoteMark sentence="The film is supposed to start at seven." :marks="[]" /><span
-              class="translation"
-              >電影應該七點開始。</span
-            ></span
+            ><NoteMark
+              sentence="The meeting is supposed to finish at four."
+              :marks="['supposed to']"
+            /><span class="translation">會議應該四點結束。</span></span
           >
         </div>
         <div>
           <span class="term">be able to</span>
           <span
-            ><NoteMark sentence="We were able to choose the songs." :marks="[]" /><span
-              class="translation"
-              >我們可以自己選歌。</span
-            ></span
+            ><NoteMark
+              sentence="We were able to watch the fireworks from the roof."
+              :marks="['able to']"
+            /><span class="translation">我們從屋頂看到了煙火。</span></span
           >
         </div>
       </div>
@@ -67,9 +68,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="I was supposed to meet Laura, but she didn't come."
-              :marks="['was']"
-            /><span class="translation">我本來要跟 Laura 見面，可是她沒來。</span></span
+              sentence="We were supposed to fly home on Sunday, but the flight was cancelled."
+              :marks="['were supposed to']"
+            /><span class="translation">我們本來星期天要搭飛機回家，可是航班取消了。</span></span
           >
         </div>
       </div>
@@ -84,8 +85,8 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
     <NoteSlide title="這個片語是 be supposed to，supposed 要有 -d">
       <NoteFix
-        wrong="We are suppose to be there at nine."
-        right="We are supposed to be there at nine."
+        wrong="You are suppose to sign the form in pen."
+        right="You are supposed to sign the form in pen."
         :fix="['supposed']"
       />
     </NoteSlide>

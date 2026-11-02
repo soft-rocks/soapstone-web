@@ -12,7 +12,10 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + be + (much) more likely + to + 原形動詞 (+ than ...)">
+    <NoteSlide
+      title="主詞 + be + (much) more likely + to + 原形動詞 (+ than ...)"
+      mark="more likely to"
+    >
       <div class="rows is-labeled">
         <div>
           <span class="term">more likely</span>
@@ -24,7 +27,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         </div>
         <div>
           <span class="term">much</span>
-          <span>加強比較，「可能得多」。</span>
+          <span>加強比較，意思是可能得多。</span>
         </div>
         <div>
           <span class="term">than ...</span>
@@ -38,9 +41,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="Young drivers are much more likely to have accidents."
-              :marks="[]"
-            /><span class="translation">年輕駕駛發生車禍的可能性高得多。</span></span
+              sentence="Teenagers are much more likely to use their phones in bed."
+              :marks="['much more likely']"
+            /><span class="translation">青少年在床上用手機的可能性高得多。</span></span
           >
         </div>
       </div>
@@ -51,9 +54,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="They are more likely to have better jobs and much less likely to cause problems."
-              :marks="[]"
-            /><span class="translation">他們比較可能找到好工作，也比較不會造成問題。</span></span
+              sentence="Cheap shoes are more likely to hurt your feet and less likely to last."
+              :marks="['more likely', 'less likely']"
+            /><span class="translation">便宜的鞋子比較容易讓腳痛，也比較不耐穿。</span></span
           >
         </div>
       </div>

@@ -22,6 +22,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'your swimming costume.', kind: 'dim' },
         ]"
       />
+      <p class="translation">你必須帶你的泳衣。</p>
     </NoteSlide>
     <NoteSlide title="have to、have got to、原形動詞">
       <div class="rows is-labeled">
@@ -36,6 +37,28 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">原形動詞</span>
           <span>必須做的事。</span>
+        </div>
+      </div>
+    </NoteSlide>
+    <NoteSlide title="have to 的義務來自外面，must 常是自己覺得" mark="have to">
+      <div class="rows is-labeled">
+        <div>
+          <span class="term">have to</span>
+          <span
+            ><NoteMark sentence="I have to wear a uniform at work." :marks="['have to']" /><span
+              class="translation"
+              >我上班必須穿制服。</span
+            ></span
+          >
+        </div>
+        <div>
+          <span class="term">must</span>
+          <span
+            ><NoteMark sentence="I must call my grandma more often." :marks="['must']" /><span
+              class="translation"
+              >我必須多打電話給奶奶。</span
+            ></span
+          >
         </div>
       </div>
     </NoteSlide>
@@ -69,8 +92,8 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
     <NoteSlide title="過去的義務用 had to">
       <NoteFix
-        wrong="Yesterday I have to go home early."
-        right="Yesterday I had to go home early."
+        wrong="Last week I have to stay late at the office every day."
+        right="Last week I had to stay late at the office every day."
         :fix="['had']"
       />
     </NoteSlide>

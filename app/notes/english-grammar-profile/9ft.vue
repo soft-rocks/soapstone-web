@@ -12,7 +12,10 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + am / is / are + (almost) bound to + 原形動詞" mark="bound">
+    <NoteSlide
+      title="主詞 + am / is / are / was / were + (almost) bound to + 原形動詞"
+      mark="are bound to"
+    >
       <div class="rows is-labeled">
         <div>
           <span class="term">be bound to</span>
@@ -20,7 +23,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         </div>
         <div>
           <span class="term">almost</span>
-          <span>放在 bound 前面，表示「幾乎一定」。</span>
+          <span>放在 bound 前面，意思是幾乎一定。</span>
         </div>
         <div>
           <span class="term">原形動詞</span>
@@ -33,10 +36,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">例句</span>
           <span
-            ><NoteMark sentence="It is bound to be popular with young people." :marks="[]" /><span
-              class="translation"
-              >它一定會受年輕人歡迎。</span
-            ></span
+            ><NoteMark
+              sentence="Her new book is bound to be a bestseller."
+              :marks="['bound to']"
+            /><span class="translation">她的新書一定會成為暢銷書。</span></span
           >
         </div>
       </div>
@@ -47,10 +50,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">例句</span>
           <span
-            ><NoteMark sentence="If you don't study, you're bound to fail." :marks="[]" /><span
-              class="translation"
-              >如果你不讀書，一定會不及格。</span
-            ></span
+            ><NoteMark
+              sentence="If you don't study, you're bound to fail."
+              :marks="['bound to']"
+            /><span class="translation">如果你不讀書，一定會不及格。</span></span
           >
         </div>
       </div>
@@ -58,8 +61,8 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
     <NoteSlide title="這個片語是 be bound to">
       <NoteFix
-        wrong="Problems are bind to arise."
-        right="Problems are bound to arise."
+        wrong="The children are bind to get bored."
+        right="The children are bound to get bored."
         :fix="['bound']"
       />
     </NoteSlide>

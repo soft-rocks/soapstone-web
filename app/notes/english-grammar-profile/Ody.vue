@@ -71,18 +71,26 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="those 後面的名詞用複數" mark="instruments">
       <NoteFix
-        wrong="I love those instrument."
-        right="I love those instruments."
-        fix="instruments"
+        wrong="Can you pass me those spoon on the table?"
+        right="Can you pass me those spoons on the table?"
+        fix="spoons"
       />
     </NoteSlide>
 
     <NoteSlide title="動詞用複數" mark="those">
-      <NoteFix wrong="Those boots was too small." right="Those boots were too small." fix="were" />
+      <NoteFix
+        wrong="Those boots was too small for my son."
+        right="Those boots were too small for my son."
+        fix="were"
+      />
     </NoteSlide>
 
     <NoteSlide title="those 不再加 s" mark="those">
-      <NoteFix wrong="I want thoses books." right="I want those books." fix="those" />
+      <NoteFix
+        wrong="I want thoses books on the top shelf."
+        right="I want those books on the top shelf."
+        fix="those"
+      />
     </NoteSlide>
   </NoteDeck>
 

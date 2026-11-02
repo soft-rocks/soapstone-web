@@ -30,18 +30,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">many a</span>
           <span
             ><NoteMark
-              sentence="Many a student has failed this test."
+              sentence="Many a student has failed it."
               :marks="['Many a student has']"
-            /><span class="translation">很多學生都沒通過這個考試。</span></span
+            /><span class="translation">很多學生都沒通過。</span></span
           >
         </div>
         <div>
           <span class="term">many</span>
           <span
             ><NoteMark
-              sentence="Many students have failed this test."
+              sentence="Many students have failed it."
               :marks="['Many students have']"
-            /><span class="translation">有很多學生沒通過這個考試。</span></span
+            /><span class="translation">有很多學生沒通過。</span></span
           >
         </div>
       </div>
@@ -62,9 +62,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">many an hour</span>
           <span
             ><NoteMark
-              sentence="I spent many an hour in that library."
+              sentence="The old library was my favourite place. I spent many an hour there when I was a student."
               :marks="['many an hour']"
-            /><span class="translation">我在那間圖書館待過很多個小時。</span></span
+            /><span class="translation">那間舊圖書館是我最喜歡的地方。我當學生的時候，在那裡待過很多個小時。</span></span
           >
         </div>
       </div>
@@ -72,9 +72,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="名詞用單數" mark="mountain">
       <NoteFix
-        wrong="We have climbed many a mountains."
-        right="We have climbed many a mountain."
-        fix="mountain"
+        wrong="As a pilot, she has visited many a cities."
+        right="As a pilot, she has visited many a city."
+        fix="city."
       />
     </NoteSlide>
 

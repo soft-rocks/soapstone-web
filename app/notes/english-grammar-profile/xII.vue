@@ -62,18 +62,18 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">一起擁有一個</span>
           <span
-            ><NoteMark sentence="They sold their house." :marks="['their house']" /><span
-              class="translation"
-              >他們把房子賣了。</span
-            ></span
+            ><NoteMark
+              sentence="My parents have a small car. Their car is twenty years old."
+              :marks="['Their car']"
+            /><span class="translation">我爸媽有一台小車。他們的車已經二十年了。</span></span
           >
         </div>
         <div>
           <span class="term">每個人各有一個</span>
           <span
-            ><NoteMark sentence="They raised their hands." :marks="['their hands']" /><span
+            ><NoteMark sentence="The students raised their hands." :marks="['their hands']" /><span
               class="translation"
-              >他們舉起手。</span
+              >學生們舉起手。</span
             ></span
           >
         </div>
@@ -82,8 +82,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="表示所有用 their" mark="their">
       <NoteFix
-        wrong="The children are playing in there garden."
-        right="The children are playing in their garden."
+        wrong="My cousins keep chickens in there back yard."
+        right="My cousins keep chickens in their back yard."
         fix="their"
       />
     </NoteSlide>

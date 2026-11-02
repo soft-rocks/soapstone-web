@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + won't + 原形動詞">
+    <NoteSlide title="won't 後面接原形動詞，說以後不會發生的事" mark="won't">
       <NoteWords
         :size="24"
         :parts="[
@@ -23,55 +23,60 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'anything apart from some pencils and your art book.', kind: 'dim' },
         ]"
       />
+      <p class="translation">別擔心，你除了幾支鉛筆和你的美術本，什麼都不需要。</p>
     </NoteSlide>
-    <NoteSlide title="won't、will not、原形動詞">
+    <NoteSlide title="won't 說話時常用，will not 比較正式" mark="won't">
       <div class="rows is-labeled">
         <div>
           <span class="term">won't</span>
-          <span>will not 的縮寫。口語常用。</span>
+          <span
+            ><NoteMark
+              sentence="Don't worry about the dog. He won't bite you."
+              :marks="['won\'t']"
+            /><span class="translation">別擔心那隻狗。牠不會咬你。</span></span
+          >
         </div>
         <div>
           <span class="term">will not</span>
-          <span>比較正式，或要強調的時候用。</span>
-        </div>
-        <div>
-          <span class="term">原形動詞</span>
-          <span>不會發生的事。</span>
+          <span
+            ><NoteMark
+              sentence="The library will not lend books to people without a card."
+              :marks="['will not']"
+            /><span class="translation">圖書館不會把書借給沒有借書證的人。</span></span
+          >
         </div>
       </div>
     </NoteSlide>
-    <NoteSlide title="讓對方放心">
+    <NoteSlide title="Don't worry 加 won't 讓對方放心" mark="won't">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
-            ><NoteMark sentence="Don't worry, it won't take long." :marks="[]" /><span
-              class="translation"
-              >別擔心，不會花很久。</span
-            ></span
+            ><NoteMark
+              sentence="Don't worry, the bus ride won't take long."
+              :marks="['Don\'t worry,', 'won\'t']"
+            /><span class="translation">別擔心，坐公車不會花很久。</span></span
           >
         </div>
       </div>
-      <p class="remark">Don't worry, … won't … 常用來讓對方放心。</p>
     </NoteSlide>
-    <NoteSlide title="I hope it will not">
+    <NoteSlide title="I hope 加 won't 說希望不會發生的事" mark="won't">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
             ><NoteMark
               sentence="I hope it won't rain tomorrow."
-              :marks="['I hope it won\'t']"
+              :marks="['I hope', 'won\'t']"
             /><span class="translation">我希望明天不會下雨。</span></span
           >
         </div>
       </div>
-      <p class="remark">I hope it will not 或 I hope it won't 說希望某件事不會發生。</p>
     </NoteSlide>
     <NoteSlide title="will 的否定是 will not 或 won't" mark="won't">
       <NoteFix
-        wrong="You don't will need a coat."
-        right="You won't need a coat."
+        wrong="You don't will need your winter boots in Spain."
+        right="You won't need your winter boots in Spain."
         :fix="['won\'t']"
       />
     </NoteSlide>
@@ -79,7 +84,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFix wrong="It willn't be cold." right="It won't be cold." :fix="['won\'t']" />
     </NoteSlide>
     <NoteSlide title="won't 後面直接接原形動詞" mark="won't">
-      <NoteFix wrong="We won't to be late." right="We won't be late." :fix="['be']" />
+      <NoteFix
+        wrong="We won't to be late for the wedding."
+        right="We won't be late for the wedding."
+        :fix="['be']"
+      />
     </NoteSlide>
   </NoteDeck>
 

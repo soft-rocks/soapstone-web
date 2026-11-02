@@ -30,19 +30,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">so many</span>
           <span
-            ><NoteMark sentence="We visited so many places." :marks="['so many']" /><span
-              class="translation"
-              >我們去了好多地方。</span
-            ></span
+            ><NoteMark
+              sentence="We visited so many places in Rome, mostly monuments."
+              :marks="['so many']"
+            /><span class="translation">我們在羅馬去了好多地方，大部分是古蹟。</span></span
           >
         </div>
         <div>
           <span class="term">too many</span>
           <span
-            ><NoteMark sentence="I bought too many things." :marks="['too many']" /><span
-              class="translation"
-              >我買了太多東西。</span
-            ></span
+            ><NoteMark
+              sentence="There are too many cars in the city centre."
+              :marks="['too many']"
+            /><span class="translation">市中心的車太多了。</span></span
           >
         </div>
       </div>
@@ -81,17 +81,17 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="many 後面接複數名詞" mark="things">
       <NoteFix
-        wrong="There are too many car in the city centre."
-        right="There are too many cars in the city centre."
-        fix="cars"
+        wrong="We can't park here. There are too many van in the street."
+        right="We can't park here. There are too many vans in the street."
+        fix="vans"
       />
     </NoteSlide>
 
     <NoteSlide title="放在名詞前面" mark="too many things">
       <NoteFix
-        wrong="I bought things too many."
-        right="I bought too many things."
-        fix="too many things"
+        wrong="My suitcase is full because I packed clothes too many."
+        right="My suitcase is full because I packed too many clothes."
+        fix="too many clothes."
       />
     </NoteSlide>
   </NoteDeck>

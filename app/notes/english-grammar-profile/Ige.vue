@@ -31,10 +31,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">some</span>
           <span
-            ><NoteMark sentence="I think we should bring some water." :marks="['some']" /><span
-              class="translation"
-              >我覺得我們應該帶點水。</span
-            ></span
+            ><NoteMark
+              sentence="Could you get some bananas at the market?"
+              :marks="['some']"
+            /><span class="translation">你可以去市場買些香蕉嗎？</span></span
           >
         </div>
         <div>
@@ -63,18 +63,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">more</span>
           <span
             ><NoteMark
-              sentence="If you want more details, call this number."
+              sentence="If you want more details about the course, you can call this number."
               :marks="['more']"
-            /><span class="translation">想知道更多細節，請打這個號碼。</span></span
+            /><span class="translation">想知道這門課更多的細節，可以打這個號碼。</span></span
           >
         </div>
         <div>
           <span class="term">lots of</span>
           <span
-            ><NoteMark sentence="We had lots of fun." :marks="['lots of']" /><span
-              class="translation"
-              >我們玩得很開心。</span
-            ></span
+            ><NoteMark
+              sentence="We danced, played games and had lots of fun."
+              :marks="['lots of']"
+            /><span class="translation">我們跳舞、玩遊戲，玩得很開心。</span></span
           >
         </div>
       </div>
@@ -94,8 +94,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="lots 後面要加 of" mark="some">
       <NoteFix
-        wrong="We had lots fun at the party."
-        right="We had lots of fun at the party."
+        wrong="There are lots tourists in the old town."
+        right="There are lots of tourists in the old town."
         fix="lots of"
       />
     </NoteSlide>

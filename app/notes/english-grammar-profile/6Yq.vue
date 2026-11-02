@@ -73,8 +73,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="所有格要有撇號" mark="one's">
       <NoteFix
-        wrong="Tourism can affect ones life."
-        right="Tourism can affect one's life."
+        wrong="Losing a job can affect ones confidence."
+        right="Losing a job can affect one's confidence."
         fix="one's"
       />
     </NoteSlide>

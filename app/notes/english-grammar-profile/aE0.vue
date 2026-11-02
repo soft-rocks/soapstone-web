@@ -22,6 +22,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'again once you restart them.', kind: 'dim' },
         ]"
       />
+      <p class="translation">你們重新開機以後，電腦系統應該就會恢復正常運作。</p>
     </NoteSlide>
     <NoteSlide title="should be + -ing、-ing" mark="working">
       <div class="rows is-labeled">
@@ -41,9 +42,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="Sales should be improving by the summer."
+              sentence="The new shop opened in March. Sales should be improving by the summer."
               :marks="['should be improving']"
-            /><span class="translation">到夏天銷售額應該會好轉。</span></span
+            /><span class="translation">新店三月開幕。到夏天銷售額應該會好轉。</span></span
           >
         </div>
       </div>
@@ -55,9 +56,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="The driver should be waiting outside the airport."
+              sentence="Your flight lands at seven. The driver should be waiting outside the airport."
               :marks="['should be waiting']"
-            /><span class="translation">司機應該在機場外面等。</span></span
+            /><span class="translation">你的班機七點降落。司機應該在機場外面等。</span></span
           >
         </div>
       </div>
@@ -65,22 +66,22 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
     <NoteSlide title="should be 後面接 -ing" mark="should be">
       <NoteFix
-        wrong="The system should be work again soon."
-        right="The system should be working again soon."
+        wrong="The engineer is here. The system should be work again soon."
+        right="The engineer is here. The system should be working again soon."
         :fix="['working']"
       />
     </NoteSlide>
     <NoteSlide title="should 和 -ing 中間要有 be" mark="should">
       <NoteFix
-        wrong="The situation should improving."
-        right="The situation should be improving."
+        wrong="The new manager started last month. The situation should improving."
+        right="The new manager started last month. The situation should be improving."
         :fix="['be']"
       />
     </NoteSlide>
     <NoteSlide title="should 後面接原形 be" mark="should">
       <NoteFix
-        wrong="They should are waiting for us."
-        right="They should be waiting for us."
+        wrong="Our friends' train arrived at five. They should are waiting for us."
+        right="Our friends' train arrived at five. They should be waiting for us."
         :fix="['be']"
       />
     </NoteSlide>

@@ -12,50 +12,33 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + will + 原形動詞">
+    <NoteSlide title="will 根據現在的情況預測未來" mark="will">
       <NoteWords
         :size="24"
         :parts="[
-          { t: 'My town is growing very fast.', kind: 'dim' },
-          { t: 'In twenty years\' time', kind: 'dim' },
+          { t: 'My town is growing very fast. In twenty years\' time', kind: 'dim' },
           { t: 'it', role: '主詞' },
           { t: 'will', kind: 'key', ring: true },
           { t: 'be', role: '原形動詞' },
           { t: 'bigger than it is now.', kind: 'dim' },
         ]"
       />
+      <p class="translation">我的家鄉發展得很快。二十年後它會比現在大。</p>
     </NoteSlide>
-    <NoteSlide title="will、I think、原形動詞">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">will</span>
-          <span>會。預測未來。</span>
-        </div>
-        <div>
-          <span class="term">I think</span>
-          <span>說這是自己的看法。</span>
-        </div>
-        <div>
-          <span class="term">原形動詞</span>
-          <span>預測的事。</span>
-        </div>
-      </div>
-    </NoteSlide>
-    <NoteSlide title="附加問句 won't + 代名詞？">
+    <NoteSlide title="預測後面加 won't 和代名詞，請對方同意" mark="will">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
             ><NoteMark
               sentence="Without exercise you'll soon put on weight, won't you?"
-              :marks="['won\'t']"
+              :marks="['won\'t you?']"
             /><span class="translation">不運動的話，你很快就會變胖，對吧？</span></span
           >
         </div>
       </div>
-      <p class="remark">預測後面常加 won't + 代名詞？，請對方同意。</p>
     </NoteSlide>
-    <NoteSlide title="it'll 和 you'll" mark="it will">
+    <NoteSlide title="口語常把 it will 縮成 it'll" mark="it">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
@@ -67,16 +50,15 @@ defineProps<{ note: (typeof notes)[number] }>();
           >
         </div>
       </div>
-      <p class="remark">口語常把 it will 縮寫成 it'll，you will 縮寫成 you'll。</p>
     </NoteSlide>
-    <NoteSlide title="前面是肯定句，附加問句用 won't">
+    <NoteSlide title="附加問句用 will 的否定 won't，不用 don't" mark="will">
       <NoteFix
-        wrong="You'll put on weight, will you?"
+        wrong="You'll put on weight, don't you?"
         right="You'll put on weight, won't you?"
         :fix="['won\'t']"
       />
     </NoteSlide>
-    <NoteSlide title="will 後面接原形動詞" mark="will">
+    <NoteSlide title="will 後面不用 -ing" mark="will">
       <NoteFix
         wrong="The town will growing bigger."
         right="The town will grow bigger."

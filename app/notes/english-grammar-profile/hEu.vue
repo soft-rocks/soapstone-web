@@ -23,6 +23,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'any problems.', kind: 'dim' },
         ]"
       />
+      <p class="translation">那是新公寓，所以應該不會有任何問題。</p>
     </NoteSlide>
     <NoteSlide title="shouldn't / should not、shouldn't、there shouldn't be">
       <div class="rows is-labeled">
@@ -45,19 +46,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">不應該</span>
           <span
-            ><NoteMark sentence="You shouldn't eat so much sugar." :marks="[]" /><span
-              class="translation"
-              >你不應該吃那麼多糖。</span
-            ></span
+            ><NoteMark
+              sentence="Your teeth hurt again. You shouldn't eat so much sugar."
+              :marks="[]"
+            /><span class="translation">你的牙齒又痛了。你不應該吃那麼多糖。</span></span
           >
         </div>
         <div>
           <span class="term">應該不會</span>
           <span
-            ><NoteMark sentence="The test shouldn't be difficult." :marks="[]" /><span
-              class="translation"
-              >考試應該不會很難。</span
-            ></span
+            ><NoteMark
+              sentence="We did all the practice papers. The test shouldn't be difficult."
+              :marks="[]"
+            /><span class="translation">我們做完了所有的模擬試題。考試應該不會很難。</span></span
           >
         </div>
       </div>
@@ -68,9 +69,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="I don't think you should go."
+              sentence="You've got a bad cold. I don't think you should go to the party tonight."
               :marks="['I don\'t think you should']"
-            /><span class="translation">我覺得你不應該去。</span></span
+            /><span class="translation">你重感冒了。我覺得你今晚不應該去派對。</span></span
           >
         </div>
       </div>
@@ -78,22 +79,22 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
     <NoteSlide title="should 的否定是 should not 或 shouldn't" mark="shouldn't">
       <NoteFix
-        wrong="You don't should miss it."
-        right="You shouldn't miss it."
+        wrong="The museum is free on Sundays. You don't should miss it."
+        right="The museum is free on Sundays. You shouldn't miss it."
         :fix="['shouldn\'t']"
       />
     </NoteSlide>
     <NoteSlide title="not 放在 should 後面">
       <NoteFix
-        wrong="You not should wear that."
-        right="You should not wear that."
+        wrong="The path is wet and rocky. You not should wear sandals on the mountain."
+        right="The path is wet and rocky. You should not wear sandals on the mountain."
         :fix="['should', 'wear']"
       />
     </NoteSlide>
     <NoteSlide title="shouldn't 後面直接接原形動詞" mark="shouldn't">
       <NoteFix
-        wrong="There shouldn't to be any problems."
-        right="There shouldn't be any problems."
+        wrong="We've checked the car. There shouldn't to be any problems on the trip."
+        right="We've checked the car. There shouldn't be any problems on the trip."
         :fix="['be']"
       />
     </NoteSlide>

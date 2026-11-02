@@ -42,9 +42,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">How many 問句</span>
           <span
             ><NoteMark
-              sentence="How many channels are there in Britain?"
+              sentence="How many channels are there on British TV?"
               :marks="['How many channels']"
-            /><span class="translation">英國有幾個電視頻道？</span></span
+            /><span class="translation">英國電視有幾個頻道？</span></span
           >
         </div>
       </div>
@@ -74,7 +74,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="不可數名詞用 much" mark="many">
-      <NoteFix wrong="How many money do you need?" right="How much money do you need?" fix="much" />
+      <NoteFix
+        wrong="How many bread should I buy for the picnic?"
+        right="How much bread should I buy for the picnic?"
+        fix="much"
+      />
     </NoteSlide>
 
     <NoteSlide title="many 後面接複數名詞" mark="friends">
@@ -87,8 +91,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="名詞後面先接助動詞，再接主詞" mark="Have you">
       <NoteFix
-        wrong="How many brothers you have?"
-        right="How many brothers do you have?"
+        wrong="How many hours you work every week?"
+        right="How many hours do you work every week?"
         fix="do you"
       />
     </NoteSlide>

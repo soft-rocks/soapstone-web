@@ -23,6 +23,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'my exams by June.', kind: 'dim' },
         ]"
       />
+      <p class="translation">我最適合去蘇格蘭的時間應該是七月，因為到六月我的考試還沒考完。</p>
     </NoteSlide>
     <NoteSlide title="will not / won't、have + 過去分詞" mark="will">
       <div class="rows is-labeled">

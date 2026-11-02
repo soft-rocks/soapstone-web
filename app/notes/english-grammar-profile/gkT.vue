@@ -22,6 +22,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'by train?', kind: 'dim' },
         ]"
       />
+      <p class="translation">你會搭火車來嗎？</p>
     </NoteSlide>
     <NoteSlide title="Will、主詞、原形動詞" mark="you">
       <div class="rows is-labeled">

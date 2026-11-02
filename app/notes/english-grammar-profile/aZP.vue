@@ -21,10 +21,10 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'of', role: 'of', kind: 'key' },
           { t: 'his', role: '所有格代名詞', kind: 'key' },
           { t: 'is shown', role: '動詞', kind: 'dim' },
-          { t: 'in every situation.', role: '地方', kind: 'dim' },
+          { t: 'in every situation in his life.', role: '地方', kind: 'dim' },
         ]"
       />
-      <p class="translation">他的這個特點在每個場合都看得出來。</p>
+      <p class="translation">他的這個特點表現在他生活中的每一個場合。</p>
     </NoteSlide>
 
     <NoteSlide title="強調的說法" mark="This characteristic of his">
@@ -33,7 +33,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">一般的說法</span>
           <span
             ><NoteMark
-              sentence="His patience is shown in every situation."
+              sentence="His patience shows in every situation."
               :marks="['His patience']"
             /><span class="translation">他的耐心表現在每一個場合。</span></span
           >
@@ -42,7 +42,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">強調的說法</span>
           <span
             ><NoteMark
-              sentence="This patience of his is shown in every situation."
+              sentence="This patience of his shows in every situation."
               :marks="['This patience of his']"
             /><span class="translation">他的這份耐心表現在每一個場合。</span></span
           >
@@ -91,9 +91,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="his 移到後面" mark="This characteristic of his">
       <NoteFix
-        wrong="This his talent is rare."
-        right="This talent of his is rare."
-        fix="talent of his"
+        wrong="This her smile makes everyone happy."
+        right="This smile of hers makes everyone happy."
+        fix="smile of hers"
       />
     </NoteSlide>
   </NoteDeck>

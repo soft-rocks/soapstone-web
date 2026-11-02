@@ -72,9 +72,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="擁有的人放在東西前面" mark="my sister's jacket">
       <NoteFix
-        wrong="It's the jacket my sister."
-        right="It's my sister's jacket."
-        fix="my sister's jacket"
+        wrong="Be careful, it's the guitar my father."
+        right="Be careful, it's my father's guitar."
+        fix="my father's guitar"
       />
     </NoteSlide>
 
@@ -87,7 +87,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="撇號放在名字後面再加 s" mark="sister's">
-      <NoteFix wrong="This is Toms' bike." right="This is Tom's bike." fix="Tom's" />
+      <NoteFix
+        wrong="Someone has taken Toms' lunch from the fridge."
+        right="Someone has taken Tom's lunch from the fridge."
+        fix="Tom's"
+      />
     </NoteSlide>
   </NoteDeck>
 

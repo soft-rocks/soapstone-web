@@ -84,14 +84,18 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="複數名詞前面用 those">
-      <NoteFix wrong="I like that shoes." right="I like those shoes." fix="those" />
+      <NoteFix
+        wrong="Look at that clouds over the hills."
+        right="Look at those clouds over the hills."
+        fix="those"
+      />
     </NoteSlide>
 
     <NoteSlide title="that 前面不加 the" mark="that film.">
       <NoteFix
-        wrong="I want to see the that film."
-        right="I want to see that film."
-        fix="see that"
+        wrong="We waited an hour for the that bus."
+        right="We waited an hour for that bus."
+        fix="for that"
       />
     </NoteSlide>
 

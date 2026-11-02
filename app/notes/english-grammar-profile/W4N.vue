@@ -30,10 +30,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">so</span>
           <span
-            ><NoteMark sentence="There are so few pandas left." :marks="['so few']" /><span
-              class="translation"
-              >剩下的熊貓這麼少。</span
-            ></span
+            ><NoteMark
+              sentence="There are so few pandas left that we must try to help them."
+              :marks="['so few']"
+            /><span class="translation">剩下的熊貓這麼少，我們一定要想辦法幫牠們。</span></span
           >
         </div>
         <div>
@@ -82,8 +82,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="可數名詞用 few" mark="little">
       <NoteFix
-        wrong="There are so little animals left."
-        right="There are so few animals left."
+        wrong="There are so little animals left in the forest."
+        right="There are so few animals left in the forest."
         fix="few"
       />
     </NoteSlide>
@@ -98,9 +98,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="few 後面接複數名詞" mark="little">
       <NoteFix
-        wrong="Very few student passed the test."
-        right="Very few students passed the test."
-        fix="students"
+        wrong="It's a quiet road. Very few lorry drive past our house."
+        right="It's a quiet road. Very few lorries drive past our house."
+        fix="lorries"
       />
     </NoteSlide>
   </NoteDeck>

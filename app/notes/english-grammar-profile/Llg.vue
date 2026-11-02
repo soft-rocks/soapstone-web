@@ -30,18 +30,18 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">單數</span>
           <span
-            ><NoteMark sentence="my sister's room" :marks="['sister\'s']" /><span
+            ><NoteMark sentence="My sister's room is upstairs." :marks="['sister\'s']" /><span
               class="translation"
-              >我姊姊的房間（一個姊姊）</span
+              >我姊姊的房間在樓上。</span
             ></span
           >
         </div>
         <div>
           <span class="term">複數</span>
           <span
-            ><NoteMark sentence="my sisters' room" :marks="['sisters\'']" /><span
+            ><NoteMark sentence="My sisters' room is upstairs." :marks="['sisters\'']" /><span
               class="translation"
-              >我姊姊們的房間（好幾個姊姊）</span
+              >我姊姊們的房間在樓上。</span
             ></span
           >
         </div>
@@ -70,10 +70,33 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
+    <NoteSlide title="時間的長度也只加撇號" mark="parents'">
+      <div class="rows is-labeled">
+        <div>
+          <span class="term">two days'</span>
+          <span
+            ><NoteMark
+              sentence="I've got two days' holiday next month."
+              :marks="['two days\'']"
+            /><span class="translation">我下個月有兩天假。</span></span
+          >
+        </div>
+        <div>
+          <span class="term">ten minutes'</span>
+          <span
+            ><NoteMark
+              sentence="The hotel is ten minutes' walk from the beach."
+              :marks="['ten minutes\'']"
+            /><span class="translation">那間旅館走路到海邊要十分鐘。</span></span
+          >
+        </div>
+      </div>
+    </NoteSlide>
+
     <NoteSlide title="字尾是 s，只加撇號" mark="parents'">
       <NoteFix
-        wrong="I stayed at my parents's house."
-        right="I stayed at my parents' house."
+        wrong="My parents's garden is full of apple trees."
+        right="My parents' garden is full of apple trees."
         fix="parents'"
       />
     </NoteSlide>
@@ -88,8 +111,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="children 加 's" mark="parents'">
       <NoteFix
-        wrong="The childrens' books are on the second floor."
-        right="The children's books are on the second floor."
+        wrong="The teacher hung the childrens' paintings in the hall."
+        right="The teacher hung the children's paintings in the hall."
         fix="children's"
       />
     </NoteSlide>

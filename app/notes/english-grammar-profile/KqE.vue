@@ -31,18 +31,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">前面提過</span>
           <span
             ><NoteMark
-              sentence="My bank account was empty, and so was my friend's."
+              sentence="After two weeks, my bank account was empty, and so was my friend's."
               :marks="['my friend\'s']"
-            /><span class="translation">我的銀行帳戶空了，我朋友的也是。</span></span
+            /><span class="translation">兩個星期後，我的銀行帳戶空了，我朋友的也是。</span></span
           >
         </div>
         <div>
           <span class="term">地方</span>
           <span
-            ><NoteMark sentence="I'm staying at my aunt's tonight." :marks="['my aunt\'s']" /><span
-              class="translation"
-              >我今晚住我阿姨家。</span
-            ></span
+            ><NoteMark
+              sentence="I spent the weekend at my uncle's."
+              :marks="['my uncle\'s']"
+            /><span class="translation">我週末待在叔叔家。</span></span
           >
         </div>
       </div>
@@ -63,9 +63,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">the hairdresser's</span>
           <span
             ><NoteMark
-              sentence="She went to the hairdresser's before the wedding."
+              sentence="The bride's hair looked beautiful. She went to the hairdresser's before the wedding."
               :marks="['the hairdresser\'s']"
-            /><span class="translation">她在婚禮前去了美髮店。</span></span
+            /><span class="translation">新娘的頭髮好漂亮。她在婚禮前去了美髮店。</span></span
           >
         </div>
       </div>
@@ -73,9 +73,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="名詞省略了，'s 還要留著" mark="father's">
       <NoteFix
-        wrong="My car is older than my brother."
-        right="My car is older than my brother's."
-        fix="brother's"
+        wrong="Our flat is bigger than my cousin."
+        right="Our flat is bigger than my cousin's."
+        fix="cousin's"
       />
     </NoteSlide>
 
@@ -89,8 +89,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="the dentist's 要有 the" mark="father's">
       <NoteFix
-        wrong="I have to go to dentist's tomorrow."
-        right="I have to go to the dentist's tomorrow."
+        wrong="My filling fell out, so I'm going to dentist's on Monday."
+        right="My filling fell out, so I'm going to the dentist's on Monday."
         fix="the dentist's"
       />
     </NoteSlide>

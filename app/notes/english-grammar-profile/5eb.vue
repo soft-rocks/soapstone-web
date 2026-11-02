@@ -41,18 +41,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">millions of</span>
           <span
             ><NoteMark
-              sentence="Millions of people watched the final on TV."
+              sentence="Millions of people watched the World Cup final on TV."
               :marks="['Millions of']"
-            /><span class="translation">有好幾百萬人在電視上看決賽。</span></span
+            /><span class="translation">有好幾百萬人在電視上看世界盃決賽。</span></span
           >
         </div>
         <div>
           <span class="term">a few of</span>
           <span
             ><NoteMark
-              sentence="They interviewed a few of the students."
-              :marks="['a few of the']"
-            /><span class="translation">他們訪問了其中幾個學生。</span></span
+              sentence="A few of my cousins came from Scotland."
+              :marks="['A few of my']"
+            /><span class="translation">我有幾個表親從蘇格蘭來。</span></span
           >
         </div>
       </div>
@@ -63,26 +63,32 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">確切的數字</span>
           <span
-            ><NoteMark sentence="The city has two million people." :marks="['two million']" /><span
-              class="translation"
-              >這座城市有兩百萬人。</span
-            ></span
+            ><NoteMark
+              sentence="Our capital is a very big city. It has two million people."
+              :marks="['two million']"
+            /><span class="translation">我們的首都是一座很大的城市。那裡有兩百萬人。</span></span
           >
         </div>
         <div>
           <span class="term">不確定的大數目</span>
           <span
             ><NoteMark
-              sentence="Millions of people visit Paris every year."
+              sentence="Paris is the most visited city in Europe. Millions of people go there every year."
               :marks="['Millions of']"
-            /><span class="translation">每年有好幾百萬人去巴黎。</span></span
+            /><span class="translation"
+              >巴黎是歐洲遊客最多的城市。每年有好幾百萬人去那裡。</span
+            ></span
           >
         </div>
       </div>
     </NoteSlide>
 
     <NoteSlide title="several 後面用 hours，不用 hour" mark="days">
-      <NoteFix wrong="I waited for several hour." right="I waited for several hours." fix="hours" />
+      <NoteFix
+        wrong="The doctor was late, so I waited for several hour."
+        right="The doctor was late, so I waited for several hours."
+        fix="hours"
+      />
     </NoteSlide>
 
     <NoteSlide title="millions 要加 of" mark="Several">
@@ -95,8 +101,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="a few of 後面要有限定詞" mark="Several">
       <NoteFix
-        wrong="A few of students were late."
-        right="A few of the students were late."
+        wrong="The bus was late, so a few of students missed the first lesson."
+        right="The bus was late, so a few of the students missed the first lesson."
         fix="the"
       />
     </NoteSlide>

@@ -31,9 +31,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">過去</span>
           <span
-            ><NoteMark sentence="I saw her this morning." :marks="['saw']" /><span
+            ><NoteMark sentence="I saw your sister this morning." :marks="['saw']" /><span
               class="translation"
-              >我今天早上看到她了。（現在是下午）</span
+              >我今天早上看到你妹妹了。</span
             ></span
           >
         </div>
@@ -66,7 +66,7 @@ defineProps<{ note: (typeof notes)[number] }>();
             ><NoteMark
               sentence="I've had three cups of coffee this morning."
               :marks="['I\'ve had']"
-            /><span class="translation">我今天早上已經喝了三杯咖啡。（還是早上）</span></span
+            /><span class="translation">我今天早上已經喝了三杯咖啡。</span></span
           >
         </div>
         <div>
@@ -83,22 +83,26 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="this 前面不加介系詞" mark="this morning">
       <NoteFix
-        wrong="I received your letter in this morning."
-        right="I received your letter this morning."
+        wrong="The plumber came to fix the sink in this morning."
+        right="The plumber came to fix the sink this morning."
         fix="this morning"
       />
     </NoteSlide>
 
     <NoteSlide title="今天早上說 this morning" mark="this morning">
       <NoteFix
-        wrong="I received it today morning."
-        right="I received it this morning."
+        wrong="My sister phoned me today morning."
+        right="My sister phoned me this morning."
         fix="this morning"
       />
     </NoteSlide>
 
     <NoteSlide title="this 接單數名詞" mark="this morning">
-      <NoteFix wrong="I saw him this mornings." right="I saw him this morning." fix="morning" />
+      <NoteFix
+        wrong="I saw him at the gym this mornings."
+        right="I saw him at the gym this morning."
+        fix="morning"
+      />
     </NoteSlide>
   </NoteDeck>
 

@@ -31,17 +31,17 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">a little</span>
           <span
             ><NoteMark
-              sentence="We could spend a little time together."
+              sentence="I went to the cinema with my friends so we could spend a little time together."
               :marks="['a little']"
-            /><span class="translation">我們可以一起待一下。</span></span
+            /><span class="translation">我跟朋友去看電影，這樣我們可以一起待一下。</span></span
           >
         </div>
         <div>
           <span class="term">a bit of</span>
           <span
-            ><NoteMark sentence="I had a bit of free time." :marks="['a bit of']" /><span
+            ><NoteMark sentence="I've got a bit of money left." :marks="['a bit of']" /><span
               class="translation"
-              >我有一點空閒時間。</span
+              >我還剩一點錢。</span
             ></span
           >
         </div>
@@ -49,9 +49,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">a little bit of</span>
           <span
             ><NoteMark
-              sentence="I just watch a little bit of TV after school."
+              sentence="I just watch a little bit of TV when I come home from school."
               :marks="['a little bit of']"
-            /><span class="translation">我放學後只看一點點電視。</span></span
+            /><span class="translation">我放學回家只看一點點電視。</span></span
           >
         </div>
       </div>

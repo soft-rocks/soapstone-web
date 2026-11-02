@@ -39,10 +39,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">too much</span>
           <span
-            ><NoteMark
-              sentence="My neighbors are making too much noise."
-              :marks="['too much']"
-            /><span class="translation">我的鄰居實在太吵了。</span></span
+            ><NoteMark sentence="Don't put too much salt in the soup." :marks="['too much']" /><span
+              class="translation"
+              >湯裡不要放太多鹽。</span
+            ></span
           >
         </div>
       </div>
@@ -73,20 +73,24 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="可數名詞用 too many" mark="too much">
       <NoteFix
-        wrong="There were too much people at the party."
-        right="There were too many people at the party."
+        wrong="We couldn't get on the train. There were too much passengers."
+        right="We couldn't get on the train. There were too many passengers."
         fix="too many"
       />
     </NoteSlide>
 
     <NoteSlide title="形容詞前面只用 too" mark="too much">
-      <NoteFix wrong="This bag is too much heavy." right="This bag is too heavy." fix="too" />
+      <NoteFix
+        wrong="I can't carry my suitcase upstairs. It's too much heavy."
+        right="I can't carry my suitcase upstairs. It's too heavy."
+        fix="too"
+      />
     </NoteSlide>
 
     <NoteSlide title="名詞前面不用 very much" mark="too much">
       <NoteFix
-        wrong="I have very much work today."
-        right="I have so much work today."
+        wrong="My mum is busy because she has very much cooking to do."
+        right="My mum is busy because she has so much cooking to do."
         fix="so much"
       />
     </NoteSlide>

@@ -29,37 +29,37 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">loads of</span>
           <span
-            ><NoteMark sentence="We've got loads of time." :marks="['loads of']" /><span
-              class="translation"
-              >我們有很多時間。</span
-            ></span
+            ><NoteMark
+              sentence="We've got loads of time before the train leaves."
+              :marks="['loads of']"
+            /><span class="translation">火車開之前我們還有很多時間。</span></span
           >
         </div>
         <div>
           <span class="term">tons of</span>
           <span
-            ><NoteMark sentence="I've got tons of homework." :marks="['tons of']" /><span
+            ><NoteMark sentence="My teacher gave us tons of homework." :marks="['tons of']" /><span
               class="translation"
-              >我有一大堆功課。</span
+              >老師出了一大堆功課。</span
             ></span
           >
         </div>
         <div>
           <span class="term">hundreds of</span>
           <span
-            ><NoteMark sentence="I've told you hundreds of times!" :marks="['hundreds of']" /><span
-              class="translation"
-              >我跟你說過幾百次了！</span
-            ></span
+            ><NoteMark
+              sentence="I've told you hundreds of times to take your shoes off!"
+              :marks="['hundreds of']"
+            /><span class="translation">我跟你說過幾百次要脫鞋了！</span></span
           >
         </div>
         <div>
           <span class="term">a million</span>
           <span
-            ><NoteMark sentence="I've got a million things to do." :marks="['a million']" /><span
-              class="translation"
-              >我有一百萬件事要做。</span
-            ></span
+            ><NoteMark
+              sentence="I've had a million things to do today."
+              :marks="['a million']"
+            /><span class="translation">我今天有一百萬件事要做。</span></span
           >
         </div>
       </div>
@@ -70,16 +70,16 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">可數名詞</span>
           <span
-            ><NoteMark sentence="There are loads of people here." :marks="['are', 'people']" /><span
-              class="translation"
-              >這裡有好多人。</span
-            ></span
+            ><NoteMark
+              sentence="There were loads of people I didn't know."
+              :marks="['were', 'people']"
+            /><span class="translation">有好多我不認識的人。</span></span
           >
         </div>
         <div>
           <span class="term">不可數名詞</span>
           <span
-            ><NoteMark sentence="There is loads of food left." :marks="['is', 'food']" /><span
+            ><NoteMark sentence="There's loads of food left." :marks="['There\'s', 'food']" /><span
               class="translation"
               >還剩很多食物。</span
             ></span
@@ -90,8 +90,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="loads 後面要加 of" mark="loads of">
       <NoteFix
-        wrong="I've got loads homework."
-        right="I've got loads of homework."
+        wrong="I can't come out. I've got loads homework."
+        right="I can't come out. I've got loads of homework."
         fix="loads of"
       />
     </NoteSlide>

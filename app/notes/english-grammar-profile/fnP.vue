@@ -53,18 +53,17 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">名詞</span>
           <span
-            ><NoteMark
-              sentence="She's a friend of my sister's."
-              :marks="['of my sister\'s']"
-            /><span class="translation">她是我姊姊的一個朋友。</span></span
+            ><NoteMark sentence="a friend of my sister's" :marks="['of my sister\'s']" /><span
+              class="translation"
+              >我姊姊的一個朋友</span
+            ></span
           >
         </div>
         <div>
           <span class="term">代名詞</span>
           <span
-            ><NoteMark sentence="He's a friend of mine." :marks="['of mine']" /><span
-              class="translation"
-              >他是我的一個朋友。</span
+            ><NoteMark sentence="a friend of mine" :marks="['of mine']" /><span class="translation"
+              >我的一個朋友</span
             ></span
           >
         </div>
@@ -72,21 +71,25 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="of 後面接 mine" mark="of">
-      <NoteFix wrong="He's a friend of me." right="He's a friend of mine." fix="mine" />
+      <NoteFix
+        wrong="The man in the blue shirt is a friend of me."
+        right="The man in the blue shirt is a friend of mine."
+        fix="mine"
+      />
     </NoteSlide>
 
     <NoteSlide title="名詞前面只放一個限定詞" mark="a friend">
       <NoteFix
-        wrong="She's my a cousin of Tom's."
-        right="She's a cousin of Tom's."
+        wrong="The girl at the door is my a cousin of Tom's."
+        right="The girl at the door is a cousin of Tom's."
         fix="a cousin"
       />
     </NoteSlide>
 
     <NoteSlide title="中間要加 of" mark="of">
       <NoteFix
-        wrong="He's a colleague my father's."
-        right="He's a colleague of my father's."
+        wrong="The man who fixed our roof is a colleague my father's."
+        right="The man who fixed our roof is a colleague of my father's."
         fix="of"
       />
     </NoteSlide>

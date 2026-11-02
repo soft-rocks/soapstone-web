@@ -20,9 +20,10 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'most', role: '數量限定詞', kind: 'key' },
           { t: 'people', role: '複數名詞', kind: 'key' },
           { t: 'watch', role: '動詞' },
+          { t: 'too much TV these days.', kind: 'dim' },
         ]"
       />
-      <p class="translation">我確信大多數人都看</p>
+      <p class="translation">我確信現在大多數人電視都看太多了。</p>
     </NoteSlide>
 
     <NoteSlide title="plenty of 接複數名詞和不可數名詞" mark="most people">
@@ -62,10 +63,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">enough</span>
           <span
-            ><NoteMark sentence="Have you got enough money for the bus?" :marks="['enough']" /><span
-              class="translation"
-              >你搭公車的錢夠嗎？</span
-            ></span
+            ><NoteMark
+              sentence="The bus fare is two pounds. Have you got enough money?"
+              :marks="['enough']"
+            /><span class="translation">公車票是兩英鎊。你的錢夠嗎？</span></span
           >
         </div>
         <div>
@@ -91,8 +92,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="most 直接接名詞" mark="most people">
       <NoteFix
-        wrong="Most of people watch too much TV."
-        right="Most people watch too much TV."
+        wrong="Most of people in my town have a car."
+        right="Most people in my town have a car."
         fix="Most people"
       />
     </NoteSlide>
@@ -106,7 +107,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="plenty 後面要加 of" mark="most">
-      <NoteFix wrong="We've got plenty time." right="We've got plenty of time." fix="plenty of" />
+      <NoteFix
+        wrong="There's no need to buy more. We've got plenty bread."
+        right="There's no need to buy more. We've got plenty of bread."
+        fix="plenty of"
+      />
     </NoteSlide>
   </NoteDeck>
 

@@ -72,10 +72,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">our</span>
           <span
-            ><NoteMark sentence="Our house has four rooms." :marks="['Our']" /><span
-              class="translation"
-              >我們家有四個房間。</span
-            ></span
+            ><NoteMark
+              sentence="Our house has four rooms, one bathroom and one toilet."
+              :marks="['Our']"
+            /><span class="translation">我們家有四個房間、一間浴室和一間廁所。</span></span
           >
         </div>
       </div>
@@ -86,11 +86,15 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="名詞前面用 my" mark="my">
-      <NoteFix wrong="I live with me family." right="I live with my family." fix="my" />
+      <NoteFix
+        wrong="On Sundays I have lunch with me family."
+        right="On Sundays I have lunch with my family."
+        fix="my"
+      />
     </NoteSlide>
 
     <NoteSlide title="my 放在名詞前面" mark="my">
-      <NoteFix wrong="This is bag my." right="This is my bag." fix="my bag" />
+      <NoteFix wrong="Excuse me, this is bag my." right="Excuse me, this is my bag." fix="my bag" />
     </NoteSlide>
   </NoteDeck>
 

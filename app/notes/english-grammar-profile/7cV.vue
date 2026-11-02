@@ -30,9 +30,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">an</span>
           <span
-            ><NoteMark sentence="We have an extra ticket." :marks="['an']" /><span
+            ><NoteMark sentence="I'm a bit hungry. I'll have an apple." :marks="['an']" /><span
               class="translation"
-              >我們多一張票。</span
+              >我有點餓。我要吃一顆蘋果。</span
             ></span
           >
         </div>
@@ -40,9 +40,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">one</span>
           <span
             ><NoteMark
-              sentence="I bought one blue T-shirt and two pink ones."
+              sentence="Yesterday I bought one blue T-shirt and two pink ones."
               :marks="['one']"
-            /><span class="translation">我買了一件藍色 T 恤和兩件粉紅色的。</span></span
+            /><span class="translation">我昨天買了一件藍色 T 恤和兩件粉紅色的。</span></span
           >
         </div>
       </div>
@@ -79,8 +79,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="母音前面用 an" mark="each">
-      <NoteFix wrong="We have a extra ticket." right="We have an extra ticket." fix="an" />
+    <NoteSlide title="母音前面用 an">
+      <NoteFix
+        wrong="We have a extra ticket for the show."
+        right="We have an extra ticket for the show."
+        fix="an"
+      />
     </NoteSlide>
 
     <NoteSlide title="two 以上接複數名詞" mark="one hour">

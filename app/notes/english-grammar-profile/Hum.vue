@@ -31,10 +31,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">all of my</span>
           <span
-            ><NoteMark sentence="All of my friends were there." :marks="['All of my']" /><span
-              class="translation"
-              >我的朋友全都在場。</span
-            ></span
+            ><NoteMark
+              sentence="All of my clothes are in the suitcase."
+              :marks="['All of my']"
+            /><span class="translation">我的衣服全都在行李箱裡。</span></span
           >
         </div>
         <div>
@@ -83,20 +83,24 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="接 my 要加 of" mark="of">
       <NoteFix
-        wrong="Some my friends were late."
-        right="Some of my friends were late."
+        wrong="The train was late, so some my friends missed the start."
+        right="The train was late, so some of my friends missed the start."
         fix="Some of"
       />
     </NoteSlide>
 
     <NoteSlide title="名詞前面用 my" mark="my">
-      <NoteFix wrong="Some of me friends came." right="Some of my friends came." fix="my" />
+      <NoteFix
+        wrong="Some of me friends came to the airport."
+        right="Some of my friends came to the airport."
+        fix="my"
+      />
     </NoteSlide>
 
     <NoteSlide title="可數名詞用複數" mark="friends">
       <NoteFix
-        wrong="Some of my friend live near me."
-        right="Some of my friends live near me."
+        wrong="Some of my friend live near the beach."
+        right="Some of my friends live near the beach."
         fix="friends"
       />
     </NoteSlide>

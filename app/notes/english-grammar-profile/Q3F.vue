@@ -85,7 +85,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="單數名詞前面用 this">
-      <NoteFix wrong="I like these hat." right="I like this hat." fix="this hat." />
+      <NoteFix
+        wrong="Can I borrow these umbrella for the walk home?"
+        right="Can I borrow this umbrella for the walk home?"
+        fix="this umbrella"
+      />
     </NoteSlide>
 
     <NoteSlide title="these 加名詞，動詞不加 -s">
@@ -97,14 +101,18 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="jeans 前面用 these" mark="these clothes">
-      <NoteFix wrong="This jeans are new." right="These jeans are new." fix="These jeans" />
+      <NoteFix
+        wrong="This trousers have a hole in the pocket."
+        right="These trousers have a hole in the pocket."
+        fix="These trousers"
+      />
     </NoteSlide>
 
     <NoteSlide title="不可數名詞前面用 this">
       <NoteFix
-        wrong="These furniture is old."
-        right="This furniture is old."
-        fix="This furniture"
+        wrong="These luggage belongs to the man in the blue coat."
+        right="This luggage belongs to the man in the blue coat."
+        fix="This luggage"
       />
     </NoteSlide>
   </NoteDeck>

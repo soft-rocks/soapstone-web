@@ -60,7 +60,7 @@ defineProps<{ note: (typeof notes)[number] }>();
             ><NoteMark
               sentence="For homework we have to write lots of things."
               :marks="['lots of']"
-            /><span class="translation">我們要寫很多東西。</span></span
+            /><span class="translation">我們的功課要寫很多東西。</span></span
           >
         </div>
       </div>

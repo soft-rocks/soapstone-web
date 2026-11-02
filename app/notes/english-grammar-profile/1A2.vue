@@ -54,9 +54,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">those days</span>
           <span
             ><NoteMark
-              sentence="In those days, we didn't have phones."
+              sentence="I was a student in the 1970s. In those days, we didn't have mobile phones."
               :marks="['those days']"
-            /><span class="translation">那個時候我們沒有手機。</span></span
+            /><span class="translation">我一九七〇年代是學生。那個時候我們沒有手機。</span></span
           >
         </div>
         <div>
@@ -73,8 +73,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="單數名詞用 that" mark="those">
       <NoteFix
-        wrong="Who is those man over there?"
-        right="Who is that man over there?"
+        wrong="Who is those man in the black hat?"
+        right="Who is that man in the black hat?"
         fix="that"
       />
     </NoteSlide>
@@ -88,7 +88,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="those 動詞用複數" mark="are">
-      <NoteFix wrong="Those flowers is beautiful." right="Those flowers are beautiful." fix="are" />
+      <NoteFix
+        wrong="Those trees by the river is very old."
+        right="Those trees by the river are very old."
+        fix="are"
+      />
     </NoteSlide>
   </NoteDeck>
 

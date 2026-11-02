@@ -48,17 +48,21 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">Not many</span>
           <span
-            ><NoteMark
-              sentence="Not many students came to the meeting."
-              :marks="['Not many']"
-            /><span class="translation">來開會的學生不多。</span></span
+            ><NoteMark sentence="Not many students passed." :marks="['Not many']" /><span
+              class="translation"
+              >通過的學生不多。</span
+            ></span
           >
         </div>
       </div>
     </NoteSlide>
 
     <NoteSlide title="不可數名詞用 much" mark="many">
-      <NoteFix wrong="We haven't got many time." right="We haven't got much time." fix="much" />
+      <NoteFix
+        wrong="Hurry up. We haven't got many time."
+        right="Hurry up. We haven't got much time."
+        fix="much"
+      />
     </NoteSlide>
 
     <NoteSlide title="many 後面接複數名詞" mark="tickets">
@@ -71,8 +75,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="複數用 aren't" mark="aren't">
       <NoteFix
-        wrong="There isn't many people here."
-        right="There aren't many people here."
+        wrong="There isn't many people at the pool today."
+        right="There aren't many people at the pool today."
         fix="aren't"
       />
     </NoteSlide>

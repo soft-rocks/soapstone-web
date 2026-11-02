@@ -31,10 +31,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">How much 問句</span>
           <span
-            ><NoteMark
-              sentence="How much television do you watch?"
-              :marks="['How much television']"
-            /><span class="translation">你平常電視看多少？</span></span
+            ><NoteMark sentence="How much money do you need?" :marks="['How much money']" /><span
+              class="translation"
+              >你需要多少錢？</span
+            ></span
           >
         </div>
         <div>
@@ -74,22 +74,26 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="可數名詞用 many" mark="much">
       <NoteFix
-        wrong="How much books have you got?"
-        right="How many books have you got?"
+        wrong="How much eggs do we need for the omelette?"
+        right="How many eggs do we need for the omelette?"
         fix="many"
       />
     </NoteSlide>
 
     <NoteSlide title="不可數名詞不加 -s" mark="television">
       <NoteFix
-        wrong="How much homeworks do you have?"
-        right="How much homework do you have?"
-        fix="homework"
+        wrong="How much furnitures did they put in the new office?"
+        right="How much furniture did they put in the new office?"
+        fix="furniture"
       />
     </NoteSlide>
 
     <NoteSlide title="名詞後面先接助動詞，再接主詞" mark="do you">
-      <NoteFix wrong="How much money you need?" right="How much money do you need?" fix="do you" />
+      <NoteFix
+        wrong="How much petrol you put in the car this morning?"
+        right="How much petrol did you put in the car this morning?"
+        fix="did you"
+      />
     </NoteSlide>
   </NoteDeck>
 

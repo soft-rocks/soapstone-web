@@ -39,19 +39,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">身邊的</span>
           <span
-            ><NoteMark sentence="Are these seats free?" :marks="['these seats']" /><span
+            ><NoteMark sentence="Excuse me, are these seats free?" :marks="['these seats']" /><span
               class="translation"
-              >這幾個位子有人坐嗎？</span
+              >不好意思，這幾個位子有人坐嗎？</span
             ></span
           >
         </div>
         <div>
           <span class="term">寄給別人看的</span>
           <span
-            ><NoteMark sentence="I hope you like these pictures." :marks="['these pictures.']" /><span
-              class="translation"
-              >希望你喜歡這些圖。</span
-            ></span
+            ><NoteMark
+              sentence="I hope you like these pictures."
+              :marks="['these pictures.']"
+            /><span class="translation">希望你喜歡這些圖。</span></span
           >
         </div>
         <div>
@@ -88,18 +88,26 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="一把鑰匙用 this key" mark="these keys">
-      <NoteFix wrong="Is these key yours?" right="Is this key yours?" fix="this key" />
+      <NoteFix
+        wrong="Is these phone charger yours?"
+        right="Is this phone charger yours?"
+        fix="this phone"
+      />
     </NoteSlide>
 
     <NoteSlide title="these 加名詞，動詞用 are" mark="Are">
-      <NoteFix wrong="Is these keys yours?" right="Are these keys yours?" fix="Are" />
+      <NoteFix
+        wrong="Is these gloves yours? I found them on the bus."
+        right="Are these gloves yours? I found them on the bus."
+        fix="Are"
+      />
     </NoteSlide>
 
     <NoteSlide title="these 後面的名詞加 -s" mark="keys">
       <NoteFix
-        wrong="I'm sending you these photo."
-        right="I'm sending you these photos."
-        fix="photos."
+        wrong="I'm sending you these photo of the wedding."
+        right="I'm sending you these photos of the wedding."
+        fix="photos"
       />
     </NoteSlide>
   </NoteDeck>

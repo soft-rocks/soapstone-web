@@ -31,18 +31,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">his or her</span>
           <span
             ><NoteMark
-              sentence="Every student must bring his or her book."
+              sentence="Every student must bring his or her student card."
               :marks="['his or her']"
-            /><span class="translation">每個學生都要帶自己的書。（正式，比較長）</span></span
+            /><span class="translation">每個學生都要帶學生證。</span></span
           >
         </div>
         <div>
           <span class="term">their</span>
           <span
-            ><NoteMark sentence="Every student must bring their book." :marks="['their']" /><span
-              class="translation"
-              >每個學生都要帶自己的書。（常用）</span
-            ></span
+            ><NoteMark
+              sentence="Every student must bring their student card."
+              :marks="['their']"
+            /><span class="translation">每個學生都要帶學生證。</span></span
           >
         </div>
       </div>
@@ -54,9 +54,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">公司</span>
           <span
             ><NoteMark
-              sentence="IBM ordered copies which show their new product."
+              sentence="The bakery on the corner has changed their opening hours."
               :marks="['their']"
-            /><span class="translation">IBM 訂了一批介紹他們新產品的影本。</span></span
+            /><span class="translation">轉角那家麵包店改了他們的營業時間。</span></span
           >
         </div>
         <div>
@@ -73,8 +73,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="everyone 動詞用單數" mark="has">
       <NoteFix
-        wrong="Everyone have their own opinion."
-        right="Everyone has their own opinion."
+        wrong="Everyone in my class have their own laptop."
+        right="Everyone in my class has their own laptop."
         fix="has"
       />
     </NoteSlide>

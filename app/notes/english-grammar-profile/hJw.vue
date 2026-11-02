@@ -31,10 +31,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">否定的動詞 + much</span>
           <span
-            ><NoteMark sentence="I haven't got much time." :marks="['haven\'t got much']" /><span
-              class="translation"
-              >我沒什麼時間。</span
-            ></span
+            ><NoteMark
+              sentence="We haven't got much time before the train leaves."
+              :marks="['haven\'t got much']"
+            /><span class="translation">離火車開沒多少時間了。</span></span
           >
         </div>
         <div>
@@ -54,19 +54,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">much</span>
           <span
-            ><NoteMark sentence="We didn't have much money." :marks="['much']" /><span
-              class="translation"
-              >我們沒什麼錢。</span
-            ></span
+            ><NoteMark
+              sentence="We went to the market, but we didn't have much money."
+              :marks="['much']"
+            /><span class="translation">我們去了市集，可是我們沒什麼錢。</span></span
           >
         </div>
         <div>
           <span class="term">many</span>
           <span
-            ><NoteMark sentence="We didn't buy many things." :marks="['many']" /><span
-              class="translation"
-              >我們沒買很多東西。</span
-            ></span
+            ><NoteMark
+              sentence="Everything was very expensive, so we didn't buy many things."
+              :marks="['many']"
+            /><span class="translation">東西都很貴，所以我們沒買很多。</span></span
           >
         </div>
       </div>
@@ -74,8 +74,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="複數名詞用 many" mark="much">
       <NoteFix
-        wrong="I haven't got much friends here."
-        right="I haven't got many friends here."
+        wrong="I've just moved here, so I haven't got much friends."
+        right="I've just moved here, so I haven't got many friends."
         fix="many"
       />
     </NoteSlide>

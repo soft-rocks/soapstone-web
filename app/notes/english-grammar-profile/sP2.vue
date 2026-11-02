@@ -39,10 +39,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">outside</span>
           <span
-            ><NoteMark sentence="What's that noise outside?" :marks="['that noise outside?']" /><span
-              class="translation"
-              >外面那是什麼聲音？</span
-            ></span
+            ><NoteMark
+              sentence="What's that noise outside?"
+              :marks="['that noise outside?']"
+            /><span class="translation">外面那是什麼聲音？</span></span
           >
         </div>
       </div>
@@ -100,16 +100,16 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="複數名詞前面用 those" mark="that bird">
       <NoteFix
-        wrong="Look at that birds on the roof!"
-        right="Look at those birds on the roof!"
-        fix="those birds"
+        wrong="Who owns that horses in the field?"
+        right="Who owns those horses in the field?"
+        fix="those horses"
       />
     </NoteSlide>
 
     <NoteSlide title="look 後面接 at" mark="Look at">
       <NoteFix
-        wrong="Look that bird on the roof!"
-        right="Look at that bird on the roof!"
+        wrong="Look that rainbow over the lake!"
+        right="Look at that rainbow over the lake!"
         fix="Look at"
       />
     </NoteSlide>

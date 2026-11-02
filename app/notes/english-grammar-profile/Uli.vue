@@ -87,11 +87,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="sort of 接單數名詞" mark="sort of">
+    <NoteSlide title="so-called 後面接複數名詞" mark="that">
       <NoteFix
-        wrong="I don't like that sort of films."
-        right="I don't like that sort of film."
-        fix="film"
+        wrong="I don't trust those so-called expert on TV."
+        right="I don't trust those so-called experts on TV."
+        fix="experts"
       />
     </NoteSlide>
   </NoteDeck>

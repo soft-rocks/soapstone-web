@@ -12,59 +12,66 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="主詞 + 動詞 + as much / often + as + 主詞 + used to.">
+    <NoteSlide title="used to 後面省略前面說過的動詞" mark="to.">
       <NoteWords
         :size="24"
         :parts="[
-          { t: 'She', role: '主詞' },
-          { t: 'doesn\'t', role: '動詞' },
-          { t: 'travel', kind: 'dim' },
-          { t: 'as much', kind: 'key', ring: true },
-          { t: 'as', kind: 'key', ring: true },
-          { t: 'she', role: '主詞' },
-          { t: 'used to.', role: 'used to.' },
+          { t: 'She', role: '主詞', kind: 'dim' },
+          { t: 'doesn\'t travel', role: '動詞', kind: 'key' },
+          { t: 'as much as', kind: 'dim' },
+          { t: 'she', role: '主詞', kind: 'dim' },
+          { t: 'used to', role: 'used to', kind: 'key', ring: true },
+          { t: 'travel.', role: '省略的動詞', kind: 'gone' },
         ]"
       />
+      <p class="translation">她旅行沒有以前那麼多了。</p>
     </NoteSlide>
-    <NoteSlide title="used to、省略的動詞" mark="to.">
+    <NoteSlide title="比較級 + than 的句子也在 used to 結束" mark="to.">
       <div class="rows is-labeled">
         <div>
-          <span class="term">used to</span>
-          <span>句子在 to 結束，後面的動詞省略。</span>
-        </div>
-        <div>
-          <span class="term">省略的動詞</span>
-          <span>前面已經說過，聽的人知道是什麼。</span>
+          <span class="term">比較級 + than</span>
+          <span
+            ><NoteMark
+              sentence="He reads much faster than he used to."
+              :marks="['faster than', 'used to.']"
+            /><span class="translation">他讀得比以前快多了。</span></span
+          >
         </div>
       </div>
     </NoteSlide>
-    <NoteSlide title="to 要留下來" mark="to.">
+    <NoteSlide title="any more, but 後面也在 used to 結束" mark="to.">
       <div class="rows is-labeled">
         <div>
-          <span class="term">例句</span>
+          <span class="term">any more, but</span>
           <span
-            ><NoteMark sentence="I don't eat as much as I used to." :marks="['to.']" /><span
+            ><NoteMark
+              sentence="I don't smoke any more, but I used to."
+              :marks="['any more, but', 'used to.']"
+            /><span class="translation">我現在不抽菸了，可是我以前抽。</span></span
+          >
+        </div>
+      </div>
+    </NoteSlide>
+    <NoteSlide title="回答問題時，答句在 used to 結束" mark="to.">
+      <div class="rows is-labeled">
+        <div>
+          <span class="term">問句</span>
+          <span
+            ><NoteMark sentence="Do you play the piano?" :marks="[]" /><span class="translation"
+              >你彈鋼琴嗎？</span
+            ></span
+          >
+        </div>
+        <div>
+          <span class="term">答句</span>
+          <span
+            ><NoteMark sentence="Not now, but I used to." :marks="['used to.']" /><span
               class="translation"
-              >我吃得沒有以前多。</span
+              >現在不彈了，可是我以前彈。</span
             ></span
           >
         </div>
       </div>
-      <p class="remark">省略的時候，to 要留下來。</p>
-    </NoteSlide>
-    <NoteSlide title="比較過去和現在">
-      <div class="rows is-labeled">
-        <div>
-          <span class="term">例句</span>
-          <span
-            ><NoteMark sentence="They sound much better than they used to." :marks="[]" /><span
-              class="translation"
-              >他們聽起來比以前好多了。</span
-            ></span
-          >
-        </div>
-      </div>
-      <p class="remark">這個句型常用來比較過去和現在。</p>
     </NoteSlide>
     <NoteSlide title="省略動詞的時候，to 要留下來" mark="to.">
       <NoteFix
@@ -73,17 +80,17 @@ defineProps<{ note: (typeof notes)[number] }>();
         :fix="['used to.']"
       />
     </NoteSlide>
-    <NoteSlide title="省略的動詞不用 do it 代替">
+    <NoteSlide title="to 後面的動詞省略，不用 it 代替" mark="to.">
       <NoteFix
-        wrong="He doesn't run as often as he used to do it."
+        wrong="He doesn't run as often as he used to it."
         right="He doesn't run as often as he used to."
         :fix="['to.']"
       />
     </NoteSlide>
     <NoteSlide title="肯定的子句寫成 used to" mark="used to.">
       <NoteFix
-        wrong="I don't sing as much as I use to."
-        right="I don't sing as much as I used to."
+        wrong="I don't sing in the shower as much as I use to."
+        right="I don't sing in the shower as much as I used to."
         :fix="['used']"
       />
     </NoteSlide>

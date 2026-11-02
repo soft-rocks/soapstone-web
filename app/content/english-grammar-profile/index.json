@@ -16223,58 +16223,58 @@
     "translation": "你可以來，我真的好開心！",
     "name": "程度副詞修飾形容詞",
     "sentences": [
-      "The chicken at that market is really good.",
-      "My new boss is really nice.",
-      "The roads were really icy this morning.",
-      "You look really tired. Go to bed.",
-      "We had a really good time at the wedding.",
-      "That's a really interesting idea.",
-      "It was an extremely long journey.",
-      "My brother is a pretty good swimmer.",
-      "The new phones are extremely expensive.",
-      "The teacher was extremely patient with us.",
-      "It's extremely important to drink enough water.",
-      "The path up the hill is extremely narrow.",
-      "I'm so sorry I'm late.",
-      "Your little girl is so clever.",
-      "Why is the house so cold?",
-      "We were so excited about the trip.",
-      "The bus driver was pretty friendly to the tourists.",
-      "I'm pretty sure he's at home.",
-      "Her French is pretty good.",
-      "The match was pretty boring.",
+      "Buy your chicken from Mr Lee. The chicken at that market is really good.",
+      "I like my job more now. My new boss is really nice.",
+      "Drive slowly. The roads were really icy this morning.",
+      "You've worked twelve hours today. You look really tired. Go to bed.",
+      "We danced all night. We had a really good time at the wedding.",
+      "A garden on the roof? That's a really interesting idea.",
+      "We changed trains four times. It was an extremely long journey.",
+      "He swims every morning before work. My brother is a pretty good swimmer.",
+      "I'll keep my old one. The new phones are extremely expensive.",
+      "We asked the same question five times. The teacher was extremely patient with us.",
+      "It's going to be hot today. It's extremely important to drink enough water.",
+      "Walk in a line, please. The path up the hill is extremely narrow.",
+      "The traffic was terrible. I'm so sorry I'm late.",
+      "She can already read at four. Your little girl is so clever.",
+      "Did someone leave a window open? Why is the house so cold?",
+      "We packed our bags a week early. We were so excited about the trip.",
+      "He told them where to get off. The bus driver was pretty friendly to the tourists.",
+      "His car is outside. I'm pretty sure he's at home.",
+      "She lived in Paris for a year. Her French is pretty good.",
+      "Nobody scored. The match was pretty boring.",
       "I'm a bit hungry. Let's eat.",
-      "This coat is a bit small for me.",
-      "The film was a bit long.",
-      "He seemed a bit sad on the phone.",
-      "I feel a little sick.",
-      "The instructions are a little confusing.",
-      "My grandmother is a little deaf.",
+      "I need the next size up. This coat is a bit small for me.",
+      "I checked my phone twice. The film was a bit long.",
+      "His dog died last week. He seemed a bit sad on the phone.",
+      "Can we stop the car? I feel a little sick.",
+      "Can you help me build this shelf? The instructions are a little confusing.",
+      "Speak up when you call her. My grandmother is a little deaf.",
       "The water was a little cold, but we swam anyway.",
-      "The towels in the bathroom weren't really clean.",
-      "Are you a bit nervous about the exam?",
-      "Were the tickets extremely expensive?",
-      "Is the museum really far from here?"
+      "I asked for new ones. The towels in the bathroom weren't really clean.",
+      "You keep checking your notes. Are you a bit nervous about the exam?",
+      "You only stayed one night. Were the rooms extremely expensive?",
+      "My feet hurt already. Is the museum really far from here?"
     ],
     "examples": [
       {
         "heading": "① really + 形容詞",
         "items": [
           {
-            "en": "The chicken at that market is really good.",
-            "zh": "那個市場的雞肉真的很好吃。"
+            "en": "Buy your chicken from Mr Lee. The chicken at that market is really good.",
+            "zh": "去李先生那裡買雞肉。那個市場的雞肉真的很好吃。"
           },
           {
-            "en": "My new boss is really nice.",
-            "zh": "我的新老闆人真的很好。"
+            "en": "I like my job more now. My new boss is really nice.",
+            "zh": "我現在比較喜歡我的工作了。我的新老闆人真的很好。"
           },
           {
-            "en": "The roads were really icy this morning.",
-            "zh": "今天早上路面結冰結得很厲害。"
+            "en": "Drive slowly. The roads were really icy this morning.",
+            "zh": "開慢一點。今天早上路面結冰結得很厲害。"
           },
           {
-            "en": "You look really tired. Go to bed.",
-            "zh": "你看起來真的很累。去睡覺吧。"
+            "en": "You've worked twelve hours today. You look really tired. Go to bed.",
+            "zh": "你今天工作了十二個小時。你看起來真的很累。去睡覺吧。"
           }
         ]
       },
@@ -16282,20 +16282,20 @@
         "heading": "② a + really / extremely / pretty + 形容詞 + 名詞",
         "items": [
           {
-            "en": "We had a really good time at the wedding.",
-            "zh": "我們在婚禮上玩得很開心。"
+            "en": "We danced all night. We had a really good time at the wedding.",
+            "zh": "我們跳了一整晚。我們在婚禮上玩得很開心。"
           },
           {
-            "en": "That's a really interesting idea.",
-            "zh": "那是個很有意思的想法。"
+            "en": "A garden on the roof? That's a really interesting idea.",
+            "zh": "在屋頂上弄個花園？那是個很有意思的想法。"
           },
           {
-            "en": "It was an extremely long journey.",
-            "zh": "那是一趟非常漫長的旅程。"
+            "en": "We changed trains four times. It was an extremely long journey.",
+            "zh": "我們換了四次火車。那是一趟非常漫長的旅程。"
           },
           {
-            "en": "My brother is a pretty good swimmer.",
-            "zh": "我哥哥游泳游得滿好的。"
+            "en": "He swims every morning before work. My brother is a pretty good swimmer.",
+            "zh": "他每天上班前都去游泳。我哥哥游泳游得滿好的。"
           }
         ]
       },
@@ -16303,20 +16303,20 @@
         "heading": "③ extremely + 形容詞",
         "items": [
           {
-            "en": "The new phones are extremely expensive.",
-            "zh": "新的手機貴得要命。"
+            "en": "I'll keep my old one. The new phones are extremely expensive.",
+            "zh": "我會繼續用我的舊手機。新的手機貴得要命。"
           },
           {
-            "en": "The teacher was extremely patient with us.",
-            "zh": "老師對我們非常有耐心。"
+            "en": "We asked the same question five times. The teacher was extremely patient with us.",
+            "zh": "同一個問題我們問了五次。老師對我們非常有耐心。"
           },
           {
-            "en": "It's extremely important to drink enough water.",
-            "zh": "喝足夠的水非常重要。"
+            "en": "It's going to be hot today. It's extremely important to drink enough water.",
+            "zh": "今天會很熱。喝足夠的水非常重要。"
           },
           {
-            "en": "The path up the hill is extremely narrow.",
-            "zh": "上山的小路非常窄。"
+            "en": "Walk in a line, please. The path up the hill is extremely narrow.",
+            "zh": "請排成一列走。上山的小路非常窄。"
           }
         ]
       },
@@ -16324,20 +16324,20 @@
         "heading": "④ so + 形容詞",
         "items": [
           {
-            "en": "I'm so sorry I'm late.",
-            "zh": "真的很抱歉我遲到了。"
+            "en": "The traffic was terrible. I'm so sorry I'm late.",
+            "zh": "交通糟透了。真的很抱歉我遲到了。"
           },
           {
-            "en": "Your little girl is so clever.",
-            "zh": "你的小女兒好聰明。"
+            "en": "She can already read at four. Your little girl is so clever.",
+            "zh": "她四歲就會讀書了。你的小女兒好聰明。"
           },
           {
-            "en": "Why is the house so cold?",
-            "zh": "房子怎麼這麼冷？"
+            "en": "Did someone leave a window open? Why is the house so cold?",
+            "zh": "有人沒關窗戶嗎？房子怎麼這麼冷？"
           },
           {
-            "en": "We were so excited about the trip.",
-            "zh": "我們對這趟旅行好興奮。"
+            "en": "We packed our bags a week early. We were so excited about the trip.",
+            "zh": "我們提早一個星期就收好行李了。我們對這趟旅行好興奮。"
           }
         ]
       },
@@ -16345,20 +16345,20 @@
         "heading": "⑤ pretty + 形容詞",
         "items": [
           {
-            "en": "The bus driver was pretty friendly to the tourists.",
-            "zh": "公車司機對觀光客還滿友善的。"
+            "en": "He told them where to get off. The bus driver was pretty friendly to the tourists.",
+            "zh": "他告訴他們在哪裡下車。公車司機對觀光客還滿友善的。"
           },
           {
-            "en": "I'm pretty sure he's at home.",
-            "zh": "我滿確定他在家。"
+            "en": "His car is outside. I'm pretty sure he's at home.",
+            "zh": "他的車在外面。我滿確定他在家。"
           },
           {
-            "en": "Her French is pretty good.",
-            "zh": "她的法文滿好的。"
+            "en": "She lived in Paris for a year. Her French is pretty good.",
+            "zh": "她在巴黎住了一年。她的法文滿好的。"
           },
           {
-            "en": "The match was pretty boring.",
-            "zh": "那場比賽滿無聊的。"
+            "en": "Nobody scored. The match was pretty boring.",
+            "zh": "沒有人得分。那場比賽滿無聊的。"
           }
         ]
       },
@@ -16370,16 +16370,16 @@
             "zh": "我有點餓。我們吃飯吧。"
           },
           {
-            "en": "This coat is a bit small for me.",
-            "zh": "這件外套我穿有點小。"
+            "en": "I need the next size up. This coat is a bit small for me.",
+            "zh": "我需要大一號的。這件外套我穿有點小。"
           },
           {
-            "en": "The film was a bit long.",
-            "zh": "那部電影有點長。"
+            "en": "I checked my phone twice. The film was a bit long.",
+            "zh": "我看了兩次手機。那部電影有點長。"
           },
           {
-            "en": "He seemed a bit sad on the phone.",
-            "zh": "他在電話裡聽起來有點難過。"
+            "en": "His dog died last week. He seemed a bit sad on the phone.",
+            "zh": "他的狗上星期死了。他在電話裡聽起來有點難過。"
           }
         ]
       },
@@ -16387,16 +16387,16 @@
         "heading": "⑦ a little + 形容詞",
         "items": [
           {
-            "en": "I feel a little sick.",
-            "zh": "我覺得有點不舒服。"
+            "en": "Can we stop the car? I feel a little sick.",
+            "zh": "我們可以停車嗎？我覺得有點不舒服。"
           },
           {
-            "en": "The instructions are a little confusing.",
-            "zh": "說明有點難懂。"
+            "en": "Can you help me build this shelf? The instructions are a little confusing.",
+            "zh": "你可以幫我組這個架子嗎？說明有點難懂。"
           },
           {
-            "en": "My grandmother is a little deaf.",
-            "zh": "我奶奶耳朵有點背。"
+            "en": "Speak up when you call her. My grandmother is a little deaf.",
+            "zh": "你打給她的時候講大聲一點。我奶奶耳朵有點背。"
           },
           {
             "en": "The water was a little cold, but we swam anyway.",
@@ -16408,20 +16408,20 @@
         "heading": "⑧ 否定句和疑問句",
         "items": [
           {
-            "en": "The towels in the bathroom weren't really clean.",
-            "zh": "浴室裡的毛巾不太乾淨。"
+            "en": "I asked for new ones. The towels in the bathroom weren't really clean.",
+            "zh": "我要了新的。浴室裡的毛巾不太乾淨。"
           },
           {
-            "en": "Are you a bit nervous about the exam?",
-            "zh": "你對考試有點緊張嗎？"
+            "en": "You keep checking your notes. Are you a bit nervous about the exam?",
+            "zh": "你一直在看筆記。你對考試有點緊張嗎？"
           },
           {
-            "en": "Were the tickets extremely expensive?",
-            "zh": "票是不是貴得要命？"
+            "en": "You only stayed one night. Were the rooms extremely expensive?",
+            "zh": "你們只住了一晚。房間是不是貴得要命？"
           },
           {
-            "en": "Is the museum really far from here?",
-            "zh": "博物館離這裡真的很遠嗎？"
+            "en": "My feet hurt already. Is the museum really far from here?",
+            "zh": "我的腳已經在痛了。博物館離這裡真的很遠嗎？"
           }
         ]
       }
@@ -18444,63 +18444,63 @@
     "translation": "我很快、很輕鬆就學會用我的手機了。",
     "name": "情狀副詞修飾動詞（常用副詞）",
     "sentences": [
-      "The old man walked slowly to the bus stop.",
-      "The students left the library quietly.",
-      "She checked her answers carefully.",
-      "The baby is sleeping peacefully.",
-      "The receptionist greeted every guest politely.",
-      "We found the hotel easily.",
-      "The kids laughed happily.",
-      "She shouted angrily at the driver.",
-      "He got dressed hurriedly and ran out.",
-      "The dog wagged its tail lazily.",
-      "Put the plates down gently.",
-      "She explained the rules simply.",
-      "I played terribly in the last game.",
-      "The cat jumped nimbly onto the wall.",
-      "The doors open automatically.",
-      "He spoke enthusiastically about his new job.",
-      "The lights turn off automatically at midnight.",
-      "My grandmother crosses the road very carefully.",
-      "The ice cream melted very quickly in the sun.",
-      "She plays the guitar very nicely.",
-      "He talks very loudly on the phone.",
-      "Read the questions slowly and carefully.",
-      "They worked quickly and quietly.",
-      "She answered calmly and politely.",
-      "The team played well and fairly.",
-      "He fixed my bike quickly and cheaply.",
-      "Did you sleep peacefully last night?",
-      "He didn't explain it very clearly.",
-      "Can you write a bit more neatly?",
-      "Why did she leave so suddenly?",
-      "They didn't treat us fairly.",
-      "The waiter talked to us in a friendly way.",
-      "The nurse spoke to my mum in a kind and friendly way."
+      "His knee hurt after the fall. The old man walked slowly to the bus stop.",
+      "The bell rang at five. The students left the library quietly.",
+      "She had ten minutes left. She checked her answers carefully.",
+      "Don't wake her up. The baby is sleeping peacefully.",
+      "It was a busy evening at the hotel. The receptionist greeted every guest politely.",
+      "The map on my phone was clear. We found the hotel easily.",
+      "The clown fell into the water. The kids laughed happily.",
+      "The bus drove through a puddle and soaked her. She shouted angrily at the driver.",
+      "His alarm didn't go off. He got dressed hurriedly and ran out.",
+      "It was a hot afternoon. The dog wagged its tail lazily.",
+      "Those are Grandma's best dishes. Put the plates down gently.",
+      "The children were only five. She explained the rules simply.",
+      "We lost by twenty points. I played terribly in the last game.",
+      "A bird flew past the window. The cat jumped nimbly onto the wall.",
+      "You don't need to push. The doors open automatically.",
+      "His eyes were shining. He spoke enthusiastically about his new job.",
+      "Don't worry about the office. The lights turn off automatically at midnight.",
+      "She's eighty-five now. My grandmother crosses the road very carefully.",
+      "It was thirty-five degrees. The ice cream melted very quickly in the sun.",
+      "She practises every evening. She plays the guitar very nicely.",
+      "Everyone on the train can hear him. He talks very loudly on the phone.",
+      "You have an hour for the exam. Read the questions slowly and carefully.",
+      "The baby was asleep upstairs. The painters worked quickly and quietly.",
+      "The customer was shouting. She answered calmly and politely.",
+      "Nobody got a yellow card. The team played well and fairly.",
+      "The shop next to the station is great. He fixed my bike quickly and cheaply.",
+      "The storm was very loud. Did you sleep peacefully last night?",
+      "I still don't know what to do. He didn't explain it very clearly.",
+      "I can't read your notes. Can you write a bit more neatly?",
+      "She was here a minute ago. Why did she leave so suddenly?",
+      "They gave the other team more time. They didn't treat us fairly.",
+      "We'll go back to that café. The waiter talked to us in a friendly way.",
+      "My mum was nervous at the hospital. The nurse spoke to her in a kind and friendly way."
     ],
     "examples": [
       {
         "heading": "① 一般形容詞 + -ly",
         "items": [
           {
-            "en": "The old man walked slowly to the bus stop.",
-            "zh": "那個老先生慢慢走到公車站。"
+            "en": "His knee hurt after the fall. The old man walked slowly to the bus stop.",
+            "zh": "他跌倒後膝蓋很痛。那個老先生慢慢走到公車站。"
           },
           {
-            "en": "The students left the library quietly.",
-            "zh": "學生們安靜地離開圖書館。"
+            "en": "The bell rang at five. The students left the library quietly.",
+            "zh": "五點鐘響了。學生們安靜地離開圖書館。"
           },
           {
-            "en": "She checked her answers carefully.",
-            "zh": "她仔細檢查了她的答案。"
+            "en": "She had ten minutes left. She checked her answers carefully.",
+            "zh": "她還剩十分鐘。她仔細檢查了她的答案。"
           },
           {
-            "en": "The baby is sleeping peacefully.",
-            "zh": "寶寶睡得很安穩。"
+            "en": "Don't wake her up. The baby is sleeping peacefully.",
+            "zh": "別吵醒她。寶寶睡得很安穩。"
           },
           {
-            "en": "The receptionist greeted every guest politely.",
-            "zh": "櫃檯人員很有禮貌地招呼每位客人。"
+            "en": "It was a busy evening at the hotel. The receptionist greeted every guest politely.",
+            "zh": "那天晚上飯店很忙。櫃檯人員很有禮貌地招呼每位客人。"
           }
         ]
       },
@@ -18508,24 +18508,24 @@
         "heading": "② 子音 + y 結尾 → -ily",
         "items": [
           {
-            "en": "We found the hotel easily.",
-            "zh": "我們很輕鬆就找到飯店了。"
+            "en": "The map on my phone was clear. We found the hotel easily.",
+            "zh": "我手機上的地圖很清楚。我們很輕鬆就找到飯店了。"
           },
           {
-            "en": "The kids laughed happily.",
-            "zh": "孩子們開心地笑了。"
+            "en": "The clown fell into the water. The kids laughed happily.",
+            "zh": "小丑掉進水裡了。孩子們開心地笑了。"
           },
           {
-            "en": "She shouted angrily at the driver.",
-            "zh": "她生氣地對司機大吼。"
+            "en": "The bus drove through a puddle and soaked her. She shouted angrily at the driver.",
+            "zh": "公車開過水坑，把她濺濕了。她生氣地對司機大吼。"
           },
           {
-            "en": "He got dressed hurriedly and ran out.",
-            "zh": "他匆匆忙忙穿好衣服就跑出去了。"
+            "en": "His alarm didn't go off. He got dressed hurriedly and ran out.",
+            "zh": "他的鬧鐘沒響。他匆匆忙忙穿好衣服就跑出去了。"
           },
           {
-            "en": "The dog wagged its tail lazily.",
-            "zh": "那隻狗懶洋洋地搖著尾巴。"
+            "en": "It was a hot afternoon. The dog wagged its tail lazily.",
+            "zh": "那是一個很熱的下午。那隻狗懶洋洋地搖著尾巴。"
           }
         ]
       },
@@ -18533,20 +18533,20 @@
         "heading": "③ 子音 + le 結尾 → -ly",
         "items": [
           {
-            "en": "Put the plates down gently.",
-            "zh": "把盤子輕輕放下。"
+            "en": "Those are Grandma's best dishes. Put the plates down gently.",
+            "zh": "那是奶奶最好的盤子。把盤子輕輕放下。"
           },
           {
-            "en": "She explained the rules simply.",
-            "zh": "她簡單地說明了規則。"
+            "en": "The children were only five. She explained the rules simply.",
+            "zh": "那些孩子才五歲。她簡單地說明了規則。"
           },
           {
-            "en": "I played terribly in the last game.",
-            "zh": "我上一場打得很爛。"
+            "en": "We lost by twenty points. I played terribly in the last game.",
+            "zh": "我們輸了二十分。我上一場打得很爛。"
           },
           {
-            "en": "The cat jumped nimbly onto the wall.",
-            "zh": "那隻貓輕巧地跳上牆。"
+            "en": "A bird flew past the window. The cat jumped nimbly onto the wall.",
+            "zh": "一隻鳥飛過窗外。那隻貓輕巧地跳上牆。"
           }
         ]
       },
@@ -18554,16 +18554,16 @@
         "heading": "④ ic 結尾 → -ally",
         "items": [
           {
-            "en": "The doors open automatically.",
-            "zh": "門會自動打開。"
+            "en": "You don't need to push. The doors open automatically.",
+            "zh": "你不用推。門會自動打開。"
           },
           {
-            "en": "He spoke enthusiastically about his new job.",
-            "zh": "他熱情地談起他的新工作。"
+            "en": "His eyes were shining. He spoke enthusiastically about his new job.",
+            "zh": "他的眼睛閃閃發亮。他熱情地談起他的新工作。"
           },
           {
-            "en": "The lights turn off automatically at midnight.",
-            "zh": "燈到午夜會自動關掉。"
+            "en": "Don't worry about the office. The lights turn off automatically at midnight.",
+            "zh": "別擔心辦公室。燈到午夜會自動關掉。"
           }
         ]
       },
@@ -18571,20 +18571,20 @@
         "heading": "⑤ very + 情狀副詞",
         "items": [
           {
-            "en": "My grandmother crosses the road very carefully.",
-            "zh": "我奶奶過馬路很小心。"
+            "en": "She's eighty-five now. My grandmother crosses the road very carefully.",
+            "zh": "她現在八十五歲了。我奶奶過馬路很小心。"
           },
           {
-            "en": "The ice cream melted very quickly in the sun.",
-            "zh": "冰淇淋在太陽底下融化得很快。"
+            "en": "It was thirty-five degrees. The ice cream melted very quickly in the sun.",
+            "zh": "那天三十五度。冰淇淋在太陽底下融化得很快。"
           },
           {
-            "en": "She plays the guitar very nicely.",
-            "zh": "她吉他彈得很好聽。"
+            "en": "She practises every evening. She plays the guitar very nicely.",
+            "zh": "她每天晚上都練習。她吉他彈得很好聽。"
           },
           {
-            "en": "He talks very loudly on the phone.",
-            "zh": "他講電話很大聲。"
+            "en": "Everyone on the train can hear him. He talks very loudly on the phone.",
+            "zh": "火車上每個人都聽得到。他講電話很大聲。"
           }
         ]
       },
@@ -18592,24 +18592,24 @@
         "heading": "⑥ 情狀副詞 + and + 情狀副詞",
         "items": [
           {
-            "en": "Read the questions slowly and carefully.",
-            "zh": "慢慢地、仔細地讀題目。"
+            "en": "You have an hour for the exam. Read the questions slowly and carefully.",
+            "zh": "考試有一個小時。慢慢地、仔細地讀題目。"
           },
           {
-            "en": "They worked quickly and quietly.",
-            "zh": "他們做得又快又安靜。"
+            "en": "The baby was asleep upstairs. The painters worked quickly and quietly.",
+            "zh": "寶寶在樓上睡覺。油漆工做得又快又安靜。"
           },
           {
-            "en": "She answered calmly and politely.",
-            "zh": "她冷靜又有禮貌地回答。"
+            "en": "The customer was shouting. She answered calmly and politely.",
+            "zh": "那個客人在大吼。她冷靜又有禮貌地回答。"
           },
           {
-            "en": "The team played well and fairly.",
-            "zh": "這支球隊打得好，也打得公平。"
+            "en": "Nobody got a yellow card. The team played well and fairly.",
+            "zh": "沒有人拿到黃牌。這支球隊打得好，也打得公平。"
           },
           {
-            "en": "He fixed my bike quickly and cheaply.",
-            "zh": "他很快就修好我的腳踏車，也收得很便宜。"
+            "en": "The shop next to the station is great. He fixed my bike quickly and cheaply.",
+            "zh": "車站旁邊那家店很棒。他很快就修好我的腳踏車，也收得很便宜。"
           }
         ]
       },
@@ -18617,24 +18617,24 @@
         "heading": "⑦ 疑問句和否定句",
         "items": [
           {
-            "en": "Did you sleep peacefully last night?",
-            "zh": "你昨晚睡得安穩嗎？"
+            "en": "The storm was very loud. Did you sleep peacefully last night?",
+            "zh": "暴風雨好大聲。你昨晚睡得安穩嗎？"
           },
           {
-            "en": "He didn't explain it very clearly.",
-            "zh": "他沒有解釋得很清楚。"
+            "en": "I still don't know what to do. He didn't explain it very clearly.",
+            "zh": "我還是不知道該怎麼做。他沒有解釋得很清楚。"
           },
           {
-            "en": "Can you write a bit more neatly?",
-            "zh": "你可以寫整齊一點嗎？"
+            "en": "I can't read your notes. Can you write a bit more neatly?",
+            "zh": "我看不懂你的筆記。你可以寫整齊一點嗎？"
           },
           {
-            "en": "Why did she leave so suddenly?",
-            "zh": "她為什麼突然就走了？"
+            "en": "She was here a minute ago. Why did she leave so suddenly?",
+            "zh": "她一分鐘前還在這裡。她為什麼突然就走了？"
           },
           {
-            "en": "They didn't treat us fairly.",
-            "zh": "他們對我們不公平。"
+            "en": "They gave the other team more time. They didn't treat us fairly.",
+            "zh": "他們給另一隊比較多時間。他們對我們不公平。"
           }
         ]
       },
@@ -18642,12 +18642,12 @@
         "heading": "⑧ in a friendly way",
         "items": [
           {
-            "en": "The waiter talked to us in a friendly way.",
-            "zh": "服務生很友善地跟我們說話。"
+            "en": "We'll go back to that café. The waiter talked to us in a friendly way.",
+            "zh": "我們會再去那家咖啡店。服務生很友善地跟我們說話。"
           },
           {
-            "en": "The nurse spoke to my mum in a kind and friendly way.",
-            "zh": "護士親切又友善地跟我媽媽說話。"
+            "en": "My mum was nervous at the hospital. The nurse spoke to her in a kind and friendly way.",
+            "zh": "我媽媽在醫院很緊張。護士親切又友善地跟她說話。"
           }
         ]
       }
@@ -19067,60 +19067,60 @@
     "translation": "我希望你到時候能去。",
     "name": "here、there 當動詞的補語",
     "sentences": [
-      "Your parcel is here.",
+      "The postman just rang. Your parcel is here.",
       "Everyone is here, so let's start.",
-      "The plumber will be here after lunch.",
-      "Were you here last night?",
-      "I'm not here on Mondays.",
-      "Will your sister be there tomorrow?",
-      "Sorry, I can't be there on Saturday.",
-      "The key was there this morning.",
-      "We'll be there in five minutes.",
-      "He wasn't there when I arrived.",
-      "Please come here and sit down.",
-      "I went there with my cousins.",
-      "Why don't you come here for Christmas this year?",
-      "Don't go there alone at night.",
-      "We come here every Sunday.",
-      "How long does it take to get there?",
-      "We got here early.",
-      "Send me a message as soon as you get there.",
-      "What time did they get here?",
-      "Can we walk there from the station?",
-      "My dad drove there in two hours.",
-      "The kids ran there as fast as they could.",
-      "I walked here this morning.",
-      "Do your grandparents still live there?",
-      "My best friend works there.",
-      "You can sit here next to me.",
-      "We stayed there for three nights.",
-      "Wait here while I buy the tickets.",
-      "How long have you worked here?",
-      "She used to live there with her grandmother."
+      "Don't worry about the leak. The plumber will be here after lunch.",
+      "Someone left the lights on. Were you here last night?",
+      "Call me on Tuesday instead. I'm not here on Mondays.",
+      "It's Grandpa's birthday lunch. Will your sister be there tomorrow?",
+      "Good luck with the race. Sorry, I can't be there on Saturday.",
+      "I can't find it anywhere. The key was there this morning.",
+      "Start without us. We'll be there in five minutes.",
+      "I knocked on his door. He wasn't there when I arrived.",
+      "The doctor is ready for you. Please come here and sit down.",
+      "The beach in the photo is in Wales. I went there with my cousins.",
+      "We have a big house now. Why don't you come here for Christmas this year?",
+      "The park has no lights. Don't go there alone at night.",
+      "The owner knows our names. We come here every Sunday.",
+      "I'd love to visit the lake. How long does it take to get there?",
+      "The doors don't open until nine. We got here early.",
+      "It's a long drive. Send me a message as soon as you get there.",
+      "The guests are already in the garden. What time did they get here?",
+      "The hotel looks close on the map. Can we walk there from the station?",
+      "My grandparents live in York. My dad drove there in two hours.",
+      "The ice cream van stopped at the corner. The kids ran there as fast as they could.",
+      "My bike has a flat tyre. I walked here this morning.",
+      "You grew up in that village. Do your grandparents still live there?",
+      "Let's eat at the Italian place. My best friend works there.",
+      "There's a free seat. You can sit here next to me.",
+      "The hotel had a pool and a garden. We stayed there for three nights.",
+      "The queue is long. Wait here while I buy the tickets.",
+      "You know everyone in the office. How long have you worked here?",
+      "That's the house by the river. She used to live there with her grandmother."
     ],
     "examples": [
       {
         "heading": "① be + here",
         "items": [
           {
-            "en": "Your parcel is here.",
-            "zh": "你的包裹在這裡。"
+            "en": "The postman just rang. Your parcel is here.",
+            "zh": "郵差剛按了門鈴。你的包裹在這裡。"
           },
           {
             "en": "Everyone is here, so let's start.",
             "zh": "大家都到了，我們開始吧。"
           },
           {
-            "en": "The plumber will be here after lunch.",
-            "zh": "水電工午餐後會到。"
+            "en": "Don't worry about the leak. The plumber will be here after lunch.",
+            "zh": "別擔心漏水。水電工午餐後會到。"
           },
           {
-            "en": "Were you here last night?",
-            "zh": "你昨晚在這裡嗎？"
+            "en": "Someone left the lights on. Were you here last night?",
+            "zh": "有人沒關燈。你昨晚在這裡嗎？"
           },
           {
-            "en": "I'm not here on Mondays.",
-            "zh": "我星期一不在。"
+            "en": "Call me on Tuesday instead. I'm not here on Mondays.",
+            "zh": "改星期二打給我吧。我星期一不在。"
           }
         ]
       },
@@ -19128,24 +19128,24 @@
         "heading": "② be + there",
         "items": [
           {
-            "en": "Will your sister be there tomorrow?",
-            "zh": "你姊姊明天會去嗎？"
+            "en": "It's Grandpa's birthday lunch. Will your sister be there tomorrow?",
+            "zh": "那是爺爺的生日午餐。你姊姊明天會去嗎？"
           },
           {
-            "en": "Sorry, I can't be there on Saturday.",
-            "zh": "抱歉，我星期六不能去。"
+            "en": "Good luck with the race. Sorry, I can't be there on Saturday.",
+            "zh": "比賽加油。抱歉，我星期六不能去。"
           },
           {
-            "en": "The key was there this morning.",
-            "zh": "鑰匙今天早上還在那裡。"
+            "en": "I can't find it anywhere. The key was there this morning.",
+            "zh": "我到處都找不到。鑰匙今天早上還在那裡。"
           },
           {
-            "en": "We'll be there in five minutes.",
-            "zh": "我們五分鐘後到。"
+            "en": "Start without us. We'll be there in five minutes.",
+            "zh": "你們先開始。我們五分鐘後到。"
           },
           {
-            "en": "He wasn't there when I arrived.",
-            "zh": "我到的時候他不在。"
+            "en": "I knocked on his door. He wasn't there when I arrived.",
+            "zh": "我敲了他的門。我到的時候他不在。"
           }
         ]
       },
@@ -19153,24 +19153,24 @@
         "heading": "③ go、come + here、there",
         "items": [
           {
-            "en": "Please come here and sit down.",
-            "zh": "請過來坐下。"
+            "en": "The doctor is ready for you. Please come here and sit down.",
+            "zh": "醫生可以看你了。請過來坐下。"
           },
           {
-            "en": "I went there with my cousins.",
-            "zh": "我跟我表哥他們一起去了那裡。"
+            "en": "The beach in the photo is in Wales. I went there with my cousins.",
+            "zh": "照片裡的海灘在威爾斯。我跟我表哥他們一起去了那裡。"
           },
           {
-            "en": "Why don't you come here for Christmas this year?",
-            "zh": "你今年何不來這裡過聖誕節？"
+            "en": "We have a big house now. Why don't you come here for Christmas this year?",
+            "zh": "我們現在有一間大房子。你今年何不來這裡過聖誕節？"
           },
           {
-            "en": "Don't go there alone at night.",
-            "zh": "晚上別一個人去那裡。"
+            "en": "The park has no lights. Don't go there alone at night.",
+            "zh": "那座公園沒有路燈。晚上別一個人去那裡。"
           },
           {
-            "en": "We come here every Sunday.",
-            "zh": "我們每個星期天都來這裡。"
+            "en": "The owner knows our names. We come here every Sunday.",
+            "zh": "老闆知道我們的名字。我們每個星期天都來這裡。"
           }
         ]
       },
@@ -19178,20 +19178,20 @@
         "heading": "④ get + here、there",
         "items": [
           {
-            "en": "How long does it take to get there?",
-            "zh": "去那裡要多久？"
+            "en": "I'd love to visit the lake. How long does it take to get there?",
+            "zh": "我很想去那個湖。去那裡要多久？"
           },
           {
-            "en": "We got here early.",
-            "zh": "我們很早就到了。"
+            "en": "The doors don't open until nine. We got here early.",
+            "zh": "門九點才開。我們很早就到了。"
           },
           {
-            "en": "Send me a message as soon as you get there.",
-            "zh": "你一到那裡就傳訊息給我。"
+            "en": "It's a long drive. Send me a message as soon as you get there.",
+            "zh": "要開很久。你一到那裡就傳訊息給我。"
           },
           {
-            "en": "What time did they get here?",
-            "zh": "他們幾點到的？"
+            "en": "The guests are already in the garden. What time did they get here?",
+            "zh": "客人已經在院子裡了。他們幾點到的？"
           }
         ]
       },
@@ -19199,20 +19199,20 @@
         "heading": "⑤ walk、drive、run + here、there",
         "items": [
           {
-            "en": "Can we walk there from the station?",
-            "zh": "我們可以從車站走過去嗎？"
+            "en": "The hotel looks close on the map. Can we walk there from the station?",
+            "zh": "飯店在地圖上看起來很近。我們可以從車站走過去嗎？"
           },
           {
-            "en": "My dad drove there in two hours.",
-            "zh": "我爸爸開了兩個小時的車到那裡。"
+            "en": "My grandparents live in York. My dad drove there in two hours.",
+            "zh": "我爺爺奶奶住在約克。我爸爸開了兩個小時的車到那裡。"
           },
           {
-            "en": "The kids ran there as fast as they could.",
-            "zh": "孩子們拚命跑過去。"
+            "en": "The ice cream van stopped at the corner. The kids ran there as fast as they could.",
+            "zh": "冰淇淋車停在轉角。孩子們拚命跑過去。"
           },
           {
-            "en": "I walked here this morning.",
-            "zh": "我今天早上是走路來的。"
+            "en": "My bike has a flat tyre. I walked here this morning.",
+            "zh": "我的腳踏車爆胎了。我今天早上是走路來的。"
           }
         ]
       },
@@ -19220,32 +19220,32 @@
         "heading": "⑥ live、stay、work、sit + here、there",
         "items": [
           {
-            "en": "Do your grandparents still live there?",
-            "zh": "你祖父母還住在那裡嗎？"
+            "en": "You grew up in that village. Do your grandparents still live there?",
+            "zh": "你在那個村子長大。你祖父母還住在那裡嗎？"
           },
           {
-            "en": "My best friend works there.",
-            "zh": "我最好的朋友在那裡工作。"
+            "en": "Let's eat at the Italian place. My best friend works there.",
+            "zh": "我們去那家義大利餐廳吃吧。我最好的朋友在那裡工作。"
           },
           {
-            "en": "You can sit here next to me.",
-            "zh": "你可以坐在我旁邊。"
+            "en": "There's a free seat. You can sit here next to me.",
+            "zh": "有個空位。你可以坐在我旁邊。"
           },
           {
-            "en": "We stayed there for three nights.",
-            "zh": "我們在那裡住了三個晚上。"
+            "en": "The hotel had a pool and a garden. We stayed there for three nights.",
+            "zh": "那家飯店有游泳池和花園。我們在那裡住了三個晚上。"
           },
           {
-            "en": "Wait here while I buy the tickets.",
-            "zh": "我去買票，你在這裡等。"
+            "en": "The queue is long. Wait here while I buy the tickets.",
+            "zh": "隊伍很長。我去買票，你在這裡等。"
           },
           {
-            "en": "How long have you worked here?",
-            "zh": "你在這裡工作多久了？"
+            "en": "You know everyone in the office. How long have you worked here?",
+            "zh": "你認識辦公室裡的每個人。你在這裡工作多久了？"
           },
           {
-            "en": "She used to live there with her grandmother.",
-            "zh": "她以前跟她奶奶住在那裡。"
+            "en": "That's the house by the river. She used to live there with her grandmother.",
+            "zh": "那是河邊的那間房子。她以前跟她奶奶住在那裡。"
           }
         ]
       }
@@ -20042,64 +20042,64 @@
     "translation": "昨天我去逛街，買了一些衣服。",
     "name": "時間副詞和順序副詞修飾子句",
     "sentences": [
-      "Yesterday we cleaned the whole house.",
-      "Today I have three classes.",
-      "Last week my sister started a new job.",
-      "Tomorrow we're going to the zoo.",
-      "Last year, we moved to a bigger flat.",
-      "This morning I missed the bus and walked to school.",
-      "I saw your brother yesterday.",
-      "We have a maths test today.",
-      "She'll call you tomorrow.",
-      "They got married last month.",
-      "My parents bought a car last week.",
-      "My uncle often sends us photos from his trips.",
-      "He always forgets his keys.",
-      "I've just finished my essay.",
-      "They've already left.",
-      "She is often late for class.",
-      "I usually walk my dog after dinner.",
-      "Yesterday I got up late and missed breakfast.",
-      "Last night we went out and had a pizza.",
-      "On Sunday my family visited my aunt and stayed for lunch.",
-      "Every morning she makes coffee and reads the news.",
-      "First I washed the car, then I cut the grass.",
-      "We watched a film. After that, we went to bed.",
-      "First you mix the eggs and sugar, then you add the flour.",
-      "She did her homework. After that, she called her friends.",
-      "First we went to the market, and then we cooked dinner together.",
-      "Yesterday we went to the beach first, and then we had lunch.",
-      "Last weekend I painted my room. After that, I bought a new lamp.",
-      "This afternoon I'll go to the bank, and then I'll meet you.",
-      "Last summer we visited Rome first. Then we went to Venice."
+      "Our guests arrive on Monday. Yesterday we cleaned the whole house.",
+      "I can't meet for lunch. Today I have three classes.",
+      "She looks so happy. Last week my sister started a new job.",
+      "The kids can't sleep. Tomorrow we're going to the zoo.",
+      "The baby needed her own room. Last year, we moved to a bigger flat.",
+      "My legs are tired. This morning I missed the bus and walked to school.",
+      "He looks just like you. I saw your brother yesterday.",
+      "Don't forget your calculator. We have a maths test today.",
+      "She's in a meeting now. She'll call you tomorrow.",
+      "Look at their wedding photos. They got married last month.",
+      "They don't take the bus any more. My parents bought a car last week.",
+      "He loves travelling. My uncle often sends us photos from his trips.",
+      "Hide a spare key for him. He always forgets his keys.",
+      "Let's go out now. I've just finished my essay.",
+      "Don't run. They've already left.",
+      "The teacher is worried about her. She is often late for class.",
+      "I'll call you later. I usually walk my dog after dinner.",
+      "I was hungry all morning. Yesterday I got up late and missed breakfast.",
+      "Nobody wanted to cook. Last night we went out and had a pizza.",
+      "It was a lovely day. On Sunday my family visited my aunt and stayed for lunch.",
+      "She's never late for work. Every morning she makes coffee and reads the news.",
+      "The garden looks great now. First I washed the car, then I cut the grass.",
+      "We were too tired to talk. We watched a film. After that, we went to bed.",
+      "Making a cake is easy. First you mix the eggs and sugar, then you add the flour.",
+      "She was busy all evening. She did her homework. After that, she called her friends.",
+      "It was Mum's birthday. First we went to the market, and then we cooked dinner together.",
+      "The weather was perfect. Yesterday we went to the beach first, and then we had lunch.",
+      "My room looks brand new. Last weekend I painted it. After that, I bought a new lamp.",
+      "I'm free after three. This afternoon I'll go to the bank, and then I'll meet you.",
+      "We had two weeks in Italy. Last summer we visited Rome first. Then we went to Venice."
     ],
     "examples": [
       {
         "heading": "① 句首的時間副詞",
         "items": [
           {
-            "en": "Yesterday we cleaned the whole house.",
-            "zh": "昨天我們把整間房子打掃了一遍。"
+            "en": "Our guests arrive on Monday. Yesterday we cleaned the whole house.",
+            "zh": "我們的客人星期一到。昨天我們把整間房子打掃了一遍。"
           },
           {
-            "en": "Today I have three classes.",
-            "zh": "我今天有三堂課。"
+            "en": "I can't meet for lunch. Today I have three classes.",
+            "zh": "我不能一起吃午餐。我今天有三堂課。"
           },
           {
-            "en": "Last week my sister started a new job.",
-            "zh": "上禮拜我姊姊開始做新工作。"
+            "en": "She looks so happy. Last week my sister started a new job.",
+            "zh": "她看起來好開心。上禮拜我姊姊開始做新工作。"
           },
           {
-            "en": "Tomorrow we're going to the zoo.",
-            "zh": "明天我們要去動物園。"
+            "en": "The kids can't sleep. Tomorrow we're going to the zoo.",
+            "zh": "孩子們睡不著。明天我們要去動物園。"
           },
           {
-            "en": "Last year, we moved to a bigger flat.",
-            "zh": "去年我們搬到比較大的公寓。"
+            "en": "The baby needed her own room. Last year, we moved to a bigger flat.",
+            "zh": "寶寶需要自己的房間。去年我們搬到比較大的公寓。"
           },
           {
-            "en": "This morning I missed the bus and walked to school.",
-            "zh": "今天早上我錯過公車，走路去學校。"
+            "en": "My legs are tired. This morning I missed the bus and walked to school.",
+            "zh": "我的腿好累。今天早上我錯過公車，走路去學校。"
           }
         ]
       },
@@ -20107,24 +20107,24 @@
         "heading": "② 句尾的時間副詞",
         "items": [
           {
-            "en": "I saw your brother yesterday.",
-            "zh": "我昨天看到你哥哥。"
+            "en": "He looks just like you. I saw your brother yesterday.",
+            "zh": "他長得跟你好像。我昨天看到你哥哥。"
           },
           {
-            "en": "We have a maths test today.",
-            "zh": "我們今天有數學考試。"
+            "en": "Don't forget your calculator. We have a maths test today.",
+            "zh": "別忘了帶計算機。我們今天有數學考試。"
           },
           {
-            "en": "She'll call you tomorrow.",
-            "zh": "她明天會打給你。"
+            "en": "She's in a meeting now. She'll call you tomorrow.",
+            "zh": "她現在在開會。她明天會打給你。"
           },
           {
-            "en": "They got married last month.",
-            "zh": "他們上個月結婚了。"
+            "en": "Look at their wedding photos. They got married last month.",
+            "zh": "你看他們的婚紗照。他們上個月結婚了。"
           },
           {
-            "en": "My parents bought a car last week.",
-            "zh": "我爸媽上禮拜買了一輛車。"
+            "en": "They don't take the bus any more. My parents bought a car last week.",
+            "zh": "他們不再搭公車了。我爸媽上禮拜買了一輛車。"
           }
         ]
       },
@@ -20132,28 +20132,28 @@
         "heading": "③ 句中的時間副詞",
         "items": [
           {
-            "en": "My uncle often sends us photos from his trips.",
-            "zh": "我叔叔常傳他旅行的照片給我們。"
+            "en": "He loves travelling. My uncle often sends us photos from his trips.",
+            "zh": "他很愛旅行。我叔叔常傳他旅行的照片給我們。"
           },
           {
-            "en": "He always forgets his keys.",
-            "zh": "他總是忘記帶鑰匙。"
+            "en": "Hide a spare key for him. He always forgets his keys.",
+            "zh": "幫他藏一把備用鑰匙吧。他總是忘記帶鑰匙。"
           },
           {
-            "en": "I've just finished my essay.",
-            "zh": "我剛寫完報告。"
+            "en": "Let's go out now. I've just finished my essay.",
+            "zh": "我們現在出去吧。我剛寫完報告。"
           },
           {
-            "en": "They've already left.",
-            "zh": "他們已經走了。"
+            "en": "Don't run. They've already left.",
+            "zh": "別跑了。他們已經走了。"
           },
           {
-            "en": "She is often late for class.",
-            "zh": "她上課常遲到。"
+            "en": "The teacher is worried about her. She is often late for class.",
+            "zh": "老師很擔心她。她上課常遲到。"
           },
           {
-            "en": "I usually walk my dog after dinner.",
-            "zh": "我通常晚餐後遛狗。"
+            "en": "I'll call you later. I usually walk my dog after dinner.",
+            "zh": "我晚點打給你。我通常晚餐後遛狗。"
           }
         ]
       },
@@ -20161,20 +20161,20 @@
         "heading": "④ 時間副詞修飾兩個動詞",
         "items": [
           {
-            "en": "Yesterday I got up late and missed breakfast.",
-            "zh": "昨天我起得晚，沒吃到早餐。"
+            "en": "I was hungry all morning. Yesterday I got up late and missed breakfast.",
+            "zh": "我整個早上都好餓。昨天我起得晚，沒吃到早餐。"
           },
           {
-            "en": "Last night we went out and had a pizza.",
-            "zh": "昨晚我們出去吃了披薩。"
+            "en": "Nobody wanted to cook. Last night we went out and had a pizza.",
+            "zh": "沒人想煮飯。昨晚我們出去吃了披薩。"
           },
           {
-            "en": "On Sunday my family visited my aunt and stayed for lunch.",
-            "zh": "星期天我們全家去看我阿姨，留下來吃午餐。"
+            "en": "It was a lovely day. On Sunday my family visited my aunt and stayed for lunch.",
+            "zh": "那天很愉快。星期天我們全家去看我阿姨，留下來吃午餐。"
           },
           {
-            "en": "Every morning she makes coffee and reads the news.",
-            "zh": "她每天早上泡咖啡、看新聞。"
+            "en": "She's never late for work. Every morning she makes coffee and reads the news.",
+            "zh": "她上班從來不遲到。她每天早上泡咖啡、看新聞。"
           }
         ]
       },
@@ -20182,24 +20182,24 @@
         "heading": "⑤ first、then、after that",
         "items": [
           {
-            "en": "First I washed the car, then I cut the grass.",
-            "zh": "我先洗車，然後割草。"
+            "en": "The garden looks great now. First I washed the car, then I cut the grass.",
+            "zh": "院子現在看起來好漂亮。我先洗車，然後割草。"
           },
           {
-            "en": "We watched a film. After that, we went to bed.",
-            "zh": "我們看了一部電影。之後就去睡了。"
+            "en": "We were too tired to talk. We watched a film. After that, we went to bed.",
+            "zh": "我們累得不想說話。我們看了一部電影。之後就去睡了。"
           },
           {
-            "en": "First you mix the eggs and sugar, then you add the flour.",
-            "zh": "你先把蛋和糖拌在一起，然後加麵粉。"
+            "en": "Making a cake is easy. First you mix the eggs and sugar, then you add the flour.",
+            "zh": "做蛋糕很簡單。你先把蛋和糖拌在一起，然後加麵粉。"
           },
           {
-            "en": "She did her homework. After that, she called her friends.",
-            "zh": "她寫完功課。之後打電話給她的朋友。"
+            "en": "She was busy all evening. She did her homework. After that, she called her friends.",
+            "zh": "她整個晚上都很忙。她寫完功課。之後打電話給她的朋友。"
           },
           {
-            "en": "First we went to the market, and then we cooked dinner together.",
-            "zh": "我們先去市場，然後一起煮晚餐。"
+            "en": "It was Mum's birthday. First we went to the market, and then we cooked dinner together.",
+            "zh": "那天是媽媽的生日。我們先去市場，然後一起煮晚餐。"
           }
         ]
       },
@@ -20207,20 +20207,20 @@
         "heading": "⑥ 時間副詞和順序副詞一起用",
         "items": [
           {
-            "en": "Yesterday we went to the beach first, and then we had lunch.",
-            "zh": "昨天我們先去海邊，然後吃午餐。"
+            "en": "The weather was perfect. Yesterday we went to the beach first, and then we had lunch.",
+            "zh": "天氣好極了。昨天我們先去海邊，然後吃午餐。"
           },
           {
-            "en": "Last weekend I painted my room. After that, I bought a new lamp.",
-            "zh": "上個週末我油漆了我的房間。之後買了一盞新燈。"
+            "en": "My room looks brand new. Last weekend I painted it. After that, I bought a new lamp.",
+            "zh": "我的房間看起來像全新的。上個週末我把它油漆了。之後買了一盞新燈。"
           },
           {
-            "en": "This afternoon I'll go to the bank, and then I'll meet you.",
-            "zh": "今天下午我會先去銀行，然後跟你碰面。"
+            "en": "I'm free after three. This afternoon I'll go to the bank, and then I'll meet you.",
+            "zh": "我三點以後有空。今天下午我會先去銀行，然後跟你碰面。"
           },
           {
-            "en": "Last summer we visited Rome first. Then we went to Venice.",
-            "zh": "去年夏天我們先去羅馬。然後去威尼斯。"
+            "en": "We had two weeks in Italy. Last summer we visited Rome first. Then we went to Venice.",
+            "zh": "我們在義大利待了兩個星期。去年夏天我們先去羅馬。然後去威尼斯。"
           }
         ]
       }
@@ -23786,60 +23786,60 @@
     "translation": "寫這封信的人看來不知道在我們這個時代當父母是什麼樣子。",
     "name": "子句中插入副詞表示保留態度",
     "sentences": [
-      "The new manager apparently used to work in a bank.",
-      "They have apparently decided to sell the house.",
-      "The swimming pool apparently opens again in May.",
-      "Our neighbours apparently didn't hear the alarm.",
-      "The two brothers, apparently, haven't spoken for years.",
-      "This cream supposedly makes you look younger.",
-      "The castle is supposedly haunted.",
+      "Ask him about loans. The new manager apparently used to work in a bank.",
+      "There's a sign in their garden. They have apparently decided to sell the house.",
+      "It's closed for repairs now. The swimming pool apparently opens again in May.",
+      "The alarm went off at three. Our neighbours apparently didn't hear it.",
+      "Don't invite them both. The two brothers, apparently, haven't spoken for years.",
+      "My aunt bought a tiny jar for fifty pounds. This cream supposedly makes you look younger.",
+      "Nobody stays there at night. The castle is supposedly haunted.",
       "He is supposedly an expert, but he made a lot of mistakes.",
-      "The train was supposedly on time, but we waited an hour.",
-      "It's the best restaurant in town, supposedly.",
-      "The man allegedly stole three cars.",
-      "The company allegedly hid the problem from its customers.",
-      "She allegedly lied to the police.",
-      "The player allegedly took money to lose the match.",
-      "The singer is reportedly planning a world tour.",
-      "The minister will reportedly resign next week.",
-      "The storm reportedly destroyed hundreds of homes.",
-      "The fire reportedly started in the kitchen.",
-      "The company has reportedly lost millions this year.",
-      "The problem seemingly has no solution.",
+      "The screen said \"on time\". The train was supposedly on time, but we waited an hour.",
+      "Let's try the place on the corner. It's the best restaurant in town, supposedly.",
+      "The police arrested a man last night. He allegedly stole three cars.",
+      "The phones caught fire. The company allegedly hid the problem from its customers.",
+      "The case is going to court. She allegedly lied to the police.",
+      "The league is investigating. The player allegedly took money to lose the match.",
+      "Fans are excited. The singer is reportedly planning a world tour.",
+      "There was a scandal last month. The minister will reportedly resign next week.",
+      "The island is asking for help. The storm reportedly destroyed hundreds of homes.",
+      "Nobody was hurt in the restaurant. The fire reportedly started in the kitchen.",
+      "Three shops have closed. The company has reportedly lost millions this year.",
+      "We've tried everything. The problem seemingly has no solution.",
       "He was seemingly calm, but his hands were shaking.",
-      "The road went on seemingly forever.",
-      "She answered every question with seemingly no effort.",
+      "We drove across the desert for hours. The road went on seemingly forever.",
+      "The quiz was hard for everyone else. She answered every question with seemingly no effort.",
       "The film, supposedly a comedy, didn't make anyone laugh.",
-      "His uncle, apparently, was a famous singer.",
+      "Listen to his voice. His uncle, apparently, was a famous singer.",
       "The painting, allegedly a fake, sold for a million pounds.",
-      "The meeting, reportedly, lasted six hours.",
-      "The suspect allegedly entered the building at midnight.",
-      "The factory will reportedly close by the end of the year.",
-      "The two leaders apparently disagreed on several points."
+      "Nobody agreed on anything. The meeting, reportedly, lasted six hours.",
+      "A camera filmed the break-in. The suspect allegedly entered the building at midnight.",
+      "Two hundred workers will lose their jobs. The factory will reportedly close by the end of the year.",
+      "The talks ended without a deal. The two leaders apparently disagreed on several points."
     ],
     "examples": [
       {
         "heading": "① apparently",
         "items": [
           {
-            "en": "The new manager apparently used to work in a bank.",
-            "zh": "新經理聽說以前在銀行工作。"
+            "en": "Ask him about loans. The new manager apparently used to work in a bank.",
+            "zh": "問他貸款的事吧。新經理聽說以前在銀行工作。"
           },
           {
-            "en": "They have apparently decided to sell the house.",
-            "zh": "他們看來決定要賣房子了。"
+            "en": "There's a sign in their garden. They have apparently decided to sell the house.",
+            "zh": "他們院子裡立了牌子。他們看來決定要賣房子了。"
           },
           {
-            "en": "The swimming pool apparently opens again in May.",
-            "zh": "游泳池聽說五月會重新開放。"
+            "en": "It's closed for repairs now. The swimming pool apparently opens again in May.",
+            "zh": "游泳池現在在整修。聽說五月會重新開放。"
           },
           {
-            "en": "Our neighbours apparently didn't hear the alarm.",
-            "zh": "我們的鄰居好像沒聽到警報聲。"
+            "en": "The alarm went off at three. Our neighbours apparently didn't hear it.",
+            "zh": "警報三點響了。我們的鄰居好像沒聽到。"
           },
           {
-            "en": "The two brothers, apparently, haven't spoken for years.",
-            "zh": "那兩兄弟聽說好幾年沒說過話了。"
+            "en": "Don't invite them both. The two brothers, apparently, haven't spoken for years.",
+            "zh": "別兩個都請。那兩兄弟聽說好幾年沒說過話了。"
           }
         ]
       },
@@ -23847,24 +23847,24 @@
         "heading": "② supposedly",
         "items": [
           {
-            "en": "This cream supposedly makes you look younger.",
-            "zh": "這種乳霜據說會讓你看起來比較年輕。"
+            "en": "My aunt bought a tiny jar for fifty pounds. This cream supposedly makes you look younger.",
+            "zh": "我阿姨花五十英鎊買了一小罐。這種乳霜據說會讓你看起來比較年輕。"
           },
           {
-            "en": "The castle is supposedly haunted.",
-            "zh": "據說那座城堡鬧鬼。"
+            "en": "Nobody stays there at night. The castle is supposedly haunted.",
+            "zh": "晚上沒人敢住那裡。據說那座城堡鬧鬼。"
           },
           {
             "en": "He is supposedly an expert, but he made a lot of mistakes.",
             "zh": "他據說是專家，可是他犯了很多錯。"
           },
           {
-            "en": "The train was supposedly on time, but we waited an hour.",
-            "zh": "火車據說準時，可是我們等了一個小時。"
+            "en": "The screen said \"on time\". The train was supposedly on time, but we waited an hour.",
+            "zh": "螢幕上寫著準時。火車據說準時，可是我們等了一個小時。"
           },
           {
-            "en": "It's the best restaurant in town, supposedly.",
-            "zh": "那是城裡最好的餐廳，至少大家是這麼說的。"
+            "en": "Let's try the place on the corner. It's the best restaurant in town, supposedly.",
+            "zh": "我們去轉角那家試試吧。那是城裡最好的餐廳，至少大家是這麼說的。"
           }
         ]
       },
@@ -23872,20 +23872,20 @@
         "heading": "③ allegedly",
         "items": [
           {
-            "en": "The man allegedly stole three cars.",
-            "zh": "那名男子據稱偷了三輛車。"
+            "en": "The police arrested a man last night. He allegedly stole three cars.",
+            "zh": "警方昨晚逮捕了一名男子。他據稱偷了三輛車。"
           },
           {
-            "en": "The company allegedly hid the problem from its customers.",
-            "zh": "那家公司據稱向顧客隱瞞了這個問題。"
+            "en": "The phones caught fire. The company allegedly hid the problem from its customers.",
+            "zh": "那些手機起火了。那家公司據稱向顧客隱瞞了這個問題。"
           },
           {
-            "en": "She allegedly lied to the police.",
-            "zh": "她據稱對警方說了謊。"
+            "en": "The case is going to court. She allegedly lied to the police.",
+            "zh": "這個案子要上法院了。她據稱對警方說了謊。"
           },
           {
-            "en": "The player allegedly took money to lose the match.",
-            "zh": "那名球員據稱收錢打假球。"
+            "en": "The league is investigating. The player allegedly took money to lose the match.",
+            "zh": "聯盟正在調查。那名球員據稱收錢打假球。"
           }
         ]
       },
@@ -23893,24 +23893,24 @@
         "heading": "④ reportedly",
         "items": [
           {
-            "en": "The singer is reportedly planning a world tour.",
-            "zh": "據報導，那位歌手正在計畫世界巡迴演出。"
+            "en": "Fans are excited. The singer is reportedly planning a world tour.",
+            "zh": "歌迷很興奮。據報導，那位歌手正在計畫世界巡迴演出。"
           },
           {
-            "en": "The minister will reportedly resign next week.",
-            "zh": "據報導，部長下週會辭職。"
+            "en": "There was a scandal last month. The minister will reportedly resign next week.",
+            "zh": "上個月爆出了醜聞。據報導，部長下週會辭職。"
           },
           {
-            "en": "The storm reportedly destroyed hundreds of homes.",
-            "zh": "據報導，暴風雨摧毀了數百間房屋。"
+            "en": "The island is asking for help. The storm reportedly destroyed hundreds of homes.",
+            "zh": "那座島正在求援。據報導，暴風雨摧毀了數百間房屋。"
           },
           {
-            "en": "The fire reportedly started in the kitchen.",
-            "zh": "據報導，火是從廚房燒起來的。"
+            "en": "Nobody was hurt in the restaurant. The fire reportedly started in the kitchen.",
+            "zh": "餐廳裡沒有人受傷。據報導，火是從廚房燒起來的。"
           },
           {
-            "en": "The company has reportedly lost millions this year.",
-            "zh": "據報導，那家公司今年虧損了數百萬。"
+            "en": "Three shops have closed. The company has reportedly lost millions this year.",
+            "zh": "已經關了三家店。據報導，那家公司今年虧損了數百萬。"
           }
         ]
       },
@@ -23918,20 +23918,20 @@
         "heading": "⑤ seemingly",
         "items": [
           {
-            "en": "The problem seemingly has no solution.",
-            "zh": "這個問題看起來沒有解決辦法。"
+            "en": "We've tried everything. The problem seemingly has no solution.",
+            "zh": "我們什麼方法都試過了。這個問題看起來沒有解決辦法。"
           },
           {
             "en": "He was seemingly calm, but his hands were shaking.",
             "zh": "他表面上很冷靜，可是他的手在發抖。"
           },
           {
-            "en": "The road went on seemingly forever.",
-            "zh": "那條路看起來好像永遠走不完。"
+            "en": "We drove across the desert for hours. The road went on seemingly forever.",
+            "zh": "我們在沙漠裡開了好幾個小時。那條路看起來好像永遠走不完。"
           },
           {
-            "en": "She answered every question with seemingly no effort.",
-            "zh": "她回答每個問題都好像毫不費力。"
+            "en": "The quiz was hard for everyone else. She answered every question with seemingly no effort.",
+            "zh": "這個測驗對其他人都很難。她回答每個問題都好像毫不費力。"
           }
         ]
       },
@@ -23943,16 +23943,16 @@
             "zh": "那部電影據說是喜劇，可是沒有人笑。"
           },
           {
-            "en": "His uncle, apparently, was a famous singer.",
-            "zh": "他叔叔聽說是一位有名的歌手。"
+            "en": "Listen to his voice. His uncle, apparently, was a famous singer.",
+            "zh": "你聽他的聲音。他叔叔聽說是一位有名的歌手。"
           },
           {
             "en": "The painting, allegedly a fake, sold for a million pounds.",
             "zh": "那幅畫據稱是假的，卻賣了一百萬英鎊。"
           },
           {
-            "en": "The meeting, reportedly, lasted six hours.",
-            "zh": "那場會議據報導開了六個小時。"
+            "en": "Nobody agreed on anything. The meeting, reportedly, lasted six hours.",
+            "zh": "大家什麼都沒有達成共識。那場會議據報導開了六個小時。"
           }
         ]
       },
@@ -23960,16 +23960,16 @@
         "heading": "⑦ 新聞和報告裡",
         "items": [
           {
-            "en": "The suspect allegedly entered the building at midnight.",
-            "zh": "嫌犯據稱在午夜進入大樓。"
+            "en": "A camera filmed the break-in. The suspect allegedly entered the building at midnight.",
+            "zh": "攝影機拍到了闖入的過程。嫌犯據稱在午夜進入大樓。"
           },
           {
-            "en": "The factory will reportedly close by the end of the year.",
-            "zh": "據報導，那間工廠年底前會關閉。"
+            "en": "Two hundred workers will lose their jobs. The factory will reportedly close by the end of the year.",
+            "zh": "兩百名工人會失業。據報導，那間工廠年底前會關閉。"
           },
           {
-            "en": "The two leaders apparently disagreed on several points.",
-            "zh": "兩位領導人看來在幾點上意見不同。"
+            "en": "The talks ended without a deal. The two leaders apparently disagreed on several points.",
+            "zh": "會談沒有達成協議就結束了。兩位領導人看來在幾點上意見不同。"
           }
         ]
       }
@@ -26756,56 +26756,56 @@
     "translation": "顯然，每個人都有罷工的權利。",
     "name": "態度副詞表示態度（較多種）",
     "sentences": [
-      "Apparently, the restaurant is closing next month.",
-      "Apparently, he's moving to Australia.",
-      "She was apparently very angry about the decision.",
-      "Apparently, it's going to snow tomorrow.",
-      "Naturally, I chose the second option.",
-      "Naturally, my parents were worried when I didn't call.",
-      "She was naturally upset about losing her job.",
-      "Surprisingly, nobody complained about the price.",
-      "Surprisingly, my grandfather enjoyed the rock concert.",
-      "The old car was surprisingly fast.",
-      "Frankly, I don't care what he thinks.",
-      "Frankly, the food was terrible.",
-      "Quite frankly, you should apologise.",
-      "Admittedly, I made a few mistakes, but I learned a lot.",
-      "Admittedly, the flat is small, but it's in a great location.",
-      "The plan is admittedly risky, but it's our best chance.",
-      "Inevitably, the price of petrol went up again.",
-      "Inevitably, there were some problems at the start.",
-      "Young children inevitably make a mess when they eat.",
-      "Wisely, she saved some money for emergencies.",
-      "He wisely decided not to argue.",
-      "I simply don't have enough time.",
-      "It's simply too expensive for us.",
-      "I truly believe you can do it.",
-      "It was a truly amazing concert.",
-      "Luckily for me, I stayed with a very kind family.",
-      "Fortunately for us, the rain stopped before the match.",
-      "Unfortunately for him, the shop had already closed.",
-      "Luckily for the passengers, nobody was injured.",
-      "Sadly for the team, their best player was ill."
+      "Book a table now. Apparently, the restaurant is closing next month.",
+      "I saw Ben's flat on a website. Apparently, he's moving to Australia.",
+      "She left the meeting early. She was apparently very angry about the decision.",
+      "Bring your boots. Apparently, it's going to snow tomorrow.",
+      "The first option was cheaper and faster. Naturally, I chose the first option.",
+      "My phone died on the trip. Naturally, my parents were worried when I didn't call.",
+      "She worked there for twenty years. She was naturally upset about losing her job.",
+      "Tickets went up by ten pounds. Surprisingly, nobody complained about the price.",
+      "We were worried about the noise. Surprisingly, my grandfather enjoyed the rock concert.",
+      "We passed every car on the motorway. The old car was surprisingly fast.",
+      "He keeps telling me how to live. Frankly, I don't care what he thinks.",
+      "The hotel was nice. Frankly, the food was terrible.",
+      "You shouted at her in front of everyone. Quite frankly, you should apologise.",
+      "It was my first year as a manager. Admittedly, I made a few mistakes, but I learned a lot.",
+      "We're taking the flat. Admittedly, it's small, but it's in a great location.",
+      "We could lose everything. The plan is admittedly risky, but it's our best chance.",
+      "Oil prices rose all summer. Inevitably, the price of petrol went up again.",
+      "It was a new system for everyone. Inevitably, there were some problems at the start.",
+      "Put a cloth under the high chair. Young children inevitably make a mess when they eat.",
+      "Then the car broke down. Wisely, she had saved some money for emergencies.",
+      "The other driver was shouting. He wisely decided not to argue.",
+      "Sorry, I can't join the club. I simply don't have enough time.",
+      "We looked at the house twice. It's simply too expensive for us.",
+      "You've practised for months. I truly believe you can do it.",
+      "We danced until midnight. It was a truly amazing concert.",
+      "My exchange year in Spain was wonderful. Luckily for me, I stayed with a very kind family.",
+      "It rained all morning. Fortunately for us, the rain stopped before the match.",
+      "He ran all the way to the corner. Unfortunately for him, the shop had already closed.",
+      "The train came off the track. Luckily for the passengers, nobody was injured.",
+      "They lost the final three to nil. Sadly for the team, their best player was ill."
     ],
     "examples": [
       {
         "heading": "① apparently",
         "items": [
           {
-            "en": "Apparently, the restaurant is closing next month.",
-            "zh": "聽說那家餐廳下個月要關了。"
+            "en": "Book a table now. Apparently, the restaurant is closing next month.",
+            "zh": "現在就訂位吧。聽說那家餐廳下個月要關了。"
           },
           {
-            "en": "Apparently, he's moving to Australia.",
-            "zh": "聽說他要搬去澳洲。"
+            "en": "I saw Ben's flat on a website. Apparently, he's moving to Australia.",
+            "zh": "我在網站上看到 Ben 的公寓在賣。聽說他要搬去澳洲。"
           },
           {
-            "en": "She was apparently very angry about the decision.",
-            "zh": "她看起來對那個決定很生氣。"
+            "en": "She left the meeting early. She was apparently very angry about the decision.",
+            "zh": "她提早離開會議。她看起來對那個決定很生氣。"
           },
           {
-            "en": "Apparently, it's going to snow tomorrow.",
-            "zh": "聽說明天會下雪。"
+            "en": "Bring your boots. Apparently, it's going to snow tomorrow.",
+            "zh": "帶你的靴子。聽說明天會下雪。"
           }
         ]
       },
@@ -26813,16 +26813,16 @@
         "heading": "② naturally",
         "items": [
           {
-            "en": "Naturally, I chose the second option.",
-            "zh": "我當然選了第二個選項。"
+            "en": "The first option was cheaper and faster. Naturally, I chose the first option.",
+            "zh": "第一個選項比較便宜也比較快。我當然選了第一個選項。"
           },
           {
-            "en": "Naturally, my parents were worried when I didn't call.",
-            "zh": "我沒打電話，我爸媽當然很擔心。"
+            "en": "My phone died on the trip. Naturally, my parents were worried when I didn't call.",
+            "zh": "我旅行時手機沒電了。我沒打電話，我爸媽當然很擔心。"
           },
           {
-            "en": "She was naturally upset about losing her job.",
-            "zh": "她丟了工作，當然很難過。"
+            "en": "She worked there for twenty years. She was naturally upset about losing her job.",
+            "zh": "她在那裡工作了二十年。她丟了工作，當然很難過。"
           }
         ]
       },
@@ -26830,16 +26830,16 @@
         "heading": "③ surprisingly",
         "items": [
           {
-            "en": "Surprisingly, nobody complained about the price.",
-            "zh": "出乎意料地，沒有人抱怨價格。"
+            "en": "Tickets went up by ten pounds. Surprisingly, nobody complained about the price.",
+            "zh": "票價漲了十英鎊。出乎意料地，沒有人抱怨價格。"
           },
           {
-            "en": "Surprisingly, my grandfather enjoyed the rock concert.",
-            "zh": "沒想到我爺爺很喜歡那場搖滾演唱會。"
+            "en": "We were worried about the noise. Surprisingly, my grandfather enjoyed the rock concert.",
+            "zh": "我們本來擔心太吵。沒想到我爺爺很喜歡那場搖滾演唱會。"
           },
           {
-            "en": "The old car was surprisingly fast.",
-            "zh": "那輛舊車快得出乎意料。"
+            "en": "We passed every car on the motorway. The old car was surprisingly fast.",
+            "zh": "我們在高速公路上超過了每一輛車。那輛舊車快得出乎意料。"
           }
         ]
       },
@@ -26847,16 +26847,16 @@
         "heading": "④ frankly",
         "items": [
           {
-            "en": "Frankly, I don't care what he thinks.",
-            "zh": "坦白說，我不在乎他怎麼想。"
+            "en": "He keeps telling me how to live. Frankly, I don't care what he thinks.",
+            "zh": "他一直告訴我該怎麼過日子。坦白說，我不在乎他怎麼想。"
           },
           {
-            "en": "Frankly, the food was terrible.",
-            "zh": "坦白說，食物糟透了。"
+            "en": "The hotel was nice. Frankly, the food was terrible.",
+            "zh": "飯店不錯。坦白說，食物糟透了。"
           },
           {
-            "en": "Quite frankly, you should apologise.",
-            "zh": "坦白說，你應該道歉。"
+            "en": "You shouted at her in front of everyone. Quite frankly, you should apologise.",
+            "zh": "你在大家面前對她大吼。坦白說，你應該道歉。"
           }
         ]
       },
@@ -26864,16 +26864,16 @@
         "heading": "⑤ admittedly",
         "items": [
           {
-            "en": "Admittedly, I made a few mistakes, but I learned a lot.",
-            "zh": "我承認我犯了一些錯，不過我學到很多。"
+            "en": "It was my first year as a manager. Admittedly, I made a few mistakes, but I learned a lot.",
+            "zh": "那是我當主管的第一年。我承認我犯了一些錯，不過我學到很多。"
           },
           {
-            "en": "Admittedly, the flat is small, but it's in a great location.",
-            "zh": "不可否認，公寓很小，不過地點很好。"
+            "en": "We're taking the flat. Admittedly, it's small, but it's in a great location.",
+            "zh": "我們要租那間公寓。不可否認，它很小，不過地點很好。"
           },
           {
-            "en": "The plan is admittedly risky, but it's our best chance.",
-            "zh": "這個計畫確實有風險，不過這是我們最好的機會。"
+            "en": "We could lose everything. The plan is admittedly risky, but it's our best chance.",
+            "zh": "我們可能會全盤皆輸。這個計畫確實有風險，不過這是我們最好的機會。"
           }
         ]
       },
@@ -26881,16 +26881,16 @@
         "heading": "⑥ inevitably",
         "items": [
           {
-            "en": "Inevitably, the price of petrol went up again.",
-            "zh": "不可避免地，油價又漲了。"
+            "en": "Oil prices rose all summer. Inevitably, the price of petrol went up again.",
+            "zh": "油價整個夏天都在漲。不可避免地，汽油又漲價了。"
           },
           {
-            "en": "Inevitably, there were some problems at the start.",
-            "zh": "一開始不可避免地出現了一些問題。"
+            "en": "It was a new system for everyone. Inevitably, there were some problems at the start.",
+            "zh": "這對大家來說是新的系統。一開始不可避免地出現了一些問題。"
           },
           {
-            "en": "Young children inevitably make a mess when they eat.",
-            "zh": "小小孩吃東西難免會弄得亂七八糟。"
+            "en": "Put a cloth under the high chair. Young children inevitably make a mess when they eat.",
+            "zh": "在兒童餐椅下面鋪塊布。小小孩吃東西難免會弄得亂七八糟。"
           }
         ]
       },
@@ -26898,28 +26898,28 @@
         "heading": "⑦ wisely、simply、truly",
         "items": [
           {
-            "en": "Wisely, she saved some money for emergencies.",
-            "zh": "她很明智地存了一些錢以備不時之需。"
+            "en": "Then the car broke down. Wisely, she had saved some money for emergencies.",
+            "zh": "後來車子壞了。她很明智地存了一些錢以備不時之需。"
           },
           {
-            "en": "He wisely decided not to argue.",
-            "zh": "他很明智地決定不爭吵。"
+            "en": "The other driver was shouting. He wisely decided not to argue.",
+            "zh": "另一個駕駛在大吼。他很明智地決定不爭吵。"
           },
           {
-            "en": "I simply don't have enough time.",
-            "zh": "我就是沒有足夠的時間。"
+            "en": "Sorry, I can't join the club. I simply don't have enough time.",
+            "zh": "抱歉，我不能加入社團。我就是沒有足夠的時間。"
           },
           {
-            "en": "It's simply too expensive for us.",
-            "zh": "那對我們來說根本太貴了。"
+            "en": "We looked at the house twice. It's simply too expensive for us.",
+            "zh": "那間房子我們看了兩次。那對我們來說根本太貴了。"
           },
           {
-            "en": "I truly believe you can do it.",
-            "zh": "我真心相信你做得到。"
+            "en": "You've practised for months. I truly believe you can do it.",
+            "zh": "你練習了好幾個月。我真心相信你做得到。"
           },
           {
-            "en": "It was a truly amazing concert.",
-            "zh": "那是一場真正精彩的演唱會。"
+            "en": "We danced until midnight. It was a truly amazing concert.",
+            "zh": "我們一直跳到半夜。那是一場真正精彩的演唱會。"
           }
         ]
       },
@@ -26927,24 +26927,24 @@
         "heading": "⑧ 態度副詞 + for + 受詞",
         "items": [
           {
-            "en": "Luckily for me, I stayed with a very kind family.",
-            "zh": "我很幸運，住在一個很親切的家庭裡。"
+            "en": "My exchange year in Spain was wonderful. Luckily for me, I stayed with a very kind family.",
+            "zh": "我在西班牙的交換年很棒。我很幸運，住在一個很親切的家庭裡。"
           },
           {
-            "en": "Fortunately for us, the rain stopped before the match.",
-            "zh": "我們很幸運，比賽前雨停了。"
+            "en": "It rained all morning. Fortunately for us, the rain stopped before the match.",
+            "zh": "雨下了一整個早上。我們很幸運，比賽前雨停了。"
           },
           {
-            "en": "Unfortunately for him, the shop had already closed.",
-            "zh": "他運氣不好，店已經關了。"
+            "en": "He ran all the way to the corner. Unfortunately for him, the shop had already closed.",
+            "zh": "他一路跑到轉角。他運氣不好，店已經關了。"
           },
           {
-            "en": "Luckily for the passengers, nobody was injured.",
-            "zh": "乘客們很幸運，沒有人受傷。"
+            "en": "The train came off the track. Luckily for the passengers, nobody was injured.",
+            "zh": "火車出軌了。乘客們很幸運，沒有人受傷。"
           },
           {
-            "en": "Sadly for the team, their best player was ill.",
-            "zh": "對那支隊伍來說很不幸，他們最好的球員生病了。"
+            "en": "They lost the final three to nil. Sadly for the team, their best player was ill.",
+            "zh": "他們決賽以零比三輸了。對那支隊伍來說很不幸，他們最好的球員生病了。"
           }
         ]
       }

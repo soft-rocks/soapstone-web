@@ -83,16 +83,16 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="reportedly 後面不接 that">
       <NoteFix
-        wrong="Reportedly that the minister will resign."
-        right="The minister will reportedly resign."
-        fix="will reportedly resign"
+        wrong="Reportedly that the mayor will step down."
+        right="The mayor will reportedly step down."
+        fix="will reportedly step"
       />
     </NoteSlide>
 
     <NoteSlide title="allegedly 不和表示確定的副詞一起用">
       <NoteFix
-        wrong="He definitely allegedly stole the car."
-        right="He allegedly stole the car."
+        wrong="The coach definitely allegedly hit a player."
+        right="The coach allegedly hit a player."
         fix="allegedly"
       />
     </NoteSlide>

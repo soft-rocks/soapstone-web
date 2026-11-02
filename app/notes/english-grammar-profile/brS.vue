@@ -30,18 +30,18 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">go there</span>
           <span
-            ><NoteMark sentence="You must go there." :marks="['go there']" /><span
-              class="translation"
-              >你一定要去那裡。</span
-            ></span
+            ><NoteMark
+              sentence="You must go there before you leave Japan."
+              :marks="['go there']"
+            /><span class="translation">你離開日本前一定要去那裡。</span></span
           >
         </div>
         <div>
           <span class="term">come here</span>
           <span
-            ><NoteMark sentence="Come here, please." :marks="['Come here']" /><span
+            ><NoteMark sentence="Please come here and sit down." :marks="['come here']" /><span
               class="translation"
-              >請過來。</span
+              >請過來坐下。</span
             ></span
           >
         </div>
@@ -54,10 +54,11 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'My aunt', role: '主詞', kind: 'dim' },
           { t: 'lives', role: '一般動詞' },
-          { t: 'there.', role: '補語', kind: 'key' },
+          { t: 'there', role: '補語', kind: 'key' },
+          { t: 'with her two cats.', kind: 'dim' },
         ]"
       />
-      <p class="translation">我阿姨住在那裡。</p>
+      <p class="translation">我阿姨跟她的兩隻貓住在那裡。</p>
     </NoteSlide>
 
     <NoteSlide title="get here 和 get there 表示到達" mark="there">
@@ -74,9 +75,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">get there</span>
           <span
-            ><NoteMark sentence="We got there at midnight." :marks="['got there']" /><span
+            ><NoteMark sentence="We got here early." :marks="['got here']" /><span
               class="translation"
-              >我們半夜才到那裡。</span
+              >我們很早就到了。</span
             ></span
           >
         </div>
@@ -100,11 +101,19 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="here 前面不加 at 或 in">
-      <NoteFix wrong="I work at here." right="I work here." fix="work here" />
+      <NoteFix
+        wrong="My brother studies at here."
+        right="My brother studies here."
+        fix="studies here"
+      />
     </NoteSlide>
 
     <NoteSlide title="here 不當主詞">
-      <NoteFix wrong="Here is very cold." right="It's very cold here." fix="It's" />
+      <NoteFix
+        wrong="Here is too noisy for a meeting."
+        right="It's too noisy here for a meeting."
+        fix="It's"
+      />
     </NoteSlide>
 
     <NoteSlide title="be there 的 there 指地點，There is 的 there 表示有" mark="be there">
@@ -112,17 +121,18 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">be there<br /><i>地點</i></span>
           <span
-            ><NoteMark sentence="She is there." :marks="['is there']" /><span class="translation"
-              >她在那裡。</span
+            ><NoteMark sentence="My sister is there with her friends." :marks="['is there']" /><span
+              class="translation"
+              >我姊姊跟她朋友在那裡。</span
             ></span
           >
         </div>
         <div>
           <span class="term">There is<br /><i>有</i></span>
           <span
-            ><NoteMark sentence="There is a cat in the garden." :marks="['There is']" /><span
+            ><NoteMark sentence="There is a fox in the garden." :marks="['There is']" /><span
               class="translation"
-              >院子裡有一隻貓。</span
+              >院子裡有一隻狐狸。</span
             ></span
           >
         </div>

@@ -32,10 +32,11 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'We can\'t', role: '主詞 + 助動詞', kind: 'dim' },
           { t: 'truly', role: '態度副詞', kind: 'key' },
           { t: 'blame', role: '一般動詞' },
-          { t: 'ourselves.', role: '受詞' },
+          { t: 'the driver', role: '受詞' },
+          { t: 'for the accident.', kind: 'dim' },
         ]"
       />
-      <p class="translation">我們其實不能怪自己。</p>
+      <p class="translation">這場車禍我們其實不能怪司機。</p>
     </NoteSlide>
 
     <NoteSlide title="各個態度副詞表示不同的看法">
@@ -88,8 +89,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="態度副詞後面直接接子句，不加 that">
       <NoteFix
-        wrong="Apparently that the shop is closed today."
-        right="Apparently, the shop is closed today."
+        wrong="Apparently that the post office shuts at noon today."
+        right="Apparently, the post office shuts at noon today."
         fix="Apparently,"
       />
     </NoteSlide>

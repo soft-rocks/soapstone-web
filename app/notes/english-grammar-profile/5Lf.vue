@@ -72,9 +72,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">a bit、a little</span>
           <span
-            ><NoteMark sentence="The test was a bit difficult." :marks="['a bit difficult']" /><span
+            ><NoteMark sentence="The hotel room was a bit noisy." :marks="['a bit noisy']" /><span
               class="translation"
-              >考試有點難。</span
+              >飯店房間有點吵。</span
             ></span
           >
         </div>
@@ -94,11 +94,15 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="a bit 和形容詞中間不加 of">
-      <NoteFix wrong="I'm a bit of tired today." right="I'm a bit tired today." fix="a bit tired" />
+      <NoteFix wrong="The bread is a bit of dry." right="The bread is a bit dry." fix="a bit dry" />
     </NoteSlide>
 
     <NoteSlide title="a 後面用 really，不用 so" mark="so">
-      <NoteFix wrong="She's a so kind person." right="She's a really kind person." fix="really" />
+      <NoteFix
+        wrong="It's a so beautiful beach."
+        right="It's a really beautiful beach."
+        fix="really"
+      />
     </NoteSlide>
 
     <NoteSlide title="fantastic 前面用 really，不用 extremely">
@@ -110,7 +114,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="單數可數名詞前面要有 a">
-      <NoteFix wrong="He's really tall man." right="He's a really tall man." fix="a really" />
+      <NoteFix
+        wrong="My uncle is really generous person."
+        right="My uncle is a really generous person."
+        fix="a really"
+      />
     </NoteSlide>
 
     <NoteSlide title="a little 放在形容詞前面表示程度，放在名詞前面表示數量">
@@ -127,10 +135,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">名詞前面</span>
           <span
-            ><NoteMark sentence="Can I have a little salt?" :marks="['a little salt']" /><span
-              class="translation"
-              >可以給我一點鹽嗎？</span
-            ></span
+            ><NoteMark
+              sentence="Add a little sugar to the sauce."
+              :marks="['a little sugar']"
+            /><span class="translation">醬汁裡加一點糖。</span></span
           >
         </div>
       </div>
@@ -141,19 +149,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">程度副詞</span>
           <span
-            ><NoteMark sentence="The test was pretty easy." :marks="['pretty easy']" /><span
-              class="translation"
-              >考試滿簡單的。</span
-            ></span
+            ><NoteMark
+              sentence="The crossword in today's paper was pretty easy."
+              :marks="['pretty easy']"
+            /><span class="translation">今天報紙上的填字遊戲滿簡單的。</span></span
           >
         </div>
         <div>
           <span class="term">形容詞</span>
           <span
-            ><NoteMark sentence="She's a pretty girl." :marks="['pretty girl']" /><span
-              class="translation"
-              >她是個漂亮的女孩。</span
-            ></span
+            ><NoteMark
+              sentence="She lives in a pretty village by the sea."
+              :marks="['pretty village']"
+            /><span class="translation">她住在海邊一個漂亮的村子。</span></span
           >
         </div>
       </div>

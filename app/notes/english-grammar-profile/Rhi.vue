@@ -29,11 +29,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'I went shopping', role: '子句', kind: 'dim' },
-          { t: 'yesterday.', role: '時間副詞', kind: 'key' },
+          { t: 'We painted the fence', role: '子句', kind: 'dim' },
+          { t: 'last Saturday.', role: '時間副詞', kind: 'key' },
         ]"
       />
-      <p class="translation">我昨天去逛街。</p>
+      <p class="translation">我們上星期六油漆了籬笆。</p>
       <p class="remark">
         比較長的時間副詞放在句首時，後面常加逗號，像 <code>Last summer, we went to Italy.</code>。
       </p>
@@ -46,10 +46,10 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'First', role: '順序副詞', kind: 'key' },
           { t: 'we had dinner,', role: '第一件事' },
           { t: 'and then', role: '順序副詞', kind: 'key' },
-          { t: 'we went to the pub.', role: '第二件事' },
+          { t: 'we went to the cinema.', role: '第二件事' },
         ]"
       />
-      <p class="translation">我們先吃晚餐，然後去了酒吧。</p>
+      <p class="translation">我們先吃晚餐，然後去看電影。</p>
     </NoteSlide>
 
     <NoteSlide title="often、just 放在一般動詞前面，或放在 have 後面">
@@ -57,19 +57,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">一般動詞前面</span>
           <span
-            ><NoteMark sentence="I often eat pasta at weekends." :marks="['often eat']" /><span
-              class="translation"
-              >我週末常吃義大利麵。</span
-            ></span
+            ><NoteMark
+              sentence="My grandfather often naps after lunch."
+              :marks="['often naps']"
+            /><span class="translation">我爺爺常在午餐後小睡。</span></span
           >
         </div>
         <div>
           <span class="term">have 後面</span>
           <span
             ><NoteMark
-              sentence="I've just heard about your accident."
+              sentence="I've just found my old school photos."
               :marks="['I\'ve just']"
-            /><span class="translation">我剛聽說你出意外的事。</span></span
+            /><span class="translation">我剛找到我以前在學校的照片。</span></span
           >
         </div>
       </div>

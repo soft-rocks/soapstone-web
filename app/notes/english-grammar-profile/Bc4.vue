@@ -56,7 +56,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="兩個情狀副詞中間加 and" mark="and">
-      <NoteFix wrong="He spoke slowly clearly." right="He spoke slowly and clearly." fix="and" />
+      <NoteFix
+        wrong="The guide spoke slowly clearly."
+        right="The guide spoke slowly and clearly."
+        fix="and"
+      />
     </NoteSlide>
 
     <NoteSlide title="and 後面的字也要用副詞" mark="and easily">
@@ -71,11 +75,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'She smiled', role: '主詞 + 動詞', kind: 'dim' },
+          { t: 'The shop assistant helped us', role: '主詞 + 動詞 + 受詞', kind: 'dim' },
           { t: 'in a friendly way.', role: '副詞片語', kind: 'key' },
         ]"
       />
-      <p class="translation">她友善地笑了笑。</p>
+      <p class="translation">店員很友善地幫我們。</p>
       <p class="remark"><code>lovely</code>、<code>lonely</code> 也是形容詞。</p>
     </NoteSlide>
   </NoteDeck>

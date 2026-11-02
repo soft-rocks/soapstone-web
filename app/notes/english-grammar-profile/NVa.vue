@@ -16,13 +16,13 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'My brother', role: '主詞' },
+          { t: 'My sister', role: '主詞' },
           { t: 'is', role: 'be', kind: 'dim' },
           { t: 'taller', role: '形容詞-er', kind: 'key', ring: true },
-          { t: 'than me.', role: 'than + 比較的對象', kind: 'key' },
+          { t: 'than our dad.', role: 'than + 比較的對象', kind: 'key' },
         ]"
       />
-      <p class="translation">我哥哥比我高。</p>
+      <p class="translation">我妹妹比我們爸爸高。</p>
       <p class="remark"><code>tall</code> 加 <code>-er</code>，就是比較級。</p>
     </NoteSlide>
 
@@ -35,26 +35,26 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'I have an', kind: 'dim' },
+          { t: 'Lucy has an', kind: 'dim' },
           { t: 'older', role: '形容詞-er', kind: 'key', ring: true },
-          { t: 'brother.', role: '名詞' },
+          { t: 'sister.', role: '名詞' },
         ]"
       />
-      <p class="translation">我有一個哥哥。</p>
+      <p class="translation">Lucy 有一個姊姊。</p>
     </NoteSlide>
 
     <NoteSlide title="加了 -er，前面不加 more" mark="cheaper">
       <NoteFix
-        wrong="This shirt is more cheaper than that one."
-        right="This shirt is cheaper than that one."
+        wrong="These boots are more cheaper than those trainers."
+        right="These boots are cheaper than those trainers."
         fix="cheaper"
       />
     </NoteSlide>
 
     <NoteSlide title="比較級後面接 than，不接 that" mark="than">
       <NoteFix
-        wrong="My room is smaller that yours."
-        right="My room is smaller than yours."
+        wrong="The lake is deeper that the river."
+        right="The lake is deeper than the river."
         fix="than"
       />
     </NoteSlide>

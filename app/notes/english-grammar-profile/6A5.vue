@@ -80,8 +80,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="長的形容詞只重複 more" mark="smaller and smaller">
       <NoteFix
-        wrong="Phones are getting more expensive and more expensive."
-        right="Phones are getting more and more expensive."
+        wrong="Holidays abroad are becoming more expensive and more expensive."
+        right="Holidays abroad are becoming more and more expensive."
         fix="more and more"
       />
     </NoteSlide>

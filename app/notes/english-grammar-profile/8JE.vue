@@ -96,8 +96,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="better 前面不加 more" mark="is better">
       <NoteFix
-        wrong="Her English is more better than mine."
-        right="Her English is better than mine."
+        wrong="Dad's new car is more better than his old one."
+        right="Dad's new car is better than his old one."
         fix="better"
       />
     </NoteSlide>

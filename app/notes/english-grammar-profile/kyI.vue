@@ -71,7 +71,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="比較用 than，不用 then" mark="than">
-      <NoteFix wrong="My brother is older then me." right="My brother is older than me." fix="than">
+      <NoteFix
+        wrong="Grandpa was a better cook then Grandma."
+        right="Grandpa was a better cook than Grandma."
+        fix="than"
+      >
         <code>then</code> 是然後、那時候。
       </NoteFix>
     </NoteSlide>

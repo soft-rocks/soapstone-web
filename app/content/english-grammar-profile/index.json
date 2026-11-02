@@ -2585,80 +2585,80 @@
     "translation": "你可以搭公車來，比較方便。",
     "name": "比較級形容詞當 be 動詞的補語",
     "sentences": [
-      "The bus is cheaper.",
-      "Take a taxi. It's quicker.",
-      "Try my way. It's simpler.",
-      "The soup was saltier than usual.",
-      "Use the stairs. They're closer.",
-      "Sit here. This side is warmer.",
-      "Is the second floor quieter?",
-      "The red apples are sweeter.",
-      "This river is wider near the sea.",
-      "Come in the morning. It's cooler then.",
-      "Wear shorts. You will be more comfortable.",
-      "The second book is more exciting.",
-      "Online shopping is more convenient.",
-      "Was the museum more interesting than the zoo?",
-      "Walking is more relaxing than driving.",
-      "The new rules are more difficult to follow.",
-      "Call me tomorrow. Tomorrow is better.",
-      "Her cold is worse today.",
-      "My English is better than last year.",
-      "The weather was worse in the mountains.",
-      "Is this one better?",
-      "The traffic is worse on Fridays.",
-      "It would be better if you came after five.",
-      "It would be better to leave early.",
-      "It would be better if we met at the station.",
-      "Wouldn't it be better to wait?",
-      "Tickets will be cheaper next month.",
-      "The beach was cleaner last summer.",
-      "Ann's new job is easier than her old one.",
-      "Prices are higher in the city center."
+      "A train ticket to Bristol costs forty pounds, but the bus is cheaper.",
+      "You'll miss your flight if you walk. Take a taxi. It's quicker.",
+      "Don't use that long formula for the answer. Try my way. It's simpler.",
+      "Dad made the soup today. It was saltier than usual.",
+      "Don't wait for the lift to the first floor. Use the stairs. They're closer.",
+      "The wind is blowing from the sea. Sit here. This side is warmer.",
+      "I can hear the street from my hotel room. Is the second floor quieter?",
+      "Don't buy the green apples for the kids. The red apples are sweeter.",
+      "You can't swim across the river by the sea. It's wider there.",
+      "It's very hot at noon in the summer. Come in the morning. It's cooler then.",
+      "It'll be thirty-five degrees tomorrow. Wear shorts. You'll be more comfortable.",
+      "I didn't finish the first book, but the second book is more exciting.",
+      "I don't go to the shops much now. Online shopping is more convenient.",
+      "You went to the museum and the zoo on your school trip. Was the museum more interesting than the zoo?",
+      "I sold my car last year. For me, walking is more relaxing than driving.",
+      "The school changed the rules for phones. The new rules are more difficult to follow.",
+      "I'm busy all day today. Call me tomorrow. Tomorrow is better.",
+      "Lucy stayed home from school again. Her cold is worse today.",
+      "I watch English films every night. My English is better than last year.",
+      "We stayed at the lake, not in the hills. The weather was worse in the mountains.",
+      "The first pen didn't write very well. Is this one better?",
+      "Don't drive into town at the end of the week. The traffic is worse on Fridays.",
+      "I'm in meetings until five. It would be better if you came after five.",
+      "The roads get busy at eight. It would be better to leave early.",
+      "Your street is hard to find. It would be better if we met at the station.",
+      "The shop opens again in ten minutes. Wouldn't it be better to wait?",
+      "Don't book the concert now. Tickets will be cheaper next month.",
+      "There's so much rubbish on the sand this year. The beach was cleaner last summer.",
+      "Ann changed jobs in May. Her new job is easier than her old one.",
+      "We do our shopping in the suburbs. Prices are higher in the city centre."
     ],
     "examples": [
       {
         "heading": "① be + 形容詞-er",
         "items": [
           {
-            "en": "The bus is cheaper.",
-            "zh": "公車比較便宜。"
+            "en": "A train ticket to Bristol costs forty pounds, but the bus is cheaper.",
+            "zh": "去布里斯托的火車票要四十英鎊，不過公車比較便宜。"
           },
           {
-            "en": "Take a taxi. It's quicker.",
-            "zh": "搭計程車吧，比較快。"
+            "en": "You'll miss your flight if you walk. Take a taxi. It's quicker.",
+            "zh": "你走路去會趕不上飛機。搭計程車吧，比較快。"
           },
           {
-            "en": "Try my way. It's simpler.",
-            "zh": "試試我的方法，比較簡單。"
+            "en": "Don't use that long formula for the answer. Try my way. It's simpler.",
+            "zh": "算答案別用那個很長的公式。試試我的方法，比較簡單。"
           },
           {
-            "en": "The soup was saltier than usual.",
-            "zh": "湯比平常鹹。"
+            "en": "Dad made the soup today. It was saltier than usual.",
+            "zh": "今天的湯是爸爸煮的。湯比平常鹹。"
           },
           {
-            "en": "Use the stairs. They're closer.",
-            "zh": "走樓梯吧，比較近。"
+            "en": "Don't wait for the lift to the first floor. Use the stairs. They're closer.",
+            "zh": "去二樓別等電梯了。走樓梯吧，比較近。"
           },
           {
-            "en": "Sit here. This side is warmer.",
-            "zh": "坐這裡，這一邊比較溫暖。"
+            "en": "The wind is blowing from the sea. Sit here. This side is warmer.",
+            "zh": "風從海上吹過來。坐這裡，這一邊比較溫暖。"
           },
           {
-            "en": "Is the second floor quieter?",
-            "zh": "二樓比較安靜嗎？"
+            "en": "I can hear the street from my hotel room. Is the second floor quieter?",
+            "zh": "我在旅館房間聽得到街上的聲音。二樓比較安靜嗎？"
           },
           {
-            "en": "The red apples are sweeter.",
-            "zh": "紅蘋果比較甜。"
+            "en": "Don't buy the green apples for the kids. The red apples are sweeter.",
+            "zh": "別買青蘋果給孩子吃。紅蘋果比較甜。"
           },
           {
-            "en": "This river is wider near the sea.",
-            "zh": "這條河靠近海的地方比較寬。"
+            "en": "You can't swim across the river by the sea. It's wider there.",
+            "zh": "河靠近海的地方你游不過去。那裡比較寬。"
           },
           {
-            "en": "Come in the morning. It's cooler then.",
-            "zh": "早上來吧，那時候比較涼。"
+            "en": "It's very hot at noon in the summer. Come in the morning. It's cooler then.",
+            "zh": "夏天中午很熱。早上來吧，那時候比較涼。"
           }
         ]
       },
@@ -2666,28 +2666,28 @@
         "heading": "② be + more + 形容詞",
         "items": [
           {
-            "en": "Wear shorts. You will be more comfortable.",
-            "zh": "穿短褲吧，你會比較舒服。"
+            "en": "It'll be thirty-five degrees tomorrow. Wear shorts. You'll be more comfortable.",
+            "zh": "明天會到三十五度。穿短褲吧，你會比較舒服。"
           },
           {
-            "en": "The second book is more exciting.",
-            "zh": "第二本書比較精彩。"
+            "en": "I didn't finish the first book, but the second book is more exciting.",
+            "zh": "第一本書我沒看完，不過第二本比較精彩。"
           },
           {
-            "en": "Online shopping is more convenient.",
-            "zh": "網路購物比較方便。"
+            "en": "I don't go to the shops much now. Online shopping is more convenient.",
+            "zh": "我現在不常去商店了。網路購物比較方便。"
           },
           {
-            "en": "Was the museum more interesting than the zoo?",
-            "zh": "博物館比動物園有趣嗎？"
+            "en": "You went to the museum and the zoo on your school trip. Was the museum more interesting than the zoo?",
+            "zh": "你們校外教學去了博物館和動物園。博物館比動物園有趣嗎？"
           },
           {
-            "en": "Walking is more relaxing than driving.",
-            "zh": "走路比開車輕鬆。"
+            "en": "I sold my car last year. For me, walking is more relaxing than driving.",
+            "zh": "我去年把車賣了。對我來說，走路比開車輕鬆。"
           },
           {
-            "en": "The new rules are more difficult to follow.",
-            "zh": "新的規定比較難遵守。"
+            "en": "The school changed the rules for phones. The new rules are more difficult to follow.",
+            "zh": "學校改了手機的規定。新的規定比較難遵守。"
           }
         ]
       },
@@ -2695,28 +2695,28 @@
         "heading": "③ be + better / worse",
         "items": [
           {
-            "en": "Call me tomorrow. Tomorrow is better.",
-            "zh": "明天打給我，明天比較好。"
+            "en": "I'm busy all day today. Call me tomorrow. Tomorrow is better.",
+            "zh": "我今天一整天都很忙。明天打給我，明天比較好。"
           },
           {
-            "en": "Her cold is worse today.",
-            "zh": "她今天感冒比較嚴重。"
+            "en": "Lucy stayed home from school again. Her cold is worse today.",
+            "zh": "Lucy 今天又沒去上學。她今天感冒比較嚴重。"
           },
           {
-            "en": "My English is better than last year.",
-            "zh": "我的英文比去年好。"
+            "en": "I watch English films every night. My English is better than last year.",
+            "zh": "我每天晚上看英文電影。我的英文比去年好。"
           },
           {
-            "en": "The weather was worse in the mountains.",
-            "zh": "山上的天氣比較糟。"
+            "en": "We stayed at the lake, not in the hills. The weather was worse in the mountains.",
+            "zh": "我們待在湖邊，沒去山上。山上的天氣比較糟。"
           },
           {
-            "en": "Is this one better?",
-            "zh": "這個比較好嗎？"
+            "en": "The first pen didn't write very well. Is this one better?",
+            "zh": "第一支筆不太好寫。這支比較好嗎？"
           },
           {
-            "en": "The traffic is worse on Fridays.",
-            "zh": "星期五交通比較糟。"
+            "en": "Don't drive into town at the end of the week. The traffic is worse on Fridays.",
+            "zh": "週末前別開車進城。星期五交通比較糟。"
           }
         ]
       },
@@ -2724,20 +2724,20 @@
         "heading": "④ It would be better",
         "items": [
           {
-            "en": "It would be better if you came after five.",
-            "zh": "你五點以後來會比較好。"
+            "en": "I'm in meetings until five. It would be better if you came after five.",
+            "zh": "我開會開到五點。你五點以後來會比較好。"
           },
           {
-            "en": "It would be better to leave early.",
-            "zh": "早點出發會比較好。"
+            "en": "The roads get busy at eight. It would be better to leave early.",
+            "zh": "八點路上就會塞車。早點出發會比較好。"
           },
           {
-            "en": "It would be better if we met at the station.",
-            "zh": "我們在車站見面會比較好。"
+            "en": "Your street is hard to find. It would be better if we met at the station.",
+            "zh": "你家那條街很難找。我們在車站見面會比較好。"
           },
           {
-            "en": "Wouldn't it be better to wait?",
-            "zh": "等一下不是比較好嗎？"
+            "en": "The shop opens again in ten minutes. Wouldn't it be better to wait?",
+            "zh": "那家店再過十分鐘就重新開門了。等一下不是比較好嗎？"
           }
         ]
       },
@@ -2745,20 +2745,20 @@
         "heading": "⑤ 不同的時態",
         "items": [
           {
-            "en": "Tickets will be cheaper next month.",
-            "zh": "下個月票會比較便宜。"
+            "en": "Don't book the concert now. Tickets will be cheaper next month.",
+            "zh": "現在先別訂音樂會的票。下個月票會比較便宜。"
           },
           {
-            "en": "The beach was cleaner last summer.",
-            "zh": "去年夏天海灘比較乾淨。"
+            "en": "There's so much rubbish on the sand this year. The beach was cleaner last summer.",
+            "zh": "今年沙灘上好多垃圾。去年夏天海灘比較乾淨。"
           },
           {
-            "en": "Ann's new job is easier than her old one.",
-            "zh": "Ann 的新工作比舊的輕鬆。"
+            "en": "Ann changed jobs in May. Her new job is easier than her old one.",
+            "zh": "Ann 五月換了工作。她的新工作比舊的輕鬆。"
           },
           {
-            "en": "Prices are higher in the city center.",
-            "zh": "市中心的物價比較高。"
+            "en": "We do our shopping in the suburbs. Prices are higher in the city centre.",
+            "zh": "我們都在郊區買東西。市中心的物價比較高。"
           }
         ]
       }
@@ -3887,64 +3887,64 @@
     "translation": "我比較想搭飛機過來，因為比較安全。",
     "name": "字尾 -e 加 -r 的比較級",
     "sentences": [
-      "Seat belts make cars safer.",
-      "The new bridge is safer.",
-      "Ice cream is nicer in summer.",
-      "The weather is nicer today.",
-      "Is it safer to walk or to drive at night?",
-      "She is nicer to me now.",
-      "This room is larger than mine.",
-      "The family rented a larger apartment.",
-      "The road gets wider after the bridge.",
-      "The new door is wider than the old one.",
-      "Do you have this shirt in a larger size?",
-      "My flight is later than yours.",
-      "Let's meet at a later time.",
-      "The station is closer than the airport.",
-      "Which seat is closer to the stage?",
-      "My school is closer to my house now.",
-      "The kittens got cuter every week.",
-      "My grandfather became wiser with age.",
-      "He was ruder than his brother.",
-      "The baby looks cuter in this hat.",
-      "You are wiser than you think.",
-      "Which is safer, the train or the bus?",
-      "Tea tastes nicer with a little honey.",
-      "It's later than I thought.",
-      "The new shop is larger and brighter.",
-      "Stay closer to me in the crowd.",
-      "Ann's answer was wiser.",
-      "Will the new airport be larger?",
-      "Life in the countryside is safer for children.",
-      "The second hotel was nicer and closer to the sea."
+      "Always wear your seat belt. Seat belts make cars safer.",
+      "The old bridge over the river had holes in it. The new bridge is safer.",
+      "I don't buy ice cream in winter. Ice cream is nicer in summer.",
+      "It rained all weekend, but the weather is nicer today.",
+      "I'm going home after the party at midnight. Is it safer to walk or to drive?",
+      "My sister and I used to fight a lot. She's nicer to me now.",
+      "You can have the big bedroom. This room is larger than mine.",
+      "The Garcias had a baby in March, so they rented a larger flat.",
+      "Drive slowly through the village. The road gets wider after the bridge.",
+      "Our sofa didn't fit through the old door. The new door is wider than the old one.",
+      "This shirt is a bit tight. Do you have it in a larger size?",
+      "I waited twenty minutes at the stop. The bus was later than usual.",
+      "I can't meet you at two. Let's meet at a later time.",
+      "Don't wait for the bus. Walk to the train. The station is closer than the bus stop.",
+      "I want to see the singer's face. Which seat is closer to the stage?",
+      "We moved last summer. My school is closer to my house now.",
+      "Our cat had four kittens in May. They got cuter every week.",
+      "My grandfather made mistakes when he was young, but he became wiser with age.",
+      "Both boys were rude to the teacher, but Sam was ruder than his brother.",
+      "Put the red hat on the baby. She looks cuter in this hat.",
+      "You knew not to trust that man. You're wiser than you think.",
+      "I'm going to the city on Saturday night. Which is safer, the train or the bus?",
+      "Try your tea with a little honey. It tastes nicer.",
+      "Look at the clock! It's later than I thought.",
+      "The supermarket moved to the high street. The new shop is larger and brighter.",
+      "There are lots of people at the festival. Stay closer to me in the crowd.",
+      "Ann and Ben both answered the teacher's question. Ann's answer was wiser.",
+      "The old airport is too small for all the flights. Will the new airport be larger?",
+      "My parents moved out of the city when I was born. Life in the countryside is safer for children.",
+      "We changed hotels after one night. The second hotel was nicer and closer to the sea."
     ],
     "examples": [
       {
         "heading": "① safe → safer、nice → nicer",
         "items": [
           {
-            "en": "Seat belts make cars safer.",
-            "zh": "安全帶讓汽車更安全。"
+            "en": "Always wear your seat belt. Seat belts make cars safer.",
+            "zh": "一定要繫安全帶。安全帶讓汽車更安全。"
           },
           {
-            "en": "The new bridge is safer.",
-            "zh": "新的橋比較安全。"
+            "en": "The old bridge over the river had holes in it. The new bridge is safer.",
+            "zh": "河上的舊橋有破洞。新的橋比較安全。"
           },
           {
-            "en": "Ice cream is nicer in summer.",
-            "zh": "冰淇淋夏天吃比較好吃。"
+            "en": "I don't buy ice cream in winter. Ice cream is nicer in summer.",
+            "zh": "我冬天不買冰淇淋。冰淇淋夏天吃比較好吃。"
           },
           {
-            "en": "The weather is nicer today.",
-            "zh": "今天天氣比較好。"
+            "en": "It rained all weekend, but the weather is nicer today.",
+            "zh": "整個週末都在下雨，不過今天天氣比較好。"
           },
           {
-            "en": "Is it safer to walk or to drive at night?",
-            "zh": "晚上走路比較安全，還是開車比較安全？"
+            "en": "I'm going home after the party at midnight. Is it safer to walk or to drive?",
+            "zh": "我半夜派對結束後要回家。走路比較安全，還是開車比較安全？"
           },
           {
-            "en": "She is nicer to me now.",
-            "zh": "她現在對我比較好。"
+            "en": "My sister and I used to fight a lot. She's nicer to me now.",
+            "zh": "我姊姊和我以前常吵架。她現在對我比較好。"
           }
         ]
       },
@@ -3952,24 +3952,24 @@
         "heading": "② large → larger、wide → wider",
         "items": [
           {
-            "en": "This room is larger than mine.",
-            "zh": "這個房間比我的大。"
+            "en": "You can have the big bedroom. This room is larger than mine.",
+            "zh": "你可以住大臥室。這個房間比我的大。"
           },
           {
-            "en": "The family rented a larger apartment.",
-            "zh": "那一家人租了一間比較大的公寓。"
+            "en": "The Garcias had a baby in March, so they rented a larger flat.",
+            "zh": "Garcia 一家三月生了寶寶，所以他們租了一間比較大的公寓。"
           },
           {
-            "en": "The road gets wider after the bridge.",
-            "zh": "過了橋之後，路變寬了。"
+            "en": "Drive slowly through the village. The road gets wider after the bridge.",
+            "zh": "開過村子要慢慢開。過了橋之後，路變寬了。"
           },
           {
-            "en": "The new door is wider than the old one.",
-            "zh": "新的門比舊的寬。"
+            "en": "Our sofa didn't fit through the old door. The new door is wider than the old one.",
+            "zh": "我們的沙發搬不進舊的門。新的門比舊的寬。"
           },
           {
-            "en": "Do you have this shirt in a larger size?",
-            "zh": "這件襯衫有大一號的嗎？"
+            "en": "This shirt is a bit tight. Do you have it in a larger size?",
+            "zh": "這件襯衫有點緊。有大一號的嗎？"
           }
         ]
       },
@@ -3977,24 +3977,24 @@
         "heading": "③ late → later、close → closer",
         "items": [
           {
-            "en": "My flight is later than yours.",
-            "zh": "我的班機比你的晚。"
+            "en": "I waited twenty minutes at the stop. The bus was later than usual.",
+            "zh": "我在公車站等了二十分鐘。公車比平常晚到。"
           },
           {
-            "en": "Let's meet at a later time.",
-            "zh": "我們晚一點再見面吧。"
+            "en": "I can't meet you at two. Let's meet at a later time.",
+            "zh": "我兩點沒辦法跟你見面。我們晚一點再見面吧。"
           },
           {
-            "en": "The station is closer than the airport.",
-            "zh": "車站比機場近。"
+            "en": "Don't wait for the bus. Walk to the train. The station is closer than the bus stop.",
+            "zh": "別等公車了。走路去搭火車。車站比公車站近。"
           },
           {
-            "en": "Which seat is closer to the stage?",
-            "zh": "哪個座位離舞台比較近？"
+            "en": "I want to see the singer's face. Which seat is closer to the stage?",
+            "zh": "我想看到歌手的臉。哪個座位離舞台比較近？"
           },
           {
-            "en": "My school is closer to my house now.",
-            "zh": "我的學校現在離我家比較近。"
+            "en": "We moved last summer. My school is closer to my house now.",
+            "zh": "我們去年夏天搬家了。我的學校現在離我家比較近。"
           }
         ]
       },
@@ -4002,24 +4002,24 @@
         "heading": "④ cute → cuter、wise → wiser、rude → ruder",
         "items": [
           {
-            "en": "The kittens got cuter every week.",
-            "zh": "小貓一週比一週可愛。"
+            "en": "Our cat had four kittens in May. They got cuter every week.",
+            "zh": "我們的貓五月生了四隻小貓。小貓一週比一週可愛。"
           },
           {
-            "en": "My grandfather became wiser with age.",
-            "zh": "我爺爺年紀越大越有智慧。"
+            "en": "My grandfather made mistakes when he was young, but he became wiser with age.",
+            "zh": "我爺爺年輕時犯過錯，不過他年紀越大越有智慧。"
           },
           {
-            "en": "He was ruder than his brother.",
-            "zh": "他比他哥哥沒禮貌。"
+            "en": "Both boys were rude to the teacher, but Sam was ruder than his brother.",
+            "zh": "兩個男孩都對老師沒禮貌，不過 Sam 比他哥哥更沒禮貌。"
           },
           {
-            "en": "The baby looks cuter in this hat.",
-            "zh": "寶寶戴這頂帽子看起來比較可愛。"
+            "en": "Put the red hat on the baby. She looks cuter in this hat.",
+            "zh": "幫寶寶戴紅色的帽子。她戴這頂帽子看起來比較可愛。"
           },
           {
-            "en": "You are wiser than you think.",
-            "zh": "你比你以為的還聰明。"
+            "en": "You knew not to trust that man. You're wiser than you think.",
+            "zh": "你知道不能相信那個男人。你比你以為的還聰明。"
           }
         ]
       },
@@ -4027,40 +4027,40 @@
         "heading": "⑤ 不同的句子",
         "items": [
           {
-            "en": "Which is safer, the train or the bus?",
-            "zh": "火車和公車，哪一個比較安全？"
+            "en": "I'm going to the city on Saturday night. Which is safer, the train or the bus?",
+            "zh": "我星期六晚上要進城。火車和公車，哪一個比較安全？"
           },
           {
-            "en": "Tea tastes nicer with a little honey.",
-            "zh": "茶加一點蜂蜜比較好喝。"
+            "en": "Try your tea with a little honey. It tastes nicer.",
+            "zh": "你的茶加一點蜂蜜試試看。這樣比較好喝。"
           },
           {
-            "en": "It's later than I thought.",
-            "zh": "時間比我以為的晚。"
+            "en": "Look at the clock! It's later than I thought.",
+            "zh": "你看時鐘！時間比我以為的晚。"
           },
           {
-            "en": "The new shop is larger and brighter.",
-            "zh": "新的店比較大，也比較明亮。"
+            "en": "The supermarket moved to the high street. The new shop is larger and brighter.",
+            "zh": "超市搬到大街上了。新的店比較大，也比較明亮。"
           },
           {
-            "en": "Stay closer to me in the crowd.",
-            "zh": "在人群裡要靠我近一點。"
+            "en": "There are lots of people at the festival. Stay closer to me in the crowd.",
+            "zh": "音樂節人很多。在人群裡要靠我近一點。"
           },
           {
-            "en": "Ann's answer was wiser.",
-            "zh": "Ann 的回答比較明智。"
+            "en": "Ann and Ben both answered the teacher's question. Ann's answer was wiser.",
+            "zh": "Ann 和 Ben 都回答了老師的問題。Ann 的回答比較明智。"
           },
           {
-            "en": "Will the new airport be larger?",
-            "zh": "新的機場會比較大嗎？"
+            "en": "The old airport is too small for all the flights. Will the new airport be larger?",
+            "zh": "舊機場太小，容納不了所有的班機。新的機場會比較大嗎？"
           },
           {
-            "en": "Life in the countryside is safer for children.",
-            "zh": "鄉下的生活對小孩來說比較安全。"
+            "en": "My parents moved out of the city when I was born. Life in the countryside is safer for children.",
+            "zh": "我出生的時候，我爸媽搬離了城市。鄉下的生活對小孩來說比較安全。"
           },
           {
-            "en": "The second hotel was nicer and closer to the sea.",
-            "zh": "第二家旅館比較好，離海也比較近。"
+            "en": "We changed hotels after one night. The second hotel was nicer and closer to the sea.",
+            "zh": "我們住了一晚就換旅館。第二家旅館比較好，離海也比較近。"
           }
         ]
       }
@@ -4073,88 +4073,88 @@
     "translation": "那件襯衫比那條褲子便宜。",
     "name": "單音節形容詞加 -er 的比較級",
     "sentences": [
-      "My brother is taller than me.",
-      "Trains are faster than buses.",
-      "My new camera is smaller than my old one.",
-      "Today is colder than yesterday.",
-      "My cat is younger than my dog.",
-      "This road is shorter than that one.",
-      "The river is longer than I thought.",
-      "Ann's hair is darker than mine.",
-      "Gold is softer than iron.",
-      "Your bag is lighter than mine.",
-      "The room was cleaner than before.",
-      "Our school is older than our town hall.",
-      "This bag is cheap, but that one is cheaper.",
-      "Is the new phone lighter?",
-      "The water is getting colder.",
-      "I need a smaller size.",
-      "The blue lamp is brighter.",
-      "The second test was harder.",
-      "I have an older brother.",
-      "We need a longer table.",
-      "Do you have a cheaper room?",
-      "Ken wants a newer phone.",
-      "She bought a warmer coat for winter.",
-      "Let's take the shorter way home.",
-      "Is your house older than mine?",
-      "Tomorrow will be colder than today.",
-      "My dog was smaller than yours.",
-      "Who is taller, you or Ken?",
-      "The tea is stronger than the coffee.",
-      "My grandfather is richer than he looks."
+      "My brother plays basketball for the school. He's taller than me.",
+      "We took the train to Leeds instead of the bus. Trains are quicker than buses.",
+      "I bought a new camera for the trip. It's smaller than my old one.",
+      "Wear your thick coat. Today is colder than yesterday.",
+      "We got the dog first and the cat later. My cat is younger than my dog.",
+      "Don't take the main road to the station. This road is shorter.",
+      "We walked along the river all day. The river is longer than I thought.",
+      "People think Ann and I are sisters, but her hair is darker than mine.",
+      "You can bend a gold ring with your fingers. Gold is softer than iron.",
+      "You carry my bag, and I'll carry yours. Your bag is lighter than mine.",
+      "The cleaner came on Monday. The room was cleaner than before.",
+      "Our school opened in 1890. It's older than our town hall.",
+      "I looked at two bags in the shop. This bag is cheap, but that one is cheaper.",
+      "My phone is so heavy. Is the new phone lighter?",
+      "Come out of the sea now. The water is getting colder.",
+      "These jeans are too big for me. I need a smaller size.",
+      "I can't read with the red lamp. The blue lamp is brighter.",
+      "I passed the first test easily, but the second test was harder.",
+      "There are three kids in my family. I have an older brother and a younger sister.",
+      "Ten people are coming for dinner. We need a longer table.",
+      "Two hundred euros a night is too much for us. Do you have a cheaper room?",
+      "Ken's phone is six years old. He wants a newer phone.",
+      "Winters are very cold in Canada. My sister bought a warmer coat before she moved there.",
+      "It's getting dark. Let's take the shorter way home.",
+      "My house was built in 1920. Is your house older than mine?",
+      "Don't forget your gloves. Tomorrow will be colder than today.",
+      "Your dog is huge now! When we got our puppies, my dog was smaller than yours.",
+      "You and Ken are the same height. Who is taller, you or Ken?",
+      "I can't sleep after tea at night. The tea is stronger than the coffee here.",
+      "My grandfather wears old clothes, but he owns three houses. He's richer than he looks."
     ],
     "examples": [
       {
         "heading": "① 形容詞-er + than",
         "items": [
           {
-            "en": "My brother is taller than me.",
-            "zh": "我哥哥比我高。"
+            "en": "My brother plays basketball for the school. He's taller than me.",
+            "zh": "我哥哥是學校籃球隊的。他比我高。"
           },
           {
-            "en": "Trains are faster than buses.",
-            "zh": "火車比公車快。"
+            "en": "We took the train to Leeds instead of the bus. Trains are quicker than buses.",
+            "zh": "我們搭火車去里茲，沒搭公車。火車比公車快。"
           },
           {
-            "en": "My new camera is smaller than my old one.",
-            "zh": "我的新相機比舊的那台小。"
+            "en": "I bought a new camera for the trip. It's smaller than my old one.",
+            "zh": "我為了旅行買了一台新相機。它比舊的那台小。"
           },
           {
-            "en": "Today is colder than yesterday.",
-            "zh": "今天比昨天冷。"
+            "en": "Wear your thick coat. Today is colder than yesterday.",
+            "zh": "穿你那件厚外套。今天比昨天冷。"
           },
           {
-            "en": "My cat is younger than my dog.",
-            "zh": "我的貓比我的狗年輕。"
+            "en": "We got the dog first and the cat later. My cat is younger than my dog.",
+            "zh": "我們先養狗，後來才養貓。我的貓比我的狗年輕。"
           },
           {
-            "en": "This road is shorter than that one.",
-            "zh": "這條路比那條短。"
+            "en": "Don't take the main road to the station. This road is shorter.",
+            "zh": "去車站別走大馬路。這條路比較短。"
           },
           {
-            "en": "The river is longer than I thought.",
-            "zh": "這條河比我想的長。"
+            "en": "We walked along the river all day. The river is longer than I thought.",
+            "zh": "我們沿著河走了一整天。這條河比我想的長。"
           },
           {
-            "en": "Ann's hair is darker than mine.",
-            "zh": "Ann 的頭髮顏色比我的深。"
+            "en": "People think Ann and I are sisters, but her hair is darker than mine.",
+            "zh": "大家以為我和 Ann 是姊妹，不過她的頭髮顏色比我的深。"
           },
           {
-            "en": "Gold is softer than iron.",
-            "zh": "金比鐵軟。"
+            "en": "You can bend a gold ring with your fingers. Gold is softer than iron.",
+            "zh": "你用手指就能把金戒指扳彎。金比鐵軟。"
           },
           {
-            "en": "Your bag is lighter than mine.",
-            "zh": "你的包包比我的輕。"
+            "en": "You carry my bag, and I'll carry yours. Your bag is lighter than mine.",
+            "zh": "你提我的包包，我提你的。你的包包比我的輕。"
           },
           {
-            "en": "The room was cleaner than before.",
-            "zh": "房間比以前乾淨。"
+            "en": "The cleaner came on Monday. The room was cleaner than before.",
+            "zh": "清潔工星期一來過。房間比以前乾淨。"
           },
           {
-            "en": "Our school is older than our town hall.",
-            "zh": "我們學校比鎮公所還老。"
+            "en": "Our school opened in 1890. It's older than our town hall.",
+            "zh": "我們學校是 1890 年開的。它比鎮公所還老。"
           }
         ]
       },
@@ -4162,28 +4162,28 @@
         "heading": "② 不寫 than",
         "items": [
           {
-            "en": "This bag is cheap, but that one is cheaper.",
-            "zh": "這個包包很便宜，但是那個更便宜。"
+            "en": "I looked at two bags in the shop. This bag is cheap, but that one is cheaper.",
+            "zh": "我在店裡看了兩個包包。這個包包很便宜，但是那個更便宜。"
           },
           {
-            "en": "Is the new phone lighter?",
-            "zh": "新手機比較輕嗎？"
+            "en": "My phone is so heavy. Is the new phone lighter?",
+            "zh": "我的手機好重。新手機比較輕嗎？"
           },
           {
-            "en": "The water is getting colder.",
-            "zh": "水越來越冷了。"
+            "en": "Come out of the sea now. The water is getting colder.",
+            "zh": "現在從海裡出來吧。水越來越冷了。"
           },
           {
-            "en": "I need a smaller size.",
-            "zh": "我需要小一號的尺寸。"
+            "en": "These jeans are too big for me. I need a smaller size.",
+            "zh": "這條牛仔褲我穿太大了。我需要小一號的尺寸。"
           },
           {
-            "en": "The blue lamp is brighter.",
-            "zh": "藍色那盞燈比較亮。"
+            "en": "I can't read with the red lamp. The blue lamp is brighter.",
+            "zh": "紅色的燈我沒辦法看書。藍色那盞燈比較亮。"
           },
           {
-            "en": "The second test was harder.",
-            "zh": "第二次考試比較難。"
+            "en": "I passed the first test easily, but the second test was harder.",
+            "zh": "第一次考試我輕鬆過了，不過第二次考試比較難。"
           }
         ]
       },
@@ -4191,28 +4191,28 @@
         "heading": "③ 形容詞-er + 名詞",
         "items": [
           {
-            "en": "I have an older brother.",
-            "zh": "我有一個哥哥。"
+            "en": "There are three kids in my family. I have an older brother and a younger sister.",
+            "zh": "我家有三個小孩。我有一個哥哥和一個妹妹。"
           },
           {
-            "en": "We need a longer table.",
-            "zh": "我們需要一張比較長的桌子。"
+            "en": "Ten people are coming for dinner. We need a longer table.",
+            "zh": "有十個人要來吃晚餐。我們需要一張比較長的桌子。"
           },
           {
-            "en": "Do you have a cheaper room?",
-            "zh": "你們有比較便宜的房間嗎？"
+            "en": "Two hundred euros a night is too much for us. Do you have a cheaper room?",
+            "zh": "一晚兩百歐元對我們來說太貴了。你們有比較便宜的房間嗎？"
           },
           {
-            "en": "Ken wants a newer phone.",
-            "zh": "Ken 想要一支比較新的手機。"
+            "en": "Ken's phone is six years old. He wants a newer phone.",
+            "zh": "Ken 的手機用了六年。他想要一支比較新的手機。"
           },
           {
-            "en": "She bought a warmer coat for winter.",
-            "zh": "她買了一件比較保暖的外套過冬。"
+            "en": "Winters are very cold in Canada. My sister bought a warmer coat before she moved there.",
+            "zh": "加拿大的冬天很冷。我姊姊搬去那裡之前，買了一件比較保暖的外套。"
           },
           {
-            "en": "Let's take the shorter way home.",
-            "zh": "我們走比較近的那條路回家吧。"
+            "en": "It's getting dark. Let's take the shorter way home.",
+            "zh": "天快黑了。我們走比較近的那條路回家吧。"
           }
         ]
       },
@@ -4220,28 +4220,28 @@
         "heading": "④ 不同的時態和句型",
         "items": [
           {
-            "en": "Is your house older than mine?",
-            "zh": "你的房子比我的老嗎？"
+            "en": "My house was built in 1920. Is your house older than mine?",
+            "zh": "我的房子是 1920 年蓋的。你的房子比我的老嗎？"
           },
           {
-            "en": "Tomorrow will be colder than today.",
-            "zh": "明天會比今天冷。"
+            "en": "Don't forget your gloves. Tomorrow will be colder than today.",
+            "zh": "別忘了帶手套。明天會比今天冷。"
           },
           {
-            "en": "My dog was smaller than yours.",
-            "zh": "我的狗以前比你的小。"
+            "en": "Your dog is huge now! When we got our puppies, my dog was smaller than yours.",
+            "zh": "你的狗現在好大！我們剛養小狗的時候，我的狗比你的小。"
           },
           {
-            "en": "Who is taller, you or Ken?",
-            "zh": "你和 Ken 誰比較高？"
+            "en": "You and Ken are the same height. Who is taller, you or Ken?",
+            "zh": "你和 Ken 一樣高。你和 Ken 誰比較高？"
           },
           {
-            "en": "The tea is stronger than the coffee.",
-            "zh": "茶比咖啡濃。"
+            "en": "I can't sleep after tea at night. The tea is stronger than the coffee here.",
+            "zh": "我晚上喝茶會睡不著。這裡的茶比咖啡濃。"
           },
           {
-            "en": "My grandfather is richer than he looks.",
-            "zh": "我爺爺比他看起來的還有錢。"
+            "en": "My grandfather wears old clothes, but he owns three houses. He's richer than he looks.",
+            "zh": "我爺爺穿舊衣服，不過他有三棟房子。他比他看起來的還有錢。"
           }
         ]
       }
@@ -4254,88 +4254,92 @@
     "translation": "我喜歡它，因為它很小，而且比其他手機好用。",
     "name": "字尾 -y 改 -ier 的比較級",
     "sentences": [
-      "My sister is happier than before.",
-      "This test is easier than the last one.",
-      "My bag is heavier than yours.",
-      "The city is noisier than the countryside.",
-      "Saturdays are busier than Sundays at the shop.",
-      "Your joke was funnier than mine.",
-      "Fruit is healthier than candy.",
-      "Ken is luckier than his brother.",
-      "The kitchen is dirtier than the living room.",
-      "She is prettier than her photo.",
-      "Dad was angrier than Mom.",
-      "This year, spring came earlier than usual.",
-      "The last chapter was funnier.",
-      "The children look happier now.",
-      "The market gets busier at night.",
-      "My suitcase got heavier on the way home.",
-      "My little brother is noisier than ever.",
-      "The roads are busier in the evening.",
-      "Do you have an easier book?",
-      "Let's take the earlier train.",
-      "I want a healthier lunch.",
-      "She found a prettier dress in the next shop.",
-      "We need a heavier blanket in winter.",
-      "Was the exam easier than you expected?",
-      "Life in the city is busier than life here.",
-      "Which is heavier, a kilo of rice or a kilo of sugar?",
-      "Ann's room is always tidier than mine.",
-      "The puppy is friendlier than the old dog.",
-      "You will feel happier after a good sleep.",
-      "The streets were emptier than usual."
+      "My sister started a new job in May. She's happier than before.",
+      "I finished the maths test in twenty minutes. It was easier than the last one.",
+      "I've got my laptop and all my books. My bag is heavier than yours.",
+      "I can't sleep with the traffic outside. The city is noisier than the countryside.",
+      "Don't take a day off on Saturday. Saturdays are busier than Sundays at the shop.",
+      "Everyone laughed at your story. Your joke was funnier than mine.",
+      "Give the kids an apple after school. Fruit is healthier than sweets.",
+      "Ken won a car in a competition. He's luckier than his brother.",
+      "Clean the kitchen first. The kitchen is dirtier than the living room.",
+      "I finally met Tom's girlfriend. She's prettier than her photo.",
+      "I broke the window with my football. Dad was angrier than Mum.",
+      "The trees had flowers in February. This year, spring came earlier than usual.",
+      "My little brother got a drum set for his birthday. He's noisier than ever.",
+      "I didn't like the start of the book, but the last chapter was funnier.",
+      "We moved the kids to a smaller school. They look happier now.",
+      "Go to the night market after eight. It gets busier at night.",
+      "I bought too many souvenirs. My suitcase got heavier and heavier on the way home.",
+      "Leave the office before five. The roads are busier in the evening.",
+      "This novel is too difficult for my son. Do you have an easier book?",
+      "The meeting starts at nine. Let's take the earlier train.",
+      "I had a burger yesterday. Today I want a healthier lunch.",
+      "Lisa didn't like the dress in the first shop. She found a prettier dress next door.",
+      "It's freezing in this bedroom. We need a heavier blanket.",
+      "You came out of the exam smiling. Was it easier than you expected?",
+      "My cousin moved back to the village. Life in the city was busier than life here.",
+      "I'll carry one of these boxes. Which is heavier, the books or the plates?",
+      "Ann puts everything away every evening. Her room is always tidier than mine.",
+      "Our new puppy runs up to everyone. He's friendlier than our old dog.",
+      "Go to bed now. You'll feel happier after a good sleep.",
+      "It was a public holiday, so the streets were emptier than usual."
     ],
     "examples": [
       {
         "heading": "① 形容詞-ier + than",
         "items": [
           {
-            "en": "My sister is happier than before.",
-            "zh": "我姊姊比以前開心。"
+            "en": "My sister started a new job in May. She's happier than before.",
+            "zh": "我姊姊五月開始做新工作。她比以前開心。"
           },
           {
-            "en": "This test is easier than the last one.",
-            "zh": "這次考試比上次簡單。"
+            "en": "I finished the maths test in twenty minutes. It was easier than the last one.",
+            "zh": "我二十分鐘就寫完數學考試。這次比上次簡單。"
           },
           {
-            "en": "My bag is heavier than yours.",
-            "zh": "我的包包比你的重。"
+            "en": "I've got my laptop and all my books. My bag is heavier than yours.",
+            "zh": "我帶了筆電和所有的書。我的包包比你的重。"
           },
           {
-            "en": "The city is noisier than the countryside.",
-            "zh": "城市比鄉下吵。"
+            "en": "I can't sleep with the traffic outside. The city is noisier than the countryside.",
+            "zh": "外面的車聲讓我睡不著。城市比鄉下吵。"
           },
           {
-            "en": "Saturdays are busier than Sundays at the shop.",
-            "zh": "店裡星期六比星期天忙。"
+            "en": "Don't take a day off on Saturday. Saturdays are busier than Sundays at the shop.",
+            "zh": "星期六別請假。店裡星期六比星期天忙。"
           },
           {
-            "en": "Your joke was funnier than mine.",
-            "zh": "你的笑話比我的好笑。"
+            "en": "Everyone laughed at your story. Your joke was funnier than mine.",
+            "zh": "大家都被你的故事逗笑了。你的笑話比我的好笑。"
           },
           {
-            "en": "Fruit is healthier than candy.",
-            "zh": "水果比糖果健康。"
+            "en": "Give the kids an apple after school. Fruit is healthier than sweets.",
+            "zh": "放學後給孩子們一顆蘋果。水果比糖果健康。"
           },
           {
-            "en": "Ken is luckier than his brother.",
-            "zh": "Ken 比他哥哥幸運。"
+            "en": "Ken won a car in a competition. He's luckier than his brother.",
+            "zh": "Ken 在比賽中贏了一輛車。他比他哥哥幸運。"
           },
           {
-            "en": "The kitchen is dirtier than the living room.",
-            "zh": "廚房比客廳髒。"
+            "en": "Clean the kitchen first. The kitchen is dirtier than the living room.",
+            "zh": "先打掃廚房。廚房比客廳髒。"
           },
           {
-            "en": "She is prettier than her photo.",
-            "zh": "她本人比照片漂亮。"
+            "en": "I finally met Tom's girlfriend. She's prettier than her photo.",
+            "zh": "我終於見到 Tom 的女朋友。她本人比照片漂亮。"
           },
           {
-            "en": "Dad was angrier than Mom.",
-            "zh": "爸爸比媽媽更生氣。"
+            "en": "I broke the window with my football. Dad was angrier than Mum.",
+            "zh": "我踢足球打破了窗戶。爸爸比媽媽更生氣。"
           },
           {
-            "en": "This year, spring came earlier than usual.",
-            "zh": "今年春天來得比平常早。"
+            "en": "The trees had flowers in February. This year, spring came earlier than usual.",
+            "zh": "二月樹就開花了。今年春天來得比平常早。"
+          },
+          {
+            "en": "My little brother got a drum set for his birthday. He's noisier than ever.",
+            "zh": "我弟弟生日收到一套鼓。他比以前更吵了。"
           }
         ]
       },
@@ -4343,28 +4347,24 @@
         "heading": "② 不寫 than",
         "items": [
           {
-            "en": "The last chapter was funnier.",
-            "zh": "最後一章比較好笑。"
+            "en": "I didn't like the start of the book, but the last chapter was funnier.",
+            "zh": "我不喜歡那本書的開頭，不過最後一章比較好笑。"
           },
           {
-            "en": "The children look happier now.",
-            "zh": "孩子們現在看起來比較開心。"
+            "en": "We moved the kids to a smaller school. They look happier now.",
+            "zh": "我們讓孩子們轉到一所小一點的學校。他們現在看起來比較開心。"
           },
           {
-            "en": "The market gets busier at night.",
-            "zh": "市場晚上人比較多。"
+            "en": "Go to the night market after eight. It gets busier at night.",
+            "zh": "八點以後去夜市。夜市晚上人比較多。"
           },
           {
-            "en": "My suitcase got heavier on the way home.",
-            "zh": "回家的路上，我的行李箱變重了。"
+            "en": "I bought too many souvenirs. My suitcase got heavier and heavier on the way home.",
+            "zh": "我買了太多紀念品。回家的路上，我的行李箱越來越重。"
           },
           {
-            "en": "My little brother is noisier than ever.",
-            "zh": "我弟弟比以前更吵了。"
-          },
-          {
-            "en": "The roads are busier in the evening.",
-            "zh": "傍晚路上的車比較多。"
+            "en": "Leave the office before five. The roads are busier in the evening.",
+            "zh": "五點以前離開辦公室。傍晚路上的車比較多。"
           }
         ]
       },
@@ -4372,24 +4372,24 @@
         "heading": "③ 形容詞-ier + 名詞",
         "items": [
           {
-            "en": "Do you have an easier book?",
-            "zh": "你有比較簡單的書嗎？"
+            "en": "This novel is too difficult for my son. Do you have an easier book?",
+            "zh": "這本小說對我兒子太難了。你有比較簡單的書嗎？"
           },
           {
-            "en": "Let's take the earlier train.",
-            "zh": "我們搭早一點的那班火車吧。"
+            "en": "The meeting starts at nine. Let's take the earlier train.",
+            "zh": "會議九點開始。我們搭早一點的那班火車吧。"
           },
           {
-            "en": "I want a healthier lunch.",
-            "zh": "我想吃比較健康的午餐。"
+            "en": "I had a burger yesterday. Today I want a healthier lunch.",
+            "zh": "我昨天吃了漢堡。今天我想吃比較健康的午餐。"
           },
           {
-            "en": "She found a prettier dress in the next shop.",
-            "zh": "她在隔壁那家店找到一件更漂亮的洋裝。"
+            "en": "Lisa didn't like the dress in the first shop. She found a prettier dress next door.",
+            "zh": "Lisa 不喜歡第一家店的洋裝。她在隔壁找到一件更漂亮的洋裝。"
           },
           {
-            "en": "We need a heavier blanket in winter.",
-            "zh": "冬天我們需要比較厚重的毯子。"
+            "en": "It's freezing in this bedroom. We need a heavier blanket.",
+            "zh": "這間臥室冷死了。我們需要比較厚重的毯子。"
           }
         ]
       },
@@ -4397,32 +4397,32 @@
         "heading": "④ 不同的時態和句型",
         "items": [
           {
-            "en": "Was the exam easier than you expected?",
-            "zh": "考試比你預期的簡單嗎？"
+            "en": "You came out of the exam smiling. Was it easier than you expected?",
+            "zh": "你笑著走出考場。考試比你預期的簡單嗎？"
           },
           {
-            "en": "Life in the city is busier than life here.",
-            "zh": "城市的生活比這裡忙碌。"
+            "en": "My cousin moved back to the village. Life in the city was busier than life here.",
+            "zh": "我表哥搬回村子裡了。城市的生活比這裡忙碌。"
           },
           {
-            "en": "Which is heavier, a kilo of rice or a kilo of sugar?",
-            "zh": "一公斤的米和一公斤的糖，哪一個比較重？"
+            "en": "I'll carry one of these boxes. Which is heavier, the books or the plates?",
+            "zh": "這兩個箱子我搬一個。書和盤子，哪一箱比較重？"
           },
           {
-            "en": "Ann's room is always tidier than mine.",
-            "zh": "Ann 的房間總是比我的整齊。"
+            "en": "Ann puts everything away every evening. Her room is always tidier than mine.",
+            "zh": "Ann 每天晚上都把東西收好。她的房間總是比我的整齊。"
           },
           {
-            "en": "The puppy is friendlier than the old dog.",
-            "zh": "那隻小狗比那隻老狗友善。"
+            "en": "Our new puppy runs up to everyone. He's friendlier than our old dog.",
+            "zh": "我們的新小狗看到誰都跑過去。牠比我們的老狗友善。"
           },
           {
-            "en": "You will feel happier after a good sleep.",
-            "zh": "好好睡一覺以後，你會覺得比較開心。"
+            "en": "Go to bed now. You'll feel happier after a good sleep.",
+            "zh": "現在去睡吧。好好睡一覺以後，你會覺得比較開心。"
           },
           {
-            "en": "The streets were emptier than usual.",
-            "zh": "街上比平常空。"
+            "en": "It was a public holiday, so the streets were emptier than usual.",
+            "zh": "那天是國定假日，所以街上比平常空。"
           }
         ]
       }
@@ -4435,80 +4435,80 @@
     "translation": "你覺得哪個顏色比較好？",
     "name": "不規則比較級",
     "sentences": [
-      "Homemade bread is better than store bread.",
-      "A walk is better than a nap after lunch.",
-      "I feel much better today.",
-      "Which song do you think is better?",
-      "We had better luck in the afternoon.",
-      "My grandmother's memory is better than mine.",
-      "Do you think the sequel is better?",
-      "This hotel has better rooms.",
-      "My grades were better this year.",
-      "Fresh fruit is better for you than juice.",
-      "The pain in my knee is worse in winter.",
-      "My cold is worse than yesterday.",
-      "The food was worse than I expected.",
-      "Nothing is worse than waiting in the rain.",
-      "His second song was worse.",
-      "The storm got worse at night.",
-      "Is your back pain worse?",
-      "The lake is farther from the road than the river.",
-      "My school is farther from home than yours.",
-      "Which city is farther from Taipei?",
-      "For further information, call our office.",
-      "We need further help with the project.",
-      "The beach was further away than the map showed.",
-      "Ann's cooking is getting better.",
-      "With more practice, you'll get better at it.",
-      "Don't worry, it could be worse.",
-      "Is the north farther than the south?",
-      "Ken found a better job last month.",
-      "My handwriting is worse than my brother's.",
-      "The second half of the game was better."
+      "My mum bakes our bread at home. Homemade bread is better than store bread.",
+      "I always feel sleepy at work in the afternoon. A walk is better than a nap after lunch.",
+      "Thanks for the soup last night. I feel much better today.",
+      "We need a song for the wedding. Which song do you think is better?",
+      "We didn't catch any fish in the morning, but we had better luck in the afternoon.",
+      "My grandmother remembers everyone's birthday. Her memory is better than mine.",
+      "You saw both films. Do you think the second one is better?",
+      "Let's not stay at the cheap place. This hotel has better rooms.",
+      "I studied with a tutor every week. My grades were better this year.",
+      "Don't give the kids so much juice. Fresh fruit is better for you than juice.",
+      "My grandfather doesn't walk much in December. The pain in his knee is worse in winter.",
+      "I can't come to work today. My cold is worse than yesterday.",
+      "Everyone said the restaurant was good, but the food was worse than I expected.",
+      "The bus was forty minutes late this morning. Nothing is worse than waiting in the rain.",
+      "I liked the singer's first song. Her second song was worse.",
+      "We closed all the windows in the evening. The storm got worse at night.",
+      "You've been in bed all day. Is your back pain worse?",
+      "Let's have our picnic by the river. The lake is farther from the road than the river.",
+      "I take the bus, but you walk to school. My school is farther from home than yours.",
+      "I'm choosing between Tainan and Kaohsiung. Which city is farther from Taipei?",
+      "Thank you for your interest in our courses. For further information, call our office.",
+      "We can't finish the website by Friday. We need further help with the project.",
+      "We walked for an hour to the beach. It was further away than the map showed.",
+      "Ann took a cooking class this spring. Her cooking is getting better.",
+      "Don't give up the piano. With more practice, you'll get better at it.",
+      "We missed the train, but there's another one in an hour. It could be worse.",
+      "Your flat is a ten-minute walk from the station. Is mine farther?",
+      "Ken was unhappy at the bank, so he looked for a new job. He found a better job last month.",
+      "Nobody can read my notes. My handwriting is worse than my brother's.",
+      "We were losing at half-time. The second half of the game was better."
     ],
     "examples": [
       {
         "heading": "① good → better",
         "items": [
           {
-            "en": "Homemade bread is better than store bread.",
-            "zh": "自己做的麵包比店裡買的好。"
+            "en": "My mum bakes our bread at home. Homemade bread is better than store bread.",
+            "zh": "我媽媽在家烤麵包。自己做的麵包比店裡買的好。"
           },
           {
-            "en": "A walk is better than a nap after lunch.",
-            "zh": "午餐後散個步比睡午覺好。"
+            "en": "I always feel sleepy at work in the afternoon. A walk is better than a nap after lunch.",
+            "zh": "我下午上班總是很睏。午餐後散個步比睡午覺好。"
           },
           {
-            "en": "I feel much better today.",
-            "zh": "我今天覺得好多了。"
+            "en": "Thanks for the soup last night. I feel much better today.",
+            "zh": "謝謝你昨晚的湯。我今天覺得好多了。"
           },
           {
-            "en": "Which song do you think is better?",
-            "zh": "你覺得哪一首歌比較好？"
+            "en": "We need a song for the wedding. Which song do you think is better?",
+            "zh": "我們婚禮需要一首歌。你覺得哪一首歌比較好？"
           },
           {
-            "en": "We had better luck in the afternoon.",
-            "zh": "我們下午運氣比較好。"
+            "en": "We didn't catch any fish in the morning, but we had better luck in the afternoon.",
+            "zh": "我們早上一條魚都沒釣到，不過下午運氣比較好。"
           },
           {
-            "en": "My grandmother's memory is better than mine.",
-            "zh": "我奶奶的記性比我好。"
+            "en": "My grandmother remembers everyone's birthday. Her memory is better than mine.",
+            "zh": "我奶奶記得每個人的生日。她的記性比我好。"
           },
           {
-            "en": "Do you think the sequel is better?",
-            "zh": "你覺得續集比較好看嗎？"
+            "en": "You saw both films. Do you think the second one is better?",
+            "zh": "兩部電影你都看了。你覺得第二部比較好看嗎？"
           },
           {
-            "en": "This hotel has better rooms.",
-            "zh": "這家旅館的房間比較好。"
+            "en": "Let's not stay at the cheap place. This hotel has better rooms.",
+            "zh": "我們別住那間便宜的了。這家旅館的房間比較好。"
           },
           {
-            "en": "My grades were better this year.",
-            "zh": "我今年的成績比較好。"
+            "en": "I studied with a tutor every week. My grades were better this year.",
+            "zh": "我每個星期都跟家教讀書。我今年的成績比較好。"
           },
           {
-            "en": "Fresh fruit is better for you than juice.",
-            "zh": "新鮮水果比果汁對你更好。"
+            "en": "Don't give the kids so much juice. Fresh fruit is better for you than juice.",
+            "zh": "別給孩子喝那麼多果汁。新鮮水果比果汁對身體更好。"
           }
         ]
       },
@@ -4516,32 +4516,32 @@
         "heading": "② bad → worse",
         "items": [
           {
-            "en": "The pain in my knee is worse in winter.",
-            "zh": "我膝蓋的痛冬天比較嚴重。"
+            "en": "My grandfather doesn't walk much in December. The pain in his knee is worse in winter.",
+            "zh": "我爺爺十二月不太走路。他膝蓋的痛冬天比較嚴重。"
           },
           {
-            "en": "My cold is worse than yesterday.",
-            "zh": "我的感冒比昨天嚴重。"
+            "en": "I can't come to work today. My cold is worse than yesterday.",
+            "zh": "我今天沒辦法去上班。我的感冒比昨天嚴重。"
           },
           {
-            "en": "The food was worse than I expected.",
-            "zh": "食物比我想的還難吃。"
+            "en": "Everyone said the restaurant was good, but the food was worse than I expected.",
+            "zh": "大家都說那家餐廳很好，不過食物比我想的還難吃。"
           },
           {
-            "en": "Nothing is worse than waiting in the rain.",
-            "zh": "沒有什麼比在雨中等待更糟。"
+            "en": "The bus was forty minutes late this morning. Nothing is worse than waiting in the rain.",
+            "zh": "今天早上公車晚了四十分鐘。沒有什麼比在雨中等待更糟。"
           },
           {
-            "en": "His second song was worse.",
-            "zh": "他的第二首歌比較差。"
+            "en": "I liked the singer's first song. Her second song was worse.",
+            "zh": "我喜歡那個歌手的第一首歌。她的第二首歌比較差。"
           },
           {
-            "en": "The storm got worse at night.",
-            "zh": "暴風雨到了晚上變得更嚴重。"
+            "en": "We closed all the windows in the evening. The storm got worse at night.",
+            "zh": "我們傍晚把窗戶都關上了。暴風雨到了晚上變得更嚴重。"
           },
           {
-            "en": "Is your back pain worse?",
-            "zh": "你的背痛有比較嚴重嗎？"
+            "en": "You've been in bed all day. Is your back pain worse?",
+            "zh": "你一整天都躺在床上。你的背痛有比較嚴重嗎？"
           }
         ]
       },
@@ -4549,28 +4549,28 @@
         "heading": "③ far → farther / further",
         "items": [
           {
-            "en": "The lake is farther from the road than the river.",
-            "zh": "湖離馬路比河還遠。"
+            "en": "Let's have our picnic by the river. The lake is farther from the road than the river.",
+            "zh": "我們在河邊野餐吧。湖離馬路比河還遠。"
           },
           {
-            "en": "My school is farther from home than yours.",
-            "zh": "我的學校離家比你的遠。"
+            "en": "I take the bus, but you walk to school. My school is farther from home than yours.",
+            "zh": "我搭公車，可是你走路上學。我的學校離家比你的遠。"
           },
           {
-            "en": "Which city is farther from Taipei?",
-            "zh": "哪個城市離台北比較遠？"
+            "en": "I'm choosing between Tainan and Kaohsiung. Which city is farther from Taipei?",
+            "zh": "我在台南和高雄之間選一個。哪個城市離台北比較遠？"
           },
           {
-            "en": "For further information, call our office.",
-            "zh": "想知道更多資訊，請打電話到我們辦公室。"
+            "en": "Thank you for your interest in our courses. For further information, call our office.",
+            "zh": "感謝您對我們課程的興趣。想知道更多資訊，請打電話到我們辦公室。"
           },
           {
-            "en": "We need further help with the project.",
-            "zh": "這個專案我們需要更多的協助。"
+            "en": "We can't finish the website by Friday. We need further help with the project.",
+            "zh": "我們星期五前做不完網站。這個專案我們需要更多的協助。"
           },
           {
-            "en": "The beach was further away than the map showed.",
-            "zh": "海灘比地圖上看起來的還遠。"
+            "en": "We walked for an hour to the beach. It was further away than the map showed.",
+            "zh": "我們走了一個小時才到海灘。海灘比地圖上看起來的還遠。"
           }
         ]
       },
@@ -4578,32 +4578,32 @@
         "heading": "④ 不同的句子",
         "items": [
           {
-            "en": "Ann's cooking is getting better.",
-            "zh": "Ann 的廚藝越來越好。"
+            "en": "Ann took a cooking class this spring. Her cooking is getting better.",
+            "zh": "Ann 今年春天上了烹飪課。她的廚藝越來越好。"
           },
           {
-            "en": "With more practice, you'll get better at it.",
-            "zh": "多練習的話，你會越來越拿手。"
+            "en": "Don't give up the piano. With more practice, you'll get better at it.",
+            "zh": "別放棄鋼琴。多練習的話，你會越來越拿手。"
           },
           {
-            "en": "Don't worry, it could be worse.",
-            "zh": "別擔心，事情還可能更糟。"
+            "en": "We missed the train, but there's another one in an hour. It could be worse.",
+            "zh": "我們錯過了火車，不過一小時後還有一班。事情還可能更糟。"
           },
           {
-            "en": "Is the north farther than the south?",
-            "zh": "北邊比南邊遠嗎？"
+            "en": "Your flat is a ten-minute walk from the station. Is mine farther?",
+            "zh": "你的公寓離車站走路十分鐘。我的比較遠嗎？"
           },
           {
-            "en": "Ken found a better job last month.",
-            "zh": "Ken 上個月找到一份比較好的工作。"
+            "en": "Ken was unhappy at the bank, so he looked for a new job. He found a better job last month.",
+            "zh": "Ken 在銀行做得不開心，所以找了新工作。他上個月找到一份比較好的工作。"
           },
           {
-            "en": "My handwriting is worse than my brother's.",
-            "zh": "我的字比我哥哥的醜。"
+            "en": "Nobody can read my notes. My handwriting is worse than my brother's.",
+            "zh": "沒有人看得懂我的筆記。我的字比我哥哥的醜。"
           },
           {
-            "en": "The second half of the game was better.",
-            "zh": "比賽的下半場比較精彩。"
+            "en": "We were losing at half-time. The second half of the game was better.",
+            "zh": "我們中場時落後。比賽的下半場比較精彩。"
           }
         ]
       }
@@ -7401,68 +7401,68 @@
     "translation": "她比我大一點。",
     "name": "a (little) bit 修飾比較級形容詞",
     "sentences": [
-      "This jacket is a bit cheaper than that one.",
-      "He's a bit shorter than his brother.",
-      "The second lesson was a bit longer.",
-      "Is the blue bag a bit lighter?",
-      "The water was a bit colder than yesterday.",
-      "My new office is a bit quieter.",
-      "Their garden is a bit smaller than ours.",
-      "My friend is a little bit younger than me.",
-      "The soup is a little bit saltier today.",
-      "The music is a little bit louder in this room.",
-      "My hair is a little bit darker now.",
-      "The new chairs are a little bit higher.",
-      "The test was a little bit easier than last time.",
-      "The hotel was a bit more expensive than we planned.",
-      "Could you be a bit more careful with the plates?",
-      "The second movie was a bit more exciting.",
-      "Ken is a little bit more reticent than his sister.",
-      "This road is a bit more dangerous at night.",
-      "The second room was a little larger.",
-      "Prices are a little higher this year.",
-      "The new design is a little simpler.",
-      "The river was a little deeper than we thought.",
-      "Our flight was a little later than planned.",
-      "I feel a bit better after some sleep.",
-      "You look a bit thinner than last year.",
-      "It's getting a bit warmer now.",
-      "Ann looks a little bit taller in those shoes.",
-      "The baby feels a bit hotter than usual.",
-      "The roads got a bit busier after eight.",
-      "My English is getting a little better."
+      "I like both jackets, but I'll take the green one. This jacket is a bit cheaper than that one.",
+      "People think Max is the older brother, but he's a bit shorter than his brother.",
+      "We had two cooking lessons on Saturday. The second lesson was a bit longer.",
+      "My shoulder hurts from carrying the red bag. Is the blue bag a bit lighter?",
+      "We swam in the lake again this morning. The water was a bit colder than yesterday.",
+      "My company moved me to the third floor. My new office is a bit quieter.",
+      "Our neighbours don't have room for a pool. Their garden is a bit smaller than ours.",
+      "Sara and I were born in the same year. She's a little bit younger than me.",
+      "Did you add more salt? The soup is a little bit saltier today.",
+      "Let's dance in the big hall. The music is a little bit louder in this room.",
+      "I stopped using that shampoo. My hair is a little bit darker now.",
+      "The kids can see the board better this year. The new chairs are a little bit higher.",
+      "I finished the maths test early. It was a little bit easier than last time.",
+      "We stayed by the sea in August. The hotel was a bit more expensive than we planned.",
+      "That's the second glass this week. Could you be a bit more careful with the plates?",
+      "I didn't like the first film much. The second film was a bit more exciting.",
+      "Ken and his sister are both quiet, but Ken is a little bit more reticent than his sister.",
+      "Drive slowly on the hill road. This road is a bit more dangerous at night.",
+      "We looked at two rooms in the hotel. The second room was a little larger.",
+      "The bus costs two pounds now. Prices are a little higher this year.",
+      "Customers didn't understand the old menu. The new design is a little simpler.",
+      "We walked across the river on our hike. The river was a little deeper than we thought.",
+      "We landed at ten, not nine thirty. Our flight was a little later than planned.",
+      "I was really tired at lunch. I feel a bit better after some sleep.",
+      "Have you been running? You look a bit thinner than last year.",
+      "Spring is coming. It's getting a bit warmer now.",
+      "Ann is wearing high heels to the party. She looks a little bit taller in those shoes.",
+      "Touch the baby's head. She feels a bit hotter than usual.",
+      "We left home at seven. The roads got a bit busier after eight.",
+      "I watch an English film every week. My English is getting a little better."
     ],
     "examples": [
       {
         "heading": "① a bit + 形容詞-er",
         "items": [
           {
-            "en": "This jacket is a bit cheaper than that one.",
-            "zh": "這件外套比那件便宜一點。"
+            "en": "I like both jackets, but I'll take the green one. This jacket is a bit cheaper than that one.",
+            "zh": "兩件外套我都喜歡，不過我買綠色那件。這件外套比那件便宜一點。"
           },
           {
-            "en": "He's a bit shorter than his brother.",
-            "zh": "他比他哥哥矮一點。"
+            "en": "People think Max is the older brother, but he's a bit shorter than his brother.",
+            "zh": "大家都以為 Max 是哥哥，不過他比他哥哥矮一點。"
           },
           {
-            "en": "The second lesson was a bit longer.",
-            "zh": "第二堂課長一點。"
+            "en": "We had two cooking lessons on Saturday. The second lesson was a bit longer.",
+            "zh": "我們星期六上了兩堂烹飪課。第二堂課長一點。"
           },
           {
-            "en": "Is the blue bag a bit lighter?",
-            "zh": "藍色那個包包有比較輕一點嗎？"
+            "en": "My shoulder hurts from carrying the red bag. Is the blue bag a bit lighter?",
+            "zh": "提紅色的包包讓我肩膀痛。藍色那個包包有比較輕一點嗎？"
           },
           {
-            "en": "The water was a bit colder than yesterday.",
-            "zh": "水比昨天冷一點。"
+            "en": "We swam in the lake again this morning. The water was a bit colder than yesterday.",
+            "zh": "我們今天早上又去湖裡游泳。水比昨天冷一點。"
           },
           {
-            "en": "My new office is a bit quieter.",
-            "zh": "我的新辦公室安靜一點。"
+            "en": "My company moved me to the third floor. My new office is a bit quieter.",
+            "zh": "公司把我調到四樓。我的新辦公室安靜一點。"
           },
           {
-            "en": "Their garden is a bit smaller than ours.",
-            "zh": "他們的花園比我們的小一點。"
+            "en": "Our neighbours don't have room for a pool. Their garden is a bit smaller than ours.",
+            "zh": "我們的鄰居沒有空間放游泳池。他們的花園比我們的小一點。"
           }
         ]
       },
@@ -7470,28 +7470,28 @@
         "heading": "② a little bit + 比較級",
         "items": [
           {
-            "en": "My friend is a little bit younger than me.",
-            "zh": "我朋友比我小一點。"
+            "en": "Sara and I were born in the same year. She's a little bit younger than me.",
+            "zh": "Sara 和我同一年出生。她比我小一點。"
           },
           {
-            "en": "The soup is a little bit saltier today.",
-            "zh": "今天的湯鹹一點。"
+            "en": "Did you add more salt? The soup is a little bit saltier today.",
+            "zh": "你多加了鹽嗎？今天的湯鹹一點。"
           },
           {
-            "en": "The music is a little bit louder in this room.",
-            "zh": "這個房間的音樂大聲一點。"
+            "en": "Let's dance in the big hall. The music is a little bit louder in this room.",
+            "zh": "我們去大廳跳舞吧。這個房間的音樂大聲一點。"
           },
           {
-            "en": "My hair is a little bit darker now.",
-            "zh": "我的頭髮現在深一點了。"
+            "en": "I stopped using that shampoo. My hair is a little bit darker now.",
+            "zh": "我不用那種洗髮精了。我的頭髮現在深一點了。"
           },
           {
-            "en": "The new chairs are a little bit higher.",
-            "zh": "新的椅子高一點。"
+            "en": "The kids can see the board better this year. The new chairs are a little bit higher.",
+            "zh": "孩子們今年看黑板看得比較清楚。新的椅子高一點。"
           },
           {
-            "en": "The test was a little bit easier than last time.",
-            "zh": "這次考試比上次簡單一點。"
+            "en": "I finished the maths test early. It was a little bit easier than last time.",
+            "zh": "我數學考試提早寫完了。這次比上次簡單一點。"
           }
         ]
       },
@@ -7499,24 +7499,24 @@
         "heading": "③ a bit + more + 形容詞",
         "items": [
           {
-            "en": "The hotel was a bit more expensive than we planned.",
-            "zh": "旅館比我們預計的貴一點。"
+            "en": "We stayed by the sea in August. The hotel was a bit more expensive than we planned.",
+            "zh": "我們八月住在海邊。旅館比我們預計的貴一點。"
           },
           {
-            "en": "Could you be a bit more careful with the plates?",
-            "zh": "你拿盤子可以小心一點嗎？"
+            "en": "That's the second glass this week. Could you be a bit more careful with the plates?",
+            "zh": "這是這星期第二個杯子了。你拿盤子可以小心一點嗎？"
           },
           {
-            "en": "The second movie was a bit more exciting.",
-            "zh": "第二部電影刺激一點。"
+            "en": "I didn't like the first film much. The second film was a bit more exciting.",
+            "zh": "我不太喜歡第一部電影。第二部電影刺激一點。"
           },
           {
-            "en": "Ken is a little bit more reticent than his sister.",
-            "zh": "Ken 比他姊姊話少一點。"
+            "en": "Ken and his sister are both quiet, but Ken is a little bit more reticent than his sister.",
+            "zh": "Ken 和他姊姊都很安靜，不過 Ken 比他姊姊話少一點。"
           },
           {
-            "en": "This road is a bit more dangerous at night.",
-            "zh": "這條路晚上危險一點。"
+            "en": "Drive slowly on the hill road. This road is a bit more dangerous at night.",
+            "zh": "山路要慢慢開。這條路晚上危險一點。"
           }
         ]
       },
@@ -7524,24 +7524,24 @@
         "heading": "④ a little + 比較級",
         "items": [
           {
-            "en": "The second room was a little larger.",
-            "zh": "第二個房間大一點。"
+            "en": "We looked at two rooms in the hotel. The second room was a little larger.",
+            "zh": "我們看了旅館的兩個房間。第二個房間大一點。"
           },
           {
-            "en": "Prices are a little higher this year.",
-            "zh": "今年的價格高一點。"
+            "en": "The bus costs two pounds now. Prices are a little higher this year.",
+            "zh": "公車現在要兩英鎊。今年的價格高一點。"
           },
           {
-            "en": "The new design is a little simpler.",
-            "zh": "新的設計簡單一點。"
+            "en": "Customers didn't understand the old menu. The new design is a little simpler.",
+            "zh": "客人看不懂舊的菜單。新的設計簡單一點。"
           },
           {
-            "en": "The river was a little deeper than we thought.",
-            "zh": "河比我們想的深一點。"
+            "en": "We walked across the river on our hike. The river was a little deeper than we thought.",
+            "zh": "我們健行時走路過河。河比我們想的深一點。"
           },
           {
-            "en": "Our flight was a little later than planned.",
-            "zh": "我們的班機比原本晚一點。"
+            "en": "We landed at ten, not nine thirty. Our flight was a little later than planned.",
+            "zh": "我們十點才降落，不是九點半。我們的班機比原本晚一點。"
           }
         ]
       },
@@ -7549,32 +7549,32 @@
         "heading": "⑤ look / feel / get 後面",
         "items": [
           {
-            "en": "I feel a bit better after some sleep.",
-            "zh": "睡了一下之後，我覺得好一點了。"
+            "en": "I was really tired at lunch. I feel a bit better after some sleep.",
+            "zh": "我午餐時好累。睡了一下之後，我覺得好一點了。"
           },
           {
-            "en": "You look a bit thinner than last year.",
-            "zh": "你看起來比去年瘦一點。"
+            "en": "Have you been running? You look a bit thinner than last year.",
+            "zh": "你最近在跑步嗎？你看起來比去年瘦一點。"
           },
           {
-            "en": "It's getting a bit warmer now.",
-            "zh": "現在變得暖和一點了。"
+            "en": "Spring is coming. It's getting a bit warmer now.",
+            "zh": "春天快到了。現在變得暖和一點了。"
           },
           {
-            "en": "Ann looks a little bit taller in those shoes.",
-            "zh": "Ann 穿那雙鞋看起來高一點。"
+            "en": "Ann is wearing high heels to the party. She looks a little bit taller in those shoes.",
+            "zh": "Ann 穿高跟鞋去派對。她穿那雙鞋看起來高一點。"
           },
           {
-            "en": "The baby feels a bit hotter than usual.",
-            "zh": "寶寶摸起來比平常燙一點。"
+            "en": "Touch the baby's head. She feels a bit hotter than usual.",
+            "zh": "摸摸寶寶的頭。她摸起來比平常燙一點。"
           },
           {
-            "en": "The roads got a bit busier after eight.",
-            "zh": "八點以後路上車多了一點。"
+            "en": "We left home at seven. The roads got a bit busier after eight.",
+            "zh": "我們七點出門。八點以後路上車多了一點。"
           },
           {
-            "en": "My English is getting a little better.",
-            "zh": "我的英文進步了一點。"
+            "en": "I watch an English film every week. My English is getting a little better.",
+            "zh": "我每個星期看一部英文電影。我的英文進步了一點。"
           }
         ]
       }
@@ -7587,68 +7587,68 @@
     "translation": "腳踏車就算是好的，也比汽車便宜很多。",
     "name": "a lot 修飾敘述用法的比較級形容詞",
     "sentences": [
-      "Taking the train is a lot faster than driving at rush hour.",
-      "Online tickets are a lot cheaper than tickets at the door.",
-      "The new library is a lot bigger than the old one on Main Street.",
-      "My grandmother is a lot calmer since she moved to the countryside.",
-      "Our new puppy is a lot quieter than our last dog.",
-      "With the window open, the room is a lot cooler.",
-      "Is the lake a lot deeper on the other side?",
-      "Hiring a guide was a lot more expensive than we planned.",
-      "His second speech was a lot more relaxed than the first.",
-      "The exam was a lot more difficult than the practice test.",
-      "Working from home is a lot more comfortable for me.",
-      "Our new manager is a lot more placid than the old one.",
-      "Shopping online is a lot more convenient with two small kids.",
-      "Your cough sounds a lot better today.",
-      "The second half of the match was a lot better.",
-      "The traffic on the bridge was a lot worse than usual this morning.",
-      "My Spanish is a lot better after six months in Madrid.",
-      "The hotel food was a lot worse than the photos.",
-      "Don't you think it would be a lot easier to finish college first?",
-      "It would be a lot cheaper to book the flights now.",
-      "The trip would be a lot shorter by plane.",
-      "A bigger table would be a lot more useful in this kitchen.",
-      "It would be a lot safer to wait until the rain stops.",
-      "You look a lot happier since you changed jobs.",
-      "I feel a lot stronger after two weeks of rest.",
-      "The kids seem a lot calmer after their nap.",
-      "It gets a lot colder here after sunset.",
-      "The pain got a lot worse after I carried those boxes.",
-      "Ken's handwriting has got a lot neater this year.",
-      "The streets get a lot busier at the weekend."
+      "I sold my car and take the train to work now. Taking the train is a lot faster than driving at rush hour.",
+      "Buy your concert tickets on the website. Online tickets are a lot cheaper than tickets at the door.",
+      "The town opened a new library in May. It's a lot bigger than the old one on Main Street.",
+      "My grandmother used to worry about everything. She's a lot calmer since she moved to the countryside.",
+      "Our last dog barked all night. Our new puppy is a lot quieter.",
+      "Open the window for a few minutes. The room will be a lot cooler.",
+      "The water is only knee-deep here. Is the lake a lot deeper on the other side?",
+      "We hired a guide for our trip to Peru. It was a lot more expensive than we planned.",
+      "Leo was very nervous at his first speech. His second speech was a lot more relaxed.",
+      "I did well on the practice test, but the real exam was a lot more difficult.",
+      "I don't have to sit on a train for an hour. Working from home is a lot more comfortable for me.",
+      "Our old manager shouted when he was angry. Our new manager is a lot more placid.",
+      "I have two small kids and no car. Shopping online is a lot more convenient.",
+      "You stayed in bed all weekend. Your cough sounds a lot better today.",
+      "The first half of the match was boring, but the second half was a lot better.",
+      "There was an accident on the bridge this morning. The traffic was a lot worse than usual.",
+      "I lived with a family in Madrid for six months. My Spanish is a lot better now.",
+      "Don't believe the hotel website. The food was a lot worse than the photos.",
+      "You want to work and study at the same time. Don't you think it would be a lot easier to finish college first?",
+      "Prices go up in July. It would be a lot cheaper to book the flights now.",
+      "It takes ten hours to drive to Rome. The trip would be a lot shorter by plane.",
+      "We can't all sit at this small table. A bigger table would be a lot more useful in this kitchen.",
+      "The roads are flooded. It would be a lot safer to wait until the rain stops.",
+      "You were always tired at the bank. You look a lot happier since you changed jobs.",
+      "I had the flu for a week. I feel a lot stronger after two weeks of rest.",
+      "The kids were crying all morning. They seem a lot calmer after their nap.",
+      "Bring a jacket to the desert. It gets a lot colder here after sunset.",
+      "My back hurt a little on Monday. The pain got a lot worse after I carried those boxes.",
+      "Ken practises writing every evening. His handwriting has got a lot neater this year.",
+      "Go to the market on a Tuesday. The streets get a lot busier at the weekend."
     ],
     "examples": [
       {
         "heading": "① a lot + 形容詞-er",
         "items": [
           {
-            "en": "Taking the train is a lot faster than driving at rush hour.",
-            "zh": "尖峰時間搭火車比開車快很多。"
+            "en": "I sold my car and take the train to work now. Taking the train is a lot faster than driving at rush hour.",
+            "zh": "我把車賣了，現在搭火車上班。尖峰時間搭火車比開車快很多。"
           },
           {
-            "en": "Online tickets are a lot cheaper than tickets at the door.",
-            "zh": "網路上買的票比現場買的便宜很多。"
+            "en": "Buy your concert tickets on the website. Online tickets are a lot cheaper than tickets at the door.",
+            "zh": "音樂會的票在網站上買。網路上買的票比現場買的便宜很多。"
           },
           {
-            "en": "The new library is a lot bigger than the old one on Main Street.",
-            "zh": "新的圖書館比大街上那間舊的大很多。"
+            "en": "The town opened a new library in May. It's a lot bigger than the old one on Main Street.",
+            "zh": "鎮上五月開了新的圖書館。它比大街上那間舊的大很多。"
           },
           {
-            "en": "My grandmother is a lot calmer since she moved to the countryside.",
-            "zh": "我奶奶搬到鄉下以後平靜很多。"
+            "en": "My grandmother used to worry about everything. She's a lot calmer since she moved to the countryside.",
+            "zh": "我奶奶以前什麼都擔心。她搬到鄉下以後平靜很多。"
           },
           {
-            "en": "Our new puppy is a lot quieter than our last dog.",
-            "zh": "我們的新小狗比之前那隻狗安靜很多。"
+            "en": "Our last dog barked all night. Our new puppy is a lot quieter.",
+            "zh": "我們之前那隻狗整晚叫。我們的新小狗安靜很多。"
           },
           {
-            "en": "With the window open, the room is a lot cooler.",
-            "zh": "窗戶打開以後，房間涼很多。"
+            "en": "Open the window for a few minutes. The room will be a lot cooler.",
+            "zh": "把窗戶打開幾分鐘。房間會涼很多。"
           },
           {
-            "en": "Is the lake a lot deeper on the other side?",
-            "zh": "湖的另一邊深很多嗎？"
+            "en": "The water is only knee-deep here. Is the lake a lot deeper on the other side?",
+            "zh": "這裡的水只到膝蓋。湖的另一邊深很多嗎？"
           }
         ]
       },
@@ -7656,28 +7656,28 @@
         "heading": "② a lot + more + 形容詞",
         "items": [
           {
-            "en": "Hiring a guide was a lot more expensive than we planned.",
-            "zh": "請導遊比我們預計的貴很多。"
+            "en": "We hired a guide for our trip to Peru. It was a lot more expensive than we planned.",
+            "zh": "我們去祕魯旅行請了導遊。比我們預計的貴很多。"
           },
           {
-            "en": "His second speech was a lot more relaxed than the first.",
-            "zh": "他第二次演講比第一次放鬆很多。"
+            "en": "Leo was very nervous at his first speech. His second speech was a lot more relaxed.",
+            "zh": "Leo 第一次演講很緊張。他第二次演講放鬆很多。"
           },
           {
-            "en": "The exam was a lot more difficult than the practice test.",
-            "zh": "正式考試比模擬考難很多。"
+            "en": "I did well on the practice test, but the real exam was a lot more difficult.",
+            "zh": "我模擬考考得很好，不過正式考試難很多。"
           },
           {
-            "en": "Working from home is a lot more comfortable for me.",
-            "zh": "對我來說，在家工作舒服很多。"
+            "en": "I don't have to sit on a train for an hour. Working from home is a lot more comfortable for me.",
+            "zh": "我不用在火車上坐一個小時。對我來說，在家工作舒服很多。"
           },
           {
-            "en": "Our new manager is a lot more placid than the old one.",
-            "zh": "我們的新經理比原本那個平和很多。"
+            "en": "Our old manager shouted when he was angry. Our new manager is a lot more placid.",
+            "zh": "我們以前的經理一生氣就大吼。新經理平和很多。"
           },
           {
-            "en": "Shopping online is a lot more convenient with two small kids.",
-            "zh": "帶著兩個小孩，在網路上買東西方便很多。"
+            "en": "I have two small kids and no car. Shopping online is a lot more convenient.",
+            "zh": "我有兩個小孩，又沒有車。在網路上買東西方便很多。"
           }
         ]
       },
@@ -7685,24 +7685,24 @@
         "heading": "③ a lot better / a lot worse",
         "items": [
           {
-            "en": "Your cough sounds a lot better today.",
-            "zh": "你今天咳嗽的聲音好很多了。"
+            "en": "You stayed in bed all weekend. Your cough sounds a lot better today.",
+            "zh": "你整個週末都躺在床上。你今天咳嗽的聲音好很多了。"
           },
           {
-            "en": "The second half of the match was a lot better.",
-            "zh": "比賽的下半場精彩很多。"
+            "en": "The first half of the match was boring, but the second half was a lot better.",
+            "zh": "比賽的上半場很無聊，不過下半場精彩很多。"
           },
           {
-            "en": "The traffic on the bridge was a lot worse than usual this morning.",
-            "zh": "今天早上橋上的交通比平常糟很多。"
+            "en": "There was an accident on the bridge this morning. The traffic was a lot worse than usual.",
+            "zh": "今天早上橋上出了車禍。交通比平常糟很多。"
           },
           {
-            "en": "My Spanish is a lot better after six months in Madrid.",
-            "zh": "在馬德里待了六個月以後，我的西班牙文好很多。"
+            "en": "I lived with a family in Madrid for six months. My Spanish is a lot better now.",
+            "zh": "我在馬德里跟一家人住了六個月。我的西班牙文現在好很多。"
           },
           {
-            "en": "The hotel food was a lot worse than the photos.",
-            "zh": "飯店的菜比照片上差很多。"
+            "en": "Don't believe the hotel website. The food was a lot worse than the photos.",
+            "zh": "別相信飯店的網站。菜比照片上差很多。"
           }
         ]
       },
@@ -7710,24 +7710,24 @@
         "heading": "④ would be a lot + 比較級",
         "items": [
           {
-            "en": "Don't you think it would be a lot easier to finish college first?",
-            "zh": "你不覺得先把大學念完會容易很多嗎？"
+            "en": "You want to work and study at the same time. Don't you think it would be a lot easier to finish college first?",
+            "zh": "你想同時工作和念書。你不覺得先把大學念完會容易很多嗎？"
           },
           {
-            "en": "It would be a lot cheaper to book the flights now.",
-            "zh": "現在訂機票會便宜很多。"
+            "en": "Prices go up in July. It would be a lot cheaper to book the flights now.",
+            "zh": "七月價格會漲。現在訂機票會便宜很多。"
           },
           {
-            "en": "The trip would be a lot shorter by plane.",
-            "zh": "搭飛機的話，這趟路會短很多。"
+            "en": "It takes ten hours to drive to Rome. The trip would be a lot shorter by plane.",
+            "zh": "開車去羅馬要十個小時。搭飛機的話，這趟路會短很多。"
           },
           {
-            "en": "A bigger table would be a lot more useful in this kitchen.",
-            "zh": "這個廚房放一張大一點的桌子會好用很多。"
+            "en": "We can't all sit at this small table. A bigger table would be a lot more useful in this kitchen.",
+            "zh": "我們沒辦法都坐在這張小桌子。這個廚房放一張大一點的桌子會好用很多。"
           },
           {
-            "en": "It would be a lot safer to wait until the rain stops.",
-            "zh": "等雨停再走會安全很多。"
+            "en": "The roads are flooded. It would be a lot safer to wait until the rain stops.",
+            "zh": "路都淹水了。等雨停再走會安全很多。"
           }
         ]
       },
@@ -7735,32 +7735,32 @@
         "heading": "⑤ look / feel / seem / get 後面",
         "items": [
           {
-            "en": "You look a lot happier since you changed jobs.",
-            "zh": "你換工作以後看起來開心很多。"
+            "en": "You were always tired at the bank. You look a lot happier since you changed jobs.",
+            "zh": "你在銀行上班時總是很累。你換工作以後看起來開心很多。"
           },
           {
-            "en": "I feel a lot stronger after two weeks of rest.",
-            "zh": "休息了兩個禮拜以後，我覺得身體好很多。"
+            "en": "I had the flu for a week. I feel a lot stronger after two weeks of rest.",
+            "zh": "我得了一個星期的流感。休息了兩個禮拜以後，我覺得身體好很多。"
           },
           {
-            "en": "The kids seem a lot calmer after their nap.",
-            "zh": "孩子們睡完午覺以後，看起來平靜很多。"
+            "en": "The kids were crying all morning. They seem a lot calmer after their nap.",
+            "zh": "孩子們整個早上都在哭。他們睡完午覺以後，看起來平靜很多。"
           },
           {
-            "en": "It gets a lot colder here after sunset.",
-            "zh": "這裡太陽下山以後會冷很多。"
+            "en": "Bring a jacket to the desert. It gets a lot colder here after sunset.",
+            "zh": "去沙漠要帶外套。這裡太陽下山以後會冷很多。"
           },
           {
-            "en": "The pain got a lot worse after I carried those boxes.",
-            "zh": "我搬了那些箱子以後，痛得厲害很多。"
+            "en": "My back hurt a little on Monday. The pain got a lot worse after I carried those boxes.",
+            "zh": "我的背星期一有點痛。我搬了那些箱子以後，痛得厲害很多。"
           },
           {
-            "en": "Ken's handwriting has got a lot neater this year.",
-            "zh": "Ken 的字今年整齊很多。"
+            "en": "Ken practises writing every evening. His handwriting has got a lot neater this year.",
+            "zh": "Ken 每天晚上練字。他的字今年整齊很多。"
           },
           {
-            "en": "The streets get a lot busier at the weekend.",
-            "zh": "週末街上熱鬧很多。"
+            "en": "Go to the market on a Tuesday. The streets get a lot busier at the weekend.",
+            "zh": "星期二去市場吧。週末街上熱鬧很多。"
           }
         ]
       }
@@ -7773,72 +7773,72 @@
     "translation": "我看到所有東西變得越來越小。",
     "name": "比較級 and 比較級表示逐漸變化",
     "sentences": [
-      "The nights are getting shorter and shorter.",
-      "The tea in my cup got cooler and cooler.",
-      "Our garden is getting smaller and smaller.",
-      "The baby's crying got louder and louder.",
-      "The line at the bank got longer and longer.",
-      "Tom's puppy is getting bigger and bigger.",
-      "Is it getting darker and darker outside?",
-      "The river got wider and wider near the sea.",
-      "Summer is coming. Days become longer and longer.",
-      "My little brother's school bag became heavier and heavier each year.",
-      "The old photos grew paler and paler over the years.",
-      "The cat grew fatter and fatter.",
-      "The village became quieter and quieter.",
-      "The trains are becoming more and more crowded.",
-      "Eating out in this city is getting more and more expensive.",
-      "The football match got more and more exciting in the second half.",
-      "Ann grew more and more nervous during the interview.",
-      "The old man grew more and more reticent.",
-      "Life is becoming more and more stressful.",
-      "The math questions were getting more and more difficult.",
-      "The view got better and better as we climbed.",
-      "The weather got worse and worse.",
-      "The service at that restaurant has got worse and worse.",
-      "Her piano playing is getting better and better.",
-      "My knee felt worse and worse after the run.",
-      "The puddles on the road have got deeper and deeper.",
-      "I saw the plane become smaller and smaller.",
-      "Why is the traffic getting heavier and heavier?",
-      "The road will get narrower and narrower.",
-      "The kids were getting more and more tired."
+      "Summer is almost over. The nights are getting shorter and shorter.",
+      "I was on the phone with my mum for an hour. The tea in my cup got cooler and cooler.",
+      "Our neighbours keep building on our side. Our garden is getting smaller and smaller.",
+      "I couldn't find the baby's milk. The baby's crying got louder and louder.",
+      "Only one window was open at the bank. The queue got longer and longer.",
+      "Tom feeds his puppy four times a day. It's getting bigger and bigger.",
+      "You've been reading for hours. Is it getting darker and darker outside?",
+      "We sailed down the river all day. It got wider and wider near the sea.",
+      "Summer is coming. The days become longer and longer.",
+      "My little brother has more books every year. His school bag became heavier and heavier.",
+      "We kept the old photos by the window. They grew paler and paler over the years.",
+      "My grandmother fed the cat three times a day. The cat grew fatter and fatter.",
+      "Young people moved to the city for work. The village became quieter and quieter.",
+      "More people take the train to work now. The trains are becoming more and more crowded.",
+      "A coffee costs five euros now. Eating out in this city is getting more and more expensive.",
+      "Both teams scored twice after half-time. The match got more and more exciting.",
+      "The interview lasted two hours. Ann grew more and more nervous.",
+      "My grandfather didn't want to see anyone after his wife died. He grew more and more reticent.",
+      "I work two jobs and look after my parents. Life is becoming more and more stressful.",
+      "I stopped at page four of the maths homework. The questions were getting more and more difficult.",
+      "We walked up the mountain all morning. The view got better and better as we climbed.",
+      "We wanted to play tennis, but the weather got worse and worse.",
+      "We don't eat at Rosie's now. The service there has got worse and worse.",
+      "Lily practises the piano every day. Her playing is getting better and better.",
+      "I ran ten kilometres yesterday. My knee felt worse and worse after the run.",
+      "It's rained for three days. The puddles on the road have got deeper and deeper.",
+      "I stood on the field and watched my dad's plane. I saw it become smaller and smaller.",
+      "We left home early. Why is the traffic getting heavier and heavier?",
+      "Leave the car at the bottom of the hill. The road will get narrower and narrower.",
+      "We walked around the zoo for five hours. The kids were getting more and more tired."
     ],
     "examples": [
       {
         "heading": "① get + 形容詞-er + and + 形容詞-er",
         "items": [
           {
-            "en": "The nights are getting shorter and shorter.",
-            "zh": "晚上越來越短。"
+            "en": "Summer is almost over. The nights are getting shorter and shorter.",
+            "zh": "夏天快結束了。晚上越來越短。"
           },
           {
-            "en": "The tea in my cup got cooler and cooler.",
-            "zh": "我杯子裡的茶越來越涼。"
+            "en": "I was on the phone with my mum for an hour. The tea in my cup got cooler and cooler.",
+            "zh": "我跟我媽講了一個小時的電話。我杯子裡的茶越來越涼。"
           },
           {
-            "en": "Our garden is getting smaller and smaller.",
-            "zh": "我們的花園越來越小。"
+            "en": "Our neighbours keep building on our side. Our garden is getting smaller and smaller.",
+            "zh": "我們的鄰居一直往我們這邊加蓋。我們的花園越來越小。"
           },
           {
-            "en": "The baby's crying got louder and louder.",
-            "zh": "寶寶越哭越大聲。"
+            "en": "I couldn't find the baby's milk. The baby's crying got louder and louder.",
+            "zh": "我找不到寶寶的奶。寶寶越哭越大聲。"
           },
           {
-            "en": "The line at the bank got longer and longer.",
-            "zh": "銀行的隊伍越排越長。"
+            "en": "Only one window was open at the bank. The queue got longer and longer.",
+            "zh": "銀行只開了一個窗口。隊伍越排越長。"
           },
           {
-            "en": "Tom's puppy is getting bigger and bigger.",
-            "zh": "Tom 的小狗越來越大。"
+            "en": "Tom feeds his puppy four times a day. It's getting bigger and bigger.",
+            "zh": "Tom 一天餵他的小狗四次。小狗越來越大。"
           },
           {
-            "en": "Is it getting darker and darker outside?",
-            "zh": "外面是不是越來越暗了？"
+            "en": "You've been reading for hours. Is it getting darker and darker outside?",
+            "zh": "你看書看了好幾個小時。外面是不是越來越暗了？"
           },
           {
-            "en": "The river got wider and wider near the sea.",
-            "zh": "河越靠近海越寬。"
+            "en": "We sailed down the river all day. It got wider and wider near the sea.",
+            "zh": "我們整天沿著河往下航行。河越靠近海越寬。"
           }
         ]
       },
@@ -7846,24 +7846,24 @@
         "heading": "② become / grow + 形容詞-er + and + 形容詞-er",
         "items": [
           {
-            "en": "Summer is coming. Days become longer and longer.",
-            "zh": "夏天要來了，白天越來越長。"
+            "en": "Summer is coming. The days become longer and longer.",
+            "zh": "夏天要來了。白天越來越長。"
           },
           {
-            "en": "My little brother's school bag became heavier and heavier each year.",
-            "zh": "我弟弟的書包一年比一年重。"
+            "en": "My little brother has more books every year. His school bag became heavier and heavier.",
+            "zh": "我弟弟的書每年都更多。他的書包變得越來越重。"
           },
           {
-            "en": "The old photos grew paler and paler over the years.",
-            "zh": "這些舊照片一年比一年淡。"
+            "en": "We kept the old photos by the window. They grew paler and paler over the years.",
+            "zh": "我們把舊照片放在窗邊。這些照片一年比一年淡。"
           },
           {
-            "en": "The cat grew fatter and fatter.",
-            "zh": "那隻貓越來越胖。"
+            "en": "My grandmother fed the cat three times a day. The cat grew fatter and fatter.",
+            "zh": "我奶奶一天餵那隻貓三次。那隻貓越來越胖。"
           },
           {
-            "en": "The village became quieter and quieter.",
-            "zh": "村子越來越安靜。"
+            "en": "Young people moved to the city for work. The village became quieter and quieter.",
+            "zh": "年輕人都搬到城市工作。村子越來越安靜。"
           }
         ]
       },
@@ -7871,32 +7871,32 @@
         "heading": "③ more and more + 形容詞",
         "items": [
           {
-            "en": "The trains are becoming more and more crowded.",
-            "zh": "火車越來越擠。"
+            "en": "More people take the train to work now. The trains are becoming more and more crowded.",
+            "zh": "現在越來越多人搭火車上班。火車越來越擠。"
           },
           {
-            "en": "Eating out in this city is getting more and more expensive.",
-            "zh": "在這座城市外食越來越貴。"
+            "en": "A coffee costs five euros now. Eating out in this city is getting more and more expensive.",
+            "zh": "現在一杯咖啡要五歐元。在這座城市外食越來越貴。"
           },
           {
-            "en": "The football match got more and more exciting in the second half.",
-            "zh": "足球比賽到了下半場越來越精彩。"
+            "en": "Both teams scored twice after half-time. The match got more and more exciting.",
+            "zh": "中場休息後兩隊各進了兩球。比賽越來越精彩。"
           },
           {
-            "en": "Ann grew more and more nervous during the interview.",
-            "zh": "面試的時候，Ann 越來越緊張。"
+            "en": "The interview lasted two hours. Ann grew more and more nervous.",
+            "zh": "面試持續了兩個小時。Ann 越來越緊張。"
           },
           {
-            "en": "The old man grew more and more reticent.",
-            "zh": "那個老人話越來越少。"
+            "en": "My grandfather didn't want to see anyone after his wife died. He grew more and more reticent.",
+            "zh": "我爺爺在太太過世後不想見任何人。他話越來越少。"
           },
           {
-            "en": "Life is becoming more and more stressful.",
-            "zh": "生活壓力越來越大。"
+            "en": "I work two jobs and look after my parents. Life is becoming more and more stressful.",
+            "zh": "我做兩份工作，還要照顧爸媽。生活壓力越來越大。"
           },
           {
-            "en": "The math questions were getting more and more difficult.",
-            "zh": "數學題目越來越難。"
+            "en": "I stopped at page four of the maths homework. The questions were getting more and more difficult.",
+            "zh": "數學功課我寫到第四頁就停了。題目越來越難。"
           }
         ]
       },
@@ -7904,24 +7904,24 @@
         "heading": "④ better and better、worse and worse",
         "items": [
           {
-            "en": "The view got better and better as we climbed.",
-            "zh": "我們越爬，風景越好。"
+            "en": "We walked up the mountain all morning. The view got better and better as we climbed.",
+            "zh": "我們整個早上都在爬山。我們越爬，風景越好。"
           },
           {
-            "en": "The weather got worse and worse.",
-            "zh": "天氣越來越糟。"
+            "en": "We wanted to play tennis, but the weather got worse and worse.",
+            "zh": "我們想打網球，可是天氣越來越糟。"
           },
           {
-            "en": "The service at that restaurant has got worse and worse.",
-            "zh": "那家餐廳的服務越來越差。"
+            "en": "We don't eat at Rosie's now. The service there has got worse and worse.",
+            "zh": "我們現在不去 Rosie's 吃了。那裡的服務越來越差。"
           },
           {
-            "en": "Her piano playing is getting better and better.",
-            "zh": "她的鋼琴越彈越好。"
+            "en": "Lily practises the piano every day. Her playing is getting better and better.",
+            "zh": "Lily 每天練鋼琴。她的鋼琴越彈越好。"
           },
           {
-            "en": "My knee felt worse and worse after the run.",
-            "zh": "跑完步以後，我的膝蓋越來越痛。"
+            "en": "I ran ten kilometres yesterday. My knee felt worse and worse after the run.",
+            "zh": "我昨天跑了十公里。跑完步以後，我的膝蓋越來越痛。"
           }
         ]
       },
@@ -7929,24 +7929,24 @@
         "heading": "⑤ 不同的時態和句型",
         "items": [
           {
-            "en": "The puddles on the road have got deeper and deeper.",
-            "zh": "路上的水坑越來越深。"
+            "en": "It's rained for three days. The puddles on the road have got deeper and deeper.",
+            "zh": "已經下了三天的雨。路上的水坑越來越深。"
           },
           {
-            "en": "I saw the plane become smaller and smaller.",
-            "zh": "我看著飛機變得越來越小。"
+            "en": "I stood on the field and watched my dad's plane. I saw it become smaller and smaller.",
+            "zh": "我站在空地上看我爸爸的飛機。我看著飛機變得越來越小。"
           },
           {
-            "en": "Why is the traffic getting heavier and heavier?",
-            "zh": "交通為什麼越來越塞？"
+            "en": "We left home early. Why is the traffic getting heavier and heavier?",
+            "zh": "我們很早就出門了。交通為什麼越來越塞？"
           },
           {
-            "en": "The road will get narrower and narrower.",
-            "zh": "這條路會越來越窄。"
+            "en": "Leave the car at the bottom of the hill. The road will get narrower and narrower.",
+            "zh": "把車停在山腳下。這條路會越來越窄。"
           },
           {
-            "en": "The kids were getting more and more tired.",
-            "zh": "孩子們越來越累。"
+            "en": "We walked around the zoo for five hours. The kids were getting more and more tired.",
+            "zh": "我們在動物園走了五個小時。孩子們越來越累。"
           }
         ]
       }
@@ -11679,88 +11679,88 @@
     "translation": "它比其他衣服貴。",
     "name": "more 加形容詞的比較級",
     "sentences": [
-      "This sofa is more comfortable than my bed.",
-      "Gold is more expensive than silver.",
-      "Math is more difficult than art for me.",
-      "History became more interesting with Mr. Lin.",
-      "Your health is more important than money.",
-      "The city is more beautiful at night.",
-      "Motorbikes are more dangerous than bikes.",
-      "The new phone is more expensive than I expected.",
-      "Is English more difficult than Japanese?",
-      "This exercise is more useful for beginners.",
-      "Leather seats feel more comfortable.",
-      "Today's lesson was more enjoyable.",
-      "You must be more careful.",
-      "She is more famous than her sister.",
-      "The meeting was more boring than usual.",
-      "I felt more tired after the trip.",
-      "My new job is more stressful.",
-      "Be more patient with your little brother.",
-      "Ski trips are more exciting than beach trips.",
-      "Ken looks more relaxed now.",
-      "I want a more interesting job.",
-      "The company hired a more careful driver.",
-      "She bought a more expensive bag.",
-      "Can you give me a more useful example?",
-      "They moved to a more beautiful area.",
-      "Tomorrow's game will be more important.",
-      "Was the hotel more comfortable than the last one?",
-      "Ann became more confident after the course.",
-      "Nothing is more important than your family.",
-      "The roads are more crowded on weekends."
+      "I fall asleep in the living room every night. This sofa is more comfortable than my bed.",
+      "We can't afford a gold ring. Gold is more expensive than silver.",
+      "I need more time for my maths homework. Maths is more difficult than art for me.",
+      "I didn't like history last year, but this year we have Mr Lin. His lessons are more interesting.",
+      "Stop working at weekends. Your health is more important than money.",
+      "Let's go up the tower after dinner. The city is more beautiful at night.",
+      "My parents won't let me ride a motorbike. They think motorbikes are more dangerous than bikes.",
+      "I'm not buying the new phone yet. It's more expensive than I expected.",
+      "I'm learning English, and my friend is learning Japanese. Is English more difficult than Japanese?",
+      "Don't start with the hard exercises in the book. The first one is more useful for beginners.",
+      "We chose the car with the leather seats. They feel more comfortable.",
+      "We played games in English class today. The lesson was more enjoyable than usual.",
+      "You've broken two glasses this week. You must be more careful.",
+      "Everyone knows Emma Stone. She is more famous than her sister.",
+      "Our boss talked for two hours. The meeting was more boring than usual.",
+      "We flew home overnight. I felt more tired after the trip.",
+      "I manage ten people now. My new job is more stressful.",
+      "He's only four. Be more patient with your little brother.",
+      "We went skiing in January and to the beach in July. Ski trips are more exciting than beach trips.",
+      "Ken finished his exams yesterday. He looks more relaxed now.",
+      "I sit at a desk and type all day. I want a more interesting job.",
+      "The last driver had three accidents, so the company hired a more careful driver.",
+      "My sister didn't like the cheap bag, so she bought a more expensive bag.",
+      "I don't understand this example. Can you give me a more useful example?",
+      "My cousins didn't like living near the factory. They moved to a more beautiful area.",
+      "We need to win on Saturday. Tomorrow's game will be more important.",
+      "You changed hotels on your trip. Was the new hotel more comfortable than the last one?",
+      "Ann was afraid of speaking in class, but she became more confident after the course.",
+      "Go home and see your parents. Nothing is more important than your family.",
+      "Do your shopping on a weekday. The roads are more crowded at weekends."
     ],
     "examples": [
       {
         "heading": "① 三個音節以上的形容詞",
         "items": [
           {
-            "en": "This sofa is more comfortable than my bed.",
-            "zh": "這張沙發比我的床舒服。"
+            "en": "I fall asleep in the living room every night. This sofa is more comfortable than my bed.",
+            "zh": "我每天晚上都在客廳睡著。這張沙發比我的床舒服。"
           },
           {
-            "en": "Gold is more expensive than silver.",
-            "zh": "黃金比銀貴。"
+            "en": "We can't afford a gold ring. Gold is more expensive than silver.",
+            "zh": "我們買不起金戒指。黃金比銀貴。"
           },
           {
-            "en": "Math is more difficult than art for me.",
-            "zh": "對我來說，數學比美術難。"
+            "en": "I need more time for my maths homework. Maths is more difficult than art for me.",
+            "zh": "我的數學功課需要多一點時間。對我來說，數學比美術難。"
           },
           {
-            "en": "History became more interesting with Mr. Lin.",
-            "zh": "林老師教的歷史變得比較有趣。"
+            "en": "I didn't like history last year, but this year we have Mr Lin. His lessons are more interesting.",
+            "zh": "我去年不喜歡歷史，不過今年是林老師教。他的課比較有趣。"
           },
           {
-            "en": "Your health is more important than money.",
-            "zh": "你的健康比錢重要。"
+            "en": "Stop working at weekends. Your health is more important than money.",
+            "zh": "週末別工作了。你的健康比錢重要。"
           },
           {
-            "en": "The city is more beautiful at night.",
-            "zh": "這座城市晚上比較漂亮。"
+            "en": "Let's go up the tower after dinner. The city is more beautiful at night.",
+            "zh": "吃完晚餐我們去登塔吧。這座城市晚上比較漂亮。"
           },
           {
-            "en": "Motorbikes are more dangerous than bikes.",
-            "zh": "機車比腳踏車危險。"
+            "en": "My parents won't let me ride a motorbike. They think motorbikes are more dangerous than bikes.",
+            "zh": "我爸媽不讓我騎機車。他們覺得機車比腳踏車危險。"
           },
           {
-            "en": "The new phone is more expensive than I expected.",
-            "zh": "新手機比我預期的貴。"
+            "en": "I'm not buying the new phone yet. It's more expensive than I expected.",
+            "zh": "我還不買新手機。它比我預期的貴。"
           },
           {
-            "en": "Is English more difficult than Japanese?",
-            "zh": "英文比日文難嗎？"
+            "en": "I'm learning English, and my friend is learning Japanese. Is English more difficult than Japanese?",
+            "zh": "我在學英文，我朋友在學日文。英文比日文難嗎？"
           },
           {
-            "en": "This exercise is more useful for beginners.",
-            "zh": "這個練習對初學者比較有用。"
+            "en": "Don't start with the hard exercises in the book. The first one is more useful for beginners.",
+            "zh": "別從書裡最難的練習開始。第一個練習對初學者比較有用。"
           },
           {
-            "en": "Leather seats feel more comfortable.",
-            "zh": "皮椅坐起來比較舒服。"
+            "en": "We chose the car with the leather seats. They feel more comfortable.",
+            "zh": "我們選了皮椅的那輛車。皮椅坐起來比較舒服。"
           },
           {
-            "en": "Today's lesson was more enjoyable.",
-            "zh": "今天的課比較好玩。"
+            "en": "We played games in English class today. The lesson was more enjoyable than usual.",
+            "zh": "今天英文課我們玩遊戲。這堂課比平常好玩。"
           }
         ]
       },
@@ -11768,36 +11768,36 @@
         "heading": "② -ful、-ous、-ing、-ed 的形容詞",
         "items": [
           {
-            "en": "You must be more careful.",
-            "zh": "你一定要更小心。"
+            "en": "You've broken two glasses this week. You must be more careful.",
+            "zh": "你這星期打破了兩個杯子。你一定要更小心。"
           },
           {
-            "en": "She is more famous than her sister.",
-            "zh": "她比她姊姊有名。"
+            "en": "Everyone knows Emma Stone. She is more famous than her sister.",
+            "zh": "大家都知道 Emma Stone。她比她姊姊有名。"
           },
           {
-            "en": "The meeting was more boring than usual.",
-            "zh": "會議比平常無聊。"
+            "en": "Our boss talked for two hours. The meeting was more boring than usual.",
+            "zh": "老闆講了兩個小時。會議比平常無聊。"
           },
           {
-            "en": "I felt more tired after the trip.",
-            "zh": "旅行回來以後，我覺得更累了。"
+            "en": "We flew home overnight. I felt more tired after the trip.",
+            "zh": "我們搭夜班飛機回家。旅行回來以後，我覺得更累了。"
           },
           {
-            "en": "My new job is more stressful.",
-            "zh": "我的新工作壓力比較大。"
+            "en": "I manage ten people now. My new job is more stressful.",
+            "zh": "我現在管十個人。我的新工作壓力比較大。"
           },
           {
-            "en": "Be more patient with your little brother.",
-            "zh": "對你弟弟要更有耐心。"
+            "en": "He's only four. Be more patient with your little brother.",
+            "zh": "他才四歲。對你弟弟要更有耐心。"
           },
           {
-            "en": "Ski trips are more exciting than beach trips.",
-            "zh": "去滑雪比去海邊刺激。"
+            "en": "We went skiing in January and to the beach in July. Ski trips are more exciting than beach trips.",
+            "zh": "我們一月去滑雪，七月去海邊。去滑雪比去海邊刺激。"
           },
           {
-            "en": "Ken looks more relaxed now.",
-            "zh": "Ken 現在看起來比較放鬆。"
+            "en": "Ken finished his exams yesterday. He looks more relaxed now.",
+            "zh": "Ken 昨天考完試了。他現在看起來比較放鬆。"
           }
         ]
       },
@@ -11805,24 +11805,24 @@
         "heading": "③ more + 形容詞 + 名詞",
         "items": [
           {
-            "en": "I want a more interesting job.",
-            "zh": "我想要一份比較有趣的工作。"
+            "en": "I sit at a desk and type all day. I want a more interesting job.",
+            "zh": "我整天坐在桌前打字。我想要一份比較有趣的工作。"
           },
           {
-            "en": "The company hired a more careful driver.",
-            "zh": "公司請了一個更小心的司機。"
+            "en": "The last driver had three accidents, so the company hired a more careful driver.",
+            "zh": "上一個司機出了三次車禍，所以公司請了一個更小心的司機。"
           },
           {
-            "en": "She bought a more expensive bag.",
-            "zh": "她買了一個比較貴的包包。"
+            "en": "My sister didn't like the cheap bag, so she bought a more expensive bag.",
+            "zh": "我姊姊不喜歡便宜的包包，所以買了一個比較貴的包包。"
           },
           {
-            "en": "Can you give me a more useful example?",
-            "zh": "你可以給我一個比較有用的例子嗎？"
+            "en": "I don't understand this example. Can you give me a more useful example?",
+            "zh": "我看不懂這個例子。你可以給我一個比較有用的例子嗎？"
           },
           {
-            "en": "They moved to a more beautiful area.",
-            "zh": "他們搬到一個比較漂亮的地區。"
+            "en": "My cousins didn't like living near the factory. They moved to a more beautiful area.",
+            "zh": "我表哥一家不喜歡住在工廠附近。他們搬到一個比較漂亮的地區。"
           }
         ]
       },
@@ -11830,24 +11830,24 @@
         "heading": "④ 不同的時態和句型",
         "items": [
           {
-            "en": "Tomorrow's game will be more important.",
-            "zh": "明天的比賽會更重要。"
+            "en": "We need to win on Saturday. Tomorrow's game will be more important.",
+            "zh": "我們星期六一定要贏。明天的比賽會更重要。"
           },
           {
-            "en": "Was the hotel more comfortable than the last one?",
-            "zh": "這家旅館比上一家舒服嗎？"
+            "en": "You changed hotels on your trip. Was the new hotel more comfortable than the last one?",
+            "zh": "你旅行時換了旅館。新的旅館比上一家舒服嗎？"
           },
           {
-            "en": "Ann became more confident after the course.",
-            "zh": "上完課之後，Ann 變得比較有自信。"
+            "en": "Ann was afraid of speaking in class, but she became more confident after the course.",
+            "zh": "Ann 以前很怕在課堂上發言，不過上完課之後，她變得比較有自信。"
           },
           {
-            "en": "Nothing is more important than your family.",
-            "zh": "沒有什麼比你的家人更重要。"
+            "en": "Go home and see your parents. Nothing is more important than your family.",
+            "zh": "回家看看你爸媽。沒有什麼比你的家人更重要。"
           },
           {
-            "en": "The roads are more crowded on weekends.",
-            "zh": "週末路上比較擁擠。"
+            "en": "Do your shopping on a weekday. The roads are more crowded at weekends.",
+            "zh": "平日去買東西吧。週末路上比較擁擠。"
           }
         ]
       }
@@ -13162,80 +13162,80 @@
     "translation": "它比我的舊手機小。",
     "name": "比較級形容詞加 than",
     "sentences": [
-      "The sea is warmer than the pool.",
-      "Paris is bigger than Rome.",
-      "Mount Jade is higher than Mount Fuji.",
-      "Science is more interesting than history for me.",
-      "The blue shirt is cheaper than the white one.",
-      "Cats are quieter than dogs.",
-      "The train is faster than the bus.",
-      "A week in the mountains is better than a week at home.",
-      "This year's festival was bigger than last year's festival.",
-      "My bedroom is smaller than the living room.",
-      "The twins are shyer than me.",
-      "She is taller than him.",
-      "You are faster than I am.",
-      "Ann is stronger than he is.",
-      "They are richer than us.",
-      "My parents are busier than I am.",
-      "Their kitchen is cleaner than ours.",
-      "Her answer was better than yours.",
-      "Their house is older than ours.",
-      "My car is newer than Tom's.",
-      "Is your phone cheaper than hers?",
-      "Last winter was colder than this one.",
-      "The movie will be longer than the book.",
-      "Is Tokyo more expensive than Taipei?",
-      "Nothing is faster than light.",
-      "The new library is more modern than the old one.",
-      "Breakfast here is cheaper than lunch.",
-      "Ken's cat is lazier than mine.",
-      "The red team was stronger than the blue team.",
-      "Was the trip more expensive than you thought?"
+      "Let's swim in the sea this afternoon. The sea is warmer than the pool.",
+      "We stayed in both cities last summer. Paris is bigger than Rome.",
+      "My father climbed both mountains. Mount Jade is higher than Mount Fuji.",
+      "I'm taking extra science classes. Science is more interesting than history for me.",
+      "I'll take the blue shirt. The blue shirt is cheaper than the white one.",
+      "We live in a small flat, so we got a cat. Cats are quieter than dogs.",
+      "Don't take the bus to Oxford. The train is faster than the bus.",
+      "You should come camping with us. A week in the mountains is better than a week at home.",
+      "Over fifty bands played this year. This year's festival was bigger than last year's.",
+      "My parents took the big room. My bedroom is smaller than the living room.",
+      "The twins never talk at parties. They're shyer than me.",
+      "Lily is twelve, and her brother Max is fourteen. She is taller than him.",
+      "Let's race to the gate. You are faster than I am, so I'll start first.",
+      "Ann carried the heavy box, not Tom. Ann is stronger than he is.",
+      "Our neighbours have two cars and a boat. They're richer than us.",
+      "I have more free time than my parents. My parents are busier than I am.",
+      "Let's cook at the Smiths' house. Their kitchen is cleaner than ours.",
+      "The teacher read both answers to the class. Her answer was better than yours.",
+      "Our neighbours' house was built in 1900. Their house is older than ours.",
+      "I bought my car in March. It's newer than Tom's.",
+      "You and Lisa got new phones. Is your phone cheaper than hers?",
+      "We had snow for three months last year. Last winter was colder than this one.",
+      "The film has lots of extra scenes. It'll be longer than the book.",
+      "I'm going to Japan in May. Is Tokyo more expensive than Taipei?",
+      "Our science teacher talked about space today. Nothing is faster than light.",
+      "Students like the new library. The new library is more modern than the old one.",
+      "Let's eat here in the morning. Breakfast here is cheaper than lunch.",
+      "Ken's cat sleeps all day. It's lazier than mine.",
+      "We lost the final five to one. The red team was stronger than the blue team.",
+      "You spent a lot on your trip to Iceland. Was the trip more expensive than you thought?"
     ],
     "examples": [
       {
         "heading": "① than + 名詞片語",
         "items": [
           {
-            "en": "The sea is warmer than the pool.",
-            "zh": "海水比游泳池的水溫暖。"
+            "en": "Let's swim in the sea this afternoon. The sea is warmer than the pool.",
+            "zh": "我們今天下午去海裡游泳吧。海水比游泳池的水溫暖。"
           },
           {
-            "en": "Paris is bigger than Rome.",
-            "zh": "巴黎比羅馬大。"
+            "en": "We stayed in both cities last summer. Paris is bigger than Rome.",
+            "zh": "我們去年夏天兩個城市都住過。巴黎比羅馬大。"
           },
           {
-            "en": "Mount Jade is higher than Mount Fuji.",
-            "zh": "玉山比富士山高。"
+            "en": "My father climbed both mountains. Mount Jade is higher than Mount Fuji.",
+            "zh": "我爸爸兩座山都爬過。玉山比富士山高。"
           },
           {
-            "en": "Science is more interesting than history for me.",
-            "zh": "對我來說，自然科比歷史有趣。"
+            "en": "I'm taking extra science classes. Science is more interesting than history for me.",
+            "zh": "我在上額外的自然課。對我來說，自然科比歷史有趣。"
           },
           {
-            "en": "The blue shirt is cheaper than the white one.",
-            "zh": "藍色那件襯衫比白色那件便宜。"
+            "en": "I'll take the blue shirt. The blue shirt is cheaper than the white one.",
+            "zh": "我買藍色那件襯衫。藍色那件比白色那件便宜。"
           },
           {
-            "en": "Cats are quieter than dogs.",
-            "zh": "貓比狗安靜。"
+            "en": "We live in a small flat, so we got a cat. Cats are quieter than dogs.",
+            "zh": "我們住在小公寓，所以養了貓。貓比狗安靜。"
           },
           {
-            "en": "The train is faster than the bus.",
-            "zh": "火車比公車快。"
+            "en": "Don't take the bus to Oxford. The train is faster than the bus.",
+            "zh": "去牛津別搭公車。火車比公車快。"
           },
           {
-            "en": "A week in the mountains is better than a week at home.",
-            "zh": "在山上待一個禮拜比在家待一個禮拜好。"
+            "en": "You should come camping with us. A week in the mountains is better than a week at home.",
+            "zh": "你應該跟我們去露營。在山上待一個禮拜比在家待一個禮拜好。"
           },
           {
-            "en": "This year's festival was bigger than last year's festival.",
-            "zh": "今年的節慶比去年的大。"
+            "en": "Over fifty bands played this year. This year's festival was bigger than last year's.",
+            "zh": "今年有超過五十個樂團演出。今年的音樂節比去年的大。"
           },
           {
-            "en": "My bedroom is smaller than the living room.",
-            "zh": "我的臥室比客廳小。"
+            "en": "My parents took the big room. My bedroom is smaller than the living room.",
+            "zh": "我爸媽住大房間。我的臥室比客廳小。"
           }
         ]
       },
@@ -13243,28 +13243,28 @@
         "heading": "② than + 代名詞",
         "items": [
           {
-            "en": "The twins are shyer than me.",
-            "zh": "那對雙胞胎比我害羞。"
+            "en": "The twins never talk at parties. They're shyer than me.",
+            "zh": "那對雙胞胎在派對上從來不說話。他們比我害羞。"
           },
           {
-            "en": "She is taller than him.",
-            "zh": "她比他高。"
+            "en": "Lily is twelve, and her brother Max is fourteen. She is taller than him.",
+            "zh": "Lily 十二歲，她哥哥 Max 十四歲。她比他高。"
           },
           {
-            "en": "You are faster than I am.",
-            "zh": "你比我快。"
+            "en": "Let's race to the gate. You are faster than I am, so I'll start first.",
+            "zh": "我們比賽跑到大門。你比我快，所以我先跑。"
           },
           {
-            "en": "Ann is stronger than he is.",
-            "zh": "Ann 比他強壯。"
+            "en": "Ann carried the heavy box, not Tom. Ann is stronger than he is.",
+            "zh": "重箱子是 Ann 搬的，不是 Tom。Ann 比他強壯。"
           },
           {
-            "en": "They are richer than us.",
-            "zh": "他們比我們有錢。"
+            "en": "Our neighbours have two cars and a boat. They're richer than us.",
+            "zh": "我們的鄰居有兩輛車和一艘船。他們比我們有錢。"
           },
           {
-            "en": "My parents are busier than I am.",
-            "zh": "我爸媽比我忙。"
+            "en": "I have more free time than my parents. My parents are busier than I am.",
+            "zh": "我的空閒時間比我爸媽多。我爸媽比我忙。"
           }
         ]
       },
@@ -13272,24 +13272,24 @@
         "heading": "③ than + 所有格代名詞",
         "items": [
           {
-            "en": "Their kitchen is cleaner than ours.",
-            "zh": "他們的廚房比我們的乾淨。"
+            "en": "Let's cook at the Smiths' house. Their kitchen is cleaner than ours.",
+            "zh": "我們去 Smith 家煮飯吧。他們的廚房比我們的乾淨。"
           },
           {
-            "en": "Her answer was better than yours.",
-            "zh": "她的答案比你的好。"
+            "en": "The teacher read both answers to the class. Her answer was better than yours.",
+            "zh": "老師把兩個答案都唸給全班聽。她的答案比你的好。"
           },
           {
-            "en": "Their house is older than ours.",
-            "zh": "他們的房子比我們的老。"
+            "en": "Our neighbours' house was built in 1900. Their house is older than ours.",
+            "zh": "我們鄰居的房子是 1900 年蓋的。他們的房子比我們的老。"
           },
           {
-            "en": "My car is newer than Tom's.",
-            "zh": "我的車比 Tom 的新。"
+            "en": "I bought my car in March. It's newer than Tom's.",
+            "zh": "我三月買了車。它比 Tom 的新。"
           },
           {
-            "en": "Is your phone cheaper than hers?",
-            "zh": "你的手機比她的便宜嗎？"
+            "en": "You and Lisa got new phones. Is your phone cheaper than hers?",
+            "zh": "你和 Lisa 都買了新手機。你的手機比她的便宜嗎？"
           }
         ]
       },
@@ -13297,40 +13297,40 @@
         "heading": "④ 不同的時態和句型",
         "items": [
           {
-            "en": "Last winter was colder than this one.",
-            "zh": "去年冬天比今年冷。"
+            "en": "We had snow for three months last year. Last winter was colder than this one.",
+            "zh": "我們去年下了三個月的雪。去年冬天比今年冷。"
           },
           {
-            "en": "The movie will be longer than the book.",
-            "zh": "電影會比書長。"
+            "en": "The film has lots of extra scenes. It'll be longer than the book.",
+            "zh": "這部電影加了很多場景。電影會比書長。"
           },
           {
-            "en": "Is Tokyo more expensive than Taipei?",
-            "zh": "東京比台北貴嗎？"
+            "en": "I'm going to Japan in May. Is Tokyo more expensive than Taipei?",
+            "zh": "我五月要去日本。東京比台北貴嗎？"
           },
           {
-            "en": "Nothing is faster than light.",
-            "zh": "沒有東西比光快。"
+            "en": "Our science teacher talked about space today. Nothing is faster than light.",
+            "zh": "自然老師今天講太空。沒有東西比光快。"
           },
           {
-            "en": "The new library is more modern than the old one.",
-            "zh": "新的圖書館比舊的現代。"
+            "en": "Students like the new library. The new library is more modern than the old one.",
+            "zh": "學生喜歡新的圖書館。新的圖書館比舊的現代。"
           },
           {
-            "en": "Breakfast here is cheaper than lunch.",
-            "zh": "這裡的早餐比午餐便宜。"
+            "en": "Let's eat here in the morning. Breakfast here is cheaper than lunch.",
+            "zh": "我們早上來這裡吃吧。這裡的早餐比午餐便宜。"
           },
           {
-            "en": "Ken's cat is lazier than mine.",
-            "zh": "Ken 的貓比我的懶。"
+            "en": "Ken's cat sleeps all day. It's lazier than mine.",
+            "zh": "Ken 的貓整天都在睡。牠比我的懶。"
           },
           {
-            "en": "The red team was stronger than the blue team.",
-            "zh": "紅隊比藍隊強。"
+            "en": "We lost the final five to one. The red team was stronger than the blue team.",
+            "zh": "我們決賽五比一輸了。紅隊比藍隊強。"
           },
           {
-            "en": "Was the trip more expensive than you thought?",
-            "zh": "這趟旅行比你想的貴嗎？"
+            "en": "You spent a lot on your trip to Iceland. Was the trip more expensive than you thought?",
+            "zh": "你去冰島花了很多錢。這趟旅行比你想的貴嗎？"
           }
         ]
       }

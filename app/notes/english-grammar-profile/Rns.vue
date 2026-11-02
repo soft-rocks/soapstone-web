@@ -31,19 +31,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">easy → easier</span>
           <span
-            ><NoteMark sentence="This test is easier than the last one." :marks="['easier']" /><span
+            ><NoteMark sentence="It was easier than the last one." :marks="['easier']" /><span
               class="translation"
-              >這次考試比上次簡單。</span
+              >這次比上次簡單。</span
             ></span
           >
         </div>
         <div>
           <span class="term">busy → busier</span>
           <span
-            ><NoteMark sentence="My parents are busier than I am." :marks="['busier']" /><span
-              class="translation"
-              >我爸媽比我忙。</span
-            ></span
+            ><NoteMark
+              sentence="Saturdays are busier than Sundays at the shop."
+              :marks="['busier']"
+            /><span class="translation">店裡星期六比星期天忙。</span></span
           >
         </div>
         <div>
@@ -73,8 +73,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="y 要改成 i" mark="easier">
       <NoteFix
-        wrong="This test is easyer than the last one."
-        right="This test is easier than the last one."
+        wrong="Spanish is easyer than French for me."
+        right="Spanish is easier than French for me."
         fix="easier"
       />
     </NoteSlide>
@@ -85,8 +85,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="加的是 -ier，不是 -r" mark="easier">
       <NoteFix
-        wrong="My bag is heavyr than yours."
-        right="My bag is heavier than yours."
+        wrong="Your suitcase is heavyr than mine."
+        right="Your suitcase is heavier than mine."
         fix="heavier"
       />
     </NoteSlide>

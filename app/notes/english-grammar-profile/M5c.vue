@@ -58,8 +58,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="lot 前面要加 a" mark="a lot">
       <NoteFix
-        wrong="This flat is lot bigger than our old one."
-        right="This flat is a lot bigger than our old one."
+        wrong="My new bike is lot lighter than my old one."
+        right="My new bike is a lot lighter than my old one."
         fix="a lot"
       />
     </NoteSlide>

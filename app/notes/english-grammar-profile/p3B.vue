@@ -57,13 +57,17 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="主詞和比較級中間要有 be" mark="It's">
-      <NoteFix wrong="The new house bigger." right="The new house is bigger." fix="is" />
+      <NoteFix
+        wrong="My grandparents' new garden bigger."
+        right="My grandparents' new garden is bigger."
+        fix="is"
+      />
     </NoteSlide>
 
     <NoteSlide title="長的形容詞前面加 more" mark="easier">
       <NoteFix
-        wrong="This chair is comfortabler."
-        right="This chair is more comfortable."
+        wrong="Sofia's new bed is comfortabler."
+        right="Sofia's new bed is more comfortable."
         fix="more comfortable"
       />
     </NoteSlide>

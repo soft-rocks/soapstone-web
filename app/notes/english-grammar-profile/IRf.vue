@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="26"
         :parts="[
           { t: 'Should I go there and talk to her,', role: '疑問句 A', kind: 'key' },
-          { t: 'or', role: 'or' },
+          { t: 'or', role: '連接詞' },
           { t: 'should I stay here?', role: '疑問句 B', kind: 'key' },
         ]"
       />

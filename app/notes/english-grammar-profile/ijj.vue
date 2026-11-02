@@ -16,8 +16,8 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'I\'m', role: '主詞 + be' },
-          { t: 'not', role: 'not', kind: 'key' },
+          { t: 'I\'m', role: '主詞 + be 動詞' },
+          { t: 'not', role: '否定', kind: 'key' },
           { t: 'a good swimmer.', role: '補語', kind: 'dim' },
         ]"
       />
@@ -47,10 +47,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">was not</span>
           <span
-            ><NoteMark sentence="The film was not very good." :marks="['was not']" /><span
-              class="translation"
-              >電影不太好看。</span
-            ></span
+            ><NoteMark
+              sentence="The film was not very good, so we left before the end."
+              :marks="['was not']"
+            /><span class="translation">電影不太好看，所以我們沒看完就走了。</span></span
           >
         </div>
       </div>
@@ -87,8 +87,8 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'I', role: '主詞' },
-          { t: 'am', role: 'be' },
-          { t: 'not', role: '說得重一點', kind: 'key', ring: true },
+          { t: 'am', role: 'be 動詞' },
+          { t: 'not', role: '加強語氣', kind: 'key', ring: true },
           { t: 'tired.', role: '補語', kind: 'dim' },
         ]"
       />

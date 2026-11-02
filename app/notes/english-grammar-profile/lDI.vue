@@ -99,7 +99,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="mind 後面的新的主詞不接不定詞" mark="staying">
+    <NoteSlide title="新的主詞後面不接不定詞" mark="staying">
       <NoteFix
         wrong="She doesn't mind her son to play games."
         right="She doesn't mind her son playing games."
@@ -125,7 +125,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我看到我姊姊在跟校長說話。</p>
     </NoteSlide>
 
-    <NoteSlide title="want 後面的人接不定詞" mark="mind">
+    <NoteSlide title="want 的受詞後面接不定詞" mark="mind">
       <NoteMark sentence="I want you to stay for dinner." :marks="['want', 'to stay']" />
       <p class="translation">我要你留下來吃晚餐。</p>
     </NoteSlide>

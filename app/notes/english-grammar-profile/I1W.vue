@@ -19,10 +19,10 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'Alice was disappointed', role: '主要子句', kind: 'dim' },
           { t: 'that', kind: 'dim' },
           { t: 'her mother', role: '主詞' },
-          { t: 'could have', role: 'could have', kind: 'key', ring: true },
+          { t: 'could have', role: '情態動詞 + have', kind: 'key', ring: true },
           { t: 'phoned', role: '過去分詞', kind: 'key' },
           { t: 'her', role: '受詞' },
-          { t: 'but didn\'t.', role: '沒有發生', kind: 'key' },
+          { t: 'but didn\'t.', role: '對等子句', kind: 'key' },
         ]"
       />
       <p class="translation">Alice 很失望，她媽媽明明可以打電話給她，卻沒有打。</p>
@@ -65,9 +65,9 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="22"
         :parts="[
-          { t: 'The ticket was so expensive', role: '原因', kind: 'dim' },
+          { t: 'The ticket was so expensive', role: '主要子句', kind: 'dim' },
           { t: 'that I', kind: 'dim' },
-          { t: 'couldn\'t have', role: '不可能', kind: 'key', ring: true },
+          { t: 'couldn\'t have', role: '否定情態動詞 + have', kind: 'key', ring: true },
           { t: 'bought', role: '過去分詞', kind: 'key' },
           { t: 'it.', role: '受詞' },
         ]"
@@ -121,8 +121,8 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="26"
         :parts="[
           { t: 'My mother', kind: 'dim' },
-          { t: 'could cook', role: 'could + 原形動詞', kind: 'key', ring: true },
-          { t: 'when she was ten.', role: '過去的時間' },
+          { t: 'could cook', role: '情態動詞 + 動詞', kind: 'key', ring: true },
+          { t: 'when she was ten.', role: '時間子句' },
         ]"
       />
       <p class="translation">我媽媽十歲就會做菜了。</p>
@@ -132,9 +132,9 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="22"
         :parts="[
-          { t: 'If you had called,', role: '條件', kind: 'dim' },
+          { t: 'If you had called,', role: '條件子句', kind: 'dim' },
           { t: 'I', role: '主詞' },
-          { t: 'would have', role: '一定會', kind: 'key', ring: true },
+          { t: 'would have', role: '情態動詞 + have', kind: 'key', ring: true },
           { t: 'picked', role: '過去分詞', kind: 'key' },
           { t: 'you up.', kind: 'dim' },
         ]"

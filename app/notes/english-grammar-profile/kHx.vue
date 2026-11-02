@@ -99,7 +99,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="afford 後面接不定詞" mark="being">
+    <NoteSlide title="refuse 後面接不定詞，不接動詞-ing" mark="being">
       <NoteMark sentence="She refused to answer the reporter's questions." :marks="['to answer']" />
       <p class="translation">她拒絕回答記者的問題。</p>
     </NoteSlide>

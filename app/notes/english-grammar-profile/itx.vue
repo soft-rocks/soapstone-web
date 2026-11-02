@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'I', role: '主詞' },
-          { t: 'couldn\'t', role: 'could not', kind: 'key', ring: true },
+          { t: 'couldn\'t', role: '否定情態動詞', kind: 'key', ring: true },
           { t: 'close', role: '原形動詞', kind: 'key' },
           { t: 'the window.', role: '受詞' },
         ]"
@@ -124,7 +124,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'We had a great time at the beach.', kind: 'dim' },
-          { t: 'Too bad', role: '可惜', kind: 'key', ring: true },
+          { t: 'Too bad', role: '口語回應', kind: 'key', ring: true },
           { t: 'you couldn\'t come.', role: '對方沒能做' },
         ]"
       />

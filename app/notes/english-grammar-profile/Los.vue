@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="24"
         :parts="[
           { t: 'I', role: '主詞' },
-          { t: 'haven\'t', role: 'have + not', kind: 'key' },
+          { t: 'haven\'t', role: '否定助動詞', kind: 'key' },
           { t: 'tidied', role: '過去分詞', kind: 'key' },
           { t: 'my room', role: '受詞' },
           { t: 'since I bought this mobile phone.', role: 'since 子句', kind: 'dim' },
@@ -31,7 +31,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="30"
         :parts="[
           { t: 'The heating', role: '主詞' },
-          { t: 'isn\'t', role: 'be + not', kind: 'key' },
+          { t: 'isn\'t', role: '否定的 be 動詞', kind: 'key' },
           { t: 'working.', role: '動詞-ing', kind: 'key' },
         ]"
       />
@@ -43,18 +43,18 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">主詞和助動詞縮寫</span>
           <span
-            ><NoteMark sentence="She's not feeling well." :marks="['She\'s']" /><span
-              class="translation"
-              >她不太舒服。</span
-            ></span
+            ><NoteMark
+              sentence="She's not feeling well, so she's going home early."
+              :marks="['She\'s']"
+            /><span class="translation">她不太舒服，所以要提早回家。</span></span
           >
         </div>
         <div>
           <span class="term">助動詞和 not 縮寫</span>
           <span
-            ><NoteMark sentence="My sister hasn't called me." :marks="['hasn\'t']" /><span
+            ><NoteMark sentence="My sister hasn't called me this week." :marks="['hasn\'t']" /><span
               class="translation"
-              >我姊姊沒打電話給我。</span
+              >我姊姊這個星期都沒打電話給我。</span
             ></span
           >
         </div>
@@ -67,7 +67,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'We', role: '主詞' },
-          { t: 'haven\'t got', role: '沒有', kind: 'key' },
+          { t: 'haven\'t got', role: '否定', kind: 'key' },
           { t: 'any hot water.', role: '受詞', kind: 'dim' },
         ]"
       />

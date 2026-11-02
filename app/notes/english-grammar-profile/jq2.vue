@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="否定的直述句後面，附加問句不加 not">
+    <NoteSlide title="附加問句放在直述句後面，問對方對不對">
       <NoteWords
         :size="28"
         :parts="[
@@ -61,7 +61,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'It', kind: 'gone' },
           { t: 'Doesn\'t sound interesting,', role: '省略主詞' },
-          { t: 'does it?', role: '完整的附加問句', kind: 'key' },
+          { t: 'does it?', role: '附加問句', kind: 'key' },
         ]"
       />
       <p class="translation">聽起來沒什麼意思，對吧？</p>

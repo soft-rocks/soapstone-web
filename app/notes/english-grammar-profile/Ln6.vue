@@ -72,25 +72,25 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="複合形容詞裡的名詞不加 -s" mark="good-looking">
       <NoteFix
-        wrong="It's a ten-minutes walk from here."
-        right="It's a ten-minute walk from here."
-        fix="ten-minute"
+        wrong="My parents booked a five-stars hotel."
+        right="My parents booked a five-star hotel."
+        fix="five-star"
       />
     </NoteSlide>
 
     <NoteSlide title="放在名詞前面時要加連字號" mark="good-looking">
       <NoteFix
-        wrong="She is a well known writer."
-        right="She is a well-known writer."
-        fix="well-known"
+        wrong="My grandpa was a well respected doctor."
+        right="My grandpa was a well-respected doctor."
+        fix="well-respected"
       />
     </NoteSlide>
 
-    <NoteSlide title="good-looking 用動詞-ing" mark="good-looking">
+    <NoteSlide title="nice-looking 用動詞-ing" mark="good-looking">
       <NoteFix
-        wrong="He is a good-looked man."
-        right="He is a good-looking man."
-        fix="good-looking"
+        wrong="That's a nice-looked dress."
+        right="That's a nice-looking dress."
+        fix="nice-looking"
       />
     </NoteSlide>
   </NoteDeck>

@@ -44,7 +44,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span
             ><NoteMark
               sentence="The new library is more modern and more comfortable."
-              :marks="['more modern and more comfortable']"
+              :marks="['more modern', 'more comfortable']"
             /><span class="translation">新的圖書館比較現代，也比較舒服。</span></span
           >
         </div>
@@ -94,9 +94,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="and 後面也要用比較級" mark="cheaper">
       <NoteFix
-        wrong="The new bus is faster and cheap."
-        right="The new bus is faster and cheaper."
-        fix="cheaper"
+        wrong="Our new flat is bigger and quiet."
+        right="Our new flat is bigger and quieter."
+        fix="quieter"
       />
     </NoteSlide>
 

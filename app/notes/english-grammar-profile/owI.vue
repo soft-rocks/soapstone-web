@@ -52,19 +52,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">self- + 形容詞</span>
           <span
-            ><NoteMark sentence="She is very self-confident." :marks="['self-confident']" /><span
-              class="translation"
-              >她很有自信。</span
-            ></span
+            ><NoteMark
+              sentence="She's a self-confident speaker."
+              :marks="['self-confident']"
+            /><span class="translation">她是一個很有自信的演講者。</span></span
           >
         </div>
         <div>
           <span class="term">固定的片語</span>
           <span
             ><NoteMark
-              sentence="They come from a well-to-do family."
+              sentence="She grew up in a well-to-do family."
               :marks="['well-to-do']"
-            /><span class="translation">他們出身有錢人家。</span></span
+            /><span class="translation">她在一個有錢的家庭長大。</span></span
           >
         </div>
       </div>
@@ -88,9 +88,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="放在名詞前面要加連字號" mark="easy-going">
       <NoteFix
-        wrong="We went on a long awaited trip."
-        right="We went on a long-awaited trip."
-        fix="long-awaited"
+        wrong="She gave a well prepared talk."
+        right="She gave a well-prepared talk."
+        fix="well-prepared"
       />
     </NoteSlide>
   </NoteDeck>

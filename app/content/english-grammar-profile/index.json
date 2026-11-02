@@ -1303,80 +1303,80 @@
     "translation": "以後汽車會更快，也更便宜。",
     "name": "用 and 連接比較級形容詞",
     "sentences": [
-      "My new phone is lighter and faster.",
-      "You will get stronger and fitter.",
-      "The days are getting longer and warmer.",
-      "The new road is wider and safer.",
-      "The river is cleaner and deeper now.",
-      "Her hair is shorter and darker than before.",
-      "This bag is smaller and lighter than mine.",
-      "Planes are faster and safer than cars.",
-      "The children are taller and louder this year.",
-      "My grandfather is older and slower now.",
-      "The new library is more modern and more comfortable.",
-      "This book is more interesting and more useful.",
-      "People are more careful and more patient now.",
-      "The city became more crowded and more expensive.",
-      "Online classes are more flexible and more convenient.",
-      "The second test was more difficult and more confusing.",
-      "Trains are cheaper and more comfortable than planes.",
-      "The new shop is bigger and more modern.",
-      "My English is better and more natural now.",
-      "Ann looks happier and more relaxed these days.",
-      "This model is lighter and more powerful.",
-      "Life in the country is slower and more peaceful.",
-      "They want a bigger and better school.",
-      "We need a faster and cheaper way to send money.",
-      "Ken bought a newer and safer car.",
-      "She found a quieter and cheaper apartment.",
-      "I feel better and stronger after the holiday.",
-      "Will the new phones be smaller and cheaper?",
-      "The streets were quieter and cleaner in the morning.",
-      "Our team got faster and stronger every week."
+      "I sold my old phone. My new phone is lighter and faster.",
+      "Keep going to the gym every week. You'll get stronger and fitter.",
+      "Spring is here. The days are getting longer and warmer.",
+      "The town rebuilt the road to the school. The new road is wider and safer.",
+      "The factory closed ten years ago. The river is cleaner and deeper now.",
+      "Have you seen Lisa since the summer? Her hair is shorter and darker than before.",
+      "I'm buying the green bag for the trip. This bag is smaller and lighter than mine.",
+      "My dad drives to Rome, but I fly. Planes are faster and safer than cars.",
+      "I teach the same class as last year. The children are taller and louder this year.",
+      "My grandfather doesn't walk to the shops any more. He's older and slower now.",
+      "Our town opened a new library in March. The new library is more modern and more comfortable.",
+      "Don't read the first book on the list. The second one is more interesting and more useful.",
+      "There were lots of accidents on this road last year. Drivers are more careful and more patient now.",
+      "Lots of tourists came to Lisbon, and the city became more crowded and more expensive.",
+      "I can study at night after work. Online classes are more flexible and more convenient.",
+      "Most of us failed the second test. It was more difficult and more confusing than the first one.",
+      "We always go to Paris by train. Trains are cheaper and more comfortable than planes.",
+      "The supermarket moved across the road. The new shop is bigger and more modern.",
+      "I lived in London for a year. My English is better and more natural now.",
+      "Ann changed jobs in March. She looks happier and more relaxed these days.",
+      "Don't buy last year's laptop. This model is lighter and more powerful.",
+      "My parents moved to a village. Life there is slower and more peaceful.",
+      "The parents at our school are unhappy. They want a bigger and better school.",
+      "Bank transfers take three days. We need a faster and cheaper way to send money.",
+      "Ken's old car broke down twice last winter, so he bought a newer and safer car.",
+      "My sister's neighbours were too noisy. She found a quieter and cheaper flat.",
+      "I spent two weeks by the sea. I feel better and stronger after the holiday.",
+      "My phone is too big for my pocket. Will the new phones be smaller and cheaper?",
+      "I used to go running at six. The streets were quieter and cleaner in the morning.",
+      "We trained hard all season. Our team got faster and stronger every week."
     ],
     "examples": [
       {
         "heading": "① -er + and + -er",
         "items": [
           {
-            "en": "My new phone is lighter and faster.",
-            "zh": "我的新手機比較輕，也比較快。"
+            "en": "I sold my old phone. My new phone is lighter and faster.",
+            "zh": "我把舊手機賣了。我的新手機比較輕，也比較快。"
           },
           {
-            "en": "You will get stronger and fitter.",
-            "zh": "你會變得更強壯、更健康。"
+            "en": "Keep going to the gym every week. You'll get stronger and fitter.",
+            "zh": "每個星期繼續去健身房。你會變得更強壯、更健康。"
           },
           {
-            "en": "The days are getting longer and warmer.",
-            "zh": "白天越來越長，也越來越暖和。"
+            "en": "Spring is here. The days are getting longer and warmer.",
+            "zh": "春天到了。白天越來越長，也越來越暖和。"
           },
           {
-            "en": "The new road is wider and safer.",
-            "zh": "新的路比較寬，也比較安全。"
+            "en": "The town rebuilt the road to the school. The new road is wider and safer.",
+            "zh": "鎮上重建了通往學校的路。新的路比較寬，也比較安全。"
           },
           {
-            "en": "The river is cleaner and deeper now.",
-            "zh": "現在這條河比較乾淨，也比較深。"
+            "en": "The factory closed ten years ago. The river is cleaner and deeper now.",
+            "zh": "工廠十年前關了。現在這條河比較乾淨，也比較深。"
           },
           {
-            "en": "Her hair is shorter and darker than before.",
-            "zh": "她的頭髮比以前短，顏色也比較深。"
+            "en": "Have you seen Lisa since the summer? Her hair is shorter and darker than before.",
+            "zh": "你夏天以後見過 Lisa 嗎？她的頭髮比以前短，顏色也比較深。"
           },
           {
-            "en": "This bag is smaller and lighter than mine.",
-            "zh": "這個包包比我的小，也比我的輕。"
+            "en": "I'm buying the green bag for the trip. This bag is smaller and lighter than mine.",
+            "zh": "我要買綠色的包包去旅行。這個包包比我的小，也比我的輕。"
           },
           {
-            "en": "Planes are faster and safer than cars.",
-            "zh": "飛機比汽車快，也比汽車安全。"
+            "en": "My dad drives to Rome, but I fly. Planes are faster and safer than cars.",
+            "zh": "我爸爸開車去羅馬，不過我搭飛機。飛機比汽車快，也比汽車安全。"
           },
           {
-            "en": "The children are taller and louder this year.",
-            "zh": "孩子們今年長高了，也變吵了。"
+            "en": "I teach the same class as last year. The children are taller and louder this year.",
+            "zh": "我教的班跟去年一樣。孩子們今年長高了，也變吵了。"
           },
           {
-            "en": "My grandfather is older and slower now.",
-            "zh": "我爺爺現在年紀大了，動作也慢了。"
+            "en": "My grandfather doesn't walk to the shops any more. He's older and slower now.",
+            "zh": "我爺爺不再走路去商店了。他現在年紀大了，動作也慢了。"
           }
         ]
       },
@@ -1384,28 +1384,28 @@
         "heading": "② more + 形容詞 + and + more + 形容詞",
         "items": [
           {
-            "en": "The new library is more modern and more comfortable.",
-            "zh": "新的圖書館比較現代，也比較舒服。"
+            "en": "Our town opened a new library in March. The new library is more modern and more comfortable.",
+            "zh": "我們鎮上三月開了一間新的圖書館。新的圖書館比較現代，也比較舒服。"
           },
           {
-            "en": "This book is more interesting and more useful.",
-            "zh": "這本書比較有趣，也比較有用。"
+            "en": "Don't read the first book on the list. The second one is more interesting and more useful.",
+            "zh": "書單上的第一本書不用看。第二本比較有趣，也比較有用。"
           },
           {
-            "en": "People are more careful and more patient now.",
-            "zh": "現在大家比較小心，也比較有耐心。"
+            "en": "There were lots of accidents on this road last year. Drivers are more careful and more patient now.",
+            "zh": "去年這條路上有很多車禍。現在駕駛比較小心，也比較有耐心。"
           },
           {
-            "en": "The city became more crowded and more expensive.",
-            "zh": "這座城市變得更擠，也更貴了。"
+            "en": "Lots of tourists came to Lisbon, and the city became more crowded and more expensive.",
+            "zh": "很多觀光客來到里斯本，這座城市變得更擠，也更貴了。"
           },
           {
-            "en": "Online classes are more flexible and more convenient.",
-            "zh": "線上課程比較有彈性，也比較方便。"
+            "en": "I can study at night after work. Online classes are more flexible and more convenient.",
+            "zh": "我下班後晚上可以上課。線上課程比較有彈性，也比較方便。"
           },
           {
-            "en": "The second test was more difficult and more confusing.",
-            "zh": "第二次考試比較難，也比較讓人搞不清楚。"
+            "en": "Most of us failed the second test. It was more difficult and more confusing than the first one.",
+            "zh": "我們大部分人第二次考試都不及格。那次考試比第一次難，也比第一次讓人搞不清楚。"
           }
         ]
       },
@@ -1413,28 +1413,28 @@
         "heading": "③ -er + and + more + 形容詞",
         "items": [
           {
-            "en": "Trains are cheaper and more comfortable than planes.",
-            "zh": "火車比飛機便宜，也比飛機舒服。"
+            "en": "We always go to Paris by train. Trains are cheaper and more comfortable than planes.",
+            "zh": "我們都搭火車去巴黎。火車比飛機便宜，也比飛機舒服。"
           },
           {
-            "en": "The new shop is bigger and more modern.",
-            "zh": "新的店比較大，也比較現代。"
+            "en": "The supermarket moved across the road. The new shop is bigger and more modern.",
+            "zh": "超市搬到對面了。新的店比較大，也比較現代。"
           },
           {
-            "en": "My English is better and more natural now.",
-            "zh": "我的英文現在比較好，也比較自然了。"
+            "en": "I lived in London for a year. My English is better and more natural now.",
+            "zh": "我在倫敦住了一年。我的英文現在比較好，也比較自然了。"
           },
           {
-            "en": "Ann looks happier and more relaxed these days.",
-            "zh": "Ann 最近看起來比較開心，也比較放鬆。"
+            "en": "Ann changed jobs in March. She looks happier and more relaxed these days.",
+            "zh": "Ann 三月換了工作。她最近看起來比較開心，也比較放鬆。"
           },
           {
-            "en": "This model is lighter and more powerful.",
-            "zh": "這個型號比較輕，功能也比較強。"
+            "en": "Don't buy last year's laptop. This model is lighter and more powerful.",
+            "zh": "別買去年的筆電。這個型號比較輕，功能也比較強。"
           },
           {
-            "en": "Life in the country is slower and more peaceful.",
-            "zh": "鄉下的生活步調比較慢，也比較平靜。"
+            "en": "My parents moved to a village. Life there is slower and more peaceful.",
+            "zh": "我爸媽搬到村子裡住。那裡的生活步調比較慢，也比較平靜。"
           }
         ]
       },
@@ -1442,20 +1442,20 @@
         "heading": "④ 比較級 + and + 比較級 + 名詞",
         "items": [
           {
-            "en": "They want a bigger and better school.",
-            "zh": "他們想要一所更大、更好的學校。"
+            "en": "The parents at our school are unhappy. They want a bigger and better school.",
+            "zh": "我們學校的家長很不滿意。他們想要一所更大、更好的學校。"
           },
           {
-            "en": "We need a faster and cheaper way to send money.",
-            "zh": "我們需要一個更快、更便宜的匯款方式。"
+            "en": "Bank transfers take three days. We need a faster and cheaper way to send money.",
+            "zh": "銀行轉帳要三天。我們需要一個更快、更便宜的匯款方式。"
           },
           {
-            "en": "Ken bought a newer and safer car.",
-            "zh": "Ken 買了一輛比較新、也比較安全的車。"
+            "en": "Ken's old car broke down twice last winter, so he bought a newer and safer car.",
+            "zh": "Ken 的舊車去年冬天壞了兩次，所以他買了一輛比較新、也比較安全的車。"
           },
           {
-            "en": "She found a quieter and cheaper apartment.",
-            "zh": "她找到一間比較安靜、也比較便宜的公寓。"
+            "en": "My sister's neighbours were too noisy. She found a quieter and cheaper flat.",
+            "zh": "我姊姊的鄰居太吵了。她找到一間比較安靜、也比較便宜的公寓。"
           }
         ]
       },
@@ -1463,20 +1463,20 @@
         "heading": "⑤ 不同的時態和句型",
         "items": [
           {
-            "en": "I feel better and stronger after the holiday.",
-            "zh": "放完假以後，我覺得狀況比較好，也比較有力氣。"
+            "en": "I spent two weeks by the sea. I feel better and stronger after the holiday.",
+            "zh": "我在海邊待了兩個星期。放完假以後，我覺得狀況比較好，也比較有力氣。"
           },
           {
-            "en": "Will the new phones be smaller and cheaper?",
-            "zh": "新的手機會比較小、比較便宜嗎？"
+            "en": "My phone is too big for my pocket. Will the new phones be smaller and cheaper?",
+            "zh": "我的手機太大，放不進口袋。新的手機會比較小、比較便宜嗎？"
           },
           {
-            "en": "The streets were quieter and cleaner in the morning.",
-            "zh": "早上的街道比較安靜，也比較乾淨。"
+            "en": "I used to go running at six. The streets were quieter and cleaner in the morning.",
+            "zh": "我以前六點去跑步。早上的街道比較安靜，也比較乾淨。"
           },
           {
-            "en": "Our team got faster and stronger every week.",
-            "zh": "我們隊每個禮拜都變得更快、更強。"
+            "en": "We trained hard all season. Our team got faster and stronger every week.",
+            "zh": "我們整季都練得很勤。我們隊每個禮拜都變得更快、更強。"
           }
         ]
       }
@@ -1489,88 +1489,88 @@
     "translation": "她漂亮、聰明、風趣，而且非常可靠。",
     "name": "用逗號和 and 連接多個形容詞",
     "sentences": [
-      "Our classroom is large, bright and noisy.",
-      "The wind was cold, strong and wet.",
-      "Our new teacher is young, friendly and patient.",
-      "The hotel was clean, cheap and comfortable.",
-      "The streets are narrow, old and busy.",
-      "His story was long, sad and true.",
-      "The fish was fresh, salty and cheap.",
-      "My dog is small, white and very lazy.",
-      "The test was short, easy and fair.",
-      "Ken is tall, thin and not very handsome.",
-      "The lake was calm, blue and very deep.",
-      "Was the movie long, slow and boring?",
-      "The town is small, quiet, safe and friendly.",
-      "The apartment is big, bright, quiet and cheap.",
-      "My grandmother is kind, wise, strong and always cheerful.",
-      "The trip was long, hot, tiring and wonderful.",
-      "Our team was fast, strong, smart and lucky.",
-      "The kitchen is small, old, dark and dirty.",
-      "Ann is honest, hardworking, polite and very generous.",
-      "The café is warm, cozy, friendly and not expensive.",
-      "The museum was big, modern, and very interesting.",
-      "My brother is loud, messy, and always hungry.",
-      "The roads were wet, icy, and dangerous.",
-      "The new phone is light, fast, and easy to use.",
-      "The lesson was short, clear, and useful.",
-      "The children will be tired, hungry and dirty after the game.",
-      "The house was old, cold and empty.",
-      "My neighbors are quiet, tidy and polite.",
-      "My first car was small, slow and very cheap.",
-      "The questions were strange, hard and a little unfair."
+      "We have thirty kids in one room. Our classroom is large, bright and noisy.",
+      "We didn't stay long on the boat. The wind was cold, strong and wet.",
+      "The kids like Ms Green. Their new teacher is young, friendly and patient.",
+      "We stayed at a small inn near the station. It was clean, cheap and comfortable.",
+      "Be careful when you drive in the old town. The streets are narrow, old and busy.",
+      "Grandpa told us about his first love. His story was long, sad and true.",
+      "We bought sardines at the harbour. The fish was fresh, salty and cheap.",
+      "You'll see my dog in the garden. Max is small, white and very lazy.",
+      "Nobody complained about the quiz. It was short, easy and fair.",
+      "My friend asked me about my cousin Ken. Ken is tall, thin and not very handsome.",
+      "We swam out to the middle. The lake was calm, blue and very deep.",
+      "You fell asleep in the cinema. Was the film long, slow and boring?",
+      "We moved to Ashby last year. The town is small, quiet, safe and friendly.",
+      "You should rent the flat on Park Road. It's big, bright, quiet and cheap.",
+      "Everyone in the family asks Grandma for advice. She's kind, wise, strong and always cheerful.",
+      "We walked across Spain in August. The trip was long, hot, tiring and wonderful.",
+      "We won the cup this year. Our team was fast, strong, smart and lucky.",
+      "I don't like cooking in this flat. The kitchen is small, old, dark and dirty.",
+      "We should give Ann the job. She's honest, hardworking, polite and very generous.",
+      "I study at the café near my house. It's warm, cosy, friendly and not expensive.",
+      "We went to the science museum on Sunday. It was big, modern, and very interesting.",
+      "I share a room with my little brother. He's loud, messy, and always hungry.",
+      "We stayed home after the storm. The roads were wet, icy, and dangerous.",
+      "My mum loves her new phone. It's light, fast, and easy to use.",
+      "Mr Brown showed us how to write an email. The lesson was short, clear, and useful.",
+      "Bring some towels to the football field. The children will be tired, hungry and dirty after the game.",
+      "Nobody lived in my grandfather's house after he died. The house was old, cold and empty.",
+      "I like living in this building. My neighbours are quiet, tidy and polite.",
+      "I bought my first car with my summer job money. It was small, slow and very cheap.",
+      "Lots of students failed the exam. The questions were strange, hard and a little unfair."
     ],
     "examples": [
       {
         "heading": "① 三個形容詞",
         "items": [
           {
-            "en": "Our classroom is large, bright and noisy.",
-            "zh": "我們的教室很大、很明亮，也很吵。"
+            "en": "We have thirty kids in one room. Our classroom is large, bright and noisy.",
+            "zh": "我們一間教室有三十個小孩。我們的教室很大、很明亮，也很吵。"
           },
           {
-            "en": "The wind was cold, strong and wet.",
-            "zh": "風又冷又強，還很潮濕。"
+            "en": "We didn't stay long on the boat. The wind was cold, strong and wet.",
+            "zh": "我們沒在船上待很久。風又冷又強，還很潮濕。"
           },
           {
-            "en": "Our new teacher is young, friendly and patient.",
-            "zh": "我們的新老師年輕、友善又有耐心。"
+            "en": "The kids like Ms Green. Their new teacher is young, friendly and patient.",
+            "zh": "孩子們喜歡 Green 老師。他們的新老師年輕、友善又有耐心。"
           },
           {
-            "en": "The hotel was clean, cheap and comfortable.",
-            "zh": "那家旅館乾淨、便宜又舒服。"
+            "en": "We stayed at a small inn near the station. It was clean, cheap and comfortable.",
+            "zh": "我們住在車站附近的一家小旅館。那家旅館乾淨、便宜又舒服。"
           },
           {
-            "en": "The streets are narrow, old and busy.",
-            "zh": "那些街道又窄又舊，還很熱鬧。"
+            "en": "Be careful when you drive in the old town. The streets are narrow, old and busy.",
+            "zh": "在舊城區開車要小心。那些街道又窄又舊，還很熱鬧。"
           },
           {
-            "en": "His story was long, sad and true.",
-            "zh": "他的故事很長、很悲傷，而且是真的。"
+            "en": "Grandpa told us about his first love. His story was long, sad and true.",
+            "zh": "爺爺跟我們講他的初戀。他的故事很長、很悲傷，而且是真的。"
           },
           {
-            "en": "The fish was fresh, salty and cheap.",
-            "zh": "那條魚很新鮮、很鹹，也很便宜。"
+            "en": "We bought sardines at the harbour. The fish was fresh, salty and cheap.",
+            "zh": "我們在港口買了沙丁魚。那些魚很新鮮、很鹹，也很便宜。"
           },
           {
-            "en": "My dog is small, white and very lazy.",
-            "zh": "我的狗小小的、白白的，而且非常懶。"
+            "en": "You'll see my dog in the garden. Max is small, white and very lazy.",
+            "zh": "你會在花園看到我的狗。Max 小小的、白白的，而且非常懶。"
           },
           {
-            "en": "The test was short, easy and fair.",
-            "zh": "考試很短、很簡單，也很公平。"
+            "en": "Nobody complained about the quiz. It was short, easy and fair.",
+            "zh": "沒有人抱怨那次小考。小考很短、很簡單，也很公平。"
           },
           {
-            "en": "Ken is tall, thin and not very handsome.",
-            "zh": "Ken 又高又瘦，長得不太帥。"
+            "en": "My friend asked me about my cousin Ken. Ken is tall, thin and not very handsome.",
+            "zh": "我朋友問我表哥 Ken 的事。Ken 又高又瘦，長得不太帥。"
           },
           {
-            "en": "The lake was calm, blue and very deep.",
-            "zh": "湖面很平靜、很藍，而且非常深。"
+            "en": "We swam out to the middle. The lake was calm, blue and very deep.",
+            "zh": "我們游到湖中間。湖面很平靜、很藍，而且非常深。"
           },
           {
-            "en": "Was the movie long, slow and boring?",
-            "zh": "那部電影是不是又長又慢又無聊？"
+            "en": "You fell asleep in the cinema. Was the film long, slow and boring?",
+            "zh": "你在電影院睡著了。那部電影是不是又長又慢又無聊？"
           }
         ]
       },
@@ -1578,36 +1578,36 @@
         "heading": "② 四個以上的形容詞",
         "items": [
           {
-            "en": "The town is small, quiet, safe and friendly.",
-            "zh": "那個小鎮又小又安靜，很安全，也很友善。"
+            "en": "We moved to Ashby last year. The town is small, quiet, safe and friendly.",
+            "zh": "我們去年搬到 Ashby。那個小鎮又小又安靜，很安全，也很友善。"
           },
           {
-            "en": "The apartment is big, bright, quiet and cheap.",
-            "zh": "那間公寓又大又亮，很安靜，也很便宜。"
+            "en": "You should rent the flat on Park Road. It's big, bright, quiet and cheap.",
+            "zh": "你應該租 Park 路上那間公寓。那間公寓又大又亮，很安靜，也很便宜。"
           },
           {
-            "en": "My grandmother is kind, wise, strong and always cheerful.",
-            "zh": "我奶奶善良、有智慧、堅強，而且總是很開朗。"
+            "en": "Everyone in the family asks Grandma for advice. She's kind, wise, strong and always cheerful.",
+            "zh": "家裡每個人都會找奶奶出主意。她善良、有智慧、堅強，而且總是很開朗。"
           },
           {
-            "en": "The trip was long, hot, tiring and wonderful.",
-            "zh": "這趟旅行很長、很熱、很累，可是很棒。"
+            "en": "We walked across Spain in August. The trip was long, hot, tiring and wonderful.",
+            "zh": "我們八月徒步走過西班牙。這趟旅行很長、很熱、很累，可是很棒。"
           },
           {
-            "en": "Our team was fast, strong, smart and lucky.",
-            "zh": "我們隊速度快、體力好、腦筋靈活，運氣也好。"
+            "en": "We won the cup this year. Our team was fast, strong, smart and lucky.",
+            "zh": "我們今年贏得了獎盃。我們隊速度快、體力好、腦筋靈活，運氣也好。"
           },
           {
-            "en": "The kitchen is small, old, dark and dirty.",
-            "zh": "廚房又小又舊，又暗又髒。"
+            "en": "I don't like cooking in this flat. The kitchen is small, old, dark and dirty.",
+            "zh": "我不喜歡在這間公寓煮飯。廚房又小又舊，又暗又髒。"
           },
           {
-            "en": "Ann is honest, hardworking, polite and very generous.",
-            "zh": "Ann 誠實、勤奮、有禮貌，而且非常大方。"
+            "en": "We should give Ann the job. She's honest, hardworking, polite and very generous.",
+            "zh": "我們應該把這份工作給 Ann。她誠實、勤奮、有禮貌，而且非常大方。"
           },
           {
-            "en": "The café is warm, cozy, friendly and not expensive.",
-            "zh": "那家咖啡館溫暖、舒適、親切，而且不貴。"
+            "en": "I study at the café near my house. It's warm, cosy, friendly and not expensive.",
+            "zh": "我都在家附近的咖啡館讀書。那家咖啡館溫暖、舒適、親切，而且不貴。"
           }
         ]
       },
@@ -1615,24 +1615,24 @@
         "heading": "③ and 前面加逗號",
         "items": [
           {
-            "en": "The museum was big, modern, and very interesting.",
-            "zh": "那間博物館很大、很現代，而且非常有趣。"
+            "en": "We went to the science museum on Sunday. It was big, modern, and very interesting.",
+            "zh": "我們星期天去了科學博物館。那間博物館很大、很現代，而且非常有趣。"
           },
           {
-            "en": "My brother is loud, messy, and always hungry.",
-            "zh": "我弟弟很吵、很亂，而且老是肚子餓。"
+            "en": "I share a room with my little brother. He's loud, messy, and always hungry.",
+            "zh": "我跟我弟弟同一個房間。他很吵、很亂，而且老是肚子餓。"
           },
           {
-            "en": "The roads were wet, icy, and dangerous.",
-            "zh": "路面濕滑、結冰，而且很危險。"
+            "en": "We stayed home after the storm. The roads were wet, icy, and dangerous.",
+            "zh": "暴風雪過後我們待在家裡。路面濕滑、結冰，而且很危險。"
           },
           {
-            "en": "The new phone is light, fast, and easy to use.",
-            "zh": "新手機很輕、很快，而且很好用。"
+            "en": "My mum loves her new phone. It's light, fast, and easy to use.",
+            "zh": "我媽媽很喜歡她的新手機。那支手機很輕、很快，而且很好用。"
           },
           {
-            "en": "The lesson was short, clear, and useful.",
-            "zh": "那堂課很短、很清楚，也很有用。"
+            "en": "Mr Brown showed us how to write an email. The lesson was short, clear, and useful.",
+            "zh": "Brown 老師教我們怎麼寫電子郵件。那堂課很短、很清楚，也很有用。"
           }
         ]
       },
@@ -1640,24 +1640,24 @@
         "heading": "④ 不同的時態",
         "items": [
           {
-            "en": "The children will be tired, hungry and dirty after the game.",
-            "zh": "比賽完以後，孩子們會又累又餓又髒。"
+            "en": "Bring some towels to the football field. The children will be tired, hungry and dirty after the game.",
+            "zh": "帶幾條毛巾去足球場。比賽完以後，孩子們會又累又餓又髒。"
           },
           {
-            "en": "The house was old, cold and empty.",
-            "zh": "那棟房子又舊又冷，空蕩蕩的。"
+            "en": "Nobody lived in my grandfather's house after he died. The house was old, cold and empty.",
+            "zh": "我爺爺過世以後，那棟房子就沒人住了。房子又舊又冷，空蕩蕩的。"
           },
           {
-            "en": "My neighbors are quiet, tidy and polite.",
-            "zh": "我的鄰居很安靜、很愛乾淨，也很有禮貌。"
+            "en": "I like living in this building. My neighbours are quiet, tidy and polite.",
+            "zh": "我喜歡住在這棟大樓。我的鄰居很安靜、很愛乾淨，也很有禮貌。"
           },
           {
-            "en": "My first car was small, slow and very cheap.",
-            "zh": "我的第一輛車又小又慢，而且非常便宜。"
+            "en": "I bought my first car with my summer job money. It was small, slow and very cheap.",
+            "zh": "我用暑假打工的錢買了第一輛車。那輛車又小又慢，而且非常便宜。"
           },
           {
-            "en": "The questions were strange, hard and a little unfair.",
-            "zh": "那些題目很奇怪、很難，而且有點不公平。"
+            "en": "Lots of students failed the exam. The questions were strange, hard and a little unfair.",
+            "zh": "很多學生考試不及格。那些題目很奇怪、很難，而且有點不公平。"
           }
         ]
       }
@@ -1856,81 +1856,81 @@
     "translation": "現在的電視越來越難看了。",
     "name": "用 and 連接同一個比較級形容詞",
     "sentences": [
-      "In autumn, the nights get longer and longer.",
-      "The room became hotter and hotter.",
-      "The line got longer and longer.",
-      "My little brother is getting taller and taller.",
-      "The noise grew louder and louder.",
-      "The sky became darker and darker.",
-      "The bags felt heavier and heavier.",
-      "The plane became smaller and smaller in the sky.",
-      "Her voice got quieter and quieter.",
-      "The roads are getting busier and busier.",
-      "Rent is getting more and more expensive.",
-      "The story became more and more exciting.",
-      "Phones are getting more and more popular with children.",
-      "I felt more and more nervous before the test.",
-      "The questions got more and more difficult.",
-      "Our town is becoming more and more crowded.",
-      "The weather is getting more and more unusual.",
-      "The meeting became more and more tense.",
-      "His English is getting better and better.",
-      "The bus service is getting worse and worse.",
-      "My cough is getting worse and worse.",
-      "Your cooking gets better and better.",
-      "The traffic got worse and worse during the day.",
-      "Ann's grades are getting better and better.",
-      "Is the water getting colder and colder?",
-      "Prices will get higher and higher.",
-      "The fire grew bigger and bigger.",
-      "Life in the city has become faster and faster.",
-      "Don't let the problem get bigger and bigger.",
-      "Over the years, Ken became more and more confident.",
-      "The waves were getting higher and higher."
+      "I don't like this time of year. In autumn, the nights get longer and longer.",
+      "The air conditioner broke in the afternoon. The room became hotter and hotter.",
+      "Only one ticket window was open, so the queue got longer and longer.",
+      "We buy my little brother new shoes every six months. He's getting taller and taller.",
+      "The party next door went on past midnight. The music grew louder and louder.",
+      "We hurried down the mountain. The sky became darker and darker.",
+      "We walked home from the market. The bags felt heavier and heavier.",
+      "We waved goodbye at the airport. The plane became smaller and smaller in the sky.",
+      "My daughter was very tired at the end of her story. Her voice got quieter and quieter.",
+      "More people are moving to our town. The roads are getting busier and busier.",
+      "I can't save any money. Rent is getting more and more expensive.",
+      "I couldn't stop reading last night. The story became more and more exciting.",
+      "My son's whole class has phones now. Phones are getting more and more popular with children.",
+      "I didn't sleep well on Sunday night. I felt more and more nervous before the test.",
+      "We did well on the first page of the quiz, but the questions got more and more difficult.",
+      "New flats go up every year. Our town is becoming more and more crowded.",
+      "It snowed in April this year. The weather is getting more and more unusual.",
+      "The two managers didn't agree, and the meeting became more and more tense.",
+      "Tom watches English films every night. His English is getting better and better.",
+      "The bus was late again this morning. The bus service is getting worse and worse.",
+      "I think I need to see a doctor. My cough is getting worse and worse.",
+      "This curry is delicious. Your cooking gets better and better.",
+      "We left the city at nine, but the traffic got worse and worse during the day.",
+      "Ann studies with a tutor now. Her grades are getting better and better.",
+      "You've been in the pool for an hour. Is the water getting colder and colder?",
+      "Everything costs more this year. Prices will get higher and higher.",
+      "The wind was very strong, and the fire grew bigger and bigger.",
+      "My grandmother says that life in the city has become faster and faster.",
+      "Talk to your teacher today. Don't let the problem get bigger and bigger.",
+      "Ken was shy at his first job, but over the years he became more and more confident.",
+      "We stayed on the beach. The waves were getting higher and higher."
     ],
     "examples": [
       {
         "heading": "① -er + and + -er",
         "items": [
           {
-            "en": "In autumn, the nights get longer and longer.",
-            "zh": "到了秋天，夜晚越來越長。"
+            "en": "I don't like this time of year. In autumn, the nights get longer and longer.",
+            "zh": "我不喜歡一年裡的這個時候。到了秋天，夜晚越來越長。"
           },
           {
-            "en": "The room became hotter and hotter.",
-            "zh": "房間越來越熱。"
+            "en": "The air conditioner broke in the afternoon. The room became hotter and hotter.",
+            "zh": "冷氣下午壞了。房間越來越熱。"
           },
           {
-            "en": "The line got longer and longer.",
-            "zh": "隊伍越排越長。"
+            "en": "Only one ticket window was open, so the queue got longer and longer.",
+            "zh": "只開了一個售票窗口，所以隊伍越排越長。"
           },
           {
-            "en": "My little brother is getting taller and taller.",
-            "zh": "我弟弟越長越高。"
+            "en": "We buy my little brother new shoes every six months. He's getting taller and taller.",
+            "zh": "我們每六個月就要幫我弟弟買新鞋。他越長越高。"
           },
           {
-            "en": "The noise grew louder and louder.",
-            "zh": "噪音越來越大聲。"
+            "en": "The party next door went on past midnight. The music grew louder and louder.",
+            "zh": "隔壁的派對開到半夜以後。音樂越來越大聲。"
           },
           {
-            "en": "The sky became darker and darker.",
-            "zh": "天色越來越暗。"
+            "en": "We hurried down the mountain. The sky became darker and darker.",
+            "zh": "我們趕著下山。天色越來越暗。"
           },
           {
-            "en": "The bags felt heavier and heavier.",
-            "zh": "那些袋子提起來越來越重。"
+            "en": "We walked home from the market. The bags felt heavier and heavier.",
+            "zh": "我們從市場走路回家。那些袋子提起來越來越重。"
           },
           {
-            "en": "The plane became smaller and smaller in the sky.",
-            "zh": "飛機在天空中變得越來越小。"
+            "en": "We waved goodbye at the airport. The plane became smaller and smaller in the sky.",
+            "zh": "我們在機場揮手道別。飛機在天空中變得越來越小。"
           },
           {
-            "en": "Her voice got quieter and quieter.",
-            "zh": "她的聲音越來越小。"
+            "en": "My daughter was very tired at the end of her story. Her voice got quieter and quieter.",
+            "zh": "我女兒講到故事的最後很累了。她的聲音越來越小。"
           },
           {
-            "en": "The roads are getting busier and busier.",
-            "zh": "路上的車越來越多。"
+            "en": "More people are moving to our town. The roads are getting busier and busier.",
+            "zh": "越來越多人搬到我們鎮上。路上的車越來越多。"
           }
         ]
       },
@@ -1938,36 +1938,36 @@
         "heading": "② more and more + 形容詞",
         "items": [
           {
-            "en": "Rent is getting more and more expensive.",
-            "zh": "房租越來越貴。"
+            "en": "I can't save any money. Rent is getting more and more expensive.",
+            "zh": "我存不了錢。房租越來越貴。"
           },
           {
-            "en": "The story became more and more exciting.",
-            "zh": "故事越來越精彩。"
+            "en": "I couldn't stop reading last night. The story became more and more exciting.",
+            "zh": "我昨晚停不下來。故事越來越精彩。"
           },
           {
-            "en": "Phones are getting more and more popular with children.",
-            "zh": "手機在小孩之間越來越普遍。"
+            "en": "My son's whole class has phones now. Phones are getting more and more popular with children.",
+            "zh": "我兒子全班現在都有手機。手機在小孩之間越來越普遍。"
           },
           {
-            "en": "I felt more and more nervous before the test.",
-            "zh": "考試前我越來越緊張。"
+            "en": "I didn't sleep well on Sunday night. I felt more and more nervous before the test.",
+            "zh": "我星期天晚上沒睡好。考試前我越來越緊張。"
           },
           {
-            "en": "The questions got more and more difficult.",
-            "zh": "題目越來越難。"
+            "en": "We did well on the first page of the quiz, but the questions got more and more difficult.",
+            "zh": "小考第一頁我們考得很好，可是題目越來越難。"
           },
           {
-            "en": "Our town is becoming more and more crowded.",
-            "zh": "我們的小鎮越來越擠。"
+            "en": "New flats go up every year. Our town is becoming more and more crowded.",
+            "zh": "每年都有新公寓蓋起來。我們的小鎮越來越擠。"
           },
           {
-            "en": "The weather is getting more and more unusual.",
-            "zh": "天氣越來越反常。"
+            "en": "It snowed in April this year. The weather is getting more and more unusual.",
+            "zh": "今年四月下雪了。天氣越來越反常。"
           },
           {
-            "en": "The meeting became more and more tense.",
-            "zh": "會議的氣氛越來越緊張。"
+            "en": "The two managers didn't agree, and the meeting became more and more tense.",
+            "zh": "兩位經理意見不合，會議的氣氛越來越緊張。"
           }
         ]
       },
@@ -1975,28 +1975,28 @@
         "heading": "③ 不規則比較級",
         "items": [
           {
-            "en": "His English is getting better and better.",
-            "zh": "他的英文越來越好。"
+            "en": "Tom watches English films every night. His English is getting better and better.",
+            "zh": "Tom 每天晚上看英文電影。他的英文越來越好。"
           },
           {
-            "en": "The bus service is getting worse and worse.",
-            "zh": "公車的服務越來越差。"
+            "en": "The bus was late again this morning. The bus service is getting worse and worse.",
+            "zh": "今天早上公車又遲到了。公車的服務越來越差。"
           },
           {
-            "en": "My cough is getting worse and worse.",
-            "zh": "我咳嗽咳得越來越嚴重。"
+            "en": "I think I need to see a doctor. My cough is getting worse and worse.",
+            "zh": "我想我得去看醫生了。我咳嗽咳得越來越嚴重。"
           },
           {
-            "en": "Your cooking gets better and better.",
-            "zh": "你的廚藝越來越好。"
+            "en": "This curry is delicious. Your cooking gets better and better.",
+            "zh": "這道咖哩很好吃。你的廚藝越來越好。"
           },
           {
-            "en": "The traffic got worse and worse during the day.",
-            "zh": "白天交通越來越糟。"
+            "en": "We left the city at nine, but the traffic got worse and worse during the day.",
+            "zh": "我們九點離開市區，可是白天交通越來越糟。"
           },
           {
-            "en": "Ann's grades are getting better and better.",
-            "zh": "Ann 的成績越來越好。"
+            "en": "Ann studies with a tutor now. Her grades are getting better and better.",
+            "zh": "Ann 現在跟家教讀書。她的成績越來越好。"
           }
         ]
       },
@@ -2004,32 +2004,32 @@
         "heading": "④ 不同的時態和句型",
         "items": [
           {
-            "en": "Is the water getting colder and colder?",
-            "zh": "水是不是越來越冷了？"
+            "en": "You've been in the pool for an hour. Is the water getting colder and colder?",
+            "zh": "你在游泳池待一個小時了。水是不是越來越冷了？"
           },
           {
-            "en": "Prices will get higher and higher.",
-            "zh": "物價會越來越高。"
+            "en": "Everything costs more this year. Prices will get higher and higher.",
+            "zh": "今年什麼都變貴了。物價會越來越高。"
           },
           {
-            "en": "The fire grew bigger and bigger.",
-            "zh": "火越燒越大。"
+            "en": "The wind was very strong, and the fire grew bigger and bigger.",
+            "zh": "風很大，火越燒越大。"
           },
           {
-            "en": "Life in the city has become faster and faster.",
-            "zh": "城市的生活步調越來越快。"
+            "en": "My grandmother says that life in the city has become faster and faster.",
+            "zh": "我奶奶說，城市的生活步調越來越快。"
           },
           {
-            "en": "Don't let the problem get bigger and bigger.",
-            "zh": "別讓問題越變越大。"
+            "en": "Talk to your teacher today. Don't let the problem get bigger and bigger.",
+            "zh": "今天就跟你的老師談。別讓問題越變越大。"
           },
           {
-            "en": "Over the years, Ken became more and more confident.",
-            "zh": "這些年來，Ken 越來越有自信。"
+            "en": "Ken was shy at his first job, but over the years he became more and more confident.",
+            "zh": "Ken 剛開始工作時很害羞，不過這些年來他越來越有自信。"
           },
           {
-            "en": "The waves were getting higher and higher.",
-            "zh": "浪越來越高。"
+            "en": "We stayed on the beach. The waves were getting higher and higher.",
+            "zh": "我們待在海灘上。浪越來越高。"
           }
         ]
       }
@@ -2771,72 +2771,72 @@
     "translation": "他長得又高又帥。",
     "name": "複合形容詞（常用）",
     "sentences": [
-      "She is a hard-working student.",
-      "My uncle is a good-looking man.",
-      "That was a nice-looking café.",
-      "Ken is very good-looking.",
-      "My parents are hard-working people.",
-      "They had a long-lasting friendship.",
-      "We need some fast-acting medicine.",
-      "Are your new neighbors easy-going?",
-      "He is a well-known singer.",
-      "She is a well-known writer in Japan.",
-      "They are well-behaved children.",
-      "My brother is always well-dressed.",
-      "It's a well-paid job.",
-      "They own a well-known restaurant.",
-      "The house has a well-kept garden.",
-      "It's a ten-minute walk.",
-      "He has a five-year-old son.",
-      "We took a two-hour train ride.",
-      "I have a three-day holiday next week.",
-      "Ann is reading a 300-page book.",
-      "They live in a two-bedroom apartment.",
-      "She got a twenty-dollar bill from her grandmother.",
-      "My grandfather has old-fashioned ideas.",
-      "She has a part-time job at a bookstore.",
-      "He has a full-time job at a bank.",
-      "Most people are right-handed.",
-      "She has a blue-eyed cat.",
-      "We bought a second-hand car.",
-      "She wore a short-sleeved shirt.",
-      "Don't buy cheap, low-quality shoes."
+      "Maria studies every evening after dinner. She's a hard-working student.",
+      "Have you met my uncle Leo? Everyone says he's a good-looking guy.",
+      "We walked past a nice-looking café, so we went in for coffee.",
+      "All the girls in my class like Ken. He's very good-looking.",
+      "My parents worked six days a week for years. They're hard-working people.",
+      "My grandfather and his neighbour met at school. They had a long-lasting friendship.",
+      "My head really hurts. I need some fast-acting medicine.",
+      "You moved into your new flat last week. Are your new neighbours easy-going?",
+      "Everyone knows the song \"Hello\". Adele is a well-known singer.",
+      "My aunt's books sell well in Japan. She's a well-known writer there.",
+      "Your kids sat quietly through the whole dinner. They're well-behaved children.",
+      "My brother wears a suit even at weekends. He's always well-dressed.",
+      "My cousin is a pilot. It's a well-paid job.",
+      "My friend's parents own a well-known restaurant in Rome. Lots of tourists eat there.",
+      "The old lady works outside every day. Her house has a well-kept garden.",
+      "You don't need a taxi to the station. It's a ten-minute walk.",
+      "Our new neighbour is a single dad. He has a five-year-old son.",
+      "We went from London to York by train. It was a two-hour ride.",
+      "Monday is a public holiday, so I have a three-day weekend.",
+      "Ann has to read a 300-page book for her literature class.",
+      "My sister and her husband have two kids. They live in a two-bedroom flat.",
+      "My grandmother gave me a birthday card with a twenty-dollar bill in it.",
+      "My grandfather thinks women shouldn't drive. He has old-fashioned ideas.",
+      "My daughter works on Saturdays. She has a part-time job at a bookshop.",
+      "My dad works at a bank from nine to five. He has a full-time job there.",
+      "Scissors are made for most people, and most people are right-handed.",
+      "My aunt's cat has very unusual eyes. It's a blue-eyed cat.",
+      "We didn't have much money, so we bought a second-hand car.",
+      "It was a hot day, so Lucy wore a short-sleeved shirt.",
+      "Those trainers will break in a month. Don't buy cheap, low-quality shoes."
     ],
     "examples": [
       {
         "heading": "① 形容詞 / 副詞 + 動詞-ing",
         "items": [
           {
-            "en": "She is a hard-working student.",
-            "zh": "她是個很用功的學生。"
+            "en": "Maria studies every evening after dinner. She's a hard-working student.",
+            "zh": "Maria 每天晚餐後都讀書。她是個很用功的學生。"
           },
           {
-            "en": "My uncle is a good-looking man.",
-            "zh": "我叔叔是個長得很好看的男人。"
+            "en": "Have you met my uncle Leo? Everyone says he's a good-looking guy.",
+            "zh": "你見過我叔叔 Leo 嗎？大家都說他是個帥哥。"
           },
           {
-            "en": "That was a nice-looking café.",
-            "zh": "那是一家看起來很不錯的咖啡館。"
+            "en": "We walked past a nice-looking café, so we went in for coffee.",
+            "zh": "我們經過一家看起來很不錯的咖啡館，就進去喝咖啡。"
           },
           {
-            "en": "Ken is very good-looking.",
-            "zh": "Ken 長得很好看。"
+            "en": "All the girls in my class like Ken. He's very good-looking.",
+            "zh": "我們班的女生都喜歡 Ken。他長得很好看。"
           },
           {
-            "en": "My parents are hard-working people.",
-            "zh": "我爸媽是很勤奮的人。"
+            "en": "My parents worked six days a week for years. They're hard-working people.",
+            "zh": "我爸媽好多年都一個星期工作六天。他們是很勤奮的人。"
           },
           {
-            "en": "They had a long-lasting friendship.",
-            "zh": "他們有一段維持很久的友誼。"
+            "en": "My grandfather and his neighbour met at school. They had a long-lasting friendship.",
+            "zh": "我爺爺和他的鄰居是在學校認識的。他們有一段維持很久的友誼。"
           },
           {
-            "en": "We need some fast-acting medicine.",
-            "zh": "我們需要一些見效快的藥。"
+            "en": "My head really hurts. I need some fast-acting medicine.",
+            "zh": "我的頭好痛。我需要見效快的藥。"
           },
           {
-            "en": "Are your new neighbors easy-going?",
-            "zh": "你的新鄰居好相處嗎？"
+            "en": "You moved into your new flat last week. Are your new neighbours easy-going?",
+            "zh": "你上星期搬進新公寓。你的新鄰居好相處嗎？"
           }
         ]
       },
@@ -2844,32 +2844,32 @@
         "heading": "② well + 過去分詞",
         "items": [
           {
-            "en": "He is a well-known singer.",
-            "zh": "他是個有名的歌手。"
+            "en": "Everyone knows the song \"Hello\". Adele is a well-known singer.",
+            "zh": "大家都知道〈Hello〉這首歌。Adele 是個有名的歌手。"
           },
           {
-            "en": "She is a well-known writer in Japan.",
-            "zh": "她在日本是個有名的作家。"
+            "en": "My aunt's books sell well in Japan. She's a well-known writer there.",
+            "zh": "我阿姨的書在日本賣得很好。她在日本是個有名的作家。"
           },
           {
-            "en": "They are well-behaved children.",
-            "zh": "他們是很守規矩的孩子。"
+            "en": "Your kids sat quietly through the whole dinner. They're well-behaved children.",
+            "zh": "你的孩子整頓晚餐都安安靜靜坐著。他們是很守規矩的孩子。"
           },
           {
-            "en": "My brother is always well-dressed.",
-            "zh": "我哥哥總是穿得很體面。"
+            "en": "My brother wears a suit even at weekends. He's always well-dressed.",
+            "zh": "我哥哥週末也穿西裝。他總是穿得很體面。"
           },
           {
-            "en": "It's a well-paid job.",
-            "zh": "那是一份薪水很好的工作。"
+            "en": "My cousin is a pilot. It's a well-paid job.",
+            "zh": "我表哥是機師。那是一份薪水很好的工作。"
           },
           {
-            "en": "They own a well-known restaurant.",
-            "zh": "他們開了一家很有名的餐廳。"
+            "en": "My friend's parents own a well-known restaurant in Rome. Lots of tourists eat there.",
+            "zh": "我朋友的爸媽在羅馬開了一家很有名的餐廳。很多觀光客在那裡吃飯。"
           },
           {
-            "en": "The house has a well-kept garden.",
-            "zh": "那棟房子有一個照顧得很好的花園。"
+            "en": "The old lady works outside every day. Her house has a well-kept garden.",
+            "zh": "那位老太太每天都在外面忙。她的房子有一個照顧得很好的花園。"
           }
         ]
       },
@@ -2877,32 +2877,32 @@
         "heading": "③ 數字 + 名詞",
         "items": [
           {
-            "en": "It's a ten-minute walk.",
-            "zh": "走路要十分鐘。"
+            "en": "You don't need a taxi to the station. It's a ten-minute walk.",
+            "zh": "你去車站不用搭計程車。走路要十分鐘。"
           },
           {
-            "en": "He has a five-year-old son.",
-            "zh": "他有一個五歲的兒子。"
+            "en": "Our new neighbour is a single dad. He has a five-year-old son.",
+            "zh": "我們的新鄰居是單親爸爸。他有一個五歲的兒子。"
           },
           {
-            "en": "We took a two-hour train ride.",
-            "zh": "我們坐了兩小時的火車。"
+            "en": "We went from London to York by train. It was a two-hour ride.",
+            "zh": "我們從倫敦搭火車去約克。坐了兩個小時的車。"
           },
           {
-            "en": "I have a three-day holiday next week.",
-            "zh": "我下禮拜有三天的假。"
+            "en": "Monday is a public holiday, so I have a three-day weekend.",
+            "zh": "星期一是國定假日，所以我週末放三天。"
           },
           {
-            "en": "Ann is reading a 300-page book.",
-            "zh": "Ann 在讀一本三百頁的書。"
+            "en": "Ann has to read a 300-page book for her literature class.",
+            "zh": "Ann 要為文學課讀一本三百頁的書。"
           },
           {
-            "en": "They live in a two-bedroom apartment.",
-            "zh": "他們住在一間兩房的公寓。"
+            "en": "My sister and her husband have two kids. They live in a two-bedroom flat.",
+            "zh": "我姊姊和姊夫有兩個孩子。他們住在一間兩房的公寓。"
           },
           {
-            "en": "She got a twenty-dollar bill from her grandmother.",
-            "zh": "她奶奶給了她一張二十元的鈔票。"
+            "en": "My grandmother gave me a birthday card with a twenty-dollar bill in it.",
+            "zh": "我奶奶給了我一張生日卡，裡面夾著一張二十元的鈔票。"
           }
         ]
       },
@@ -2910,36 +2910,36 @@
         "heading": "④ 形容詞 + 名詞-ed 和其他固定說法",
         "items": [
           {
-            "en": "My grandfather has old-fashioned ideas.",
-            "zh": "我爺爺的想法很老派。"
+            "en": "My grandfather thinks women shouldn't drive. He has old-fashioned ideas.",
+            "zh": "我爺爺覺得女人不該開車。他的想法很老派。"
           },
           {
-            "en": "She has a part-time job at a bookstore.",
-            "zh": "她在書店打工。"
+            "en": "My daughter works on Saturdays. She has a part-time job at a bookshop.",
+            "zh": "我女兒星期六去上班。她在書店打工。"
           },
           {
-            "en": "He has a full-time job at a bank.",
-            "zh": "他在銀行有一份全職的工作。"
+            "en": "My dad works at a bank from nine to five. He has a full-time job there.",
+            "zh": "我爸爸在銀行朝九晚五上班。他在那裡有一份全職的工作。"
           },
           {
-            "en": "Most people are right-handed.",
-            "zh": "大部分的人是右撇子。"
+            "en": "Scissors are made for most people, and most people are right-handed.",
+            "zh": "剪刀是照大部分人的習慣做的，大部分的人是右撇子。"
           },
           {
-            "en": "She has a blue-eyed cat.",
-            "zh": "她有一隻藍眼睛的貓。"
+            "en": "My aunt's cat has very unusual eyes. It's a blue-eyed cat.",
+            "zh": "我阿姨的貓眼睛很特別。那是一隻藍眼睛的貓。"
           },
           {
-            "en": "We bought a second-hand car.",
-            "zh": "我們買了一輛二手車。"
+            "en": "We didn't have much money, so we bought a second-hand car.",
+            "zh": "我們錢不多，所以買了一輛二手車。"
           },
           {
-            "en": "She wore a short-sleeved shirt.",
-            "zh": "她穿了一件短袖襯衫。"
+            "en": "It was a hot day, so Lucy wore a short-sleeved shirt.",
+            "zh": "那天很熱，所以 Lucy 穿了一件短袖襯衫。"
           },
           {
-            "en": "Don't buy cheap, low-quality shoes.",
-            "zh": "不要買便宜又品質差的鞋子。"
+            "en": "Those trainers will break in a month. Don't buy cheap, low-quality shoes.",
+            "zh": "那雙運動鞋一個月就會壞。不要買便宜又品質差的鞋子。"
           }
         ]
       }
@@ -2952,72 +2952,72 @@
     "translation": "我會形容自己是個隨和、心胸開放的人。",
     "name": "複合形容詞（多種）",
     "sentences": [
-      "Our new doctor is kind-hearted.",
-      "Young people are often open-minded.",
-      "She is a strong-willed girl.",
-      "Our boss is short-tempered in the morning.",
-      "My father is absent-minded and forgets his keys.",
-      "He was broken-hearted when she left.",
-      "They need warm-hearted volunteers.",
-      "She is a narrow-minded person.",
-      "It was a jaw-dropping view.",
-      "The bakery sells mouth-watering cakes.",
-      "They made an eye-catching poster.",
-      "It was a thought-provoking movie.",
-      "Losing the final was heart-breaking.",
-      "The game had a record-breaking crowd.",
-      "We heard some heart-warming news.",
-      "We finally went on our long-awaited trip.",
-      "Please read the above-mentioned rules.",
-      "She is a well-informed reporter.",
-      "It is a long-forgotten village.",
-      "They ate a home-cooked dinner.",
-      "The museum has many hand-painted plates.",
-      "Ann is a self-confident speaker.",
-      "My uncle is self-employed.",
-      "She grew up in a well-to-do family.",
-      "He seems very self-centered.",
-      "They are well-to-do people with a big house.",
-      "Are you easy-going about food?",
-      "The ending was truly jaw-dropping.",
-      "We want open-minded and hard-working staff.",
-      "That was the most eye-catching dress at the party."
+      "Dr Patel always has time for the old patients. Our new doctor is kind-hearted.",
+      "My grandparents don't like new ideas, but my parents are more open-minded.",
+      "Lily never gives up when a puzzle is hard. She's a strong-willed girl.",
+      "Don't ask the boss for anything before ten. He's short-tempered in the morning.",
+      "My father is absent-minded. He forgets his keys almost every day.",
+      "Sam's girlfriend moved to Canada. He was broken-hearted when she left.",
+      "The animal shelter needs warm-hearted volunteers at weekends.",
+      "My aunt thinks girls shouldn't play football. She's a narrow-minded person.",
+      "We reached the top of the mountain at sunrise. It was a jaw-dropping view.",
+      "Let's stop at the bakery on the corner. It sells mouth-watering cakes.",
+      "The students advertised the school play with a bright red poster. It was really eye-catching.",
+      "We talked about the film all the way home. It was a thought-provoking story.",
+      "Our team lost the final in the last minute. It was heart-breaking.",
+      "Over ninety thousand people came to the match. It was a record-breaking crowd.",
+      "A boy found my wallet and brought it to the police. It was heart-warming news.",
+      "We saved for three years. Last summer we finally went on our long-awaited trip to Japan.",
+      "Before you use the pool, please read the above-mentioned rules.",
+      "Clara always knows the news first. She's a well-informed reporter.",
+      "Nobody lives in Elm Hollow now. It's a long-forgotten village in the hills.",
+      "The kids came home from camp and ate a home-cooked dinner.",
+      "Grandma collects old plates. She has twenty hand-painted plates on the kitchen wall.",
+      "Ann won the speech contest last year. She's a self-confident speaker.",
+      "My uncle doesn't have a boss. He's self-employed.",
+      "Mrs Hart had a pony when she was a child. She grew up in a well-to-do family.",
+      "Tom only talks about himself. He seems very self-centred.",
+      "The Smiths have a big house by the lake. They're well-to-do people.",
+      "I'm cooking dinner for your visit. Are you easy-going about food?",
+      "I didn't guess the killer in the book. The ending was truly jaw-dropping.",
+      "Our café is growing fast. We want open-minded and hard-working staff.",
+      "Everyone looked at Mia's red dress. It was the most eye-catching dress at the party."
     ],
     "examples": [
       {
         "heading": "① 形容詞 + 名詞-ed",
         "items": [
           {
-            "en": "Our new doctor is kind-hearted.",
-            "zh": "我們的新醫生心地很善良。"
+            "en": "Dr Patel always has time for the old patients. Our new doctor is kind-hearted.",
+            "zh": "Patel 醫生總是有時間陪老病人。我們的新醫生心地很善良。"
           },
           {
-            "en": "Young people are often open-minded.",
-            "zh": "年輕人通常心胸比較開放。"
+            "en": "My grandparents don't like new ideas, but my parents are more open-minded.",
+            "zh": "我爺爺奶奶不喜歡新的想法，不過我爸媽心胸比較開放。"
           },
           {
-            "en": "She is a strong-willed girl.",
-            "zh": "她是個意志堅強的女孩。"
+            "en": "Lily never gives up when a puzzle is hard. She's a strong-willed girl.",
+            "zh": "Lily 碰到難的謎題從不放棄。她是個意志堅強的女孩。"
           },
           {
-            "en": "Our boss is short-tempered in the morning.",
-            "zh": "我們老闆早上脾氣很差。"
+            "en": "Don't ask the boss for anything before ten. He's short-tempered in the morning.",
+            "zh": "十點以前別跟老闆要求任何事。他早上脾氣很差。"
           },
           {
-            "en": "My father is absent-minded and forgets his keys.",
-            "zh": "我爸爸很健忘，常常忘了帶鑰匙。"
+            "en": "My father is absent-minded. He forgets his keys almost every day.",
+            "zh": "我爸爸很健忘。他幾乎每天都忘了帶鑰匙。"
           },
           {
-            "en": "He was broken-hearted when she left.",
-            "zh": "她離開的時候，他很心碎。"
+            "en": "Sam's girlfriend moved to Canada. He was broken-hearted when she left.",
+            "zh": "Sam 的女朋友搬去加拿大了。她離開的時候，他很心碎。"
           },
           {
-            "en": "They need warm-hearted volunteers.",
-            "zh": "他們需要熱心的志工。"
+            "en": "The animal shelter needs warm-hearted volunteers at weekends.",
+            "zh": "動物收容所週末需要熱心的志工。"
           },
           {
-            "en": "She is a narrow-minded person.",
-            "zh": "她是個心胸狹窄的人。"
+            "en": "My aunt thinks girls shouldn't play football. She's a narrow-minded person.",
+            "zh": "我阿姨覺得女生不該踢足球。她是個心胸狹窄的人。"
           }
         ]
       },
@@ -3025,32 +3025,32 @@
         "heading": "② 名詞 + 動詞-ing",
         "items": [
           {
-            "en": "It was a jaw-dropping view.",
-            "zh": "那是讓人看到下巴都掉下來的景色。"
+            "en": "We reached the top of the mountain at sunrise. It was a jaw-dropping view.",
+            "zh": "我們在日出時爬到山頂。那是讓人看到下巴都掉下來的景色。"
           },
           {
-            "en": "The bakery sells mouth-watering cakes.",
-            "zh": "那家麵包店賣讓人流口水的蛋糕。"
+            "en": "Let's stop at the bakery on the corner. It sells mouth-watering cakes.",
+            "zh": "我們在轉角的麵包店停一下吧。那家店賣讓人流口水的蛋糕。"
           },
           {
-            "en": "They made an eye-catching poster.",
-            "zh": "他們做了一張很吸引人的海報。"
+            "en": "The students advertised the school play with a bright red poster. It was really eye-catching.",
+            "zh": "學生們用一張鮮紅色的海報宣傳學校的話劇。那張海報很吸引人。"
           },
           {
-            "en": "It was a thought-provoking movie.",
-            "zh": "那是一部讓人深思的電影。"
+            "en": "We talked about the film all the way home. It was a thought-provoking story.",
+            "zh": "我們回家的路上一直在談那部電影。那是一個讓人深思的故事。"
           },
           {
-            "en": "Losing the final was heart-breaking.",
-            "zh": "輸掉決賽讓人很心碎。"
+            "en": "Our team lost the final in the last minute. It was heart-breaking.",
+            "zh": "我們隊在最後一分鐘輸掉決賽。那真讓人心碎。"
           },
           {
-            "en": "The game had a record-breaking crowd.",
-            "zh": "那場比賽的觀眾人數破了紀錄。"
+            "en": "Over ninety thousand people came to the match. It was a record-breaking crowd.",
+            "zh": "有超過九萬人來看那場比賽。觀眾人數破了紀錄。"
           },
           {
-            "en": "We heard some heart-warming news.",
-            "zh": "我們聽到一些溫暖人心的消息。"
+            "en": "A boy found my wallet and brought it to the police. It was heart-warming news.",
+            "zh": "一個男孩撿到我的皮夾，送到警察局。那是溫暖人心的消息。"
           }
         ]
       },
@@ -3058,28 +3058,28 @@
         "heading": "③ 副詞 / 形容詞 + 過去分詞",
         "items": [
           {
-            "en": "We finally went on our long-awaited trip.",
-            "zh": "我們終於去了期待已久的旅行。"
+            "en": "We saved for three years. Last summer we finally went on our long-awaited trip to Japan.",
+            "zh": "我們存了三年的錢。去年夏天，我們終於去了期待已久的日本之旅。"
           },
           {
-            "en": "Please read the above-mentioned rules.",
-            "zh": "請閱讀上面提到的規則。"
+            "en": "Before you use the pool, please read the above-mentioned rules.",
+            "zh": "使用游泳池之前，請閱讀上面提到的規則。"
           },
           {
-            "en": "She is a well-informed reporter.",
-            "zh": "她是一個消息靈通的記者。"
+            "en": "Clara always knows the news first. She's a well-informed reporter.",
+            "zh": "Clara 總是第一個知道新聞。她是一個消息靈通的記者。"
           },
           {
-            "en": "It is a long-forgotten village.",
-            "zh": "那是一個被遺忘很久的村子。"
+            "en": "Nobody lives in Elm Hollow now. It's a long-forgotten village in the hills.",
+            "zh": "現在沒有人住在 Elm Hollow 了。那是山裡一個被遺忘很久的村子。"
           },
           {
-            "en": "They ate a home-cooked dinner.",
-            "zh": "他們吃了一頓家常晚餐。"
+            "en": "The kids came home from camp and ate a home-cooked dinner.",
+            "zh": "孩子們從營隊回家，吃了一頓家常晚餐。"
           },
           {
-            "en": "The museum has many hand-painted plates.",
-            "zh": "那間博物館有很多手繪的盤子。"
+            "en": "Grandma collects old plates. She has twenty hand-painted plates on the kitchen wall.",
+            "zh": "奶奶收集舊盤子。她廚房的牆上有二十個手繪的盤子。"
           }
         ]
       },
@@ -3087,24 +3087,24 @@
         "heading": "④ self- 和固定片語",
         "items": [
           {
-            "en": "Ann is a self-confident speaker.",
-            "zh": "Ann 是一個很有自信的演講者。"
+            "en": "Ann won the speech contest last year. She's a self-confident speaker.",
+            "zh": "Ann 去年得了演講比賽冠軍。她是一個很有自信的演講者。"
           },
           {
-            "en": "My uncle is self-employed.",
-            "zh": "我叔叔是自己當老闆。"
+            "en": "My uncle doesn't have a boss. He's self-employed.",
+            "zh": "我叔叔沒有老闆。他自己當老闆。"
           },
           {
-            "en": "She grew up in a well-to-do family.",
-            "zh": "她在一個有錢的家庭長大。"
+            "en": "Mrs Hart had a pony when she was a child. She grew up in a well-to-do family.",
+            "zh": "Hart 太太小時候有一匹小馬。她在一個有錢的家庭長大。"
           },
           {
-            "en": "He seems very self-centered.",
-            "zh": "他看起來很自我中心。"
+            "en": "Tom only talks about himself. He seems very self-centred.",
+            "zh": "Tom 只會講他自己。他看起來很自我中心。"
           },
           {
-            "en": "They are well-to-do people with a big house.",
-            "zh": "他們是住大房子的有錢人。"
+            "en": "The Smiths have a big house by the lake. They're well-to-do people.",
+            "zh": "Smith 一家在湖邊有一棟大房子。他們是有錢人。"
           }
         ]
       },
@@ -3112,20 +3112,20 @@
         "heading": "⑤ 不同的句子",
         "items": [
           {
-            "en": "Are you easy-going about food?",
-            "zh": "你對吃的東西很隨和嗎？"
+            "en": "I'm cooking dinner for your visit. Are you easy-going about food?",
+            "zh": "我要為你的來訪煮晚餐。你對吃的東西很隨和嗎？"
           },
           {
-            "en": "The ending was truly jaw-dropping.",
-            "zh": "結局真的讓人吃驚。"
+            "en": "I didn't guess the killer in the book. The ending was truly jaw-dropping.",
+            "zh": "我沒猜到書裡的兇手。結局真的讓人吃驚。"
           },
           {
-            "en": "We want open-minded and hard-working staff.",
-            "zh": "我們想要心胸開放又勤奮的員工。"
+            "en": "Our café is growing fast. We want open-minded and hard-working staff.",
+            "zh": "我們的咖啡館發展得很快。我們想要心胸開放又勤奮的員工。"
           },
           {
-            "en": "That was the most eye-catching dress at the party.",
-            "zh": "那是派對上最吸引人的洋裝。"
+            "en": "Everyone looked at Mia's red dress. It was the most eye-catching dress at the party.",
+            "zh": "大家都在看 Mia 的紅洋裝。那是派對上最吸引人的洋裝。"
           }
         ]
       }
@@ -3138,68 +3138,68 @@
     "translation": "開車上班會對環境造成長期的影響。",
     "name": "複合形容詞（較多種）",
     "sentences": [
-      "Smoking has long-term effects on your health.",
-      "This is only a short-term solution.",
-      "We made some last-minute changes to the plan.",
-      "The shop sells high-quality furniture.",
-      "She is looking for a long-term job.",
-      "It was a last-minute decision.",
-      "They use low-cost materials.",
-      "The new app is very user-friendly.",
-      "He is a world-famous artist.",
-      "This is a smoke-free building.",
-      "This printer is energy-efficient.",
-      "The city has many tax-free shops.",
-      "Please use a child-friendly website.",
-      "We need an up-to-date map.",
-      "The hospital has state-of-the-art equipment.",
-      "I prefer face-to-face meetings.",
-      "Is the information up to date?",
-      "They built a state-of-the-art stadium.",
-      "She gave me some down-to-earth advice.",
-      "Nurses should have well-paid jobs.",
-      "Many people eat ready-made meals.",
-      "My mother gave me a hand-made scarf.",
-      "It is a well-planned city.",
-      "It is a well-built house.",
-      "She brought some home-made cookies.",
-      "Do you have any long-term plans?",
-      "Our customers like the user-friendly design.",
-      "We are looking for a full-time, well-paid position.",
-      "Keep your phone up to date.",
-      "That was a once-in-a-lifetime experience."
+      "My doctor told me to stop smoking. It has long-term effects on your health.",
+      "We put a bucket under the hole in the roof. This is only a short-term solution.",
+      "It started to rain on the morning of the wedding, so we made some last-minute changes to the plan.",
+      "Their chairs last for years. The shop sells high-quality furniture.",
+      "My sister doesn't want to move again. She's looking for a long-term job.",
+      "We booked the flight the night before. It was a last-minute decision.",
+      "The company sells cheap houses because it uses low-cost materials.",
+      "My grandmother can book a taxi on her phone now. The new app is very user-friendly.",
+      "People come from all over the world to see Ai Weiwei's work. He's a world-famous artist.",
+      "You can't smoke anywhere in our office. It's a smoke-free building.",
+      "Our electricity bill went down after we changed printers. The new printer is energy-efficient.",
+      "Tourists love shopping in Dubai. The city has lots of tax-free shops.",
+      "My son is only six, so I only let him use child-friendly websites.",
+      "Our map is from 2010, and the roads have changed. We need an up-to-date map.",
+      "You'll get good care there. The hospital has state-of-the-art equipment.",
+      "I don't like video calls with clients. I prefer face-to-face meetings.",
+      "This website shows last year's bus times. Is the information up to date?",
+      "The city spent millions on the World Cup. They built a state-of-the-art stadium.",
+      "I told my aunt about my money problems. She gave me some down-to-earth advice.",
+      "Nurses work very long hours. They should have well-paid jobs.",
+      "Cooking takes time after a long day at work. Many people eat ready-made meals.",
+      "My mother knitted all winter. She gave me a hand-made scarf for my birthday.",
+      "All the streets in Barcelona's old centre are easy to find. It's a well-planned city.",
+      "The storm broke our neighbours' windows, but our house was fine. It's a well-built house.",
+      "Maria came to the party with some home-made cookies.",
+      "You finish university next year. Do you have any long-term plans?",
+      "We sold twice as many phones this year. Our customers like the user-friendly design.",
+      "I'm tired of my part-time jobs. I'm looking for a full-time, well-paid position.",
+      "Some apps stop working on old software. Keep your phone up to date.",
+      "We saw whales on our trip to Iceland. That was a once-in-a-lifetime experience."
     ],
     "examples": [
       {
         "heading": "① 形容詞 + 名詞",
         "items": [
           {
-            "en": "Smoking has long-term effects on your health.",
-            "zh": "抽菸對健康有長期的影響。"
+            "en": "My doctor told me to stop smoking. It has long-term effects on your health.",
+            "zh": "醫生叫我戒菸。抽菸對健康有長期的影響。"
           },
           {
-            "en": "This is only a short-term solution.",
-            "zh": "這只是一個短期的解決辦法。"
+            "en": "We put a bucket under the hole in the roof. This is only a short-term solution.",
+            "zh": "我們在屋頂的破洞下面放了一個水桶。這只是一個短期的解決辦法。"
           },
           {
-            "en": "We made some last-minute changes to the plan.",
-            "zh": "我們在最後一刻改了計畫。"
+            "en": "It started to rain on the morning of the wedding, so we made some last-minute changes to the plan.",
+            "zh": "婚禮當天早上開始下雨，所以我們在最後一刻改了計畫。"
           },
           {
-            "en": "The shop sells high-quality furniture.",
-            "zh": "那家店賣高品質的家具。"
+            "en": "Their chairs last for years. The shop sells high-quality furniture.",
+            "zh": "他們的椅子可以用好多年。那家店賣高品質的家具。"
           },
           {
-            "en": "She is looking for a long-term job.",
-            "zh": "她在找一份長期的工作。"
+            "en": "My sister doesn't want to move again. She's looking for a long-term job.",
+            "zh": "我姊姊不想再搬家了。她在找一份長期的工作。"
           },
           {
-            "en": "It was a last-minute decision.",
-            "zh": "那是最後一刻才做的決定。"
+            "en": "We booked the flight the night before. It was a last-minute decision.",
+            "zh": "我們前一天晚上才訂機票。那是最後一刻才做的決定。"
           },
           {
-            "en": "They use low-cost materials.",
-            "zh": "他們用低成本的材料。"
+            "en": "The company sells cheap houses because it uses low-cost materials.",
+            "zh": "那家公司賣便宜的房子，因為它用低成本的材料。"
           }
         ]
       },
@@ -3207,28 +3207,28 @@
         "heading": "② 名詞 + 形容詞",
         "items": [
           {
-            "en": "The new app is very user-friendly.",
-            "zh": "這個新的應用程式非常好用。"
+            "en": "My grandmother can book a taxi on her phone now. The new app is very user-friendly.",
+            "zh": "我奶奶現在可以用手機叫計程車了。這個新的應用程式非常好用。"
           },
           {
-            "en": "He is a world-famous artist.",
-            "zh": "他是個世界有名的藝術家。"
+            "en": "People come from all over the world to see Ai Weiwei's work. He's a world-famous artist.",
+            "zh": "世界各地的人都來看艾未未的作品。他是個世界有名的藝術家。"
           },
           {
-            "en": "This is a smoke-free building.",
-            "zh": "這是一棟禁菸的大樓。"
+            "en": "You can't smoke anywhere in our office. It's a smoke-free building.",
+            "zh": "我們辦公室裡哪裡都不能抽菸。這是一棟禁菸的大樓。"
           },
           {
-            "en": "This printer is energy-efficient.",
-            "zh": "這台印表機很省電。"
+            "en": "Our electricity bill went down after we changed printers. The new printer is energy-efficient.",
+            "zh": "我們換了印表機以後電費變少了。新的印表機很省電。"
           },
           {
-            "en": "The city has many tax-free shops.",
-            "zh": "這座城市有很多免稅商店。"
+            "en": "Tourists love shopping in Dubai. The city has lots of tax-free shops.",
+            "zh": "觀光客很喜歡在杜拜購物。這座城市有很多免稅商店。"
           },
           {
-            "en": "Please use a child-friendly website.",
-            "zh": "請使用適合兒童的網站。"
+            "en": "My son is only six, so I only let him use child-friendly websites.",
+            "zh": "我兒子才六歲，所以我只讓他用適合兒童的網站。"
           }
         ]
       },
@@ -3236,28 +3236,28 @@
         "heading": "③ 片語",
         "items": [
           {
-            "en": "We need an up-to-date map.",
-            "zh": "我們需要一張最新的地圖。"
+            "en": "Our map is from 2010, and the roads have changed. We need an up-to-date map.",
+            "zh": "我們的地圖是 2010 年的，道路都變了。我們需要一張最新的地圖。"
           },
           {
-            "en": "The hospital has state-of-the-art equipment.",
-            "zh": "那家醫院有最先進的設備。"
+            "en": "You'll get good care there. The hospital has state-of-the-art equipment.",
+            "zh": "你在那裡會得到很好的照顧。那家醫院有最先進的設備。"
           },
           {
-            "en": "I prefer face-to-face meetings.",
-            "zh": "我比較喜歡面對面開會。"
+            "en": "I don't like video calls with clients. I prefer face-to-face meetings.",
+            "zh": "我不喜歡跟客戶視訊。我比較喜歡面對面開會。"
           },
           {
-            "en": "Is the information up to date?",
-            "zh": "這些資料是最新的嗎？"
+            "en": "This website shows last year's bus times. Is the information up to date?",
+            "zh": "這個網站上是去年的公車時刻。這些資料是最新的嗎？"
           },
           {
-            "en": "They built a state-of-the-art stadium.",
-            "zh": "他們蓋了一座最先進的體育場。"
+            "en": "The city spent millions on the World Cup. They built a state-of-the-art stadium.",
+            "zh": "這座城市為世界盃花了好幾百萬。他們蓋了一座最先進的體育場。"
           },
           {
-            "en": "She gave me some down-to-earth advice.",
-            "zh": "她給了我一些很實際的建議。"
+            "en": "I told my aunt about my money problems. She gave me some down-to-earth advice.",
+            "zh": "我跟阿姨說我的財務問題。她給了我一些很實際的建議。"
           }
         ]
       },
@@ -3265,28 +3265,28 @@
         "heading": "④ 副詞 / 形容詞 / 名詞 + 過去分詞",
         "items": [
           {
-            "en": "Nurses should have well-paid jobs.",
-            "zh": "護理師應該有薪水好的工作。"
+            "en": "Nurses work very long hours. They should have well-paid jobs.",
+            "zh": "護理師工作時間很長。她們應該有薪水好的工作。"
           },
           {
-            "en": "Many people eat ready-made meals.",
-            "zh": "很多人吃現成的餐點。"
+            "en": "Cooking takes time after a long day at work. Many people eat ready-made meals.",
+            "zh": "上了一整天班，煮飯很花時間。很多人吃現成的餐點。"
           },
           {
-            "en": "My mother gave me a hand-made scarf.",
-            "zh": "我媽媽送我一條手工圍巾。"
+            "en": "My mother knitted all winter. She gave me a hand-made scarf for my birthday.",
+            "zh": "我媽媽織了一整個冬天。她送我一條手工圍巾當生日禮物。"
           },
           {
-            "en": "It is a well-planned city.",
-            "zh": "那是一座規劃得很好的城市。"
+            "en": "All the streets in Barcelona's old centre are easy to find. It's a well-planned city.",
+            "zh": "巴塞隆納舊城區的街道都很好找。那是一座規劃得很好的城市。"
           },
           {
-            "en": "It is a well-built house.",
-            "zh": "那是一棟蓋得很好的房子。"
+            "en": "The storm broke our neighbours' windows, but our house was fine. It's a well-built house.",
+            "zh": "暴風雨打破了鄰居家的窗戶，不過我們的房子沒事。那是一棟蓋得很好的房子。"
           },
           {
-            "en": "She brought some home-made cookies.",
-            "zh": "她帶了一些自己做的餅乾。"
+            "en": "Maria came to the party with some home-made cookies.",
+            "zh": "Maria 帶了一些自己做的餅乾來派對。"
           }
         ]
       },
@@ -3294,24 +3294,24 @@
         "heading": "⑤ 不同的句子",
         "items": [
           {
-            "en": "Do you have any long-term plans?",
-            "zh": "你有什麼長期的計畫嗎？"
+            "en": "You finish university next year. Do you have any long-term plans?",
+            "zh": "你明年大學畢業。你有什麼長期的計畫嗎？"
           },
           {
-            "en": "Our customers like the user-friendly design.",
-            "zh": "我們的客戶喜歡這個好用的設計。"
+            "en": "We sold twice as many phones this year. Our customers like the user-friendly design.",
+            "zh": "我們今年賣出的手機多了一倍。我們的客戶喜歡這個好用的設計。"
           },
           {
-            "en": "We are looking for a full-time, well-paid position.",
-            "zh": "我們在找一份全職、薪水又好的工作。"
+            "en": "I'm tired of my part-time jobs. I'm looking for a full-time, well-paid position.",
+            "zh": "我做兼職做膩了。我在找一份全職、薪水又好的工作。"
           },
           {
-            "en": "Keep your phone up to date.",
-            "zh": "讓你的手機保持最新版本。"
+            "en": "Some apps stop working on old software. Keep your phone up to date.",
+            "zh": "有些應用程式在舊系統上不能用。讓你的手機保持最新版本。"
           },
           {
-            "en": "That was a once-in-a-lifetime experience.",
-            "zh": "那是一生只有一次的經驗。"
+            "en": "We saw whales on our trip to Iceland. That was a once-in-a-lifetime experience.",
+            "zh": "我們去冰島旅行時看到鯨魚。那是一生只有一次的經驗。"
           }
         ]
       }
@@ -5174,68 +5174,68 @@
     "translation": "我們可以搭船去一座小島，島上到處是珍奇的鳥類。",
     "name": "形容詞片語修飾名詞",
     "sentences": [
-      "We found a box full of old photos.",
-      "He carried a bag full of books.",
-      "She gave me a basket full of apples.",
-      "It was a room full of noisy children.",
-      "They have a garden full of flowers.",
-      "I got an email full of mistakes.",
-      "We walked along a street full of shops.",
-      "Kyoto is a city famous for its old temples.",
-      "Students interested in art can join the club.",
-      "Spinach is a vegetable rich in iron.",
-      "A teacher proud of her students wrote this letter.",
-      "We need a person good at math.",
-      "I bought a coat similar to yours.",
-      "People afraid of dogs should stay inside.",
-      "Taiwan is an island famous for its night markets.",
-      "It is a town popular with tourists.",
-      "Parents worried about their children called the school.",
-      "This is a job suitable for students.",
-      "They sell shoes good for long walks.",
-      "She married a man ten years older than her.",
-      "She asked a question difficult to answer.",
-      "He wrote a book easy to understand.",
-      "We found a house cheap enough to buy.",
-      "It was a mistake impossible to fix.",
-      "They built a bridge strong enough to carry trucks.",
-      "Is there a restaurant open after midnight?",
-      "Anyone late for class must wait outside.",
-      "Ken has a desk covered with papers.",
-      "I want a room big enough for five people.",
-      "Find a word similar in meaning to happy."
+      "We cleaned my grandmother's attic last weekend. We found a box full of old photos.",
+      "My brother came back from the library. He carried a bag full of books.",
+      "Our neighbour has an apple tree. She gave me a basket full of apples.",
+      "I walked into the birthday party, and it was a room full of noisy children.",
+      "My grandparents love gardening. They have a garden full of flowers.",
+      "My new assistant writes too fast. Today I got an email full of mistakes from him.",
+      "We had an hour before the train, so we walked along a street full of shops.",
+      "We're going to Japan in April. Kyoto is a city famous for its old temples.",
+      "The art club meets on Fridays. Students interested in art can join the club.",
+      "Eat more spinach. It's a vegetable rich in iron.",
+      "The newspaper printed a letter from a teacher proud of her students.",
+      "Our team doesn't have anyone for the numbers. We need a person good at maths.",
+      "I saw your new coat and loved it. I bought a coat similar to yours.",
+      "A big dog is coming to the party. Guests afraid of dogs can sit in the kitchen.",
+      "Go to Taiwan in the spring. It's an island famous for its night markets.",
+      "Hotels in Cambridge are expensive in summer. It's a town popular with tourists.",
+      "The school bus was two hours late. Parents worried about their children called the school.",
+      "The café only opens in the evenings. It's a job suitable for students.",
+      "We're walking the coast path next month. The shop near the station sells shoes good for long walks.",
+      "My aunt didn't marry until she was forty. She married a man ten years older than her.",
+      "The new student was very curious. She asked a question difficult to answer.",
+      "I don't usually like science books, but Dr Lee wrote a book easy to understand.",
+      "We looked for two years, and at last we found a house cheap enough to buy.",
+      "I deleted all my photos by accident. It was a mistake impossible to fix.",
+      "The old bridge was too weak for lorries. The town built a bridge strong enough to carry them.",
+      "Our flight lands at eleven at night. Is there a restaurant open after midnight?",
+      "Our teacher is very strict. Anyone late for class must wait outside.",
+      "Ken never tidies up. He has a desk covered with papers.",
+      "I'm booking a holiday flat for our family. I want a flat big enough for five people.",
+      "Your homework is on page twelve. Find a word similar in meaning to \"happy\"."
     ],
     "examples": [
       {
         "heading": "① 名詞 + full of + 名詞",
         "items": [
           {
-            "en": "We found a box full of old photos.",
-            "zh": "我們找到一個裝滿舊照片的盒子。"
+            "en": "We cleaned my grandmother's attic last weekend. We found a box full of old photos.",
+            "zh": "我們上週末整理奶奶的閣樓。我們找到一個裝滿舊照片的盒子。"
           },
           {
-            "en": "He carried a bag full of books.",
-            "zh": "他提著一個裝滿書的袋子。"
+            "en": "My brother came back from the library. He carried a bag full of books.",
+            "zh": "我哥哥從圖書館回來。他提著一個裝滿書的袋子。"
           },
           {
-            "en": "She gave me a basket full of apples.",
-            "zh": "她給了我一籃滿滿的蘋果。"
+            "en": "Our neighbour has an apple tree. She gave me a basket full of apples.",
+            "zh": "我們的鄰居有一棵蘋果樹。她給了我一籃滿滿的蘋果。"
           },
           {
-            "en": "It was a room full of noisy children.",
-            "zh": "那是一個擠滿吵鬧小孩的房間。"
+            "en": "I walked into the birthday party, and it was a room full of noisy children.",
+            "zh": "我走進生日派對，那是一個擠滿吵鬧小孩的房間。"
           },
           {
-            "en": "They have a garden full of flowers.",
-            "zh": "他們有一個開滿花的花園。"
+            "en": "My grandparents love gardening. They have a garden full of flowers.",
+            "zh": "我爺爺奶奶很喜歡園藝。他們有一個開滿花的花園。"
           },
           {
-            "en": "I got an email full of mistakes.",
-            "zh": "我收到一封錯誤百出的電子郵件。"
+            "en": "My new assistant writes too fast. Today I got an email full of mistakes from him.",
+            "zh": "我的新助理寫得太快了。我今天收到他一封錯誤百出的電子郵件。"
           },
           {
-            "en": "We walked along a street full of shops.",
-            "zh": "我們沿著一條商店林立的街走。"
+            "en": "We had an hour before the train, so we walked along a street full of shops.",
+            "zh": "我們離火車開還有一小時，所以沿著一條商店林立的街走。"
           }
         ]
       },
@@ -5243,56 +5243,56 @@
         "heading": "② 名詞 + 其他形容詞 + 介系詞片語",
         "items": [
           {
-            "en": "Kyoto is a city famous for its old temples.",
-            "zh": "京都是一座以古老寺廟出名的城市。"
+            "en": "We're going to Japan in April. Kyoto is a city famous for its old temples.",
+            "zh": "我們四月要去日本。京都是一座以古老寺廟出名的城市。"
           },
           {
-            "en": "Students interested in art can join the club.",
-            "zh": "對美術有興趣的學生可以加入社團。"
+            "en": "The art club meets on Fridays. Students interested in art can join the club.",
+            "zh": "美術社每星期五聚會。對美術有興趣的學生可以加入社團。"
           },
           {
-            "en": "Spinach is a vegetable rich in iron.",
-            "zh": "菠菜是一種富含鐵質的蔬菜。"
+            "en": "Eat more spinach. It's a vegetable rich in iron.",
+            "zh": "多吃菠菜。那是一種富含鐵質的蔬菜。"
           },
           {
-            "en": "A teacher proud of her students wrote this letter.",
-            "zh": "一位以學生為榮的老師寫了這封信。"
+            "en": "The newspaper printed a letter from a teacher proud of her students.",
+            "zh": "報紙登了一封信，寫信的是一位以學生為榮的老師。"
           },
           {
-            "en": "We need a person good at math.",
-            "zh": "我們需要一個數學很好的人。"
+            "en": "Our team doesn't have anyone for the numbers. We need a person good at maths.",
+            "zh": "我們隊上沒有人管數字。我們需要一個數學很好的人。"
           },
           {
-            "en": "I bought a coat similar to yours.",
-            "zh": "我買了一件跟你的很像的外套。"
+            "en": "I saw your new coat and loved it. I bought a coat similar to yours.",
+            "zh": "我看到你的新外套，很喜歡。我買了一件跟你的很像的外套。"
           },
           {
-            "en": "People afraid of dogs should stay inside.",
-            "zh": "怕狗的人應該待在裡面。"
+            "en": "A big dog is coming to the party. Guests afraid of dogs can sit in the kitchen.",
+            "zh": "派對會有一隻大狗。怕狗的客人可以坐在廚房。"
           },
           {
-            "en": "Taiwan is an island famous for its night markets.",
-            "zh": "台灣是一座以夜市出名的島。"
+            "en": "Go to Taiwan in the spring. It's an island famous for its night markets.",
+            "zh": "春天去台灣吧。那是一座以夜市出名的島。"
           },
           {
-            "en": "It is a town popular with tourists.",
-            "zh": "那是一個很受觀光客歡迎的小鎮。"
+            "en": "Hotels in Cambridge are expensive in summer. It's a town popular with tourists.",
+            "zh": "劍橋的旅館夏天很貴。那是一個很受觀光客歡迎的小鎮。"
           },
           {
-            "en": "Parents worried about their children called the school.",
-            "zh": "擔心孩子的家長打電話到學校。"
+            "en": "The school bus was two hours late. Parents worried about their children called the school.",
+            "zh": "校車晚了兩個小時。擔心孩子的家長打電話到學校。"
           },
           {
-            "en": "This is a job suitable for students.",
-            "zh": "這是一份適合學生的工作。"
+            "en": "The café only opens in the evenings. It's a job suitable for students.",
+            "zh": "那家咖啡館只在晚上營業。這是一份適合學生的工作。"
           },
           {
-            "en": "They sell shoes good for long walks.",
-            "zh": "他們賣適合走遠路的鞋子。"
+            "en": "We're walking the coast path next month. The shop near the station sells shoes good for long walks.",
+            "zh": "我們下個月要走海岸步道。車站附近那家店賣適合走遠路的鞋子。"
           },
           {
-            "en": "She married a man ten years older than her.",
-            "zh": "她嫁給了一個比她大十歲的男人。"
+            "en": "My aunt didn't marry until she was forty. She married a man ten years older than her.",
+            "zh": "我阿姨四十歲才結婚。她嫁給了一個比她大十歲的男人。"
           }
         ]
       },
@@ -5300,24 +5300,24 @@
         "heading": "③ 名詞 + 形容詞 + to 不定詞",
         "items": [
           {
-            "en": "She asked a question difficult to answer.",
-            "zh": "她問了一個很難回答的問題。"
+            "en": "The new student was very curious. She asked a question difficult to answer.",
+            "zh": "新來的學生很好奇。她問了一個很難回答的問題。"
           },
           {
-            "en": "He wrote a book easy to understand.",
-            "zh": "他寫了一本很好懂的書。"
+            "en": "I don't usually like science books, but Dr Lee wrote a book easy to understand.",
+            "zh": "我平常不喜歡科學書，不過 Lee 博士寫了一本很好懂的書。"
           },
           {
-            "en": "We found a house cheap enough to buy.",
-            "zh": "我們找到一間便宜到買得起的房子。"
+            "en": "We looked for two years, and at last we found a house cheap enough to buy.",
+            "zh": "我們找了兩年，終於找到一間便宜到買得起的房子。"
           },
           {
-            "en": "It was a mistake impossible to fix.",
-            "zh": "那是一個沒辦法彌補的錯誤。"
+            "en": "I deleted all my photos by accident. It was a mistake impossible to fix.",
+            "zh": "我不小心把所有照片都刪了。那是一個沒辦法彌補的錯誤。"
           },
           {
-            "en": "They built a bridge strong enough to carry trucks.",
-            "zh": "他們蓋了一座夠堅固、能讓卡車通過的橋。"
+            "en": "The old bridge was too weak for lorries. The town built a bridge strong enough to carry them.",
+            "zh": "舊橋撐不住卡車。鎮上蓋了一座夠堅固、能讓卡車通過的橋。"
           }
         ]
       },
@@ -5325,24 +5325,24 @@
         "heading": "④ 不同的句子",
         "items": [
           {
-            "en": "Is there a restaurant open after midnight?",
-            "zh": "有沒有半夜以後還開著的餐廳？"
+            "en": "Our flight lands at eleven at night. Is there a restaurant open after midnight?",
+            "zh": "我們的班機晚上十一點降落。有沒有半夜以後還開著的餐廳？"
           },
           {
-            "en": "Anyone late for class must wait outside.",
-            "zh": "上課遲到的人必須在外面等。"
+            "en": "Our teacher is very strict. Anyone late for class must wait outside.",
+            "zh": "我們老師很嚴格。上課遲到的人必須在外面等。"
           },
           {
-            "en": "Ken has a desk covered with papers.",
-            "zh": "Ken 有一張堆滿文件的桌子。"
+            "en": "Ken never tidies up. He has a desk covered with papers.",
+            "zh": "Ken 從來不整理。他有一張堆滿文件的桌子。"
           },
           {
-            "en": "I want a room big enough for five people.",
-            "zh": "我想要一間夠住五個人的房間。"
+            "en": "I'm booking a holiday flat for our family. I want a flat big enough for five people.",
+            "zh": "我在幫家人訂度假公寓。我想要一間夠住五個人的公寓。"
           },
           {
-            "en": "Find a word similar in meaning to happy.",
-            "zh": "找一個意思跟 happy 相近的字。"
+            "en": "Your homework is on page twelve. Find a word similar in meaning to \"happy\".",
+            "zh": "你的功課在第十二頁。找一個意思跟 happy 相近的字。"
           }
         ]
       }

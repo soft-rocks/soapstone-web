@@ -43,7 +43,7 @@ defineProps<{ note: (typeof notes)[number] }>();
             ><NoteMark
               sentence="Kyoto is a city famous for its old temples."
               :marks="['famous for its old temples']"
-            /><span class="translation">京都是一座以古寺出名的城市。</span></span
+            /><span class="translation">京都是一座以古老寺廟出名的城市。</span></span
           >
         </div>
       </div>
@@ -53,21 +53,13 @@ defineProps<{ note: (typeof notes)[number] }>();
       <div class="rows is-labeled">
         <div>
           <span class="term">形容詞 + 名詞</span>
-          <span
-            ><NoteMark sentence="It was a full box." :marks="['full box']" /><span
-              class="translation"
-              >那是一個滿的盒子。</span
-            ></span
-          >
+          <span><NoteMark sentence="a full box" :marks="['full box']" /></span>
         </div>
         <div>
           <span class="term">名詞 + 形容詞片語</span>
           <span
-            ><NoteMark
-              sentence="It was a box full of old photos."
-              :marks="['box full of old photos']"
-            /><span class="translation">那是一個裝滿舊照片的盒子。</span></span
-          >
+            ><NoteMark sentence="a box full of old photos" :marks="['box full of old photos']"
+          /></span>
         </div>
       </div>
     </NoteSlide>

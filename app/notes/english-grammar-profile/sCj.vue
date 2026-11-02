@@ -39,12 +39,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         </div>
         <div>
           <span class="term">and</span>
-          <span
-            ><NoteMark sentence="It was a long and hot summer." :marks="['long and hot']" /><span
-              class="translation"
-              >那是一個漫長又炎熱的夏天。</span
-            ></span
-          >
+          <span><NoteMark sentence="a long and hot summer" :marks="['long and hot']" /></span>
         </div>
       </div>
       <p class="remark">兩句的意思一樣。</p>
@@ -66,17 +61,17 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="最後一個形容詞和名詞中間不加逗號" mark="house">
       <NoteFix
-        wrong="It was a long, hot, summer."
-        right="It was a long, hot summer."
-        fix="hot summer"
+        wrong="It was a dark, quiet, night."
+        right="It was a dark, quiet night."
+        fix="quiet night"
       />
     </NoteSlide>
 
     <NoteSlide title="新舊放在材料前面" mark="old,">
       <NoteFix
-        wrong="He bought a wooden old table."
-        right="He bought an old wooden table."
-        fix="old wooden"
+        wrong="My dad has a leather old wallet."
+        right="My dad has an old leather wallet."
+        fix="old leather"
       />
     </NoteSlide>
 

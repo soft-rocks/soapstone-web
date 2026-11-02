@@ -52,18 +52,18 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="意思一樣用 and，意思相反用 but" mark="but">
       <NoteFork
-        stem="The hotel was cheap"
+        stem="The café was cosy"
         :branches="[
-          { head: 'and', rest: 'clean', meaning: '一樣是優點', zh: '旅館又便宜又乾淨。' },
-          { head: 'but', rest: 'dirty', meaning: '意思相反', zh: '旅館很便宜，但是很髒。' },
+          { head: 'and', rest: 'friendly', meaning: '一樣是優點', zh: '咖啡館很溫馨，也很親切。' },
+          { head: 'but', rest: 'noisy', meaning: '意思相反', zh: '咖啡館很溫馨，但是很吵。' },
         ]"
       />
     </NoteSlide>
 
     <NoteSlide title="意思不相反的形容詞用 and 連接" mark="but">
       <NoteFix
-        wrong="The room was clean but tidy."
-        right="The room was clean and tidy."
+        wrong="My new neighbours are kind but helpful."
+        right="My new neighbours are kind and helpful."
         fix="and"
       />
     </NoteSlide>

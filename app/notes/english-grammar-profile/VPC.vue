@@ -23,6 +23,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'one!', kind: 'dim' },
         ]"
       />
+      <p class="translation">我們沒有導遊。我們應該先預約一個的！</p>
     </NoteSlide>
     <NoteSlide title="ought to have、過去分詞、ought to have been + 過去分詞">
       <div class="rows is-labeled">
@@ -45,19 +46,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">後悔自己</span>
           <span
-            ><NoteMark sentence="You told me the shop would be closed. I ought to have listened to you." :marks="[]" /><span
-              class="translation"
-              >你跟我說過那家店會關門。我當時應該聽你的。</span
-            ></span
+            ><NoteMark
+              sentence="You told me the shop would be closed. I ought to have listened to you."
+              :marks="[]"
+            /><span class="translation">你跟我說過那家店會關門。我當時應該聽你的。</span></span
           >
         </div>
         <div>
           <span class="term">批評別人</span>
           <span
-            ><NoteMark sentence="The river had flooded twice before. The government ought to have known." :marks="[]" /><span
-              class="translation"
-              >那條河之前已經淹過兩次水。政府當時應該知道。</span
-            ></span
+            ><NoteMark
+              sentence="The river had flooded twice before. The government ought to have known."
+              :marks="[]"
+            /><span class="translation">那條河之前已經淹過兩次水。政府當時應該知道。</span></span
           >
         </div>
       </div>

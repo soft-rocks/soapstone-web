@@ -22,6 +22,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'go.', role: '原形動詞' },
         ]"
       />
+      <p class="translation">噢，抱歉，我媽媽在叫我，我應該走了。</p>
     </NoteSlide>
     <NoteSlide title="ought to、原形動詞">
       <div class="rows is-labeled">
@@ -40,10 +41,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">ought to</span>
           <span
-            ><NoteMark sentence="You've had a long week. You ought to rest." :marks="['ought', 'to']" /><span
-              class="translation"
-              >你這個星期很累。你應該休息。</span
-            ></span
+            ><NoteMark
+              sentence="You've had a long week. You ought to rest."
+              :marks="['ought', 'to']"
+            /><span class="translation">你這個星期很累。你應該休息。</span></span
           >
         </div>
       </div>
@@ -54,10 +55,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">例句</span>
           <span
-            ><NoteMark sentence="Her cough is getting worse. She ought to see a doctor." :marks="['ought', 'She']" /><span
-              class="translation"
-              >她咳得越來越嚴重。她應該去看醫生。</span
-            ></span
+            ><NoteMark
+              sentence="Her cough is getting worse. She ought to see a doctor."
+              :marks="['ought', 'She']"
+            /><span class="translation">她咳得越來越嚴重。她應該去看醫生。</span></span
           >
         </div>
       </div>
@@ -65,8 +66,10 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
     <NoteSlide title="ought 後面要接 to" mark="ought">
       <NoteFix
-wrong="You look really pale. You ought go home and lie down."
-        right="You look really pale. You ought to go home and lie down." :fix="['to']" />
+        wrong="You look really pale. You ought go home and lie down."
+        right="You look really pale. You ought to go home and lie down."
+        :fix="['to']"
+      />
     </NoteSlide>
     <NoteSlide title="ought 不加 -s" mark="ought">
       <NoteFix
@@ -77,8 +80,10 @@ wrong="You look really pale. You ought go home and lie down."
     </NoteSlide>
     <NoteSlide title="to 後面接原形動詞" mark="to">
       <NoteFix
-wrong="The last bus is at eleven. We ought to leaving soon."
-        right="The last bus is at eleven. We ought to leave soon." :fix="['leave']" />
+        wrong="The last bus is at eleven. We ought to leaving soon."
+        right="The last bus is at eleven. We ought to leave soon."
+        :fix="['leave']"
+      />
     </NoteSlide>
   </NoteDeck>
 

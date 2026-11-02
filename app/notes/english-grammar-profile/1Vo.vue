@@ -22,6 +22,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'a quick snack, for example, a sandwich.', kind: 'dim' },
         ]"
       />
+      <p class="translation">你可以很快弄個點心，像是三明治。</p>
     </NoteSlide>
     <NoteSlide title="can、原形動詞" mark="can">
       <div class="rows is-labeled">

@@ -34,9 +34,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="May I speak to Miss Wright, please?"
+              sentence="May I speak to the doctor on duty, please?"
               :marks="['May I speak to']"
-            /><span class="translation">請問懷特小姐在嗎？</span></span
+            /><span class="translation">請問值班醫生在嗎？</span></span
           >
         </div>
       </div>
@@ -57,12 +57,16 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">寫信給商店或公司時，常用 May I ask 問問題。</p>
     </NoteSlide>
     <NoteSlide title="may 後面接原形動詞" mark="may">
-      <NoteFix wrong="May I coming in?" right="May I come in?" :fix="['come']" />
+      <NoteFix
+        wrong="May I coming to the meeting tomorrow?"
+        right="May I come to the meeting tomorrow?"
+        :fix="['come']"
+      />
     </NoteSlide>
     <NoteSlide title="找人說話用 speak to">
       <NoteFix
-        wrong="May I speak Miss Wright, please?"
-        right="May I speak to Miss Wright, please?"
+        wrong="May I speak your manager, please?"
+        right="May I speak to your manager, please?"
         :fix="['to']"
       />
     </NoteSlide>

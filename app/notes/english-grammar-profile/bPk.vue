@@ -17,12 +17,13 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="24"
         :parts="[
           { t: 'Rome is really fantastic and', kind: 'dim' },
-          { t: 'you', kind: 'key', ring: true },
+          { t: 'you', role: '主詞' },
           { t: 'must', kind: 'key', ring: true },
           { t: 'go', role: '原形動詞' },
           { t: 'there!', kind: 'dim' },
         ]"
       />
+      <p class="translation">羅馬真的太棒了，你一定要去！</p>
     </NoteSlide>
     <NoteSlide title="you must、we must、原形動詞">
       <div class="rows is-labeled">
@@ -46,25 +47,23 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">例句</span>
           <span
             ><NoteMark
-              sentence="We must do that again, don't you think?"
-              :marks="['We must do that again,']"
-            /><span class="translation">我們一定要再來一次，你不覺得嗎？</span></span
+              sentence="We must go there again, it was wonderful."
+              :marks="['We must', 'again,']"
+            /><span class="translation">我們一定要再去那裡，太棒了。</span></span
           >
         </div>
       </div>
-      <p class="remark">
-        玩得很開心以後，常說 We must do that again，意思是「我們一定要再來一次」。
-      </p>
+      <p class="remark">玩得很開心以後，常說 We must do that again，意思是我們一定要再來一次。</p>
     </NoteSlide>
     <NoteSlide title="加上理由">
       <div class="rows is-labeled">
         <div>
           <span class="term">例句</span>
           <span
-            ><NoteMark sentence="You must see this film. It's brilliant." :marks="[]" /><span
-              class="translation"
-              >你一定要看這部電影。太精彩了。</span
-            ></span
+            ><NoteMark
+              sentence="You must hear her sing. She's amazing."
+              :marks="['You must']"
+            /><span class="translation">你一定要聽她唱歌。她太厲害了。</span></span
           >
         </div>
       </div>

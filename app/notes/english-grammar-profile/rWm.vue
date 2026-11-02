@@ -23,6 +23,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'into our house.', kind: 'dim' },
         ]"
       />
+      <p class="translation">我以為可能有小偷闖進我們家了。</p>
     </NoteSlide>
     <NoteSlide title="might have、過去分詞">
       <div class="rows is-labeled">

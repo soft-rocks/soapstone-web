@@ -23,6 +23,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'fulfilled.', kind: 'dim' },
         ]"
       />
+      <p class="translation">因此我們必須堅持，這份協議有約束力，合約必須履行。</p>
     </NoteSlide>
     <NoteSlide title="shall、shall be + 過去分詞">
       <div class="rows is-labeled">

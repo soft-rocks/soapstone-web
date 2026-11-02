@@ -61865,51 +61865,61 @@
     "translation": "為了維持人氣，這個節目應該保留這個系列的一些特色。",
     "name": "字尾是 s 的單數名詞加撇號",
     "sentences": [
-      "To maintain its popularity, the program should keep some of the series' aspects the same, but change others.",
-      "The series' final episode will be shown on Friday.",
-      "Scientists are studying the species' behavior in the wild.",
-      "The species' numbers have fallen sharply in the last ten years.",
-      "Many fans were unhappy with the series' new director.",
-      "We stayed at James's house for the weekend.",
-      "Charles's new book comes out next month.",
-      "Have you seen Chris's photos from Japan?",
-      "Mrs Jones's class is going on a trip to the museum.",
-      "Dickens' novels describe life in nineteenth-century London.",
-      "The exhibition shows Degas' early paintings.",
-      "Many tourists visit Achilles' statue in the park.",
-      "In my view, the series' success comes from its strong characters.",
-      "The species' survival depends on clean rivers.",
-      "The series' writers have promised a surprise ending.",
-      "Our class's project won first prize.",
-      "The bus's engine broke down on the motorway.",
-      "The princess's dress was designed in Paris.",
+      "The series' final episode is on TV on Friday. Don't miss it.",
+      "Scientists have put cameras in the forest. They are studying the species' behaviour in the wild.",
+      "People are cutting down the forests. The species' numbers have fallen sharply in the last ten years.",
+      "The first director left after season two. Many fans were unhappy with the series' new director.",
+      "The show started on the radio in 1990. The series' first episode was only ten minutes long.",
+      "We stayed at James's house for the weekend. His parents were away.",
+      "Charles's new book comes out next month. It's about his time in Africa.",
+      "Have you seen Chris's photos from Japan? He's just come back.",
+      "Mrs Jones's class is going on a trip to the museum. They're leaving at nine.",
+      "Thomas's motorbike was his grandfather's. It's very old but it still runs.",
+      "We're reading Oliver Twist at school. Dickens' novels describe life in nineteenth-century London.",
+      "The exhibition shows Degas' early paintings. It's on until March.",
+      "We're studying ancient Greece. People still talk about Socrates' ideas today.",
+      "The acting is excellent. In my view, the series' success comes from its strong characters.",
+      "The fish only live in clean water. The species' survival depends on clean rivers.",
+      "Fans are waiting for the last season. The series' writers have promised a surprise ending.",
+      "The bird lives only on this island. The species' home is under threat from new hotels.",
+      "We built a model of the solar system. Our class's project won first prize.",
+      "We waited two hours for help. The bus's engine broke down on the motorway.",
+      "Everyone talked about the wedding. A designer in Paris made the princess's dress.",
+      "The boss's diary is full until June. She's very busy.",
       "\"Which season did you like best?\" \"The series' second season. It was brilliant.\"",
       "\"Whose jacket is this?\" \"It's Thomas's. He forgot it.\"",
-      "\"Where's the party?\" \"At Lewis's flat.\""
+      "\"Where's the party?\" \"At Lewis's flat.\"",
+      "\"Have you met Doris's husband?\" \"Yes, he's very funny.\"",
+      "Agnes's children are very polite. They're coming for dinner on Friday.",
+      "Marcus's cat is staying with me. I'm looking after it this week.",
+      "Mr Harris's bakery opens at seven. It's the best in the village.",
+      "Louis's birthday party is on Saturday. We're all invited.",
+      "Frances's garden is full of flowers. You should go and see it.",
+      "Dennis's tent is big enough for four. I borrowed it for the trip."
     ],
     "examples": [
       {
         "heading": "① 字尾是 s 的單數名詞 + '",
         "items": [
           {
-            "en": "To maintain its popularity, the program should keep some of the series' aspects the same, but change others.",
-            "zh": "為了維持人氣，這個節目應該保留這個系列的一些特色，再改掉其他部分。"
+            "en": "The series' final episode is on TV on Friday. Don't miss it.",
+            "zh": "這個影集的最後一集星期五播出。別錯過。"
           },
           {
-            "en": "The series' final episode will be shown on Friday.",
-            "zh": "這個影集的最後一集星期五播出。"
+            "en": "Scientists have put cameras in the forest. They are studying the species' behaviour in the wild.",
+            "zh": "科學家在森林裡裝了攝影機。他們在研究這個物種在野外的行為。"
           },
           {
-            "en": "Scientists are studying the species' behavior in the wild.",
-            "zh": "科學家在研究這個物種在野外的行為。"
+            "en": "People are cutting down the forests. The species' numbers have fallen sharply in the last ten years.",
+            "zh": "人們在砍伐森林。這個物種的數量在過去十年大幅下降。"
           },
           {
-            "en": "The species' numbers have fallen sharply in the last ten years.",
-            "zh": "這個物種的數量在過去十年大幅下降。"
+            "en": "The first director left after season two. Many fans were unhappy with the series' new director.",
+            "zh": "原本的導演第二季後就離開了。很多影迷不喜歡這個影集的新導演。"
           },
           {
-            "en": "Many fans were unhappy with the series' new director.",
-            "zh": "很多影迷不喜歡這個影集的新導演。"
+            "en": "The show started on the radio in 1990. The series' first episode was only ten minutes long.",
+            "zh": "這個節目一九九〇年在廣播上開播。這個影集的第一集只有十分鐘長。"
           }
         ]
       },
@@ -61917,20 +61927,24 @@
         "heading": "② 人名 + 's",
         "items": [
           {
-            "en": "We stayed at James's house for the weekend.",
-            "zh": "我們週末住在 James 家。"
+            "en": "We stayed at James's house for the weekend. His parents were away.",
+            "zh": "我們週末住在 James 家。他爸媽不在家。"
           },
           {
-            "en": "Charles's new book comes out next month.",
-            "zh": "Charles 的新書下個月出版。"
+            "en": "Charles's new book comes out next month. It's about his time in Africa.",
+            "zh": "Charles 的新書下個月出版。它講的是他在非洲的日子。"
           },
           {
-            "en": "Have you seen Chris's photos from Japan?",
-            "zh": "你看過 Chris 在日本拍的照片嗎？"
+            "en": "Have you seen Chris's photos from Japan? He's just come back.",
+            "zh": "你看過 Chris 在日本拍的照片嗎？他剛回來。"
           },
           {
-            "en": "Mrs Jones's class is going on a trip to the museum.",
-            "zh": "Jones 老師的班要去博物館校外教學。"
+            "en": "Mrs Jones's class is going on a trip to the museum. They're leaving at nine.",
+            "zh": "Jones 老師的班要去博物館校外教學。他們九點出發。"
+          },
+          {
+            "en": "Thomas's motorbike was his grandfather's. It's very old but it still runs.",
+            "zh": "Thomas 的機車是他爺爺的。它很舊，可是還能騎。"
           }
         ]
       },
@@ -61938,16 +61952,16 @@
         "heading": "③ 人名 + '",
         "items": [
           {
-            "en": "Dickens' novels describe life in nineteenth-century London.",
-            "zh": "狄更斯的小說描寫十九世紀倫敦的生活。"
+            "en": "We're reading Oliver Twist at school. Dickens' novels describe life in nineteenth-century London.",
+            "zh": "我們在學校讀《孤雛淚》。狄更斯的小說描寫十九世紀倫敦的生活。"
           },
           {
-            "en": "The exhibition shows Degas' early paintings.",
-            "zh": "這個展覽展出竇加早期的畫作。"
+            "en": "The exhibition shows Degas' early paintings. It's on until March.",
+            "zh": "這個展覽展出竇加早期的畫作。展覽到三月。"
           },
           {
-            "en": "Many tourists visit Achilles' statue in the park.",
-            "zh": "很多觀光客去公園看阿基里斯的雕像。"
+            "en": "We're studying ancient Greece. People still talk about Socrates' ideas today.",
+            "zh": "我們在學古希臘。蘇格拉底的思想到今天還有人在談。"
           }
         ]
       },
@@ -61955,16 +61969,20 @@
         "heading": "④ 評論和報告",
         "items": [
           {
-            "en": "In my view, the series' success comes from its strong characters.",
-            "zh": "我認為這個影集成功的原因是角色寫得好。"
+            "en": "The acting is excellent. In my view, the series' success comes from its strong characters.",
+            "zh": "演技很棒。我認為這個影集成功的原因是角色寫得好。"
           },
           {
-            "en": "The species' survival depends on clean rivers.",
-            "zh": "這個物種能不能存活，要看河水乾不乾淨。"
+            "en": "The fish only live in clean water. The species' survival depends on clean rivers.",
+            "zh": "這種魚只活在乾淨的水裡。這個物種能不能存活，要看河水乾不乾淨。"
           },
           {
-            "en": "The series' writers have promised a surprise ending.",
-            "zh": "這個影集的編劇保證結局會出人意料。"
+            "en": "Fans are waiting for the last season. The series' writers have promised a surprise ending.",
+            "zh": "影迷在等最後一季。這個影集的編劇保證結局會出人意料。"
+          },
+          {
+            "en": "The bird lives only on this island. The species' home is under threat from new hotels.",
+            "zh": "這種鳥只住在這座島上。這個物種的棲地受到新飯店的威脅。"
           }
         ]
       },
@@ -61972,16 +61990,20 @@
         "heading": "⑤ 其他字尾是 s 的單數名詞 + 's",
         "items": [
           {
-            "en": "Our class's project won first prize.",
-            "zh": "我們班的作品得了第一名。"
+            "en": "We built a model of the solar system. Our class's project won first prize.",
+            "zh": "我們做了一個太陽系模型。我們班的作品得了第一名。"
           },
           {
-            "en": "The bus's engine broke down on the motorway.",
-            "zh": "公車的引擎在高速公路上壞了。"
+            "en": "We waited two hours for help. The bus's engine broke down on the motorway.",
+            "zh": "我們等了兩個小時才有人來幫忙。公車的引擎在高速公路上壞了。"
           },
           {
-            "en": "The princess's dress was designed in Paris.",
-            "zh": "公主的禮服是在巴黎設計的。"
+            "en": "Everyone talked about the wedding. A designer in Paris made the princess's dress.",
+            "zh": "大家都在談那場婚禮。公主的禮服是巴黎一位設計師做的。"
+          },
+          {
+            "en": "The boss's diary is full until June. She's very busy.",
+            "zh": "老闆的行事曆排到六月都滿了。她很忙。"
           }
         ]
       },
@@ -61999,6 +62021,39 @@
           {
             "en": "\"Where's the party?\" \"At Lewis's flat.\"",
             "zh": "派對在哪裡？在 Lewis 的公寓。"
+          },
+          {
+            "en": "\"Have you met Doris's husband?\" \"Yes, he's very funny.\"",
+            "zh": "你見過 Doris 的先生嗎？見過，他很風趣。"
+          }
+        ]
+      },
+      {
+        "heading": "⑦ 生活中的人名",
+        "items": [
+          {
+            "en": "Agnes's children are very polite. They're coming for dinner on Friday.",
+            "zh": "Agnes 的孩子很有禮貌。他們星期五要來吃晚餐。"
+          },
+          {
+            "en": "Marcus's cat is staying with me. I'm looking after it this week.",
+            "zh": "Marcus 的貓住在我家。這星期我在照顧牠。"
+          },
+          {
+            "en": "Mr Harris's bakery opens at seven. It's the best in the village.",
+            "zh": "Harris 先生的麵包店七點開門。那是村子裡最好的一家。"
+          },
+          {
+            "en": "Louis's birthday party is on Saturday. We're all invited.",
+            "zh": "Louis 的生日派對在星期六。我們都受邀了。"
+          },
+          {
+            "en": "Frances's garden is full of flowers. You should go and see it.",
+            "zh": "Frances 的花園開滿了花。你應該去看看。"
+          },
+          {
+            "en": "Dennis's tent is big enough for four. I borrowed it for the trip.",
+            "zh": "Dennis 的帳篷夠四個人睡。我借來去旅行用。"
           }
         ]
       }
@@ -69765,51 +69820,61 @@
     "translation": "這個故事講的是有一個老人，他做了一個會活過來的木偶。",
     "name": "敘事中的 this 加名詞",
     "sentences": [
-      "It's a story where there's this old man who makes a marionette that comes to life.",
-      "In our group there was this girl, tiny and fragile and very sensitive; she had a special way with words.",
-      "There's this café near my office that does amazing cakes.",
-      "There was this strange noise coming from the kitchen.",
-      "In the film, there's this robot that wants to be human.",
-      "The two characters fall in love, and there's this flame of passion between them.",
-      "The book is about this boy who finds a door to another world.",
-      "So there's this detective, and he has to solve a murder on a train.",
-      "It starts with this family moving into an old house.",
+      "You'll love this book. There's this old woman who lives in a shoe with all her children.",
+      "I still remember my first drama class. In our group there was this girl, tiny and fragile and very sensitive; she had a special way with words.",
+      "We should go out after work. There's this café near my office that does amazing cakes.",
+      "I was home alone last night. There was this strange noise coming from the kitchen.",
+      "I saw a great film yesterday. In the film, there's this robot that wants to be human.",
+      "I couldn't stop reading. The two characters fall in love, and there's this flame of passion between them.",
+      "My son read the whole book in one night. The book is about this boy who finds a door to another world.",
+      "It's an old Agatha Christie story. So there's this detective, and he has to solve a murder on a train.",
+      "It's a ghost film. It starts with this family moving into an old house.",
       "I was waiting for the bus, and this man came up and asked me for directions.",
-      "I met this guy at the party who knows your brother.",
-      "Yesterday this woman in the supermarket started shouting at the cashier.",
-      "We were walking home when we saw this huge dog in the street.",
-      "There were these two old ladies on the train who talked all the way to London.",
-      "Then these men in suits walked in and everyone went quiet.",
-      "In the story, there are these children who live alone on an island.",
-      "So this man walks into a restaurant with a penguin.",
-      "There's this teacher who asks her class a question.",
+      "It's a small world. I met this guy at the party who knows your brother.",
+      "It was so embarrassing. Yesterday this woman in the supermarket started shouting at the cashier.",
+      "I was so scared. We were walking home when we saw this huge dog in the street.",
+      "I couldn't sleep at all. There were these two old ladies on the train who talked all the way to London.",
+      "We were having a nice lunch. Then these men in suits walked in and everyone went quiet.",
+      "It's a book about survival. In the story, there are these children who live alone on an island.",
+      "The hotel was awful. We had these really noisy people in the room next to ours.",
+      "Have you heard this one? So this man walks into a restaurant with a penguin.",
+      "My dad tells this joke every Christmas. There's this teacher who asks her class a question.",
       "\"What's the film about?\" \"There's this woman who wakes up and can't remember anything.\"",
       "\"Why are you late?\" \"There was this accident on the motorway, and we waited for an hour.\"",
-      "\"How was your holiday?\" \"Great. We found this little beach where nobody goes.\""
+      "\"How was your holiday?\" \"Great. We found this little beach where nobody goes.\"",
+      "\"Who told you that?\" \"This woman at the gym. She works at the bank.\"",
+      "\"Did anything happen at the airport?\" \"Yes, this guy lost his passport and missed the flight.\"",
+      "You won't believe it. This kid on my street can already speak four languages.",
+      "I went to a new hairdresser, and this girl cut my hair far too short.",
+      "I couldn't see the stage. At the concert there was this man in front of me who was really tall.",
+      "You should come with me next time. I found this amazing little shop that sells old records.",
+      "My neighbour has this enormous cat that sleeps on my car every night. I have to clean my car every morning.",
+      "On the way home I saw this old car with flowers painted all over it.",
+      "The kids love music now. There's this new teacher at school who plays the guitar in class."
     ],
     "examples": [
       {
         "heading": "① there's / there was + this + 名詞",
         "items": [
           {
-            "en": "It's a story where there's this old man who makes a marionette that comes to life.",
-            "zh": "這個故事講的是有一個老人，他做了一個會活過來的木偶。"
+            "en": "You'll love this book. There's this old woman who lives in a shoe with all her children.",
+            "zh": "你會喜歡這本書。有一個老太太跟她所有的孩子住在一隻鞋子裡。"
           },
           {
-            "en": "In our group there was this girl, tiny and fragile and very sensitive; she had a special way with words.",
-            "zh": "我們那一組有個女孩，個子小小的，看起來很柔弱，也很敏感；她說話很有一套。"
+            "en": "I still remember my first drama class. In our group there was this girl, tiny and fragile and very sensitive; she had a special way with words.",
+            "zh": "我還記得我的第一堂戲劇課。我們那一組有個女孩，個子小小的，看起來很柔弱，也很敏感；她說話很有一套。"
           },
           {
-            "en": "There's this café near my office that does amazing cakes.",
-            "zh": "我公司附近有家咖啡店，蛋糕超好吃。"
+            "en": "We should go out after work. There's this café near my office that does amazing cakes.",
+            "zh": "我們下班後應該出去走走。我公司附近有家咖啡店，蛋糕超好吃。"
           },
           {
-            "en": "There was this strange noise coming from the kitchen.",
-            "zh": "廚房傳來一個奇怪的聲音。"
+            "en": "I was home alone last night. There was this strange noise coming from the kitchen.",
+            "zh": "我昨晚一個人在家。廚房傳來一個奇怪的聲音。"
           },
           {
-            "en": "In the film, there's this robot that wants to be human.",
-            "zh": "那部電影裡有個機器人，它想變成人。"
+            "en": "I saw a great film yesterday. In the film, there's this robot that wants to be human.",
+            "zh": "我昨天看了一部很棒的電影。那部電影裡有個機器人，它想變成人。"
           }
         ]
       },
@@ -69817,20 +69882,20 @@
         "heading": "② 說故事書和電影的情節",
         "items": [
           {
-            "en": "The two characters fall in love, and there's this flame of passion between them.",
-            "zh": "那兩個角色墜入愛河，彼此之間燃起一股激情。"
+            "en": "I couldn't stop reading. The two characters fall in love, and there's this flame of passion between them.",
+            "zh": "我停不下來。那兩個角色墜入愛河，彼此之間燃起一股激情。"
           },
           {
-            "en": "The book is about this boy who finds a door to another world.",
-            "zh": "那本書講一個男孩找到一扇通往另一個世界的門。"
+            "en": "My son read the whole book in one night. The book is about this boy who finds a door to another world.",
+            "zh": "我兒子一個晚上就把整本書讀完了。那本書講一個男孩找到一扇通往另一個世界的門。"
           },
           {
-            "en": "So there's this detective, and he has to solve a murder on a train.",
-            "zh": "故事裡有個偵探，他得破解火車上的一樁謀殺案。"
+            "en": "It's an old Agatha Christie story. So there's this detective, and he has to solve a murder on a train.",
+            "zh": "那是阿嘉莎・克莉絲蒂的老故事。故事裡有個偵探，他得破解火車上的一樁謀殺案。"
           },
           {
-            "en": "It starts with this family moving into an old house.",
-            "zh": "故事從一家人搬進一棟老房子開始。"
+            "en": "It's a ghost film. It starts with this family moving into an old house.",
+            "zh": "那是一部鬼片。故事從一家人搬進一棟老房子開始。"
           }
         ]
       },
@@ -69842,16 +69907,16 @@
             "zh": "我在等公車，有個男人走過來問我路。"
           },
           {
-            "en": "I met this guy at the party who knows your brother.",
-            "zh": "我在派對上認識一個人，他認識你哥哥。"
+            "en": "It's a small world. I met this guy at the party who knows your brother.",
+            "zh": "世界真小。我在派對上認識一個人，他認識你哥哥。"
           },
           {
-            "en": "Yesterday this woman in the supermarket started shouting at the cashier.",
-            "zh": "昨天超市裡有個女人開始對收銀員大吼。"
+            "en": "It was so embarrassing. Yesterday this woman in the supermarket started shouting at the cashier.",
+            "zh": "那真的好尷尬。昨天超市裡有個女人開始對收銀員大吼。"
           },
           {
-            "en": "We were walking home when we saw this huge dog in the street.",
-            "zh": "我們走路回家的時候，在街上看到一隻超大的狗。"
+            "en": "I was so scared. We were walking home when we saw this huge dog in the street.",
+            "zh": "我好害怕。我們走路回家的時候，在街上看到一隻超大的狗。"
           }
         ]
       },
@@ -69859,16 +69924,20 @@
         "heading": "④ these + 複數名詞",
         "items": [
           {
-            "en": "There were these two old ladies on the train who talked all the way to London.",
-            "zh": "火車上有兩個老太太，一路聊到倫敦。"
+            "en": "I couldn't sleep at all. There were these two old ladies on the train who talked all the way to London.",
+            "zh": "我完全睡不著。火車上有兩個老太太，一路聊到倫敦。"
           },
           {
-            "en": "Then these men in suits walked in and everyone went quiet.",
-            "zh": "接著有幾個穿西裝的男人走進來，大家都安靜了。"
+            "en": "We were having a nice lunch. Then these men in suits walked in and everyone went quiet.",
+            "zh": "我們正在愉快地吃午餐。接著有幾個穿西裝的男人走進來，大家都安靜了。"
           },
           {
-            "en": "In the story, there are these children who live alone on an island.",
-            "zh": "故事裡有幾個小孩，他們自己住在一座島上。"
+            "en": "It's a book about survival. In the story, there are these children who live alone on an island.",
+            "zh": "那是一本講求生的書。故事裡有幾個小孩，他們自己住在一座島上。"
+          },
+          {
+            "en": "The hotel was awful. We had these really noisy people in the room next to ours.",
+            "zh": "那家飯店很糟。我們隔壁房間住了幾個很吵的人。"
           }
         ]
       },
@@ -69876,12 +69945,12 @@
         "heading": "⑤ 講笑話",
         "items": [
           {
-            "en": "So this man walks into a restaurant with a penguin.",
-            "zh": "有一個男人帶著一隻企鵝走進一家餐廳。"
+            "en": "Have you heard this one? So this man walks into a restaurant with a penguin.",
+            "zh": "你聽過這個嗎？有一個男人帶著一隻企鵝走進一家餐廳。"
           },
           {
-            "en": "There's this teacher who asks her class a question.",
-            "zh": "有一個老師問她的班上一個問題。"
+            "en": "My dad tells this joke every Christmas. There's this teacher who asks her class a question.",
+            "zh": "我爸每年聖誕節都講這個笑話。有一個老師問她的班上一個問題。"
           }
         ]
       },
@@ -69899,6 +69968,47 @@
           {
             "en": "\"How was your holiday?\" \"Great. We found this little beach where nobody goes.\"",
             "zh": "你的假期怎麼樣？很棒。我們找到一個沒人去的小海灘。"
+          },
+          {
+            "en": "\"Who told you that?\" \"This woman at the gym. She works at the bank.\"",
+            "zh": "誰跟你說的？健身房的一個女人。她在銀行上班。"
+          },
+          {
+            "en": "\"Did anything happen at the airport?\" \"Yes, this guy lost his passport and missed the flight.\"",
+            "zh": "機場有發生什麼事嗎？有，有個人弄丟護照，錯過了班機。"
+          }
+        ]
+      },
+      {
+        "heading": "⑦ 跟朋友聊天",
+        "items": [
+          {
+            "en": "You won't believe it. This kid on my street can already speak four languages.",
+            "zh": "你一定不會相信。我們這條街上有個小孩已經會說四種語言了。"
+          },
+          {
+            "en": "I went to a new hairdresser, and this girl cut my hair far too short.",
+            "zh": "我去了一家新的髮廊，有個女生把我的頭髮剪得太短了。"
+          },
+          {
+            "en": "I couldn't see the stage. At the concert there was this man in front of me who was really tall.",
+            "zh": "我看不到舞台。演唱會上有個男人站在我前面，他真的很高。"
+          },
+          {
+            "en": "You should come with me next time. I found this amazing little shop that sells old records.",
+            "zh": "你下次應該跟我一起去。我發現一家很棒的小店，專賣舊唱片。"
+          },
+          {
+            "en": "My neighbour has this enormous cat that sleeps on my car every night. I have to clean my car every morning.",
+            "zh": "我鄰居養了一隻超大的貓，每天晚上都睡在我的車上。我每天早上都得清車子。"
+          },
+          {
+            "en": "On the way home I saw this old car with flowers painted all over it.",
+            "zh": "回家的路上，我看到一台老車，車身上畫滿了花。"
+          },
+          {
+            "en": "The kids love music now. There's this new teacher at school who plays the guitar in class.",
+            "zh": "孩子們現在很愛音樂。學校來了一個新老師，他會在課堂上彈吉他。"
           }
         ]
       }

@@ -16,7 +16,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'None of', role: 'none of', kind: 'key' },
+          { t: 'None of', role: '代名詞 + 介系詞', kind: 'key' },
           { t: 'my friends', role: '名詞片語' },
           { t: 'are interested,', role: '肯定的動詞' },
           { t: 'so there is no one I can talk to.', kind: 'dim' },

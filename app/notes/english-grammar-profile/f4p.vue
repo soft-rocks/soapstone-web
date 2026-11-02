@@ -16,9 +16,9 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'I\'d', role: 'I + would', kind: 'key' },
+          { t: 'I\'d', role: '主詞 + 情態動詞', kind: 'key' },
           { t: 'like', role: '原形動詞', kind: 'key' },
-          { t: 'to invite', role: 'to + 原形動詞', kind: 'key' },
+          { t: 'to invite', role: '不定詞', kind: 'key' },
           { t: 'you', role: 'invite 的受詞' },
           { t: 'to dinner', role: '目的', kind: 'dim' },
           { t: 'on Sunday.', role: '時間', kind: 'dim' },
@@ -102,8 +102,8 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="28"
         :parts="[
-          { t: 'I\'d like', role: 'would like', kind: 'key' },
-          { t: 'a table for two by the window,', role: '名詞', ring: true },
+          { t: 'I\'d like', role: '主詞 + 動詞', kind: 'key' },
+          { t: 'a table for two by the window,', role: '受詞', ring: true },
           { t: 'please.', kind: 'dim' },
         ]"
       />

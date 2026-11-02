@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="be 動詞問句">
+    <NoteSlide title="be 動詞問句把 be 動詞放在主詞前面">
       <NoteWords
         :size="28"
         :parts="[
@@ -24,7 +24,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這樣可以嗎？</p>
     </NoteSlide>
 
-    <NoteSlide title="you 和 it" mark="Is it">
+    <NoteSlide title="問 you 用 Are，問 it 用 Is" mark="Is it">
       <div class="rows is-labeled">
         <div>
           <span class="term">you</span>
@@ -45,7 +45,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="直述句和問句" mark="Is it">
+    <NoteSlide title="直述句的 It is 在問句變成 Is it" mark="Is it">
       <div class="rows is-labeled">
         <div>
           <span class="term">直述句</span>
@@ -70,12 +70,20 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFix wrong="Is OK it?" right="Is it OK?" fix="Is it" />
     </NoteSlide>
 
-    <NoteSlide title="you 用 are" mark="Is">
-      <NoteFix wrong="Is you ready?" right="Are you ready?" fix="Are" />
+    <NoteSlide title="you 的問句用 Are" mark="Is">
+      <NoteFix
+        wrong="Is you the new student in our class?"
+        right="Are you the new student in our class?"
+        fix="Are"
+      />
     </NoteSlide>
 
     <NoteSlide title="be 動詞問句不加 do" mark="Is">
-      <NoteFix wrong="Do you are hungry?" right="Are you hungry?" fix="Are you" />
+      <NoteFix
+        wrong="Do you are still at the office?"
+        right="Are you still at the office?"
+        fix="Are you"
+      />
     </NoteSlide>
   </NoteDeck>
 

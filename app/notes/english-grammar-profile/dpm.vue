@@ -16,11 +16,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'I bought a shirt', role: '說過的名詞：shirt', kind: 'dim' },
+          { t: 'I bought a shirt', role: '主要子句', kind: 'dim' },
           { t: 'because', kind: 'dim' },
           { t: 'I', role: '主詞' },
           { t: 'haven\'t got', role: '否定的動詞' },
-          { t: 'any.', role: '代替 shirts', kind: 'key' },
+          { t: 'any.', role: '代替複數名詞', kind: 'key' },
         ]"
       />
       <p class="translation">我買了一件襯衫，因為我一件也沒有。</p>
@@ -72,10 +72,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">anyone</span>
           <span
-            ><NoteMark sentence="There wasn't anyone at home." :marks="['anyone']" /><span
-              class="translation"
-              >家裡沒有人。</span
-            ></span
+            ><NoteMark
+              sentence="I knocked on the door, but there wasn't anyone at home."
+              :marks="['anyone']"
+            /><span class="translation">我敲了門，可是家裡沒有人。</span></span
           >
         </div>
         <div>

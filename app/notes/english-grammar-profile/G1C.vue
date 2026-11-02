@@ -14,18 +14,19 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteDeck :sentence="note.title">
     <NoteSlide title="正式的信用 yourselves 代替 you">
       <NoteWords
-        :size="28"
+        :size="22"
         :parts="[
+          { t: 'It is a great opportunity to improve my sailing skills, as', kind: 'dim' },
           { t: 'training', role: '主詞', kind: 'dim' },
           { t: 'will be provided', role: '動詞', kind: 'dim' },
           { t: 'by', role: '介系詞' },
-          { t: 'yourselves.', role: 'yourselves', kind: 'key' },
+          { t: 'yourselves.', role: '反身代名詞', kind: 'key' },
         ]"
       />
-      <p class="translation">因為貴單位會提供訓練。</p>
+      <p class="translation">這是精進我帆船技術的好機會，因為貴單位會提供訓練。</p>
     </NoteSlide>
 
-    <NoteSlide title="反身代名詞和客氣的說法" mark="yourselves">
+    <NoteSlide title="yourselves 可以當一般的反身代名詞，也可以當客氣的說法" mark="yourselves">
       <div class="rows is-labeled">
         <div>
           <span class="term">反身代名詞</span>
@@ -48,15 +49,15 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="常見的介系詞" mark="by yourselves">
+    <NoteSlide title="客氣的 yourselves 常放在 from 或 like 後面" mark="by yourselves">
       <div class="rows is-labeled">
         <div>
           <span class="term">from</span>
           <span
             ><NoteMark
-              sentence="I look forward to hearing from yourselves soon."
+              sentence="I have not yet received a reply from yourselves about my complaint."
               :marks="['from yourselves']"
-            /><span class="translation">期待很快收到貴公司的回覆。</span></span
+            /><span class="translation">關於我的投訴，我還沒收到貴公司的回覆。</span></span
           >
         </div>
         <div>
@@ -89,8 +90,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="self 的複數是 selves" mark="yourselves">
       <NoteFix
-        wrong="I look forward to hearing from yourselfs."
-        right="I look forward to hearing from yourselves."
+        wrong="Thank you for the help given by yourselfs."
+        right="Thank you for the help given by yourselves."
         fix="yourselves"
       />
     </NoteSlide>

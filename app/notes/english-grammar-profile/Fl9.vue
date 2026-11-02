@@ -14,15 +14,16 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteDeck :sentence="note.title">
     <NoteSlide title="it 當形式主詞">
       <NoteWords
-        :size="28"
+        :size="24"
         :parts="[
           { t: 'It', role: '形式主詞', kind: 'key' },
           { t: '\'s', role: 'be 動詞' },
           { t: 'boring', role: '形容詞' },
           { t: 'to be at home', role: '真正的主詞', kind: 'key' },
+          { t: 'when you have a lot of free time.', role: '時間子句', kind: 'dim' },
         ]"
       />
-      <p class="translation">待在家很無聊</p>
+      <p class="translation">空閒時間很多的時候，待在家很無聊。</p>
     </NoteSlide>
 
     <NoteSlide title="長的主詞放到後面" mark="It's boring">
@@ -48,10 +49,10 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="to 加動詞和 that 子句" mark="to be at home">
+    <NoteSlide title="真正的主詞可以是不定詞或 that 子句" mark="to be at home">
       <div class="rows is-labeled">
         <div>
-          <span class="term">to + 動詞</span>
+          <span class="term">不定詞</span>
           <span
             ><NoteMark
               sentence="It is best to spend your time in the countryside."
@@ -72,7 +73,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="句子要有主詞" mark="It's">
-      <NoteFix wrong="Is boring to be at home." right="It's boring to be at home." fix="It's" />
+      <NoteFix
+        wrong="Is dangerous to cross the road here."
+        right="It's dangerous to cross the road here."
+        fix="It's"
+      />
     </NoteSlide>
 
     <NoteSlide title="形式主詞用 it" mark="It's">

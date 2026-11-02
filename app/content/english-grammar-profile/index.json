@@ -199898,7 +199898,18 @@
       "Were you scared on the plane?",
       "\"Is it your turn to cook tonight?\" \"No, it's Dad's.\"",
       "\"Are you hungry?\" \"Very! Let's eat.\"",
-      "\"Is it expensive?\" \"No, it's only five pounds.\""
+      "\"Is it expensive?\" \"No, it's only five pounds.\"",
+      "Your face is red. Are you feeling OK?",
+      "I can hear music next door. Is it a party?",
+      "You look different. Are those new glasses?",
+      "This bag is so heavy. What is in it?",
+      "Are you sure about the time? The shop usually opens at nine.",
+      "The water looks very deep. Is it safe to swim here?",
+      "Are you busy? I need some help with the computer.",
+      "I found a key on the stairs. Is it yours?",
+      "Were you surprised when you saw everyone at the party?",
+      "Is it true that you're moving to Canada?",
+      "You're very quiet today. Are you worried about something?"
     ],
     "examples": [
       {
@@ -200010,6 +200021,55 @@
             "zh": "很貴嗎？不貴，只要五英鎊。"
           }
         ]
+      },
+      {
+        "heading": "⑦ 更多例子",
+        "items": [
+          {
+            "en": "Your face is red. Are you feeling OK?",
+            "zh": "你的臉好紅，你還好嗎？"
+          },
+          {
+            "en": "I can hear music next door. Is it a party?",
+            "zh": "我聽到隔壁有音樂，是在開派對嗎？"
+          },
+          {
+            "en": "You look different. Are those new glasses?",
+            "zh": "你看起來不一樣，那是新眼鏡嗎？"
+          },
+          {
+            "en": "This bag is so heavy. What is in it?",
+            "zh": "這個袋子好重，裡面裝了什麼？"
+          },
+          {
+            "en": "Are you sure about the time? The shop usually opens at nine.",
+            "zh": "你確定是這個時間嗎？那家店通常九點開。"
+          },
+          {
+            "en": "The water looks very deep. Is it safe to swim here?",
+            "zh": "水看起來很深，在這裡游泳安全嗎？"
+          },
+          {
+            "en": "Are you busy? I need some help with the computer.",
+            "zh": "你在忙嗎？我需要人幫我弄電腦。"
+          },
+          {
+            "en": "I found a key on the stairs. Is it yours?",
+            "zh": "我在樓梯上撿到一把鑰匙，是你的嗎？"
+          },
+          {
+            "en": "Were you surprised when you saw everyone at the party?",
+            "zh": "你在派對上看到大家的時候，有沒有很驚訝？"
+          },
+          {
+            "en": "Is it true that you're moving to Canada?",
+            "zh": "你要搬去加拿大是真的嗎？"
+          },
+          {
+            "en": "You're very quiet today. Are you worried about something?",
+            "zh": "你今天很安靜，你在擔心什麼事嗎？"
+          }
+        ]
       }
     ]
   },
@@ -200040,7 +200100,17 @@
       "It is clear that young people use the internet more than their parents.",
       "\"Shall we walk?\" \"No, it's quicker to take the bus.\"",
       "\"I failed my driving test again.\" \"It's not easy to pass the first time.\"",
-      "\"Is it OK to park here?\" \"Yes, it's free after six.\""
+      "\"Is it OK to park here?\" \"Yes, it's free after six.\"",
+      "It's lovely to sit in the garden on a summer evening.",
+      "It was kind of you to help my mother with her bags.",
+      "It's a pity that you can't come to the wedding.",
+      "It's impossible to sleep with all this noise.",
+      "It took me two hours to finish the homework.",
+      "It's lucky that the rain stopped before the match.",
+      "It's not polite to talk with your mouth full.",
+      "It was exciting to see the city lights from the plane.",
+      "It's true that the town has changed a lot.",
+      "It's cheaper to buy the tickets online."
     ],
     "examples": [
       {
@@ -200154,6 +200224,51 @@
           {
             "en": "\"Is it OK to park here?\" \"Yes, it's free after six.\"",
             "zh": "這裡可以停車嗎？可以，六點以後免費。"
+          }
+        ]
+      },
+      {
+        "heading": "⑦ 更多例子",
+        "items": [
+          {
+            "en": "It's lovely to sit in the garden on a summer evening.",
+            "zh": "夏天傍晚坐在花園裡很舒服。"
+          },
+          {
+            "en": "It was kind of you to help my mother with her bags.",
+            "zh": "你幫我媽媽提袋子，真好心。"
+          },
+          {
+            "en": "It's a pity that you can't come to the wedding.",
+            "zh": "你不能來參加婚禮，真可惜。"
+          },
+          {
+            "en": "It's impossible to sleep with all this noise.",
+            "zh": "這麼吵根本不可能睡著。"
+          },
+          {
+            "en": "It took me two hours to finish the homework.",
+            "zh": "我花了兩個小時才寫完功課。"
+          },
+          {
+            "en": "It's lucky that the rain stopped before the match.",
+            "zh": "比賽前雨停了，真幸運。"
+          },
+          {
+            "en": "It's not polite to talk with your mouth full.",
+            "zh": "嘴裡塞滿食物說話很沒禮貌。"
+          },
+          {
+            "en": "It was exciting to see the city lights from the plane.",
+            "zh": "從飛機上看城市的燈光很令人興奮。"
+          },
+          {
+            "en": "It's true that the town has changed a lot.",
+            "zh": "這個鎮真的改變了很多。"
+          },
+          {
+            "en": "It's cheaper to buy the tickets online.",
+            "zh": "在網路上買票比較便宜。"
           }
         ]
       }
@@ -211082,7 +211197,7 @@
       "Dear Sir or Madam, I am writing in response to the advertisement published by yourselves in The Traveller.",
       "I have received the documents sent by yourselves last week.",
       "The hotel was chosen by yourselves, so I expected it to be of a high standard.",
-      "I look forward to hearing from yourselves soon.",
+      "We look forward to working with yourselves again next year.",
       "I have not yet received a reply from yourselves about my complaint.",
       "We would welcome any suggestions from yourselves.",
       "Your question took me back to my childhood. Like yourselves, I live in a busy town, in a busy street.",
@@ -211094,7 +211209,21 @@
       "I am very interested in the position advertised by yourselves on your website.",
       "The information given by yourselves was not correct.",
       "I would be grateful if the cost of the repair could be paid by yourselves.",
-      "The tour, which was organised by yourselves, did not include the museum visit."
+      "The tour, which was organised by yourselves, did not include the museum visit.",
+      "The rooms described by yourselves as \"quiet\" were next to a busy road.",
+      "I would like to thank yourselves for a wonderful week at the hotel.",
+      "I am writing to yourselves to ask about evening classes.",
+      "Please send the tickets directly to my home address, not to the box office run by yourselves.",
+      "Organisations like yourselves do important work for young people.",
+      "I have attached the receipt which was given to me by yourselves.",
+      "I trust that the problem will be solved by yourselves as soon as possible.",
+      "Any further information from yourselves would be very helpful.",
+      "I paid the deposit to yourselves in March, but I have not received a receipt.",
+      "Small businesses like yourselves are the heart of our town.",
+      "I was told by yourselves that the course would start in September.",
+      "A full refund from yourselves is the only fair solution.",
+      "The car I hired from yourselves broke down on the motorway.",
+      "I hope to receive a positive answer from yourselves in the near future."
     ],
     "examples": [
       {
@@ -211122,8 +211251,8 @@
         "heading": "② from yourselves",
         "items": [
           {
-            "en": "I look forward to hearing from yourselves soon.",
-            "zh": "期待很快收到貴公司的回覆。"
+            "en": "We look forward to working with yourselves again next year.",
+            "zh": "我們期待明年再和貴公司合作。"
           },
           {
             "en": "I have not yet received a reply from yourselves about my complaint.",
@@ -211187,6 +211316,67 @@
           {
             "en": "The tour, which was organised by yourselves, did not include the museum visit.",
             "zh": "貴公司安排的行程並沒有包括參觀博物館。"
+          },
+          {
+            "en": "The rooms described by yourselves as \"quiet\" were next to a busy road.",
+            "zh": "貴公司說是安靜的房間，其實就在一條車很多的馬路旁邊。"
+          },
+          {
+            "en": "I would like to thank yourselves for a wonderful week at the hotel.",
+            "zh": "我要感謝貴飯店讓我度過美好的一星期。"
+          }
+        ]
+      },
+      {
+        "heading": "⑥ 更多正式信件的例子",
+        "items": [
+          {
+            "en": "I am writing to yourselves to ask about evening classes.",
+            "zh": "我寫信給貴單位是想詢問夜間課程的事。"
+          },
+          {
+            "en": "Please send the tickets directly to my home address, not to the box office run by yourselves.",
+            "zh": "請把票直接寄到我家，不要寄到貴單位經營的售票處。"
+          },
+          {
+            "en": "Organisations like yourselves do important work for young people.",
+            "zh": "像貴單位這樣的組織為年輕人做了很重要的事。"
+          },
+          {
+            "en": "I have attached the receipt which was given to me by yourselves.",
+            "zh": "我附上了貴公司給我的收據。"
+          },
+          {
+            "en": "I trust that the problem will be solved by yourselves as soon as possible.",
+            "zh": "我相信貴公司會盡快解決這個問題。"
+          },
+          {
+            "en": "Any further information from yourselves would be very helpful.",
+            "zh": "貴單位如能提供更多資訊，對我會很有幫助。"
+          },
+          {
+            "en": "I paid the deposit to yourselves in March, but I have not received a receipt.",
+            "zh": "我三月就把訂金付給貴公司了，可是還沒收到收據。"
+          },
+          {
+            "en": "Small businesses like yourselves are the heart of our town.",
+            "zh": "像貴店這樣的小商家是我們鎮的核心。"
+          },
+          {
+            "en": "I was told by yourselves that the course would start in September.",
+            "zh": "貴單位告訴我課程九月開始。"
+          },
+          {
+            "en": "A full refund from yourselves is the only fair solution.",
+            "zh": "由貴公司全額退款是唯一公平的解決辦法。"
+          },
+          {
+            "en": "The car I hired from yourselves broke down on the motorway.",
+            "zh": "我向貴公司租的車在高速公路上拋錨了。"
+          },
+          {
+            "en": "I hope to receive a positive answer from yourselves in the near future.",
+            "zh": "希望近期內能收到貴單位的正面答覆。"
           }
         ]
       }

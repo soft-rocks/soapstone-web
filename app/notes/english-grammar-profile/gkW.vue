@@ -12,22 +12,22 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="remember 加動詞-ing 是記得以前做過的事">
+    <NoteSlide title="remember 接動詞-ing 是記得以前做過的事">
       <NoteWords
         :size="24"
         :parts="[
           { t: 'I', role: '主詞', kind: 'dim' },
           { t: 'remember', role: '動詞', kind: 'key' },
           { t: 'feeling', role: '動詞-ing', kind: 'key' },
-          { t: 'very unhappy and confused', role: 'feeling 的補語' },
-          { t: 'all day long.', role: '時間', kind: 'dim' },
+          { t: 'very unhappy and confused', role: '補語' },
+          { t: 'all day long.', role: '副詞片語', kind: 'dim' },
         ]"
       />
       <p class="translation">我記得我一整天都覺得很難過、很困惑。</p>
       <p class="remark">感受在前，記得在後。</p>
     </NoteSlide>
 
-    <NoteSlide title="remember：不定詞是之後要做，動詞-ing 是做過了" mark="remember feeling">
+    <NoteSlide title="remember 接不定詞是之後要做，接動詞-ing 是做過了" mark="remember feeling">
       <div class="rows is-labeled">
         <div>
           <span class="term">remember to<br /><i>記得要去做</i></span>
@@ -50,7 +50,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="forget：不定詞是沒有做，動詞-ing 是忘記做過" mark="remember">
+    <NoteSlide title="forget 接不定詞是沒有做，接動詞-ing 是忘記做過" mark="remember">
       <div class="rows is-labeled">
         <div>
           <span class="term">forget to<br /><i>忘了去做</i></span>
@@ -73,14 +73,14 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="stop：不定詞是停下來去做，動詞-ing 是不再做" mark="feeling">
+    <NoteSlide title="stop 接不定詞是停下來去做，接動詞-ing 是不再做" mark="feeling">
       <NoteFork
         stem="We stopped"
         :branches="[
-          { head: 'to buy', rest: 'some water', meaning: '停下來去做', zh: '我們停下來買水。' },
+          { head: 'to buy', rest: 'some water.', meaning: '停下來去做', zh: '我們停下來買水。' },
           {
             head: 'buying',
-            rest: 'bottled water',
+            rest: 'bottled water.',
             meaning: '不再做',
             zh: '我們不再買瓶裝水了。',
           },
@@ -88,7 +88,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="try：不定詞是努力去做，動詞-ing 是試試看" mark="feeling">
+    <NoteSlide title="try 接不定詞是努力去做，接動詞-ing 是試試看" mark="feeling">
       <div class="rows is-labeled">
         <div>
           <span class="term">try to<br /><i>努力去做</i></span>
@@ -111,7 +111,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="regret：不定詞是遺憾地通知，動詞-ing 是後悔做過" mark="feeling">
+    <NoteSlide title="regret 接不定詞是遺憾地通知，接動詞-ing 是後悔做過" mark="feeling">
       <div class="rows is-labeled">
         <div>
           <span class="term">regret to<br /><i>遺憾地通知</i></span>
@@ -134,7 +134,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="go on：不定詞是接著做另一件事，動詞-ing 是繼續做" mark="feeling">
+    <NoteSlide title="go on 接不定詞是接著做另一件事，接動詞-ing 是繼續做" mark="feeling">
       <div class="rows is-labeled">
         <div>
           <span class="term">go on to<br /><i>接著做別的事</i></span>
@@ -157,7 +157,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="need 加動詞-ing 和被動的意思相同" mark="feeling">
+    <NoteSlide title="need 接動詞-ing 和被動的意思相同" mark="feeling">
       <div class="rows is-labeled">
         <div>
           <span class="term">need to<br /><i>主詞去做</i></span>
@@ -180,13 +180,13 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="還沒做的事用 to 加原形動詞" mark="feeling">
+    <NoteSlide title="還沒做的事用不定詞" mark="feeling">
       <NoteFix
         wrong="Remember posting this letter on your way to work."
         right="Remember to post this letter on your way to work."
         fix="to post"
       >
-        想說記得要買。
+        想說記得要寄。
       </NoteFix>
     </NoteSlide>
 
@@ -206,7 +206,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </NoteFix>
     </NoteSlide>
 
-    <NoteSlide title="need 加動詞-ing 時不加 being" mark="feeling">
+    <NoteSlide title="need 接動詞-ing 時不加 being" mark="feeling">
       <NoteFix
         wrong="The plants need being watered."
         right="The plants need watering."

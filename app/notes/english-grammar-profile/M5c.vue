@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">尖峰時間搭火車比開車快很多。</p>
     </NoteSlide>
 
-    <NoteSlide title="長的形容詞用 a lot more，good 用 a lot better" mark="a lot cheaper">
+    <NoteSlide title="長的形容詞用 a lot more，good 用 a lot better">
       <div class="rows is-labeled">
         <div>
           <span class="term">a lot more + 形容詞</span>
@@ -48,12 +48,25 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="would be a lot + 比較級，說另一個做法好很多" mark="is a lot cheaper">
+    <NoteSlide title="would be a lot + 比較級，說另一個做法好很多">
       <NoteMark
         sentence="It would be a lot cheaper to book the flights now."
         :marks="['would be a lot cheaper']"
       />
       <p class="translation">現在訂機票會便宜很多。</p>
+    </NoteSlide>
+
+    <NoteSlide title="a lot 加比較級也可以放在 look、feel 後面">
+      <NoteWords
+        :size="24"
+        :parts="[
+          { t: 'You', role: '主詞' },
+          { t: 'look', role: '動詞', kind: 'key', ring: true },
+          { t: 'a lot happier', role: 'a lot + 比較級', kind: 'key' },
+          { t: 'since you changed jobs.', kind: 'dim' },
+        ]"
+      />
+      <p class="translation">你換工作以後看起來開心很多。</p>
     </NoteSlide>
 
     <NoteSlide title="lot 前面要加 a" mark="a lot">

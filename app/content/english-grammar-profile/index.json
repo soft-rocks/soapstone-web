@@ -7599,8 +7599,8 @@
       "Our last dog barked all night. Our new puppy is a lot quieter.",
       "Open the window for a few minutes. The room will be a lot cooler.",
       "The water is only knee-deep here. Is the lake a lot deeper on the other side?",
-      "We hired a guide for our trip to Peru. It was a lot more expensive than we planned.",
-      "Leo was very nervous at his first speech. His second speech was a lot more relaxed.",
+      "We hired a guide for our trip to Peru. The trip was a lot more expensive than we planned.",
+      "Leo was very nervous at his first speech. He was a lot more relaxed at the second one.",
       "I did well on the practice test, but the real exam was a lot more difficult.",
       "I don't have to sit on a train for an hour. Working from home is a lot more comfortable for me.",
       "Our old manager shouted when he was angry. Our new manager is a lot more placid.",
@@ -7609,7 +7609,7 @@
       "The first half of the match was boring, but the second half was a lot better.",
       "There was an accident on the bridge this morning. The traffic was a lot worse than usual.",
       "I lived with a family in Madrid for six months. My Spanish is a lot better now.",
-      "Don't believe the hotel website. The food was a lot worse than the photos.",
+      "Don't believe the hotel website. The food was a lot worse than in the photos.",
       "You want to work and study at the same time. Don't you think it would be a lot easier to finish college first?",
       "Prices go up in July. It would be a lot cheaper to book the flights now.",
       "It takes ten hours to drive to Rome. The trip would be a lot shorter by plane.",
@@ -7661,12 +7661,12 @@
         "heading": "② a lot + more + 形容詞",
         "items": [
           {
-            "en": "We hired a guide for our trip to Peru. It was a lot more expensive than we planned.",
-            "zh": "我們去祕魯旅行請了導遊。比我們預計的貴很多。"
+            "en": "We hired a guide for our trip to Peru. The trip was a lot more expensive than we planned.",
+            "zh": "我們去祕魯旅行請了導遊。這趟旅行比我們預計的貴很多。"
           },
           {
-            "en": "Leo was very nervous at his first speech. His second speech was a lot more relaxed.",
-            "zh": "Leo 第一次演講很緊張。他第二次演講放鬆很多。"
+            "en": "Leo was very nervous at his first speech. He was a lot more relaxed at the second one.",
+            "zh": "Leo 第一次演講很緊張。第二次他放鬆很多。"
           },
           {
             "en": "I did well on the practice test, but the real exam was a lot more difficult.",
@@ -7706,7 +7706,7 @@
             "zh": "我在馬德里跟一家人住了六個月。我的西班牙文現在好很多。"
           },
           {
-            "en": "Don't believe the hotel website. The food was a lot worse than the photos.",
+            "en": "Don't believe the hotel website. The food was a lot worse than in the photos.",
             "zh": "別相信飯店的網站。菜比照片上差很多。"
           }
         ]
@@ -7757,7 +7757,7 @@
           },
           {
             "en": "My back hurt a little on Monday. The pain got a lot worse after I carried those boxes.",
-            "zh": "我的背星期一有點痛。我搬了那些箱子以後，痛得厲害很多。"
+            "zh": "我的背星期一有點痛。我搬了那些箱子以後，痛得更厲害了。"
           },
           {
             "en": "Ken practises writing every evening. His handwriting has got a lot neater this year.",

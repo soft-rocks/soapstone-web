@@ -26034,12 +26034,12 @@
       "The hotel guests have breakfast downstairs.",
       "I heard a noise downstairs.",
       "Come downstairs, dinner's ready!",
-      "She left her phone downstairs.",
+      "Mum is looking for her phone. She left it downstairs.",
       "Is there a bank nearby?",
       "My cousins live nearby.",
-      "We parked the car nearby and walked to the beach.",
-      "A nearby hotel had some free rooms.",
-      "Don't come near, the dog bites.",
+      "The fire spread to the nearby houses.",
+      "Our hotel was full, but a nearby guesthouse had a free room.",
+      "Don't come near. That dog bites.",
       "Come a bit nearer so I can see you.",
       "The sound of the music got nearer and nearer.",
       "My best friend moved far away.",
@@ -26053,7 +26053,7 @@
       "The cat stays inside all winter.",
       "Wait outside, please.",
       "Let's eat outside. It's a lovely evening.",
-      "It's warmer inside.",
+      "Close the window. The noise outside is terrible.",
       "Take your shoes off before you go inside.",
       "We didn't go abroad this year.",
       "Is your office upstairs or downstairs?",
@@ -26097,8 +26097,8 @@
             "zh": "下樓來，晚餐好了！"
           },
           {
-            "en": "She left her phone downstairs.",
-            "zh": "她把手機留在樓下了。"
+            "en": "Mum is looking for her phone. She left it downstairs.",
+            "zh": "媽媽在找她的手機。她把手機留在樓下了。"
           }
         ]
       },
@@ -26114,12 +26114,12 @@
             "zh": "我的表兄弟住在附近。"
           },
           {
-            "en": "We parked the car nearby and walked to the beach.",
-            "zh": "我們把車停在附近，然後走路去海邊。"
+            "en": "The fire spread to the nearby houses.",
+            "zh": "火勢蔓延到附近的房子。"
           },
           {
-            "en": "A nearby hotel had some free rooms.",
-            "zh": "附近一家飯店還有空房。"
+            "en": "Our hotel was full, but a nearby guesthouse had a free room.",
+            "zh": "我們的飯店客滿了，不過附近一家民宿還有一間空房。"
           }
         ]
       },
@@ -26127,8 +26127,8 @@
         "heading": "④ near",
         "items": [
           {
-            "en": "Don't come near, the dog bites.",
-            "zh": "別靠近，那隻狗會咬人。"
+            "en": "Don't come near. That dog bites.",
+            "zh": "別靠近。那隻狗會咬人。"
           },
           {
             "en": "Come a bit nearer so I can see you.",
@@ -26198,8 +26198,8 @@
             "zh": "我們在外面吃吧。今晚天氣很好。"
           },
           {
-            "en": "It's warmer inside.",
-            "zh": "裡面比較暖和。"
+            "en": "Close the window. The noise outside is terrible.",
+            "zh": "關上窗戶。外面的噪音很吵。"
           },
           {
             "en": "Take your shoes off before you go inside.",

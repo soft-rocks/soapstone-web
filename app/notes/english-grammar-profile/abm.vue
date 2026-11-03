@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="地點副詞放在移動動詞後面">
+    <NoteSlide title="地點副詞放在移動動詞後面" mark="went downstairs.">
       <NoteWords
         :size="34"
         :parts="[
@@ -24,15 +24,15 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">他下樓去了。</p>
     </NoteSlide>
 
-    <NoteSlide title="地點副詞也可以放在 be 後面，或放在名詞後面" mark="downstairs">
+    <NoteSlide title="地點副詞也可以放在 be 後面，或放在名詞後面">
       <div class="rows is-labeled">
         <div>
           <span class="term">be 後面</span>
           <span
-            ><NoteMark sentence="The bathroom is upstairs." :marks="['upstairs']" /><span
-              class="translation"
-              >浴室在樓上。</span
-            ></span
+            ><NoteMark
+              sentence="The toilets are downstairs, next to the bar."
+              :marks="['are downstairs,']"
+            /><span class="translation">洗手間在樓下，酒吧旁邊。</span></span
           >
         </div>
         <div>
@@ -47,7 +47,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="abroad 前面不加 to" mark="went downstairs">
+    <NoteSlide title="abroad 前面不加 to">
       <NoteFix
         wrong="She went to abroad last year."
         right="She went abroad last year."
@@ -63,10 +63,10 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="downstairs 結尾有 s" mark="downstairs">
+    <NoteSlide title="downstairs 結尾有 s" mark="downstairs.">
       <NoteFix
-        wrong="I'll wait for you downstair."
-        right="I'll wait for you downstairs."
+        wrong="My grandparents sleep downstair."
+        right="My grandparents sleep downstairs."
         fix="downstairs"
       />
     </NoteSlide>

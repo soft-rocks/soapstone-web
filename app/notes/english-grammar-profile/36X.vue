@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="only 放在 be 後面，指出數量">
+    <NoteSlide title="only 放在 be 後面，指出數量" mark="only two hours">
       <NoteWords
         :size="30"
         :parts="[
@@ -24,7 +24,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">才兩個小時而已。</p>
     </NoteSlide>
 
-    <NoteSlide title="only 和 just 放在一般動詞前面" mark="only">
+    <NoteSlide title="only 和 just 放在一般動詞前面">
       <div class="rows is-labeled">
         <div>
           <span class="term">just</span>
@@ -76,7 +76,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="有助動詞時，only 放在助動詞後面" mark="only">
+    <NoteSlide title="有助動詞時，only 放在助動詞後面">
       <NoteFix
         wrong="I only can stay a few minutes."
         right="I can only stay a few minutes."

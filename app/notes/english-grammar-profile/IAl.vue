@@ -72,7 +72,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="nicer 前面不加 more" mark="safer">
+    <NoteSlide title="nicer 前面不加 more">
       <NoteFix wrong="The new park is more nicer." right="The new park is nicer." fix="nicer" />
     </NoteSlide>
   </NoteDeck>

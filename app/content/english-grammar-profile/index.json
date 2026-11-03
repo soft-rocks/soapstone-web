@@ -3905,7 +3905,7 @@
       "This shirt is a bit tight. Do you have it in a larger size?",
       "I waited twenty minutes at the stop. The bus was later than usual.",
       "I can't meet you at two. Let's meet at a later time.",
-      "Don't wait for the bus. Walk to the train. The station is closer than the bus stop.",
+      "Don't wait for the bus. Take the train. The station is closer than the bus stop.",
       "I want to see the singer's face. Which seat is closer to the stage?",
       "We moved last summer. My school is closer to my house now.",
       "Our cat had four kittens in May. They got cuter every week.",
@@ -3990,8 +3990,8 @@
             "zh": "我兩點沒辦法跟你見面。我們晚一點再見面吧。"
           },
           {
-            "en": "Don't wait for the bus. Walk to the train. The station is closer than the bus stop.",
-            "zh": "別等公車了。走路去搭火車。車站比公車站近。"
+            "en": "Don't wait for the bus. Take the train. The station is closer than the bus stop.",
+            "zh": "別等公車了，去搭火車。車站比公車站近。"
           },
           {
             "en": "I want to see the singer's face. Which seat is closer to the stage?",

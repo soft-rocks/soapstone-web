@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="22"
         :parts="[
           { t: 'The blue jacket is', kind: 'dim' },
-          { t: 'slightly', role: 'slightly', kind: 'key', ring: true },
+          { t: 'slightly', role: '修飾比較級', kind: 'key', ring: true },
           { t: 'cheaper', role: '比較級', kind: 'key' },
           { t: 'than the black one.', role: 'than + 比較的對象' },
         ]"
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">藍色那件外套比黑色那件便宜一點。</p>
     </NoteSlide>
 
-    <NoteSlide title="長的形容詞用 slightly more" mark="slightly better">
+    <NoteSlide title="長的形容詞用 slightly more">
       <NoteMark
         sentence="The new chairs are slightly more comfortable than the old ones."
         :marks="['slightly more comfortable']"
@@ -33,7 +33,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">新的椅子比舊的舒服一點。</p>
     </NoteSlide>
 
-    <NoteSlide title="slightly 加比較級也可以放在名詞前面" mark="slightly better">
+    <NoteSlide title="slightly 加比較級也可以放在名詞前面">
       <NoteWords
         :size="24"
         :parts="[
@@ -46,7 +46,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我可以換一間大一點的房間嗎？</p>
     </NoteSlide>
 
-    <NoteSlide title="修飾比較級要用副詞 slightly" mark="slightly">
+    <NoteSlide title="修飾比較級要用副詞 slightly" mark="slightly better">
       <NoteFix
         wrong="The second test was slight easier."
         right="The second test was slightly easier."
@@ -54,7 +54,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="有 than 的句子要用比較級" mark="better">
+    <NoteSlide title="有 than 的句子要用比較級" mark="better than">
       <NoteFix
         wrong="This year's rent is slightly high than last year's."
         right="This year's rent is slightly higher than last year's."

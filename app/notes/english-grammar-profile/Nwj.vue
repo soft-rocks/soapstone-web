@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="to 不定詞是程度夠了能做的事" mark="lucky enough to take">
+    <NoteSlide title="to 不定詞是程度夠了能做的事" mark="to take part in the race">
       <NoteWords
         :size="22"
         :parts="[
@@ -24,7 +24,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我女兒已經大到可以自己走路上學了。</p>
     </NoteSlide>
 
-    <NoteSlide title="not + 形容詞 + enough，表示程度不夠" mark="enough">
+    <NoteSlide title="not + 形容詞 + enough，表示程度不夠">
       <NoteMark
         sentence="Teenagers aren't always mature enough to choose a career."
         :marks="['aren\'t', 'mature enough']"
@@ -32,7 +32,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">青少年不一定成熟到可以自己選擇職業。</p>
     </NoteSlide>
 
-    <NoteSlide title="lucky enough to 和 kind enough to" mark="lucky enough">
+    <NoteSlide title="lucky enough to 說自己幸運，kind enough to 說對方好心" mark="lucky enough to">
       <div class="rows is-labeled">
         <div>
           <span class="term">lucky enough to</span>
@@ -55,7 +55,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="for + 人放在 to 不定詞前面" mark="enough to">
+    <NoteSlide title="for + 人放在 to 不定詞前面">
       <NoteMark
         sentence="The book is simple enough for children to read."
         :marks="['for children']"
@@ -71,7 +71,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="enough 後面接動詞要加 to" mark="to take">
+    <NoteSlide title="enough 後面接動詞要加 to" mark="enough to take">
       <NoteFix
         wrong="He was brave enough tell the truth."
         right="He was brave enough to tell the truth."
@@ -79,7 +79,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="做得到的事用 to 不定詞，不用 for 加動詞-ing" mark="to take">
+    <NoteSlide title="做得到的事用 to 不定詞，不用 for 加動詞-ing" mark="to take part in the race">
       <NoteFix
         wrong="The box wasn't strong enough for holding the books."
         right="The box wasn't strong enough to hold the books."

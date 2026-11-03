@@ -33,20 +33,20 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'Tom\'s', role: '所有格', kind: 'key', ring: true },
-          { t: 'best friend', role: 'best friend', kind: 'key' },
-          { t: 'is Bob.', kind: 'dim' },
+          { t: 'He\'s', kind: 'dim' },
+          { t: 'my brother Tom\'s', role: '所有格', kind: 'key', ring: true },
+          { t: 'best friend.', role: '最高級 + 名詞', kind: 'key' },
         ]"
       />
-      <p class="translation">Tom 最好的朋友是 Bob。</p>
+      <p class="translation">他是我哥哥 Tom 最好的朋友。</p>
     </NoteSlide>
 
-    <NoteSlide title="兩個人以上用 best friends" mark="best friend">
+    <NoteSlide title="兩個人以上用 best friends">
       <NoteMark
         sentence="My dad and Uncle Jim go fishing every summer. They have been best friends since school."
         :marks="['best friends']"
       />
-      <p class="translation">我爸爸和吉姆叔叔每年夏天都去釣魚。他們從學生時代就是最好的朋友。</p>
+      <p class="translation">我爸爸和 Jim 叔叔每年夏天都去釣魚。他們從學生時代就是最好的朋友。</p>
     </NoteSlide>
 
     <NoteSlide title="good 的最高級不加 -est" mark="best">
@@ -65,7 +65,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="兩個人用複數 friends" mark="friend">
+    <NoteSlide title="兩個人用複數 friends">
       <NoteFix
         wrong="Tom and Ken are my best friend."
         right="Tom and Ken are my best friends."

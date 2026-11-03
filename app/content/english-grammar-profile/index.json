@@ -4635,15 +4635,15 @@
       "My son sings in a band. His best friend plays the guitar.",
       "I met Sam at the party. Your best friend told me a funny story about you.",
       "Can you buy some wine? Our best friends are coming for dinner.",
-      "My parents asked a friend about my school. Their best friend is a teacher.",
-      "Bob is always at our house. Tom's best friend is Bob.",
-      "My sister's best friend is sixteen, so she can't drive yet.",
-      "The kids play with Max every day. The dog is the children's best friend.",
+      "My parents often ask Mrs Hill about my school. She's their best friend, and she's a teacher.",
+      "Bob is always at our house. He's my brother Tom's best friend.",
+      "My sister's best friend lives in Leeds. They talk on the phone every night.",
+      "Max is our dog. He's the children's best friend.",
       "Mia and Zoe are my best friends from the dance class.",
       "Kate and I tell each other everything. We are best friends.",
       "My dad and Uncle Jim go fishing every summer. They have been best friends since school.",
       "You always sit next to Ann. Are you and Ann best friends?",
-      "I'm inviting two people to the cinema. My best friends are Lucy and Mary.",
+      "I'm taking Lucy and Mary to the cinema for my birthday. They're my best friends.",
       "Jo and I sat together on the first day at secondary school. We became best friends in the first year.",
       "Look, it's Emma in this old photo. She was my best friend at school.",
       "I'm sitting alone at lunch. My best friend isn't here today. She's ill.",
@@ -4711,32 +4711,32 @@
           },
           {
             "en": "I met Sam at the party. Your best friend told me a funny story about you.",
-            "zh": "我在派對上遇到山姆。你最好的朋友跟我講了一件你的趣事。"
+            "zh": "我在派對上遇到 Sam。你最好的朋友跟我講了一件你的趣事。"
           }
         ]
       },
       {
-        "heading": "③ our / their / 名字's best friend",
+        "heading": "③ our / their / 名詞's best friend",
         "items": [
           {
             "en": "Can you buy some wine? Our best friends are coming for dinner.",
             "zh": "你可以買一點酒嗎？我們最好的朋友要來吃晚餐。"
           },
           {
-            "en": "My parents asked a friend about my school. Their best friend is a teacher.",
-            "zh": "我爸媽問了一個朋友我學校的事。他們最好的朋友是老師。"
+            "en": "My parents often ask Mrs Hill about my school. She's their best friend, and she's a teacher.",
+            "zh": "我爸媽常問 Hill 太太我學校的事。她是他們最好的朋友，也是老師。"
           },
           {
-            "en": "Bob is always at our house. Tom's best friend is Bob.",
-            "zh": "Bob 常常在我們家。Tom 最好的朋友是 Bob。"
+            "en": "Bob is always at our house. He's my brother Tom's best friend.",
+            "zh": "Bob 常常在我們家。他是我哥哥 Tom 最好的朋友。"
           },
           {
-            "en": "My sister's best friend is sixteen, so she can't drive yet.",
-            "zh": "我姊姊最好的朋友十六歲，所以她還不能開車。"
+            "en": "My sister's best friend lives in Leeds. They talk on the phone every night.",
+            "zh": "我姊姊最好的朋友住在 Leeds。她們每天晚上都講電話。"
           },
           {
-            "en": "The kids play with Max every day. The dog is the children's best friend.",
-            "zh": "孩子們每天都跟小麥玩。那隻狗是孩子們最好的朋友。"
+            "en": "Max is our dog. He's the children's best friend.",
+            "zh": "Max 是我們家的狗。牠是孩子們最好的朋友。"
           }
         ]
       },
@@ -4749,23 +4749,23 @@
           },
           {
             "en": "Kate and I tell each other everything. We are best friends.",
-            "zh": "凱特和我什麼都跟對方說。我們是最好的朋友。"
+            "zh": "Kate 和我什麼都跟對方說。我們是最好的朋友。"
           },
           {
             "en": "My dad and Uncle Jim go fishing every summer. They have been best friends since school.",
-            "zh": "我爸爸和吉姆叔叔每年夏天都去釣魚。他們從學生時代就是最好的朋友。"
+            "zh": "我爸爸和 Jim 叔叔每年夏天都去釣魚。他們從學生時代就是最好的朋友。"
           },
           {
             "en": "You always sit next to Ann. Are you and Ann best friends?",
             "zh": "你總是坐在 Ann 旁邊。你和 Ann 是最好的朋友嗎？"
           },
           {
-            "en": "I'm inviting two people to the cinema. My best friends are Lucy and Mary.",
-            "zh": "我要邀兩個人去看電影。我最好的朋友是 Lucy 和 Mary。"
+            "en": "I'm taking Lucy and Mary to the cinema for my birthday. They're my best friends.",
+            "zh": "我生日要帶 Lucy 和 Mary 去看電影。她們是我最好的朋友。"
           },
           {
             "en": "Jo and I sat together on the first day at secondary school. We became best friends in the first year.",
-            "zh": "喬和我中學第一天坐在一起。我們一年級就成了最好的朋友。"
+            "zh": "Jo 和我中學第一天坐在一起。我們一年級就成了最好的朋友。"
           }
         ]
       },
@@ -4774,7 +4774,7 @@
         "items": [
           {
             "en": "Look, it's Emma in this old photo. She was my best friend at school.",
-            "zh": "你看，這張舊照片裡是艾瑪。她是我學生時代最好的朋友。"
+            "zh": "你看，這張舊照片裡是 Emma。她是我學生時代最好的朋友。"
           },
           {
             "en": "I'm sitting alone at lunch. My best friend isn't here today. She's ill.",

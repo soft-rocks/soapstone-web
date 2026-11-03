@@ -12,13 +12,16 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="否定 + the slightest，表示一點都沒有" mark="don't have the faintest">
+    <NoteSlide
+      title="否定加 the slightest 或 the faintest，表示一點都沒有"
+      mark="don't have the faintest"
+    >
       <NoteWords
         :size="22"
         :parts="[
           { t: 'He', role: '主詞' },
           { t: 'didn\'t show', role: '否定', kind: 'key' },
-          { t: 'the slightest', role: '最少的', kind: 'key', ring: true },
+          { t: 'the slightest', role: '最高級', kind: 'key', ring: true },
           { t: 'interest', role: '名詞' },
           { t: 'in the plan.', kind: 'dim' },
         ]"
@@ -26,7 +29,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">他對那個計畫一點興趣都沒有。</p>
     </NoteSlide>
 
-    <NoteSlide title="the faintest 常配 idea、clue、hope" mark="faintest idea">
+    <NoteSlide title="the faintest 常配 idea、clue、hope" mark="the faintest idea">
       <div class="rows is-labeled">
         <div>
           <span class="term">the faintest idea</span>
@@ -53,7 +56,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="if 子句和問句裡的 the slightest，表示只要有一點點" mark="the faintest">
+    <NoteSlide title="if 子句和問句裡的 the slightest，表示只要有一點點">
       <NoteMark
         sentence="If you have the slightest problem, call me."
         :marks="['the slightest problem']"

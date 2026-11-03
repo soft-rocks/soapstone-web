@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="firstly 放在句首，列出第一點">
+    <NoteSlide title="firstly 放在句首，列出第一點" mark="Firstly">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,23 +25,23 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">首先，我建議你兩間學校都去看看。</p>
     </NoteSlide>
 
-    <NoteSlide title="secondly 接下一點，finally 接最後一點" mark="Firstly,">
+    <NoteSlide title="secondly 接下一點，finally 接最後一點">
       <div class="rows is-labeled">
         <div>
           <span class="term">secondly</span>
           <span
-            ><NoteMark
-              sentence="Secondly, talk to some students there."
-              :marks="['Secondly,']"
-            /><span class="translation">第二，跟那裡的學生聊聊。</span></span
+            ><NoteMark sentence="Secondly, pack some food." :marks="['Secondly,']" /><span
+              class="translation"
+              >第二，帶些吃的。</span
+            ></span
           >
         </div>
         <div>
           <span class="term">finally</span>
           <span
-            ><NoteMark sentence="Finally, compare the prices." :marks="['Finally,']" /><span
+            ><NoteMark sentence="Finally, bring a warm coat." :marks="['Finally,']" /><span
               class="translation"
-              >最後，比較一下價錢。</span
+              >最後，帶件保暖的外套。</span
             ></span
           >
         </div>
@@ -71,7 +71,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="firstly 只用在列點，說先後順序用 first" mark="Firstly,">
+    <NoteSlide title="firstly 只用在列點，說先後順序用 first" mark="Firstly">
       <NoteFix
         wrong="Firstly I fed the cat, and then I made breakfast."
         right="First I fed the cat, and then I made breakfast."

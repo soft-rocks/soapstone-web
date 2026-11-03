@@ -25607,7 +25607,7 @@
       "Firstly, make a list of what you need.",
       "Secondly, we need better books.",
       "Secondly, the rooms were dirty.",
-      "Secondly, it's too expensive for students.",
+      "Secondly, the course is too expensive for students.",
       "Thirdly, the staff were not very helpful.",
       "Thirdly, you should practise every day.",
       "Finally, I think the speaker did an excellent job.",
@@ -25669,8 +25669,8 @@
             "zh": "第二，房間很髒。"
           },
           {
-            "en": "Secondly, it's too expensive for students.",
-            "zh": "第二，這對學生來說太貴了。"
+            "en": "Secondly, the course is too expensive for students.",
+            "zh": "第二，這門課對學生來說太貴了。"
           },
           {
             "en": "Thirdly, the staff were not very helpful.",

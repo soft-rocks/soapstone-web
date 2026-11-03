@@ -39,16 +39,16 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">-ful、-ous、-ing、-ed</span>
           <span
-            ><NoteMark
-              sentence="She is more famous than her sister."
-              :marks="['more famous']"
-            /><span class="translation">她比她姊姊有名。</span></span
+            ><NoteMark sentence="She's more famous than Lisa." :marks="['more famous']" /><span
+              class="translation"
+              >她比 Lisa 有名。</span
+            ></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="more + 形容詞也可以放在名詞前面" mark="more expensive">
+    <NoteSlide title="more + 形容詞也可以放在名詞前面">
       <NoteWords
         :size="26"
         :parts="[

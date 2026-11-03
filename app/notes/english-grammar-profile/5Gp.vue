@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="22"
         :parts="[
           { t: 'Shibuya Crossing is', kind: 'dim' },
-          { t: 'one of the most famous', role: 'one of the + 最高級', kind: 'key' },
+          { t: 'one of the most famous', role: '其中一個 + 最高級', kind: 'key' },
           { t: 'sights', role: '複數名詞', kind: 'key', ring: true },
           { t: 'in Tokyo.', kind: 'dim' },
         ]"
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">澀谷十字路口是東京最有名的景點之一。</p>
     </NoteSlide>
 
-    <NoteSlide title="one of the ... 當主詞，動詞用單數" mark="one of the best">
+    <NoteSlide title="one of the ... 當主詞，動詞用單數">
       <NoteWords
         :size="24"
         :parts="[
@@ -50,7 +50,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="主詞是 one，動詞用單數" mark="was">
+    <NoteSlide title="主詞是 one，動詞用單數">
       <NoteFix
         wrong="One of my oldest friends live in Paris."
         right="One of my oldest friends lives in Paris."

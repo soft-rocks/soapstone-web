@@ -19124,9 +19124,9 @@
       "Call me on Tuesday instead. I'm not here on Mondays.",
       "It's Grandpa's birthday lunch. Will your sister be there tomorrow?",
       "Good luck with the race. Sorry, I can't be there on Saturday.",
-      "I can't find it anywhere. The key was there this morning.",
+      "The key was there this morning. Now I can't find it anywhere.",
       "Start without us. We'll be there in five minutes.",
-      "I knocked on his door. He wasn't there when I arrived.",
+      "I went to Ben's flat at six, but he wasn't there.",
       "The doctor is ready for you. Please come here and sit down.",
       "The beach in the photo is in Wales. I went there with my cousins.",
       "We have a big house now. Why don't you come here for Christmas this year?",
@@ -19146,7 +19146,7 @@
       "The hotel had a pool and a garden. We stayed there for three nights.",
       "The queue is long. Wait here while I buy the tickets.",
       "You know everyone in the office. How long have you worked here?",
-      "That's the house by the river. She used to live there with her grandmother."
+      "That's the house by the river. My mum used to live there with her grandmother."
     ],
     "examples": [
       {
@@ -19186,16 +19186,16 @@
             "zh": "比賽加油。抱歉，我星期六不能去。"
           },
           {
-            "en": "I can't find it anywhere. The key was there this morning.",
-            "zh": "我到處都找不到。鑰匙今天早上還在那裡。"
+            "en": "The key was there this morning. Now I can't find it anywhere.",
+            "zh": "鑰匙今天早上還在那裡。現在我到處都找不到。"
           },
           {
             "en": "Start without us. We'll be there in five minutes.",
             "zh": "你們先開始。我們五分鐘後到。"
           },
           {
-            "en": "I knocked on his door. He wasn't there when I arrived.",
-            "zh": "我敲了他的門。我到的時候他不在。"
+            "en": "I went to Ben's flat at six, but he wasn't there.",
+            "zh": "我六點去 Ben 的公寓，可是他不在。"
           }
         ]
       },
@@ -19294,8 +19294,8 @@
             "zh": "你認識辦公室裡的每個人。你在這裡工作多久了？"
           },
           {
-            "en": "That's the house by the river. She used to live there with her grandmother.",
-            "zh": "那是河邊的那間房子。她以前跟她奶奶住在那裡。"
+            "en": "That's the house by the river. My mum used to live there with her grandmother.",
+            "zh": "那是河邊的那間房子。我媽媽以前跟她奶奶住在那裡。"
           }
         ]
       }

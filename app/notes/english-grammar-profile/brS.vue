@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="there 當 be 的補語，表示在場">
+    <NoteSlide title="there 當 be 的補語，表示在場" mark="be there">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我希望你到時候能去。</p>
     </NoteSlide>
 
-    <NoteSlide title="移動動詞後面直接接 here 或 there" mark="there">
+    <NoteSlide title="移動動詞後面直接接 here 或 there">
       <div class="rows is-labeled">
         <div>
           <span class="term">go there</span>
@@ -48,7 +48,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="live、stay、work 後面也可以直接接 here 或 there" mark="there">
+    <NoteSlide title="live、stay、work 後面也可以直接接 here 或 there">
       <NoteWords
         :size="30"
         :parts="[
@@ -61,7 +61,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我阿姨跟她的兩隻貓住在那裡。</p>
     </NoteSlide>
 
-    <NoteSlide title="get here 和 get there 表示到達" mark="there">
+    <NoteSlide title="get here 和 get there 表示到達">
       <div class="rows is-labeled">
         <div>
           <span class="term">get here</span>
@@ -75,9 +75,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">get there</span>
           <span
-            ><NoteMark sentence="We got here early." :marks="['got here']" /><span
+            ><NoteMark sentence="How long does it take to get there?" :marks="['get there']" /><span
               class="translation"
-              >我們很早就到了。</span
+              >去那裡要多久？</span
             ></span
           >
         </div>

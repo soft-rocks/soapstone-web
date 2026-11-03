@@ -17,14 +17,14 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="26"
         :parts="[
           { t: 'He\'s', kind: 'dim' },
-          { t: 'the funniest', role: 'funny → funniest', kind: 'key', ring: true },
+          { t: 'the funniest', role: 'y 改成 i + -est', kind: 'key', ring: true },
           { t: 'person I know.', kind: 'dim' },
         ]"
       />
       <p class="translation">他是我認識最好笑的人。</p>
     </NoteSlide>
 
-    <NoteSlide title="常見的 -iest 最高級" mark="The easiest">
+    <NoteSlide title="常見的 -iest 最高級" mark="easiest">
       <div class="rows is-labeled">
         <div>
           <span class="term">busy → busiest</span>
@@ -58,13 +58,13 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="y 要改成 i" mark="easiest">
       <NoteFix
-        wrong="This is the easyest question."
-        right="This is the easiest question."
+        wrong="Maths was the easyest exam for me."
+        right="Maths was the easiest exam for me."
         fix="easiest"
       />
     </NoteSlide>
 
-    <NoteSlide title="加了 -iest 就不加 most" mark="The easiest">
+    <NoteSlide title="加了 -iest 就不加 most" mark="easiest">
       <NoteFix
         wrong="She's the most happiest girl in the class."
         right="She's the happiest girl in the class."

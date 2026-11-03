@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="24"
         :parts="[
           { t: 'That winter was', kind: 'dim' },
-          { t: 'one of the coldest', role: 'one of the + 最高級', kind: 'key', ring: true },
+          { t: 'one of the coldest', role: '其中一個 + 最高級', kind: 'key', ring: true },
           { t: 'winters', kind: 'gone' },
         ]"
       />
@@ -42,17 +42,17 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="one of 後面要接 the" mark="one of the">
       <NoteFix
-        wrong="That year was one of worst."
-        right="That year was one of the worst."
+        wrong="Our team's last season was one of worst."
+        right="Our team's last season was one of the worst."
         fix="the worst"
       />
     </NoteSlide>
 
-    <NoteSlide title="前文沒有可以比較的東西，名詞不能省略" mark="worst">
+    <NoteSlide title="one of the 加最高級後面寫出名詞時，名詞用複數">
       <NoteFix
-        wrong="I went to the party yesterday. It was the most boring."
-        right="I went to the party#2 yesterday. It was the most boring party I've been to."
-        fix="party"
+        wrong="My grandfather was one of the oldest man in the village."
+        right="My grandfather was one of the oldest men in the village."
+        fix="men"
       />
     </NoteSlide>
   </NoteDeck>

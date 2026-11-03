@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這場比賽沒有上禮拜那場好看。</p>
     </NoteSlide>
 
-    <NoteSlide title="so + 形容詞 + a + 名詞 + that 說明結果" mark="as large a">
+    <NoteSlide title="so + 形容詞 + a + 名詞 + that 說明結果">
       <NoteWords
         :size="22"
         :parts="[
@@ -38,12 +38,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">那天熱到路面都融化了。</p>
     </NoteSlide>
 
-    <NoteSlide title="too 也一樣，形容詞放在 a 前面" mark="large a">
+    <NoteSlide title="too 也一樣，形容詞放在 a 前面">
       <NoteMark sentence="It was too good a chance to miss." :marks="['too good a chance']" />
       <p class="translation">那個機會太好了，不能錯過。</p>
     </NoteSlide>
 
-    <NoteSlide title="這個句型的形容詞放在 a 前面" mark="as large a">
+    <NoteSlide title="這個句型的形容詞放在 a 前面" mark="large a">
       <NoteFix
         wrong="She is as a good player as her brother."
         right="She is as good a player as her brother."
@@ -59,7 +59,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="so 接形容詞再接 a，such 接 a 再接形容詞" mark="as large a">
+    <NoteSlide title="so 接形容詞再接 a，such 接 a 再接形容詞">
       <NoteFix
         wrong="It was such hot a day that we stayed inside."
         right="It was so hot a day that we stayed inside."

@@ -18,14 +18,14 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'My room is', kind: 'dim' },
           { t: 'big', role: '形容詞', kind: 'key' },
-          { t: 'enough', role: 'enough', kind: 'key', ring: true },
+          { t: 'enough', role: '修飾形容詞', kind: 'key', ring: true },
           { t: 'for a desk and a bed.', role: 'for + 東西' },
         ]"
       />
       <p class="translation">我的房間夠大，放得下一張書桌和一張床。</p>
     </NoteSlide>
 
-    <NoteSlide title="後面可以接 for 加名詞，或 to 不定詞" mark="good enough">
+    <NoteSlide title="後面可以接 for 加名詞，或 to 不定詞">
       <div class="rows is-labeled">
         <div>
           <span class="term">enough + for</span>
@@ -48,7 +48,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="not + 形容詞 + enough，表示不夠" mark="don't">
+    <NoteSlide title="not + 形容詞 + enough，表示不夠" :mark="['don\'t', 'good enough']">
       <NoteMark sentence="The car isn't big enough for all of us." :marks="['isn\'t big enough']" />
       <p class="translation">車子不夠大，我們全部坐不下。</p>
     </NoteSlide>
@@ -61,7 +61,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="後面接動詞時用 to 不定詞" mark="enough">
+    <NoteSlide title="後面接動詞時用 to 不定詞">
       <NoteFix
         wrong="He isn't tall enough for reach the shelf."
         right="He isn't tall enough to reach the shelf."
@@ -69,7 +69,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="不夠熱用 not warm enough，too warm 是太熱" mark="enough">
+    <NoteSlide title="不夠熱用 not warm enough，too warm 是太熱">
       <NoteFix
         wrong="The coffee is too warm. Can you heat it up?"
         right="The coffee isn't warm enough. Can you heat it up?"

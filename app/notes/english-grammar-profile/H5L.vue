@@ -18,7 +18,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'The hotel staff', role: '主詞' },
           { t: 'were', role: 'be' },
-          { t: 'very', role: 'very', kind: 'key', ring: true },
+          { t: 'very', role: '修飾形容詞', kind: 'key', ring: true },
           { t: 'nice', role: '形容詞', kind: 'key' },
           { t: 'to us.', kind: 'dim' },
         ]"
@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">飯店的員工對我們很好。</p>
     </NoteSlide>
 
-    <NoteSlide title="兩個 very 加形容詞，用 and 或 but 連接" mark="very">
+    <NoteSlide title="very 加形容詞可以用 and 或 but 連接">
       <div class="rows is-labeled">
         <div>
           <span class="term">and</span>
@@ -50,18 +50,26 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="very 不修飾動詞，動詞用 very much" mark="very">
-      <NoteFix wrong="I very like this city." right="I like this city very much." fix="very much" />
+      <NoteFix
+        wrong="I very enjoy my piano lessons."
+        right="I enjoy my piano lessons very much."
+        fix="very much"
+      />
     </NoteSlide>
 
-    <NoteSlide title="主詞和形容詞中間要有 be" mark="are">
-      <NoteFix wrong="My new teacher very kind." right="My new teacher is very kind." fix="is" />
+    <NoteSlide title="主詞和形容詞中間要有 be" :mark="['My neighbors', 'are', 'friendly']">
+      <NoteFix
+        wrong="The kids in my class very noisy today."
+        right="The kids in my class are very noisy today."
+        fix="are"
+      />
     </NoteSlide>
 
     <NoteSlide title="very 放在形容詞前面，不放在後面" mark="very friendly">
       <NoteFix
-        wrong="The beach was beautiful very."
-        right="The beach was very beautiful."
-        fix="very beautiful"
+        wrong="Thank you, the dinner was delicious very."
+        right="Thank you, the dinner was very delicious."
+        fix="very delicious"
       />
     </NoteSlide>
   </NoteDeck>

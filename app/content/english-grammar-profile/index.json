@@ -27027,49 +27027,49 @@
     "translation": "回頭見。",
     "name": "soon 用在 See you soon 等結尾語",
     "sentences": [
-      "Thanks for coming. See you soon.",
-      "Bye, Mum! See you soon!",
+      "Thanks for coming to my party. See you soon.",
+      "Bye, Mum! I'll call you from the airport. See you soon!",
       "Have a safe trip home. See you soon.",
       "Say hi to your parents. See you soon.",
-      "It was great to catch up. See you soon.",
+      "It was great to catch up after so many months. See you soon.",
       "The party starts at eight. See you soon!",
-      "I'll be there in ten minutes. See you soon.",
-      "Good luck with the move, and see you soon.",
-      "I'll see you soon, OK?",
+      "I'm on the bus now. I'll be there in ten minutes. See you soon.",
+      "You're moving to Leeds on Saturday. Good luck with the move, and see you soon.",
+      "Don't be sad about the summer camp. I'll see you soon, OK?",
       "It was nice to meet you. See you again soon.",
-      "We had a lovely time. See you again soon!",
-      "Don't cry. I'll see you again soon.",
-      "Only two more days! See you very soon.",
-      "The tickets are booked. See you very soon!",
+      "Thanks for having us at the farm. We had a lovely time. See you again soon!",
+      "I have to go home on Sunday, but don't cry. I'll see you again soon.",
+      "I fly to Sydney on Friday. Only two more days! See you very soon.",
+      "We're coming to visit you in June. The tickets are booked. See you very soon!",
       "I heard you broke your arm. Get well soon!",
-      "Get well soon, Grandpa.",
+      "We hope the hospital food isn't too bad. Get well soon, Grandpa.",
       "Sorry to hear about your flu. Get well soon.",
-      "Stay in bed and get well soon.",
+      "Don't come to work tomorrow. Stay in bed and get well soon.",
       "We all miss you at work. Get well soon!",
-      "Rest up and get well soon.",
-      "I have to go now. Talk to you soon.",
+      "Your knee needs time after the operation. Rest up and get well soon.",
+      "My train is here. I have to go now. Talk to you soon.",
       "Thanks for the call. Talk to you soon.",
       "I'll send you the details tonight. Speak to you soon.",
-      "Let me check with my boss. Speak to you soon.",
-      "OK, talk to you soon. Bye!",
+      "I'm not sure about the date. Let me check with my boss. Speak to you soon.",
+      "I'll text you the address. OK, talk to you soon. Bye!",
       "Thanks again for dinner. Hope to see you soon.",
       "Everyone here says hello. Hope to see you soon!",
-      "We hope to see you soon.",
+      "Our new flat has a guest room now. We hope to see you soon.",
       "I miss you a lot. Write soon!",
       "Tell me all about your new school. Write soon.",
-      "Please write soon and send some photos."
+      "I can't wait to hear about your trip. Please write soon and send some photos."
     ],
     "examples": [
       {
         "heading": "① See you soon.",
         "items": [
           {
-            "en": "Thanks for coming. See you soon.",
-            "zh": "謝謝你來。回頭見。"
+            "en": "Thanks for coming to my party. See you soon.",
+            "zh": "謝謝你來參加我的派對。回頭見。"
           },
           {
-            "en": "Bye, Mum! See you soon!",
-            "zh": "媽，再見！回頭見！"
+            "en": "Bye, Mum! I'll call you from the airport. See you soon!",
+            "zh": "媽，再見！我會在機場打給你。回頭見！"
           },
           {
             "en": "Have a safe trip home. See you soon.",
@@ -27080,24 +27080,24 @@
             "zh": "幫我跟你爸媽問好。回頭見。"
           },
           {
-            "en": "It was great to catch up. See you soon.",
-            "zh": "很高興跟你聊近況。回頭見。"
+            "en": "It was great to catch up after so many months. See you soon.",
+            "zh": "好幾個月沒聊了，很高興跟你聊聊近況。回頭見。"
           },
           {
             "en": "The party starts at eight. See you soon!",
             "zh": "派對八點開始。待會見！"
           },
           {
-            "en": "I'll be there in ten minutes. See you soon.",
-            "zh": "我十分鐘後到。待會見。"
+            "en": "I'm on the bus now. I'll be there in ten minutes. See you soon.",
+            "zh": "我現在在公車上。我十分鐘後到。待會見。"
           },
           {
-            "en": "Good luck with the move, and see you soon.",
-            "zh": "搬家順利，回頭見。"
+            "en": "You're moving to Leeds on Saturday. Good luck with the move, and see you soon.",
+            "zh": "你星期六要搬到里茲。搬家順利，回頭見。"
           },
           {
-            "en": "I'll see you soon, OK?",
-            "zh": "我們很快就會見面，好嗎？"
+            "en": "Don't be sad about the summer camp. I'll see you soon, OK?",
+            "zh": "別為了夏令營難過。我們很快就會見面，好嗎？"
           }
         ]
       },
@@ -27109,20 +27109,20 @@
             "zh": "很高興認識你。希望很快再見。"
           },
           {
-            "en": "We had a lovely time. See you again soon!",
-            "zh": "我們玩得很開心。下次再見！"
+            "en": "Thanks for having us at the farm. We had a lovely time. See you again soon!",
+            "zh": "謝謝你們讓我們住在農場。我們玩得很開心。下次再見！"
           },
           {
-            "en": "Don't cry. I'll see you again soon.",
-            "zh": "別哭。我很快就會再來看你。"
+            "en": "I have to go home on Sunday, but don't cry. I'll see you again soon.",
+            "zh": "我星期天得回家了，可是別哭。我很快就會再來看你。"
           },
           {
-            "en": "Only two more days! See you very soon.",
-            "zh": "只剩兩天了！很快就見面了。"
+            "en": "I fly to Sydney on Friday. Only two more days! See you very soon.",
+            "zh": "我星期五飛雪梨。只剩兩天了！很快就見面了。"
           },
           {
-            "en": "The tickets are booked. See you very soon!",
-            "zh": "票訂好了。很快就見面了！"
+            "en": "We're coming to visit you in June. The tickets are booked. See you very soon!",
+            "zh": "我們六月要去看你。票訂好了。很快就見面了！"
           }
         ]
       },
@@ -27134,24 +27134,24 @@
             "zh": "聽說你手臂骨折了。早日康復！"
           },
           {
-            "en": "Get well soon, Grandpa.",
-            "zh": "爺爺，祝你早日康復。"
+            "en": "We hope the hospital food isn't too bad. Get well soon, Grandpa.",
+            "zh": "希望醫院的伙食不會太糟。爺爺，祝你早日康復。"
           },
           {
             "en": "Sorry to hear about your flu. Get well soon.",
             "zh": "聽說你得了流感，真遺憾。早日康復。"
           },
           {
-            "en": "Stay in bed and get well soon.",
-            "zh": "好好躺在床上休息，早日康復。"
+            "en": "Don't come to work tomorrow. Stay in bed and get well soon.",
+            "zh": "明天別來上班了。好好躺在床上休息，早日康復。"
           },
           {
             "en": "We all miss you at work. Get well soon!",
             "zh": "公司的大家都很想你。早日康復！"
           },
           {
-            "en": "Rest up and get well soon.",
-            "zh": "好好休息，早日康復。"
+            "en": "Your knee needs time after the operation. Rest up and get well soon.",
+            "zh": "你的膝蓋開完刀需要時間。好好休息，早日康復。"
           }
         ]
       },
@@ -27159,8 +27159,8 @@
         "heading": "④ Talk to you soon. / Speak to you soon.",
         "items": [
           {
-            "en": "I have to go now. Talk to you soon.",
-            "zh": "我得掛了。再聊。"
+            "en": "My train is here. I have to go now. Talk to you soon.",
+            "zh": "我的火車來了。我得掛了。再聊。"
           },
           {
             "en": "Thanks for the call. Talk to you soon.",
@@ -27171,12 +27171,12 @@
             "zh": "我今晚把細節寄給你。再聯絡。"
           },
           {
-            "en": "Let me check with my boss. Speak to you soon.",
-            "zh": "我問一下我老闆。再聯絡。"
+            "en": "I'm not sure about the date. Let me check with my boss. Speak to you soon.",
+            "zh": "日期我還不確定。我問一下我老闆。再聯絡。"
           },
           {
-            "en": "OK, talk to you soon. Bye!",
-            "zh": "好，再聊。拜拜！"
+            "en": "I'll text you the address. OK, talk to you soon. Bye!",
+            "zh": "我把地址傳給你。好，再聊。拜拜！"
           }
         ]
       },
@@ -27185,15 +27185,15 @@
         "items": [
           {
             "en": "Thanks again for dinner. Hope to see you soon.",
-            "zh": "再次謝謝你的晚餐。希望很快能再見到你。"
+            "zh": "再次謝謝你的晚餐。希望很快能見到你。"
           },
           {
             "en": "Everyone here says hello. Hope to see you soon!",
             "zh": "這裡大家都向你問好。希望很快見到你！"
           },
           {
-            "en": "We hope to see you soon.",
-            "zh": "我們希望很快見到你。"
+            "en": "Our new flat has a guest room now. We hope to see you soon.",
+            "zh": "我們的新公寓現在有客房了。我們希望很快見到你。"
           }
         ]
       },
@@ -27209,8 +27209,8 @@
             "zh": "跟我說說你新學校的事。快點回信。"
           },
           {
-            "en": "Please write soon and send some photos.",
-            "zh": "請快點回信，再寄幾張照片來。"
+            "en": "I can't wait to hear about your trip. Please write soon and send some photos.",
+            "zh": "我等不及聽你的旅行了。請快點回信，再寄幾張照片來。"
           }
         ]
       }

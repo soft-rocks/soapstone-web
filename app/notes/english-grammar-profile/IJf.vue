@@ -12,12 +12,12 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="See you soon 省略了主詞 I'll">
+    <NoteSlide title="See you soon 省略了主詞和助動詞 I'll">
       <NoteWords
         :size="30"
         :parts="[
           { t: 'I\'ll', role: '省略', kind: 'gone' },
-          { t: 'See you', role: 'see + 受詞' },
+          { t: 'See you', role: '動詞 + 受詞' },
           { t: 'soon.', role: '時間副詞', kind: 'key' },
         ]"
       />
@@ -29,12 +29,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'I\'m sorry you\'re sick.', kind: 'dim' },
+          { t: 'I\'m sorry you\'re ill.', kind: 'dim' },
           { t: 'Get well', role: '祈使句', kind: 'key' },
           { t: 'soon.', role: '時間副詞', kind: 'key' },
         ]"
       />
-      <p class="translation">聽說你生病了。早日康復。</p>
+      <p class="translation">你生病了，真遺憾。早日康復。</p>
       <p class="remark">只對生病或受傷的人說，常寫在卡片上。</p>
     </NoteSlide>
 
@@ -87,14 +87,22 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="說身體健康用 well">
-      <NoteFix wrong="Get good soon, Dad." right="Get well soon, Dad." fix="well" />
+      <NoteFix
+        wrong="The doctor says you'll get good soon."
+        right="The doctor says you'll get well soon."
+        fix="well"
+      />
     </NoteSlide>
 
     <NoteSlide title="see 後面要有受詞 you" mark="you">
-      <NoteFix wrong="See soon, Amy." right="See you soon, Amy." fix="you" />
+      <NoteFix
+        wrong="Thanks for the lift. See soon."
+        right="Thanks for the lift. See you soon."
+        fix="you"
+      />
     </NoteSlide>
 
-    <NoteSlide title="later 指同一天稍後，soon 不說出確切的時間" mark="soon">
+    <NoteSlide title="later 指同一天稍後，tomorrow 說出日子，soon 指不久以後" mark="soon">
       <div class="rows is-labeled">
         <div>
           <span class="term">later<br /><i>同一天稍後</i></span>
@@ -130,12 +138,13 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="30"
         :parts="[
+          { t: 'Hurry up!', kind: 'dim' },
           { t: 'The bus', role: '主詞' },
           { t: 'will be here', role: '動詞' },
           { t: 'soon.', role: '時間副詞', kind: 'key' },
         ]"
       />
-      <p class="translation">公車快來了。</p>
+      <p class="translation">快一點！公車快來了。</p>
     </NoteSlide>
   </NoteDeck>
 

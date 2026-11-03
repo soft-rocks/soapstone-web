@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="24"
         :parts="[
           { t: 'These shoes are', kind: 'dim' },
-          { t: 'too', role: 'too', kind: 'key', ring: true },
+          { t: 'too', role: '修飾形容詞', kind: 'key', ring: true },
           { t: 'big.', role: '形容詞', kind: 'key' },
           { t: 'Do you have a smaller size?', kind: 'dim' },
         ]"
@@ -30,9 +30,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">very</span>
           <span
-            ><NoteMark sentence="The soup is very hot." :marks="['very hot']" /><span
+            ><NoteMark sentence="My uncle's curry is very spicy." :marks="['very spicy']" /><span
               class="translation"
-              >湯很燙。</span
+              >我叔叔煮的咖哩很辣。</span
             ></span
           >
         </div>
@@ -40,18 +40,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">too</span>
           <span
             ><NoteMark
-              sentence="The soup is too hot. I'll wait a minute."
-              :marks="['too hot']"
-            /><span class="translation">湯太燙了，我等一下再喝。</span></span
+              sentence="My uncle's curry is too spicy. I can't eat it."
+              :marks="['too spicy']"
+            /><span class="translation">我叔叔煮的咖哩太辣了，我吃不下。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="not too 表示不會太怎麼樣" mark="too small">
+    <NoteSlide title="not too 表示不會太怎麼樣">
       <NoteMark
         sentence="The shoes aren't too expensive. They're about 30 pounds."
-        :marks="['too expensive']"
+        :marks="['aren\'t too expensive']"
       />
       <p class="translation">那雙鞋不會太貴，大概三十英鎊。</p>
     </NoteSlide>
@@ -66,14 +66,18 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="形容詞前面只用 too，不加 much" mark="too small">
       <NoteFix
-        wrong="This bag is too much expensive."
-        right="This bag is too expensive."
+        wrong="That car is too much expensive for us."
+        right="That car is too expensive for us."
         fix="too expensive"
       />
     </NoteSlide>
 
     <NoteSlide title="太怎麼樣的 too 有兩個 o" mark="too">
-      <NoteFix wrong="The tea is to sweet." right="The tea is too sweet." fix="too" />
+      <NoteFix
+        wrong="Grandma's lemonade is to sweet for me."
+        right="Grandma's lemonade is too sweet for me."
+        fix="too"
+      />
     </NoteSlide>
   </NoteDeck>
 

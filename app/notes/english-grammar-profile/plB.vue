@@ -18,7 +18,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'We need', kind: 'dim' },
           { t: 'a', role: '限定詞' },
-          { t: 'much', role: 'much', kind: 'key', ring: true },
+          { t: 'much', role: '程度', kind: 'key', ring: true },
           { t: 'bigger', role: '比較級', kind: 'key' },
           { t: 'car', role: '名詞' },
           { t: 'for the trip.', kind: 'dim' },
@@ -27,7 +27,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這趟旅行我們需要一輛大很多的車。</p>
     </NoteSlide>
 
-    <NoteSlide title="複數和不可數名詞前面不加 a" mark="much cheaper">
+    <NoteSlide title="複數和不可數名詞前面不加 a">
       <div class="rows is-labeled">
         <div>
           <span class="term">複數名詞</span>
@@ -55,7 +55,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="24"
         :parts="[
           { t: 'It was', kind: 'dim' },
-          { t: 'a', role: '看 much 的發音', kind: 'key', ring: true },
+          { t: 'a', role: '限定詞', kind: 'key', ring: true },
           { t: 'much older', role: 'much + 比較級', kind: 'key' },
           { t: 'house than ours.', kind: 'dim' },
         ]"
@@ -63,7 +63,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">那是一棟比我們家老很多的房子。</p>
     </NoteSlide>
 
-    <NoteSlide title="修飾比較級用 much，不用 very" mark="much">
+    <NoteSlide title="修飾比較級用 much，不用 very" mark="much cheaper">
       <NoteFix
         wrong="She found a very better job in Taichung."
         right="She found a much better job in Taichung."

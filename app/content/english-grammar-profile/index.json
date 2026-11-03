@@ -8350,25 +8350,25 @@
       "I chose these jeans because they were the cheapest ones in the shop.",
       "It's our first time here. What's the most popular dish in this restaurant?",
       "The hotel was nearly empty, so we got the biggest room in the hotel.",
-      "Don't touch that one. This is the most expensive watch in the store.",
+      "Don't touch that one. This is the most expensive watch in the shop.",
       "My son always asks for the chocolate cake. It's the sweetest thing in the bakery.",
-      "Elm Road is the widest street in our neighborhood.",
+      "Elm Road is the widest street in our neighbourhood.",
       "People queue outside my cousins' shop every morning. Their bakery sells the best bread in the city.",
       "Our neighbours have roses all over the front wall. Their house is the prettiest one in the street.",
       "Let's open the new shop near the station. It's the busiest place in town.",
-      "I eat my lunch here on sunny days. This park is the greenest area in the city center.",
+      "I eat my lunch here on sunny days. This park is the greenest area in the city centre.",
       "You can see the whole harbour from our room. This hotel has the best view in Kaohsiung.",
       "Jade Mountain is the highest mountain in Taiwan.",
-      "Is it Toronto or Montreal? Which is the biggest city in Canada?",
+      "Which is the biggest city in Canada? Is it Toronto or Montreal?",
       "Look at the gold walls in the photo. This is the most famous temple in Kyoto.",
       "We went up the Tokyo Skytree on our trip. It's the tallest tower in Japan.",
       "Go south for your summer holiday. Kenting has the best beaches in Taiwan.",
-      "We only have fifty dollars a night. Is this the cheapest hotel in the area?",
-      "Excuse me, I need some cash. Where's the nearest bank in this neighborhood?",
+      "We can only pay fifty dollars a night. Is this the cheapest hotel in the area?",
+      "Excuse me, I need some cash. Where's the nearest bank in this neighbourhood?",
       "My mother needs an operation on her heart. Who's the best doctor in the hospital?",
-      "I sat behind a big pillar all night. That was the worst seat in the theater.",
+      "I sat behind a big pillar all night. That was the worst seat in the theatre.",
       "Leo always remembers my order. He's the friendliest waiter in the café.",
-      "I study there before exams. The library is the quietest building in the school.",
+      "The library is the quietest building in the school. I study there before exams.",
       "Line 2 goes through the centre. It's the most crowded underground line in the city.",
       "Nobody wants to sleep in the back bedroom. It's the coldest room in the flat."
     ],
@@ -8418,7 +8418,7 @@
             "zh": "飯店幾乎沒有客人，所以我們拿到飯店裡最大的房間。"
           },
           {
-            "en": "Don't touch that one. This is the most expensive watch in the store.",
+            "en": "Don't touch that one. This is the most expensive watch in the shop.",
             "zh": "別碰那支。這是店裡最貴的手錶。"
           },
           {
@@ -8431,7 +8431,7 @@
         "heading": "③ in the city / town / street",
         "items": [
           {
-            "en": "Elm Road is the widest street in our neighborhood.",
+            "en": "Elm Road is the widest street in our neighbourhood.",
             "zh": "Elm Road 是我們這一區最寬的街。"
           },
           {
@@ -8440,14 +8440,14 @@
           },
           {
             "en": "Our neighbours have roses all over the front wall. Their house is the prettiest one in the street.",
-            "zh": "我們的鄰居前面整面牆都是玫瑰。他們家是這條街上最漂亮的房子。"
+            "zh": "我們鄰居家前面那面牆上都是玫瑰。他們家是這條街上最漂亮的房子。"
           },
           {
             "en": "Let's open the new shop near the station. It's the busiest place in town.",
             "zh": "我們把新店開在車站附近吧。那是鎮上最熱鬧的地方。"
           },
           {
-            "en": "I eat my lunch here on sunny days. This park is the greenest area in the city center.",
+            "en": "I eat my lunch here on sunny days. This park is the greenest area in the city centre.",
             "zh": "天氣好的時候我在這裡吃午餐。這座公園是市中心綠地最多的地方。"
           }
         ]
@@ -8464,8 +8464,8 @@
             "zh": "玉山是台灣最高的山。"
           },
           {
-            "en": "Is it Toronto or Montreal? Which is the biggest city in Canada?",
-            "zh": "是多倫多還是蒙特婁？加拿大最大的城市是哪一個？"
+            "en": "Which is the biggest city in Canada? Is it Toronto or Montreal?",
+            "zh": "加拿大最大的城市是哪一個？是多倫多還是蒙特婁？"
           },
           {
             "en": "Look at the gold walls in the photo. This is the most famous temple in Kyoto.",
@@ -8482,14 +8482,14 @@
         ]
       },
       {
-        "heading": "⑤ 問句和不同的句型",
+        "heading": "⑤ 問句和其他地方",
         "items": [
           {
-            "en": "We only have fifty dollars a night. Is this the cheapest hotel in the area?",
-            "zh": "我們一個晚上只有五十塊。這是這一帶最便宜的旅館嗎？"
+            "en": "We can only pay fifty dollars a night. Is this the cheapest hotel in the area?",
+            "zh": "我們一個晚上只付得起五十塊。這是這一帶最便宜的旅館嗎？"
           },
           {
-            "en": "Excuse me, I need some cash. Where's the nearest bank in this neighborhood?",
+            "en": "Excuse me, I need some cash. Where's the nearest bank in this neighbourhood?",
             "zh": "不好意思，我需要一些現金。這附近最近的銀行在哪裡？"
           },
           {
@@ -8497,16 +8497,16 @@
             "zh": "我媽媽心臟需要開刀。醫院裡最好的醫生是誰？"
           },
           {
-            "en": "I sat behind a big pillar all night. That was the worst seat in the theater.",
+            "en": "I sat behind a big pillar all night. That was the worst seat in the theatre.",
             "zh": "我整個晚上坐在一根大柱子後面。那是劇院裡最差的位子。"
           },
           {
             "en": "Leo always remembers my order. He's the friendliest waiter in the café.",
-            "zh": "里歐總是記得我點什麼。他是咖啡店裡最友善的服務生。"
+            "zh": "Leo 總是記得我點什麼。他是咖啡店裡最友善的服務生。"
           },
           {
-            "en": "I study there before exams. The library is the quietest building in the school.",
-            "zh": "考試前我都在那裡讀書。圖書館是學校裡最安靜的建築。"
+            "en": "The library is the quietest building in the school. I study there before exams.",
+            "zh": "圖書館是學校裡最安靜的建築。考試前我都在那裡讀書。"
           },
           {
             "en": "Line 2 goes through the centre. It's the most crowded underground line in the city.",

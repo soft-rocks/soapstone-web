@@ -30,10 +30,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">in + the + 名詞</span>
           <span
-            ><NoteMark sentence="It's the oldest café in the city." :marks="['in the city']" /><span
-              class="translation"
-              >那是這座城市裡最老的咖啡店。</span
-            ></span
+            ><NoteMark
+              sentence="The guide showed us the oldest painting in the museum."
+              :marks="['in the museum']"
+            /><span class="translation">導覽員帶我們看博物館裡最古老的畫。</span></span
           >
         </div>
         <div>
@@ -56,7 +56,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="國家和城市的名稱前面不加 the" mark="in the house">
+    <NoteSlide title="國家和城市的名稱前面不加 the">
       <NoteFix
         wrong="It's the highest mountain in the Taiwan."
         right="It's the highest mountain in Taiwan."

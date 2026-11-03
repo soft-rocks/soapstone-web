@@ -24,7 +24,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">七月是這裡最熱的月份。</p>
     </NoteSlide>
 
-    <NoteSlide title="big 重複子音，old 直接加 -est" mark="oldest">
+    <NoteSlide title="big 重複子音，old 直接加 -est" mark="biggest and oldest">
       <div class="rows is-labeled">
         <div>
           <span class="term">big → biggest</span>
@@ -78,9 +78,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="加了 -est 就不加 most" mark="biggest">
       <NoteFix
-        wrong="August is the most hottest month."
-        right="August is the hottest month."
-        fix="the hottest"
+        wrong="Ben is the most fittest player on our team."
+        right="Ben is the fittest player on our team."
+        fix="the fittest"
       />
     </NoteSlide>
   </NoteDeck>

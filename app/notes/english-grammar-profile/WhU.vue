@@ -25,12 +25,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我爸媽買了一輛比較大的車。</p>
     </NoteSlide>
 
-    <NoteSlide title="長的形容詞用 more" mark="older">
+    <NoteSlide title="長的形容詞用 more">
       <NoteMark sentence="We need a more comfortable chair." :marks="['more comfortable chair']" />
       <p class="translation">我們需要一張比較舒服的椅子。</p>
     </NoteSlide>
 
-    <NoteSlide title="older 和 younger" mark="older brother">
+    <NoteSlide title="older 指哥哥姊姊，younger 指弟弟妹妹" mark="older brother">
       <div class="rows is-labeled">
         <div>
           <span class="term">哥哥</span>
@@ -51,7 +51,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="older 前面不加 more" mark="older">
+    <NoteSlide title="old 的比較級是 older，不用 more" mark="older">
       <NoteFix
         wrong="She lives with her more old sister."
         right="She lives with her older sister."
@@ -59,11 +59,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="good 的比較級是 better" mark="older">
+    <NoteSlide title="good 的比較級是 better">
       <NoteFix wrong="He wants a gooder job." right="He wants a better job." fix="better" />
     </NoteSlide>
 
-    <NoteSlide title="older 前面用 an" mark="my older">
+    <NoteSlide title="older 前面用 an" mark="older">
       <NoteFix wrong="I have a older brother." right="I have an older brother." fix="an">
         <code>older</code> 的發音以母音開頭。
       </NoteFix>

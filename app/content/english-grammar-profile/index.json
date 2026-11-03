@@ -936,88 +936,88 @@
     "translation": "我和我哥哥一起玩電腦遊戲。",
     "name": "比較級形容詞放在名詞前",
     "sentences": [
-      "My parents bought a bigger car.",
-      "My younger sister likes cats.",
-      "We took the faster train.",
-      "She is wearing her newer shoes today.",
-      "Can I see the smaller box, please?",
-      "Ken moved to a cheaper apartment.",
-      "My older brother lives in Tainan.",
-      "Let's sit at the longer table.",
-      "They have a younger son and an older daughter.",
-      "The shorter road is closed.",
-      "The climbers used a stronger rope.",
-      "He picked the larger piece of cake.",
-      "He wants a better job.",
-      "Our team has a better coach now.",
-      "We had a worse time than last year.",
-      "Is there a better way to do this?",
-      "They moved to a better neighborhood.",
-      "I'd like a more comfortable chair.",
-      "She chose a more interesting topic.",
-      "We need a more modern computer.",
-      "He found a more useful book in the library.",
-      "Let's take the more beautiful road.",
-      "My older sister is a nurse.",
-      "Do you have any younger brothers?",
-      "Ann's older brother plays the guitar.",
-      "I share a room with my younger brother.",
-      "My grandmother's younger sister lives with us.",
-      "Is your older sister married?",
-      "I will buy a warmer jacket next week.",
-      "We stayed at a cheaper hotel last time."
+      "Our old car was too small for five people, so my parents bought a bigger car.",
+      "My brother loves dogs, but my younger sister likes cats.",
+      "We were late for the meeting, so we took the faster train.",
+      "Her old shoes hurt her feet, so she's wearing her newer shoes today.",
+      "That box is too big for the present. Can I see the smaller box, please?",
+      "Ken's rent went up again, so he moved to a cheaper flat.",
+      "I live in Taipei, but my older brother lives in Tainan.",
+      "There are eight of us. Let's sit at the longer table.",
+      "The Lins have two kids. They have a younger son and an older daughter.",
+      "We have to drive round the hill today. The shorter road is closed.",
+      "The first rope broke on the rocks, so the climbers used a stronger rope.",
+      "My brother cut the cake in two and picked the larger piece.",
+      "My uncle works long hours for very little money. He wants a better job.",
+      "We lost every game last year, but our team has a better coach now.",
+      "It rained every day on our holiday this year. We had a worse time than last year.",
+      "I spend hours on these reports every week. Is there a better way to do this?",
+      "My cousins didn't feel safe in their old area, so they moved to a better neighbourhood.",
+      "My back hurts after a day at this desk. We need a more comfortable chair.",
+      "Nobody wanted to write about the weather, so Mia chose a more interesting topic.",
+      "Our office computer is fifteen years old. We need a more modern computer.",
+      "The textbook didn't help Leo, but he found a more useful book in the library.",
+      "We're not in a hurry. Let's take the more beautiful road along the coast.",
+      "My older sister works at the city hospital. She's a nurse.",
+      "You talk about your sister a lot. Do you have any younger brothers?",
+      "Ann's older brother is in a band. He plays the guitar.",
+      "Our flat only has two bedrooms, so I share a room with my younger brother.",
+      "My grandmother's younger sister lives with us. We call her Aunt Rose.",
+      "I saw a ring on your older sister's hand. Is she married?",
+      "My jacket isn't warm enough for the mountains. I'll buy a warmer jacket next week.",
+      "This hotel is very expensive. We stayed at a cheaper hotel last time."
     ],
     "examples": [
       {
         "heading": "① 限定詞 + 形容詞-er + 名詞",
         "items": [
           {
-            "en": "My parents bought a bigger car.",
-            "zh": "我爸媽買了一輛比較大的車。"
+            "en": "Our old car was too small for five people, so my parents bought a bigger car.",
+            "zh": "我們的舊車坐五個人太小了，所以我爸媽買了一輛比較大的車。"
           },
           {
-            "en": "My younger sister likes cats.",
-            "zh": "我妹妹喜歡貓。"
+            "en": "My brother loves dogs, but my younger sister likes cats.",
+            "zh": "我哥哥喜歡狗，可是我妹妹喜歡貓。"
           },
           {
-            "en": "We took the faster train.",
-            "zh": "我們搭了比較快的那班火車。"
+            "en": "We were late for the meeting, so we took the faster train.",
+            "zh": "我們開會要遲到了，所以搭了比較快的那班火車。"
           },
           {
-            "en": "She is wearing her newer shoes today.",
-            "zh": "她今天穿比較新的那雙鞋。"
+            "en": "Her old shoes hurt her feet, so she's wearing her newer shoes today.",
+            "zh": "她的舊鞋會磨腳，所以她今天穿比較新的那雙鞋。"
           },
           {
-            "en": "Can I see the smaller box, please?",
-            "zh": "可以讓我看看比較小的那個盒子嗎？"
+            "en": "That box is too big for the present. Can I see the smaller box, please?",
+            "zh": "那個盒子裝禮物太大了。可以讓我看看比較小的那個盒子嗎？"
           },
           {
-            "en": "Ken moved to a cheaper apartment.",
-            "zh": "Ken 搬到一間比較便宜的公寓。"
+            "en": "Ken's rent went up again, so he moved to a cheaper flat.",
+            "zh": "Ken 的房租又漲了，所以他搬到一間比較便宜的公寓。"
           },
           {
-            "en": "My older brother lives in Tainan.",
-            "zh": "我哥哥住在台南。"
+            "en": "I live in Taipei, but my older brother lives in Tainan.",
+            "zh": "我住在台北，不過我哥哥住在台南。"
           },
           {
-            "en": "Let's sit at the longer table.",
-            "zh": "我們坐比較長的那張桌子吧。"
+            "en": "There are eight of us. Let's sit at the longer table.",
+            "zh": "我們有八個人。我們坐比較長的那張桌子吧。"
           },
           {
-            "en": "They have a younger son and an older daughter.",
-            "zh": "他們有一個比較小的兒子和一個比較大的女兒。"
+            "en": "The Lins have two kids. They have a younger son and an older daughter.",
+            "zh": "林家有兩個孩子。他們有一個比較小的兒子和一個比較大的女兒。"
           },
           {
-            "en": "The shorter road is closed.",
-            "zh": "比較近的那條路封起來了。"
+            "en": "We have to drive round the hill today. The shorter road is closed.",
+            "zh": "我們今天得繞過山丘開。比較近的那條路封起來了。"
           },
           {
-            "en": "The climbers used a stronger rope.",
-            "zh": "登山客用了比較牢固的繩子。"
+            "en": "The first rope broke on the rocks, so the climbers used a stronger rope.",
+            "zh": "第一條繩子在岩石上斷了，所以登山客用了比較牢固的繩子。"
           },
           {
-            "en": "He picked the larger piece of cake.",
-            "zh": "他挑了比較大的那塊蛋糕。"
+            "en": "My brother cut the cake in two and picked the larger piece.",
+            "zh": "我哥哥把蛋糕切成兩塊，挑了比較大的那塊。"
           }
         ]
       },
@@ -1025,24 +1025,24 @@
         "heading": "② better / worse + 名詞",
         "items": [
           {
-            "en": "He wants a better job.",
-            "zh": "他想要一份比較好的工作。"
+            "en": "My uncle works long hours for very little money. He wants a better job.",
+            "zh": "我叔叔工作時間長，錢又很少。他想要一份比較好的工作。"
           },
           {
-            "en": "Our team has a better coach now.",
-            "zh": "我們隊現在有比較好的教練。"
+            "en": "We lost every game last year, but our team has a better coach now.",
+            "zh": "我們去年每場都輸，不過我們隊現在有比較好的教練。"
           },
           {
-            "en": "We had a worse time than last year.",
-            "zh": "我們比去年過得還糟。"
+            "en": "It rained every day on our holiday this year. We had a worse time than last year.",
+            "zh": "今年度假每天都下雨。我們比去年過得還糟。"
           },
           {
-            "en": "Is there a better way to do this?",
-            "zh": "有沒有比較好的辦法做這件事？"
+            "en": "I spend hours on these reports every week. Is there a better way to do this?",
+            "zh": "我每個星期花好幾個小時做這些報告。有沒有比較好的辦法做這件事？"
           },
           {
-            "en": "They moved to a better neighborhood.",
-            "zh": "他們搬到一個比較好的社區。"
+            "en": "My cousins didn't feel safe in their old area, so they moved to a better neighbourhood.",
+            "zh": "我表哥一家在以前住的地方覺得不安全，所以搬到一個比較好的社區。"
           }
         ]
       },
@@ -1050,24 +1050,24 @@
         "heading": "③ more + 形容詞 + 名詞",
         "items": [
           {
-            "en": "I'd like a more comfortable chair.",
-            "zh": "我想要一張比較舒服的椅子。"
+            "en": "My back hurts after a day at this desk. We need a more comfortable chair.",
+            "zh": "在這張桌子坐一天，我的背好痛。我們需要一張比較舒服的椅子。"
           },
           {
-            "en": "She chose a more interesting topic.",
-            "zh": "她選了一個比較有趣的題目。"
+            "en": "Nobody wanted to write about the weather, so Mia chose a more interesting topic.",
+            "zh": "沒有人想寫天氣，所以 Mia 選了一個比較有趣的題目。"
           },
           {
-            "en": "We need a more modern computer.",
-            "zh": "我們需要一台比較新型的電腦。"
+            "en": "Our office computer is fifteen years old. We need a more modern computer.",
+            "zh": "我們辦公室的電腦用了十五年。我們需要一台比較新型的電腦。"
           },
           {
-            "en": "He found a more useful book in the library.",
-            "zh": "他在圖書館找到一本比較有用的書。"
+            "en": "The textbook didn't help Leo, but he found a more useful book in the library.",
+            "zh": "課本幫不了 Leo，不過他在圖書館找到一本比較有用的書。"
           },
           {
-            "en": "Let's take the more beautiful road.",
-            "zh": "我們走風景比較漂亮的那條路吧。"
+            "en": "We're not in a hurry. Let's take the more beautiful road along the coast.",
+            "zh": "我們不趕時間。我們走沿海風景比較漂亮的那條路吧。"
           }
         ]
       },
@@ -1075,24 +1075,24 @@
         "heading": "④ older / younger + 家人",
         "items": [
           {
-            "en": "My older sister is a nurse.",
-            "zh": "我姊姊是護理師。"
+            "en": "My older sister works at the city hospital. She's a nurse.",
+            "zh": "我姊姊在市立醫院上班。她是護理師。"
           },
           {
-            "en": "Do you have any younger brothers?",
-            "zh": "你有弟弟嗎？"
+            "en": "You talk about your sister a lot. Do you have any younger brothers?",
+            "zh": "你常講到你姊姊。你有弟弟嗎？"
           },
           {
-            "en": "Ann's older brother plays the guitar.",
-            "zh": "Ann 的哥哥會彈吉他。"
+            "en": "Ann's older brother is in a band. He plays the guitar.",
+            "zh": "Ann 的哥哥在一個樂團裡。他彈吉他。"
           },
           {
-            "en": "I share a room with my younger brother.",
-            "zh": "我跟我弟弟住同一個房間。"
+            "en": "Our flat only has two bedrooms, so I share a room with my younger brother.",
+            "zh": "我們的公寓只有兩間臥室，所以我跟我弟弟住同一個房間。"
           },
           {
-            "en": "My grandmother's younger sister lives with us.",
-            "zh": "我奶奶的妹妹跟我們住在一起。"
+            "en": "My grandmother's younger sister lives with us. We call her Aunt Rose.",
+            "zh": "我奶奶的妹妹跟我們住在一起。我們叫她 Rose 姨婆。"
           }
         ]
       },
@@ -1100,16 +1100,16 @@
         "heading": "⑤ 不同的句子",
         "items": [
           {
-            "en": "Is your older sister married?",
-            "zh": "你姊姊結婚了嗎？"
+            "en": "I saw a ring on your older sister's hand. Is she married?",
+            "zh": "我看到你姊姊手上戴著戒指。她結婚了嗎？"
           },
           {
-            "en": "I will buy a warmer jacket next week.",
-            "zh": "我下禮拜會買一件比較保暖的外套。"
+            "en": "My jacket isn't warm enough for the mountains. I'll buy a warmer jacket next week.",
+            "zh": "我的外套去山上不夠暖。我下禮拜會買一件比較保暖的外套。"
           },
           {
-            "en": "We stayed at a cheaper hotel last time.",
-            "zh": "我們上次住比較便宜的旅館。"
+            "en": "This hotel is very expensive. We stayed at a cheaper hotel last time.",
+            "zh": "這家旅館很貴。我們上次住比較便宜的旅館。"
           }
         ]
       }

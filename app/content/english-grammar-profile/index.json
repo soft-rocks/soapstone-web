@@ -13176,26 +13176,26 @@
       "Don't take the bus to Oxford. The train is faster than the bus.",
       "You should come camping with us. A week in the mountains is better than a week at home.",
       "Over fifty bands played this year. This year's festival was bigger than last year's.",
-      "My parents took the big room. My bedroom is smaller than the living room.",
+      "We can't put the piano in my bedroom. My bedroom is smaller than the living room.",
       "The twins never talk at parties. They're shyer than me.",
-      "Lily is twelve, and her brother Max is fourteen. She is taller than him.",
+      "Lily is twelve, and her brother Max is fourteen. But she is taller than him.",
       "Let's race to the gate. You are faster than I am, so I'll start first.",
       "Ann carried the heavy box, not Tom. Ann is stronger than he is.",
       "Our neighbours have two cars and a boat. They're richer than us.",
       "I have more free time than my parents. My parents are busier than I am.",
       "Let's cook at the Smiths' house. Their kitchen is cleaner than ours.",
-      "The teacher read both answers to the class. Her answer was better than yours.",
+      "The teacher read Amy's answer and your answer to the class. Her answer was better than yours.",
       "Our neighbours' house was built in 1900. Their house is older than ours.",
       "I bought my car in March. It's newer than Tom's.",
       "You and Lisa got new phones. Is your phone cheaper than hers?",
       "We had snow for three months last year. Last winter was colder than this one.",
-      "The film has lots of extra scenes. It'll be longer than the book.",
+      "The director added lots of extra scenes. The new film will be longer than the first one.",
       "I'm going to Japan in May. Is Tokyo more expensive than Taipei?",
       "Our science teacher talked about space today. Nothing is faster than light.",
       "Students like the new library. The new library is more modern than the old one.",
       "Let's eat here in the morning. Breakfast here is cheaper than lunch.",
       "Ken's cat sleeps all day. It's lazier than mine.",
-      "We lost the final five to one. The red team was stronger than the blue team.",
+      "Our team lost the final five to one. The other team was stronger than us.",
       "You spent a lot on your trip to Iceland. Was the trip more expensive than you thought?"
     ],
     "examples": [
@@ -13239,8 +13239,8 @@
             "zh": "今年有超過五十個樂團演出。今年的音樂節比去年的大。"
           },
           {
-            "en": "My parents took the big room. My bedroom is smaller than the living room.",
-            "zh": "我爸媽住大房間。我的臥室比客廳小。"
+            "en": "We can't put the piano in my bedroom. My bedroom is smaller than the living room.",
+            "zh": "我們沒辦法把鋼琴放進我的臥室。我的臥室比客廳小。"
           }
         ]
       },
@@ -13252,8 +13252,8 @@
             "zh": "那對雙胞胎在派對上從來不說話。他們比我害羞。"
           },
           {
-            "en": "Lily is twelve, and her brother Max is fourteen. She is taller than him.",
-            "zh": "Lily 十二歲，她哥哥 Max 十四歲。她比他高。"
+            "en": "Lily is twelve, and her brother Max is fourteen. But she is taller than him.",
+            "zh": "Lily 十二歲，她哥哥 Max 十四歲。可是她比他高。"
           },
           {
             "en": "Let's race to the gate. You are faster than I am, so I'll start first.",
@@ -13281,8 +13281,8 @@
             "zh": "我們去 Smith 家煮飯吧。他們的廚房比我們的乾淨。"
           },
           {
-            "en": "The teacher read both answers to the class. Her answer was better than yours.",
-            "zh": "老師把兩個答案都唸給全班聽。她的答案比你的好。"
+            "en": "The teacher read Amy's answer and your answer to the class. Her answer was better than yours.",
+            "zh": "老師把 Amy 的答案和你的答案唸給全班聽。她的答案比你的好。"
           },
           {
             "en": "Our neighbours' house was built in 1900. Their house is older than ours.",
@@ -13306,8 +13306,8 @@
             "zh": "我們去年下了三個月的雪。去年冬天比今年冷。"
           },
           {
-            "en": "The film has lots of extra scenes. It'll be longer than the book.",
-            "zh": "這部電影加了很多場景。電影會比書長。"
+            "en": "The director added lots of extra scenes. The new film will be longer than the first one.",
+            "zh": "導演加了很多場景。新的電影會比第一部長。"
           },
           {
             "en": "I'm going to Japan in May. Is Tokyo more expensive than Taipei?",
@@ -13330,8 +13330,8 @@
             "zh": "Ken 的貓整天都在睡。牠比我的懶。"
           },
           {
-            "en": "We lost the final five to one. The red team was stronger than the blue team.",
-            "zh": "我們決賽五比一輸了。紅隊比藍隊強。"
+            "en": "Our team lost the final five to one. The other team was stronger than us.",
+            "zh": "我們隊決賽五比一輸了。另一隊比我們強。"
           },
           {
             "en": "You spent a lot on your trip to Iceland. Was the trip more expensive than you thought?",

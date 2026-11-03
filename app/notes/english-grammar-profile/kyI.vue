@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">海水比游泳池的水溫暖。</p>
     </NoteSlide>
 
-    <NoteSlide title="than 後面的形式" mark="than">
+    <NoteSlide title="than 後面接名詞片語、代名詞或所有格代名詞" mark="than my old phone">
       <div class="rows is-labeled">
         <div>
           <span class="term">名詞片語</span>
@@ -66,7 +66,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="比較級後面接 than，不接 that" mark="than">
+    <NoteSlide title="比較級後面接 than，不接 that" mark="smaller than">
       <NoteFix wrong="Paris is bigger that Rome." right="Paris is bigger than Rome." fix="than" />
     </NoteSlide>
 
@@ -80,7 +80,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </NoteFix>
     </NoteSlide>
 
-    <NoteSlide title="比較的東西要對得上" mark="my old phone">
+    <NoteSlide title="比較的東西要對得上" :mark="['It\'s', 'my old phone']">
       <NoteFix wrong="My car is newer than Tom." right="My car is newer than Tom's." fix="Tom's">
         車跟車比。<code>Tom's</code> 是 Tom 的車。
       </NoteFix>

@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">句子是否定的意思，但是沒有 <code>not</code>。</p>
     </NoteSlide>
 
-    <NoteSlide title="主詞是不定詞的受詞，後面不加 it" mark="to write">
+    <NoteSlide title="主詞是不定詞的受詞，後面不加 it">
       <NoteWords
         :size="26"
         :parts="[
@@ -38,12 +38,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這茶太燙了，沒辦法喝。</p>
     </NoteSlide>
 
-    <NoteSlide title="for + 人說明是誰做不到" mark="too busy">
+    <NoteSlide title="for + 人說明是誰做不到">
       <NoteMark sentence="The suitcase was too heavy for me to lift." :marks="['for me']" />
       <p class="translation">這個行李箱太重了，我提不起來。</p>
     </NoteSlide>
 
-    <NoteSlide title="too 後面接 to 不定詞，接子句要用 so ... that" mark="too">
+    <NoteSlide title="too 後面接 to 不定詞，接子句要用 so ... that" mark="too busy to write">
       <NoteFix
         wrong="The film was too long that I fell asleep."
         right="The film was so long that I fell asleep."
@@ -51,16 +51,20 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="主詞已經是受詞，不定詞後面不加 it" mark="to write">
+    <NoteSlide title="主詞已經是受詞，不定詞後面不加 it">
       <NoteFix
-        wrong="This soup is too hot to eat it."
-        right="This soup is too hot to eat."
-        fix="eat"
+        wrong="My grandfather's car is too old to sell it."
+        right="My grandfather's car is too old to sell."
+        fix="sell"
       />
     </NoteSlide>
 
     <NoteSlide title="說太怎麼樣所以不能做，用 too，不用 very" mark="too busy">
-      <NoteFix wrong="He was very young to drive." right="He was too young to drive." fix="too" />
+      <NoteFix
+        wrong="Our son was very small to ride the roller coaster."
+        right="Our son was too small to ride the roller coaster."
+        fix="too"
+      />
     </NoteSlide>
   </NoteDeck>
 

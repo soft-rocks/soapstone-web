@@ -57,18 +57,18 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我非常確定這個計畫會成功。</p>
     </NoteSlide>
 
-    <NoteSlide title="可以分程度的形容詞不配 absolutely" mark="absolutely">
+    <NoteSlide title="可以分程度的形容詞不配 absolutely">
       <NoteFix
-        wrong="The test was absolutely difficult."
-        right="The test was extremely difficult."
+        wrong="My driving test was absolutely difficult."
+        right="My driving test was extremely difficult."
         fix="extremely"
       />
     </NoteSlide>
 
-    <NoteSlide title="本身就很強的形容詞不配 very" mark="absolutely">
+    <NoteSlide title="本身就很強的形容詞不配 very">
       <NoteFix
-        wrong="The concert was very amazing."
-        right="The concert was absolutely amazing."
+        wrong="Our holiday in Bali was very amazing."
+        right="Our holiday in Bali was absolutely amazing."
         fix="absolutely"
       />
     </NoteSlide>

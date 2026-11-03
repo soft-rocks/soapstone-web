@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="very 放在形容詞前面，a 放在 very 前面">
+    <NoteSlide title="very 放在形容詞前面，a 放在 very 前面" mark="a very good">
       <NoteWords
         :size="30"
         :parts="[
@@ -40,19 +40,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">look、feel、seem</span>
           <span
-            ><NoteMark sentence="You look very tired." :marks="['very tired']" /><span
-              class="translation"
-              >你看起來很累。</span
-            ></span
+            ><NoteMark
+              sentence="You look very tired after your trip."
+              :marks="['very tired']"
+            /><span class="translation">你旅行回來看起來很累。</span></span
           >
         </div>
         <div>
           <span class="term">複數名詞前面</span>
           <span
-            ><NoteMark sentence="They are very nice people." :marks="['very nice']" /><span
-              class="translation"
-              >他們人很好。</span
-            ></span
+            ><NoteMark
+              sentence="Our new neighbours are very nice people."
+              :marks="['very nice']"
+            /><span class="translation">我們的新鄰居人很好。</span></span
           >
         </div>
       </div>
@@ -78,52 +78,60 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="very 不修飾動詞，修飾動詞用 very much" mark="very">
-      <NoteFix wrong="I very like this song." right="I like this song very much." fix="very much" />
+    <NoteSlide title="very 不修飾動詞，修飾動詞用 very much">
+      <NoteFix
+        wrong="Our kids very like the new playground."
+        right="Our kids like the new playground very much."
+        fix="very much"
+      />
     </NoteSlide>
 
     <NoteSlide title="主詞和 very 加形容詞中間要有 be">
-      <NoteFix wrong="The soup very hot." right="The soup is very hot." fix="is" />
+      <NoteFix
+        wrong="My grandfather very proud of his garden."
+        right="My grandfather is very proud of his garden."
+        fix="is"
+      />
     </NoteSlide>
 
-    <NoteSlide title="very 不修飾比較級，比較級前面用 much" mark="very">
+    <NoteSlide title="very 不修飾比較級，比較級前面用 much">
       <NoteFix wrong="This bag is very cheaper." right="This bag is much cheaper." fix="much" />
     </NoteSlide>
 
     <NoteSlide title="very 只表示程度高，too 表示超過限度" mark="very">
       <div class="rows is-labeled">
         <div>
-          <span class="term">very<br /><i>搬得動</i></span>
+          <span class="term">very<br /><i>關得起來</i></span>
           <span
             ><NoteMark
-              sentence="The box is very heavy, but I can carry it."
-              :marks="['very heavy']"
-            /><span class="translation">箱子很重，可是我搬得動。</span></span
+              sentence="My bag is very full, but I can close it."
+              :marks="['very full']"
+            /><span class="translation">我的包包很滿，不過還關得起來。</span></span
           >
         </div>
         <div>
-          <span class="term">too<br /><i>搬不動</i></span>
+          <span class="term">too<br /><i>關不起來</i></span>
           <span
             ><NoteMark
-              sentence="The box is too heavy. I can't carry it."
-              :marks="['too heavy']"
-            /><span class="translation">箱子太重了。我搬不動。</span></span
+              sentence="My bag is too full. I can't close it."
+              :marks="['too full']"
+            /><span class="translation">我的包包太滿了，關不起來。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="not very 加形容詞表示程度不高" mark="very good">
+    <NoteSlide title="not very 加形容詞表示程度不高">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'The film', role: '主詞', kind: 'dim' },
+          { t: 'The food at the wedding', role: '主詞', kind: 'dim' },
           { t: 'wasn\'t', role: 'be + not' },
           { t: 'very', role: '程度副詞', kind: 'key' },
           { t: 'good.', role: '形容詞' },
         ]"
       />
-      <p class="translation">那部電影不怎麼好看。</p>
+      <p class="translation">婚禮上的菜不怎麼好吃。</p>
       <p class="remark">這個說法比直接說 <code>bad</code> 委婉。</p>
     </NoteSlide>
   </NoteDeck>

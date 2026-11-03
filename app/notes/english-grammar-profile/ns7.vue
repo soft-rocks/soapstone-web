@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="肯定句裡，probably 放在 will 後面">
+    <NoteSlide title="肯定句裡，probably 放在 will 後面" mark="will probably">
       <NoteWords
         :size="30"
         :parts="[
@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">它下個月大概會在電視上播！</p>
     </NoteSlide>
 
-    <NoteSlide title="否定句裡，probably 放在 won't 前面" mark="will probably">
+    <NoteSlide title="否定句裡，probably 放在 won't 前面">
       <NoteWords
         :size="30"
         :parts="[
@@ -54,10 +54,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">probably<br /><i>相當確定</i></span>
           <span
-            ><NoteMark sentence="He's probably at the gym." :marks="['probably']" /><span
-              class="translation"
-              >他大概在健身房。</span
-            ></span
+            ><NoteMark
+              sentence="Ken isn't answering his phone. He's probably at the gym."
+              :marks="['probably']"
+            /><span class="translation">Ken 沒接電話。他大概在健身房。</span></span
           >
         </div>
         <div>
@@ -72,7 +72,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="definitely 和 certainly 可以單獨回答問題">
+    <NoteSlide title="確定程度副詞可以單獨回答問題">
       <NoteWords
         :size="30"
         :parts="[

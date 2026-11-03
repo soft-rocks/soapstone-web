@@ -22250,35 +22250,35 @@
     "sentences": [
       "The shop will probably close early on Christmas Eve.",
       "We'll probably move house next year.",
-      "He's probably at the gym.",
+      "Ken isn't answering his phone. He's probably at the gym.",
       "Your keys are probably in your other bag.",
-      "They probably took the wrong road.",
+      "Our guests should be here by now. They probably took the wrong road.",
       "I'll probably see you at the weekend.",
-      "She probably won't remember me.",
-      "It probably isn't true.",
+      "I met Emma only once, years ago. She probably won't remember me.",
+      "I read a story about the singer online. It probably isn't true.",
       "My parents probably don't know about the party.",
       "I probably won't finish before six.",
       "I'll definitely be at your sister's concert on Saturday.",
       "This is definitely the creamiest ice cream I've ever tasted.",
       "With three dogs, we definitely need a bigger car for camping trips.",
-      "She definitely said three o'clock.",
-      "That was definitely a mistake.",
+      "Sara definitely said three o'clock. I wrote it down.",
+      "I sold my old car for very little. That was definitely a mistake.",
       "If I were you, I'd certainly say no.",
       "The new manager is certainly very busy.",
       "It's certainly colder today than it was last week.",
-      "They will certainly win the match.",
+      "Our team hasn't lost a game all year. They will certainly win the match.",
       "You certainly know a lot about cars.",
       "Because of the snow, the train from Leeds will possibly be late.",
-      "He's possibly the funniest uncle in our whole family.",
+      "Uncle Bob tells jokes all day. He's possibly the funniest person in our family.",
       "We could possibly meet on Friday.",
-      "It's possibly the most important decision of my life.",
+      "I'm thinking about moving to Canada. It's possibly the most important decision of my life.",
       "\"Can I borrow your pen?\" \"Certainly.\"",
       "\"Are you coming to the wedding?\" \"Definitely!\"",
-      "\"Will they be late?\" \"Probably.\"",
-      "\"Is she going to say yes?\" \"Possibly.\"",
+      "\"Will the kids be late?\" \"Probably.\"",
+      "\"Is Anna going to say yes?\" \"Possibly.\"",
       "\"Do you want to go camping?\" \"Definitely not.\"",
       "\"Will it snow tomorrow?\" \"Probably not.\"",
-      "\"Are you going to tell him?\" \"Certainly not!\""
+      "\"Are you going to tell Dad?\" \"Certainly not!\""
     ],
     "examples": [
       {
@@ -22293,16 +22293,16 @@
             "zh": "我們明年大概會搬家。"
           },
           {
-            "en": "He's probably at the gym.",
-            "zh": "他大概在健身房。"
+            "en": "Ken isn't answering his phone. He's probably at the gym.",
+            "zh": "Ken 沒接電話。他大概在健身房。"
           },
           {
             "en": "Your keys are probably in your other bag.",
             "zh": "你的鑰匙大概在你另一個包包裡。"
           },
           {
-            "en": "They probably took the wrong road.",
-            "zh": "他們大概走錯路了。"
+            "en": "Our guests should be here by now. They probably took the wrong road.",
+            "zh": "我們的客人現在應該到了。他們大概走錯路了。"
           },
           {
             "en": "I'll probably see you at the weekend.",
@@ -22314,12 +22314,12 @@
         "heading": "② probably + 否定",
         "items": [
           {
-            "en": "She probably won't remember me.",
-            "zh": "她大概不會記得我。"
+            "en": "I met Emma only once, years ago. She probably won't remember me.",
+            "zh": "我多年前只見過 Emma 一次。她大概不會記得我。"
           },
           {
-            "en": "It probably isn't true.",
-            "zh": "那大概不是真的。"
+            "en": "I read a story about the singer online. It probably isn't true.",
+            "zh": "我在網路上看到一則那個歌手的新聞。那大概不是真的。"
           },
           {
             "en": "My parents probably don't know about the party.",
@@ -22347,12 +22347,12 @@
             "zh": "有三隻狗，我們去露營絕對需要一輛大一點的車。"
           },
           {
-            "en": "She definitely said three o'clock.",
-            "zh": "她確實說的是三點。"
+            "en": "Sara definitely said three o'clock. I wrote it down.",
+            "zh": "Sara 確實說的是三點。我有寫下來。"
           },
           {
-            "en": "That was definitely a mistake.",
-            "zh": "那絕對是個錯誤。"
+            "en": "I sold my old car for very little. That was definitely a mistake.",
+            "zh": "我把舊車便宜賣掉了。那絕對是個錯誤。"
           }
         ]
       },
@@ -22372,8 +22372,8 @@
             "zh": "今天確實比上星期冷。"
           },
           {
-            "en": "They will certainly win the match.",
-            "zh": "他們一定會贏得比賽。"
+            "en": "Our team hasn't lost a game all year. They will certainly win the match.",
+            "zh": "我們的球隊今年一場都沒輸過。他們一定會贏得比賽。"
           },
           {
             "en": "You certainly know a lot about cars.",
@@ -22389,16 +22389,16 @@
             "zh": "因為下雪，從里茲來的火車可能會誤點。"
           },
           {
-            "en": "He's possibly the funniest uncle in our whole family.",
-            "zh": "他可能是我們全家最好笑的叔叔。"
+            "en": "Uncle Bob tells jokes all day. He's possibly the funniest person in our family.",
+            "zh": "Bob 叔叔整天講笑話。他可能是我們家最好笑的人。"
           },
           {
             "en": "We could possibly meet on Friday.",
             "zh": "我們也許可以星期五碰面。"
           },
           {
-            "en": "It's possibly the most important decision of my life.",
-            "zh": "這可能是我人生中最重要的決定。"
+            "en": "I'm thinking about moving to Canada. It's possibly the most important decision of my life.",
+            "zh": "我在考慮搬去加拿大。這可能是我人生中最重要的決定。"
           }
         ]
       },
@@ -22414,17 +22414,17 @@
             "zh": "你會來婚禮嗎？一定會！"
           },
           {
-            "en": "\"Will they be late?\" \"Probably.\"",
-            "zh": "他們會遲到嗎？大概會。"
+            "en": "\"Will the kids be late?\" \"Probably.\"",
+            "zh": "孩子們會遲到嗎？大概會。"
           },
           {
-            "en": "\"Is she going to say yes?\" \"Possibly.\"",
-            "zh": "她會答應嗎？有可能。"
+            "en": "\"Is Anna going to say yes?\" \"Possibly.\"",
+            "zh": "Anna 會答應嗎？有可能。"
           }
         ]
       },
       {
-        "heading": "⑦ definitely not、probably not",
+        "heading": "⑦ definitely not、probably not、certainly not",
         "items": [
           {
             "en": "\"Do you want to go camping?\" \"Definitely not.\"",
@@ -22435,8 +22435,8 @@
             "zh": "明天會下雪嗎？大概不會。"
           },
           {
-            "en": "\"Are you going to tell him?\" \"Certainly not!\"",
-            "zh": "你要告訴他嗎？當然不要！"
+            "en": "\"Are you going to tell Dad?\" \"Certainly not!\"",
+            "zh": "你要告訴爸爸嗎？當然不要！"
           }
         ]
       }

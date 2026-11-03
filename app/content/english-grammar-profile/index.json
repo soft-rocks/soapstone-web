@@ -22052,65 +22052,65 @@
     "translation": "也許我們可以走過去，因為那裡離我家不遠。",
     "name": "maybe、perhaps 表示確定程度",
     "sentences": [
-      "Maybe she missed the bus.",
-      "Maybe he doesn't know about the meeting.",
-      "Maybe they're on holiday.",
-      "Maybe I'll buy a new phone next month.",
-      "Maybe I wrote down the wrong number.",
-      "Maybe the dog is hungry.",
-      "Perhaps you're right.",
-      "Perhaps the train is late.",
-      "Perhaps she forgot my birthday.",
-      "Perhaps they didn't hear the phone.",
-      "Perhaps it's in the other drawer.",
-      "Perhaps I'll see you there.",
-      "It's perhaps the best café in town.",
-      "She was perhaps a little tired.",
-      "We could perhaps take a taxi.",
-      "You perhaps know my brother.",
-      "Maybe we should leave now.",
-      "Maybe you could ask your teacher.",
-      "Perhaps you'd like a cup of tea.",
-      "Perhaps we can try again tomorrow.",
-      "Maybe we can go to the cinema on Saturday.",
-      "\"Will you be home for dinner?\" \"Maybe not.\"",
-      "\"Is she angry with me?\" \"Perhaps.\"",
+      "Lucy is never late, but she isn't here yet. Maybe she missed the bus.",
+      "Tom isn't in the meeting room. Maybe he doesn't know about the meeting.",
+      "Nobody answers the phone at the Smiths' house. Maybe they're on holiday.",
+      "My phone is five years old. Maybe I'll buy a new one next month.",
+      "The man on the phone doesn't know you. Maybe I wrote down the wrong number.",
+      "Rex is sitting by his bowl. Maybe he's hungry.",
+      "You said it would rain, and now it's raining. Perhaps you're right about the trip too.",
+      "Nobody is on the platform yet. Perhaps the train is late.",
+      "My sister didn't call me yesterday. Perhaps she forgot my birthday.",
+      "I called my parents three times. Perhaps they didn't hear the phone.",
+      "The scissors aren't in this drawer. Perhaps they're in the other one.",
+      "You're going to Ann's wedding too? Perhaps I'll see you there.",
+      "Try the cakes at Rosie's. It's perhaps the best café in town.",
+      "Amy didn't say much at dinner. She was perhaps a little tired.",
+      "The last bus has gone. We could perhaps take a taxi.",
+      "You perhaps know my brother. He works at the bank on Main Street.",
+      "It's getting dark, and the roads are icy. Maybe we should leave now.",
+      "You don't understand the homework. Maybe you could ask your teacher.",
+      "You've had a long journey. Perhaps you'd like a cup of tea.",
+      "The computer won't start today. Perhaps we can try again tomorrow.",
+      "The new Pixar film is out. Maybe we can go to the cinema on Saturday.",
+      "\"Will you be home for dinner?\" \"Maybe not. I have to work late.\"",
+      "\"I forgot Mia's birthday. Is she angry with me?\" \"Perhaps.\"",
       "\"Are we going to the beach tomorrow?\" \"Maybe, if it's sunny.\"",
-      "\"Can you help me on Sunday?\" \"Perhaps. I'll call you.\"",
-      "Maybe he isn't coming.",
-      "Perhaps she doesn't like fish.",
-      "Maybe they won't sell the house.",
-      "Shall we wait a bit? Maybe she's still on her way.",
-      "Perhaps it isn't a good idea.",
-      "Why don't you call him? Maybe he's at home."
+      "\"Can you help me move on Sunday?\" \"Perhaps. I'll call you.\"",
+      "Ben said he was on his way an hour ago. Maybe he isn't coming.",
+      "Grandma didn't eat her dinner. Perhaps she doesn't like fish.",
+      "Our neighbours took the sign down. Maybe they won't sell the house.",
+      "Shall we wait for Lucy a bit longer? Maybe she's still on her way.",
+      "We could paint the kitchen black. Perhaps it isn't a good idea.",
+      "Why don't you call Dad? Maybe he's at home."
     ],
     "examples": [
       {
         "heading": "① Maybe + 子句",
         "items": [
           {
-            "en": "Maybe she missed the bus.",
-            "zh": "她可能錯過公車了。"
+            "en": "Lucy is never late, but she isn't here yet. Maybe she missed the bus.",
+            "zh": "Lucy 從不遲到，可是她還沒到。她可能錯過公車了。"
           },
           {
-            "en": "Maybe he doesn't know about the meeting.",
-            "zh": "也許他不知道開會的事。"
+            "en": "Tom isn't in the meeting room. Maybe he doesn't know about the meeting.",
+            "zh": "Tom 不在會議室。也許他不知道開會的事。"
           },
           {
-            "en": "Maybe they're on holiday.",
-            "zh": "他們也許在度假。"
+            "en": "Nobody answers the phone at the Smiths' house. Maybe they're on holiday.",
+            "zh": "Smith 家沒人接電話。他們也許在度假。"
           },
           {
-            "en": "Maybe I'll buy a new phone next month.",
-            "zh": "也許我下個月會買一支新手機。"
+            "en": "My phone is five years old. Maybe I'll buy a new one next month.",
+            "zh": "我的手機用了五年。也許我下個月會買一支新的。"
           },
           {
-            "en": "Maybe I wrote down the wrong number.",
-            "zh": "也許我把號碼抄錯了。"
+            "en": "The man on the phone doesn't know you. Maybe I wrote down the wrong number.",
+            "zh": "電話那頭的人不認識你。也許我把號碼抄錯了。"
           },
           {
-            "en": "Maybe the dog is hungry.",
-            "zh": "也許狗餓了。"
+            "en": "Rex is sitting by his bowl. Maybe he's hungry.",
+            "zh": "Rex 坐在牠的碗旁邊。也許牠餓了。"
           }
         ]
       },
@@ -22118,28 +22118,28 @@
         "heading": "② Perhaps + 子句",
         "items": [
           {
-            "en": "Perhaps you're right.",
-            "zh": "也許你說得對。"
+            "en": "You said it would rain, and now it's raining. Perhaps you're right about the trip too.",
+            "zh": "你說會下雨，現在真的在下雨。也許你對旅行的事也說得對。"
           },
           {
-            "en": "Perhaps the train is late.",
-            "zh": "火車也許誤點了。"
+            "en": "Nobody is on the platform yet. Perhaps the train is late.",
+            "zh": "月台上還沒有人。火車也許誤點了。"
           },
           {
-            "en": "Perhaps she forgot my birthday.",
-            "zh": "她也許忘了我的生日。"
+            "en": "My sister didn't call me yesterday. Perhaps she forgot my birthday.",
+            "zh": "我姊姊昨天沒打給我。她也許忘了我的生日。"
           },
           {
-            "en": "Perhaps they didn't hear the phone.",
-            "zh": "他們也許沒聽到電話響。"
+            "en": "I called my parents three times. Perhaps they didn't hear the phone.",
+            "zh": "我打給我爸媽三次。他們也許沒聽到電話響。"
           },
           {
-            "en": "Perhaps it's in the other drawer.",
-            "zh": "也許在另一個抽屜裡。"
+            "en": "The scissors aren't in this drawer. Perhaps they're in the other one.",
+            "zh": "剪刀不在這個抽屜裡。也許在另一個抽屜裡。"
           },
           {
-            "en": "Perhaps I'll see you there.",
-            "zh": "也許我會在那裡見到你。"
+            "en": "You're going to Ann's wedding too? Perhaps I'll see you there.",
+            "zh": "你也要去 Ann 的婚禮？也許我會在那裡見到你。"
           }
         ]
       },
@@ -22147,20 +22147,20 @@
         "heading": "③ perhaps 放在句中",
         "items": [
           {
-            "en": "It's perhaps the best café in town.",
-            "zh": "這也許是城裡最好的咖啡館。"
+            "en": "Try the cakes at Rosie's. It's perhaps the best café in town.",
+            "zh": "試試 Rosie's 的蛋糕。這也許是城裡最好的咖啡館。"
           },
           {
-            "en": "She was perhaps a little tired.",
-            "zh": "她也許有點累。"
+            "en": "Amy didn't say much at dinner. She was perhaps a little tired.",
+            "zh": "Amy 晚餐時話不多。她也許有點累。"
           },
           {
-            "en": "We could perhaps take a taxi.",
-            "zh": "我們也許可以搭計程車。"
+            "en": "The last bus has gone. We could perhaps take a taxi.",
+            "zh": "最後一班公車已經開走了。我們也許可以搭計程車。"
           },
           {
-            "en": "You perhaps know my brother.",
-            "zh": "你也許認識我哥哥。"
+            "en": "You perhaps know my brother. He works at the bank on Main Street.",
+            "zh": "你也許認識我哥哥。他在 Main Street 的銀行上班。"
           }
         ]
       },
@@ -22168,24 +22168,24 @@
         "heading": "④ 用 maybe、perhaps 提建議",
         "items": [
           {
-            "en": "Maybe we should leave now.",
-            "zh": "也許我們現在該走了。"
+            "en": "It's getting dark, and the roads are icy. Maybe we should leave now.",
+            "zh": "天快黑了，路又結冰。也許我們現在該走了。"
           },
           {
-            "en": "Maybe you could ask your teacher.",
-            "zh": "也許你可以問你的老師。"
+            "en": "You don't understand the homework. Maybe you could ask your teacher.",
+            "zh": "你看不懂功課。也許你可以問你的老師。"
           },
           {
-            "en": "Perhaps you'd like a cup of tea.",
-            "zh": "也許你想喝杯茶。"
+            "en": "You've had a long journey. Perhaps you'd like a cup of tea.",
+            "zh": "你坐了很久的車。也許你想喝杯茶。"
           },
           {
-            "en": "Perhaps we can try again tomorrow.",
-            "zh": "也許我們明天可以再試一次。"
+            "en": "The computer won't start today. Perhaps we can try again tomorrow.",
+            "zh": "電腦今天開不了機。也許我們明天可以再試一次。"
           },
           {
-            "en": "Maybe we can go to the cinema on Saturday.",
-            "zh": "也許我們星期六可以去看電影。"
+            "en": "The new Pixar film is out. Maybe we can go to the cinema on Saturday.",
+            "zh": "皮克斯的新電影上映了。也許我們星期六可以去看電影。"
           }
         ]
       },
@@ -22193,20 +22193,20 @@
         "heading": "⑤ 回答問題",
         "items": [
           {
-            "en": "\"Will you be home for dinner?\" \"Maybe not.\"",
-            "zh": "你會回家吃晚餐嗎？可能不會。"
+            "en": "\"Will you be home for dinner?\" \"Maybe not. I have to work late.\"",
+            "zh": "你會回家吃晚餐嗎？可能不會。我得加班。"
           },
           {
-            "en": "\"Is she angry with me?\" \"Perhaps.\"",
-            "zh": "她在生我的氣嗎？也許吧。"
+            "en": "\"I forgot Mia's birthday. Is she angry with me?\" \"Perhaps.\"",
+            "zh": "我忘了 Mia 的生日。她在生我的氣嗎？也許吧。"
           },
           {
             "en": "\"Are we going to the beach tomorrow?\" \"Maybe, if it's sunny.\"",
             "zh": "我們明天要去海邊嗎？也許吧，如果天氣好的話。"
           },
           {
-            "en": "\"Can you help me on Sunday?\" \"Perhaps. I'll call you.\"",
-            "zh": "你星期天可以幫我嗎？也許吧。我再打給你。"
+            "en": "\"Can you help me move on Sunday?\" \"Perhaps. I'll call you.\"",
+            "zh": "你星期天可以幫我搬家嗎？也許吧。我再打給你。"
           }
         ]
       },
@@ -22214,28 +22214,28 @@
         "heading": "⑥ 否定句和對話",
         "items": [
           {
-            "en": "Maybe he isn't coming.",
-            "zh": "也許他不來了。"
+            "en": "Ben said he was on his way an hour ago. Maybe he isn't coming.",
+            "zh": "Ben 一個小時前說他在路上了。也許他不來了。"
           },
           {
-            "en": "Perhaps she doesn't like fish.",
-            "zh": "她也許不喜歡吃魚。"
+            "en": "Grandma didn't eat her dinner. Perhaps she doesn't like fish.",
+            "zh": "奶奶沒吃她的晚餐。她也許不喜歡吃魚。"
           },
           {
-            "en": "Maybe they won't sell the house.",
-            "zh": "也許他們不會賣房子。"
+            "en": "Our neighbours took the sign down. Maybe they won't sell the house.",
+            "zh": "我們的鄰居把牌子拿下來了。也許他們不會賣房子。"
           },
           {
-            "en": "Shall we wait a bit? Maybe she's still on her way.",
-            "zh": "我們要不要再等一下？也許她還在路上。"
+            "en": "Shall we wait for Lucy a bit longer? Maybe she's still on her way.",
+            "zh": "我們要不要再等 Lucy 一下？也許她還在路上。"
           },
           {
-            "en": "Perhaps it isn't a good idea.",
-            "zh": "這也許不是個好主意。"
+            "en": "We could paint the kitchen black. Perhaps it isn't a good idea.",
+            "zh": "我們可以把廚房漆成黑色。這也許不是個好主意。"
           },
           {
-            "en": "Why don't you call him? Maybe he's at home.",
-            "zh": "你何不打給他？也許他在家。"
+            "en": "Why don't you call Dad? Maybe he's at home.",
+            "zh": "你何不打給爸爸？也許他在家。"
           }
         ]
       }

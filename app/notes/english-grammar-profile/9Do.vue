@@ -12,19 +12,18 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="maybe 放在句首，表示不確定">
+    <NoteSlide title="maybe 放在句首，表示不確定" mark="Maybe">
       <NoteWords
-        :size="28"
+        :size="30"
         :parts="[
           { t: 'Maybe', role: '確定程度副詞', kind: 'key' },
-          { t: 'we can walk there', role: '子句' },
-          { t: 'because it\'s not far from my house.', role: '原因', kind: 'dim' },
+          { t: 'it will snow tonight.', role: '子句' },
         ]"
       />
-      <p class="translation">也許我們可以走過去，因為那裡離我家不遠。</p>
+      <p class="translation">今晚也許會下雪。</p>
     </NoteSlide>
 
-    <NoteSlide title="perhaps 意思和 maybe 相同，比較正式" mark="Maybe">
+    <NoteSlide title="perhaps 意思和 maybe 相同，比較正式，也可以放在句中" mark="Maybe">
       <div class="rows is-labeled">
         <div>
           <span class="term">maybe<br /><i>口語</i></span>
@@ -61,10 +60,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">maybe</span>
           <span
-            ><NoteMark sentence="Maybe you should see a doctor." :marks="['Maybe']" /><span
-              class="translation"
-              >也許你該去看個醫生。</span
-            ></span
+            ><NoteMark
+              sentence="Maybe you should see a doctor about your back."
+              :marks="['Maybe']"
+            /><span class="translation">也許你該去看醫生，檢查一下你的背。</span></span
           >
         </div>
         <div>

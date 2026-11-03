@@ -6290,60 +6290,60 @@
     "translation": "昨天是我這輩子最興奮的一天！",
     "name": "最高級形容詞加介系詞片語",
     "sentences": [
-      "Graduation day was the proudest moment of my parents' lives.",
-      "Leaving home was the hardest decision of my life.",
-      "It was the coldest winter of the century.",
-      "Seeing my son walk for the first time made it the best day of my year.",
-      "The typhoon last week brought the heaviest rain of the year.",
-      "Exercise is the most important thing in our lives.",
-      "It was the worst earthquake in the country's history.",
-      "Family is the most precious thing in my life.",
-      "She was the youngest winner in the history of the prize.",
-      "Some people say Bologna has the oldest university in the world.",
-      "Sleep is the best medicine for a cold.",
-      "Vegetables are the healthiest food for children.",
-      "The fish is the most expensive dish on the menu.",
-      "She was the most beautiful woman at the party.",
-      "This is the best seat on the plane.",
-      "He was the oldest man at the meeting.",
-      "Venice is one of the most beautiful cities in Europe.",
-      "He's one of the best players on the team.",
-      "It's one of the most popular shows on TV.",
-      "This is one of the oldest buildings in Taipei.",
-      "She's one of the kindest people I know.",
-      "Rice is one of the most important foods in Asia.",
-      "What's the most interesting place in your city?",
-      "Who was the best teacher at your school?",
-      "What's the most useful app on your phone?",
-      "One of the oldest trees in the park fell down last night.",
-      "Is this the cheapest flight on the website?",
-      "What was the best thing about your holiday in Japan?",
-      "Is Mount Everest the highest mountain on Earth?",
-      "We stood in the longest line at the airport for two hours."
+      "My parents cried at my graduation. It was the proudest moment of their lives.",
+      "I moved to Canada at eighteen. Leaving home was the hardest decision of my life.",
+      "The rivers froze for three months in 1963. It was the coldest winter of the century.",
+      "My son took his first steps in June. It was the best day of the year.",
+      "Many streets flooded last week. The typhoon brought the heaviest rain of the year.",
+      "Walk or cycle every day. Exercise is the most important thing in our lives.",
+      "Thousands of buildings fell down. It was the worst earthquake in the country's history.",
+      "I can lose my job or my house, but not my children. Family is the most precious thing in my life.",
+      "Malala won the Nobel Peace Prize at seventeen. She was the youngest winner in the history of the prize.",
+      "We visited Bologna last spring. Some people say it has the oldest university in the world.",
+      "Go to bed early tonight. Sleep is the best medicine for a cold.",
+      "Put carrots and peas in the kids' lunch boxes. Vegetables are the healthiest food for children.",
+      "Don't order the fish if you want to save money. The fish is the most expensive dish on the menu.",
+      "Everyone looked at Grace in her red dress. She was the most beautiful woman at the party.",
+      "You can stretch your legs here. This is the best seat on the plane.",
+      "Mr Lee is eighty-two. He was the oldest man at the meeting.",
+      "You should see the canals. Venice is one of the most beautiful cities in Europe.",
+      "Ken scored in every game this year. He's one of the best players on the team.",
+      "Everyone at school talks about that cooking show. It's one of the most popular shows on TV.",
+      "The temple was built in 1738. It's one of the oldest buildings in Taipei.",
+      "Anna drove me to the hospital at three in the morning. She's one of the kindest people I know.",
+      "Rice is one of the most important foods in Asia. People eat it every day from Japan to India.",
+      "I'm visiting your city next month. What's the most interesting place there?",
+      "You loved your old school. Who was the best teacher there?",
+      "You have hundreds of apps. What's the most useful app on your phone?",
+      "The wind was very strong. One of the oldest trees in the park fell down last night.",
+      "Fifty pounds to Rome seems very cheap. Is this the cheapest flight on the website?",
+      "You've just come back from Japan. What was the best thing about your holiday?",
+      "My son is reading about mountains. Is Mount Everest the highest mountain on Earth?",
+      "Three flights landed at the same time. We stood in the longest queue at the airport for two hours."
     ],
     "examples": [
       {
         "heading": "① the + 最高級 + 名詞 + of my life / of the year",
         "items": [
           {
-            "en": "Graduation day was the proudest moment of my parents' lives.",
-            "zh": "畢業典禮那天是我爸媽這輩子最驕傲的時刻。"
+            "en": "My parents cried at my graduation. It was the proudest moment of their lives.",
+            "zh": "我爸媽在我的畢業典禮上哭了。那是他們這輩子最驕傲的時刻。"
           },
           {
-            "en": "Leaving home was the hardest decision of my life.",
-            "zh": "離家是我這輩子最難的決定。"
+            "en": "I moved to Canada at eighteen. Leaving home was the hardest decision of my life.",
+            "zh": "我十八歲搬到加拿大。離家是我這輩子最難的決定。"
           },
           {
-            "en": "It was the coldest winter of the century.",
-            "zh": "那是這個世紀最冷的冬天。"
+            "en": "The rivers froze for three months in 1963. It was the coldest winter of the century.",
+            "zh": "1963 年河流結冰了三個月。那是這個世紀最冷的冬天。"
           },
           {
-            "en": "Seeing my son walk for the first time made it the best day of my year.",
-            "zh": "看到我兒子第一次走路，那天成了我今年最棒的一天。"
+            "en": "My son took his first steps in June. It was the best day of the year.",
+            "zh": "我兒子六月踏出第一步。那天是今年最棒的一天。"
           },
           {
-            "en": "The typhoon last week brought the heaviest rain of the year.",
-            "zh": "上禮拜的颱風帶來今年最大的雨。"
+            "en": "Many streets flooded last week. The typhoon brought the heaviest rain of the year.",
+            "zh": "上星期很多街道都淹水了。那個颱風帶來今年最大的雨。"
           }
         ]
       },
@@ -6351,24 +6351,24 @@
         "heading": "② the + 最高級 + 名詞 + in our lives / in history",
         "items": [
           {
-            "en": "Exercise is the most important thing in our lives.",
-            "zh": "運動是我們生活中最重要的事。"
+            "en": "Walk or cycle every day. Exercise is the most important thing in our lives.",
+            "zh": "每天都要走路或騎腳踏車。運動是我們生活中最重要的事。"
           },
           {
-            "en": "It was the worst earthquake in the country's history.",
-            "zh": "那是這個國家史上最嚴重的地震。"
+            "en": "Thousands of buildings fell down. It was the worst earthquake in the country's history.",
+            "zh": "好幾千棟建築倒塌。那是這個國家史上最嚴重的地震。"
           },
           {
-            "en": "Family is the most precious thing in my life.",
-            "zh": "家人是我生命中最珍貴的。"
+            "en": "I can lose my job or my house, but not my children. Family is the most precious thing in my life.",
+            "zh": "我可以丟了工作或房子，但不能失去孩子。家人是我生命中最珍貴的。"
           },
           {
-            "en": "She was the youngest winner in the history of the prize.",
-            "zh": "她是這個獎項史上最年輕的得主。"
+            "en": "Malala won the Nobel Peace Prize at seventeen. She was the youngest winner in the history of the prize.",
+            "zh": "Malala 十七歲得了諾貝爾和平獎。她是這個獎項史上最年輕的得主。"
           },
           {
-            "en": "Some people say Bologna has the oldest university in the world.",
-            "zh": "有人說波隆那有世界上最古老的大學。"
+            "en": "We visited Bologna last spring. Some people say it has the oldest university in the world.",
+            "zh": "我們去年春天去了波隆那。有人說那裡有世界上最古老的大學。"
           }
         ]
       },
@@ -6376,28 +6376,28 @@
         "heading": "③ the + 最高級 + 名詞 + for / on / at",
         "items": [
           {
-            "en": "Sleep is the best medicine for a cold.",
-            "zh": "睡覺是治感冒最好的藥。"
+            "en": "Go to bed early tonight. Sleep is the best medicine for a cold.",
+            "zh": "今晚早點睡。睡覺是治感冒最好的藥。"
           },
           {
-            "en": "Vegetables are the healthiest food for children.",
-            "zh": "蔬菜是對小孩最健康的食物。"
+            "en": "Put carrots and peas in the kids' lunch boxes. Vegetables are the healthiest food for children.",
+            "zh": "在孩子們的便當盒裡放紅蘿蔔和豌豆。蔬菜是對小孩最健康的食物。"
           },
           {
-            "en": "The fish is the most expensive dish on the menu.",
-            "zh": "魚是菜單上最貴的菜。"
+            "en": "Don't order the fish if you want to save money. The fish is the most expensive dish on the menu.",
+            "zh": "如果你想省錢，別點魚。魚是菜單上最貴的菜。"
           },
           {
-            "en": "She was the most beautiful woman at the party.",
-            "zh": "她是派對上最美的女人。"
+            "en": "Everyone looked at Grace in her red dress. She was the most beautiful woman at the party.",
+            "zh": "大家都看著穿紅洋裝的 Grace。她是派對上最美的女人。"
           },
           {
-            "en": "This is the best seat on the plane.",
-            "zh": "這是飛機上最好的位子。"
+            "en": "You can stretch your legs here. This is the best seat on the plane.",
+            "zh": "你在這裡可以把腳伸直。這是飛機上最好的位子。"
           },
           {
-            "en": "He was the oldest man at the meeting.",
-            "zh": "他是會議上年紀最大的人。"
+            "en": "Mr Lee is eighty-two. He was the oldest man at the meeting.",
+            "zh": "Lee 先生八十二歲。他是會議上年紀最大的人。"
           }
         ]
       },
@@ -6405,65 +6405,65 @@
         "heading": "④ one of the + 最高級 + 複數名詞",
         "items": [
           {
-            "en": "Venice is one of the most beautiful cities in Europe.",
-            "zh": "威尼斯是歐洲最美的城市之一。"
+            "en": "You should see the canals. Venice is one of the most beautiful cities in Europe.",
+            "zh": "你應該去看看那些運河。威尼斯是歐洲最美的城市之一。"
           },
           {
-            "en": "He's one of the best players on the team.",
-            "zh": "他是隊上最好的球員之一。"
+            "en": "Ken scored in every game this year. He's one of the best players on the team.",
+            "zh": "Ken 今年每場比賽都進球。他是隊上最好的球員之一。"
           },
           {
-            "en": "It's one of the most popular shows on TV.",
-            "zh": "那是電視上最受歡迎的節目之一。"
+            "en": "Everyone at school talks about that cooking show. It's one of the most popular shows on TV.",
+            "zh": "學校裡大家都在談那個烹飪節目。那是電視上最受歡迎的節目之一。"
           },
           {
-            "en": "This is one of the oldest buildings in Taipei.",
-            "zh": "這是台北最古老的建築之一。"
+            "en": "The temple was built in 1738. It's one of the oldest buildings in Taipei.",
+            "zh": "那座廟是 1738 年蓋的。那是台北最古老的建築之一。"
           },
           {
-            "en": "She's one of the kindest people I know.",
-            "zh": "她是我認識最好心的人之一。"
+            "en": "Anna drove me to the hospital at three in the morning. She's one of the kindest people I know.",
+            "zh": "Anna 凌晨三點開車載我去醫院。她是我認識最好心的人之一。"
           },
           {
-            "en": "Rice is one of the most important foods in Asia.",
-            "zh": "米是亞洲最重要的食物之一。"
+            "en": "Rice is one of the most important foods in Asia. People eat it every day from Japan to India.",
+            "zh": "米是亞洲最重要的食物之一。從日本到印度，大家每天都吃米。"
           }
         ]
       },
       {
-        "heading": "⑤ 問句和不同的句型",
+        "heading": "⑤ 問句和其他用法",
         "items": [
           {
-            "en": "What's the most interesting place in your city?",
-            "zh": "你們城市裡最有趣的地方是哪裡？"
+            "en": "I'm visiting your city next month. What's the most interesting place there?",
+            "zh": "我下個月要去你們的城市。那裡最有趣的地方是哪裡？"
           },
           {
-            "en": "Who was the best teacher at your school?",
-            "zh": "你學校裡最好的老師是誰？"
+            "en": "You loved your old school. Who was the best teacher there?",
+            "zh": "你很喜歡你以前的學校。那裡最好的老師是誰？"
           },
           {
-            "en": "What's the most useful app on your phone?",
-            "zh": "你手機上最有用的 app 是什麼？"
+            "en": "You have hundreds of apps. What's the most useful app on your phone?",
+            "zh": "你有好幾百個 app。你手機上最有用的 app 是什麼？"
           },
           {
-            "en": "One of the oldest trees in the park fell down last night.",
-            "zh": "公園裡最老的樹之一昨晚倒了。"
+            "en": "The wind was very strong. One of the oldest trees in the park fell down last night.",
+            "zh": "風很大。公園裡最老的樹之一昨晚倒了。"
           },
           {
-            "en": "Is this the cheapest flight on the website?",
-            "zh": "這是網站上最便宜的機票嗎？"
+            "en": "Fifty pounds to Rome seems very cheap. Is this the cheapest flight on the website?",
+            "zh": "飛羅馬五十英鎊好像很便宜。這是網站上最便宜的機票嗎？"
           },
           {
-            "en": "What was the best thing about your holiday in Japan?",
-            "zh": "你在日本的假期中最棒的是什麼？"
+            "en": "You've just come back from Japan. What was the best thing about your holiday?",
+            "zh": "你剛從日本回來。你的假期中最棒的是什麼？"
           },
           {
-            "en": "Is Mount Everest the highest mountain on Earth?",
-            "zh": "聖母峰是地球上最高的山嗎？"
+            "en": "My son is reading about mountains. Is Mount Everest the highest mountain on Earth?",
+            "zh": "我兒子在讀關於山的書。聖母峰是地球上最高的山嗎？"
           },
           {
-            "en": "We stood in the longest line at the airport for two hours.",
-            "zh": "我們在機場最長的隊伍裡站了兩個小時。"
+            "en": "Three flights landed at the same time. We stood in the longest queue at the airport for two hours.",
+            "zh": "三班飛機同時降落。我們在機場最長的隊伍裡站了兩個小時。"
           }
         ]
       }

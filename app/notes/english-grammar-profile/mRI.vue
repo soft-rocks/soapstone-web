@@ -44,7 +44,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="one of the + 最高級 + 複數名詞" mark="the most exciting day">
+    <NoteSlide title="one of the + 最高級 + 複數名詞">
       <NoteWords
         :size="22"
         :parts="[
@@ -57,23 +57,23 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">威尼斯是歐洲最美的城市之一。</p>
     </NoteSlide>
 
-    <NoteSlide title="one of the 後面的名詞用複數" mark="day">
+    <NoteSlide title="one of the 後面的名詞用複數">
       <NoteFix
-        wrong="It's one of the best restaurant in town."
-        right="It's one of the best restaurants in town."
-        fix="restaurants"
+        wrong="She's one of the fastest runner in our club."
+        right="She's one of the fastest runners in our club."
+        fix="runners"
       />
     </NoteSlide>
 
-    <NoteSlide title="主詞是 one，動詞用單數" mark="was">
+    <NoteSlide title="主詞是 one，動詞用單數">
       <NoteFix
-        wrong="One of the oldest buildings are the library."
-        right="One of the oldest buildings is the library."
+        wrong="One of the oldest buildings in town are the library."
+        right="One of the oldest buildings in town is the library."
         fix="is"
       />
     </NoteSlide>
 
-    <NoteSlide title="the most 前面要加 the" mark="the most">
+    <NoteSlide title="最高級前面要加 the" mark="the most">
       <NoteFix
         wrong="Getting the job was most exciting news of the year."
         right="Getting the job was the most exciting news of the year."

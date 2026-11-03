@@ -25,12 +25,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這台腳踏車對我兒子來說太大了。</p>
     </NoteSlide>
 
-    <NoteSlide title="for 也可以接事情" mark="too small for">
+    <NoteSlide title="for 也可以接事情">
       <NoteMark sentence="It's too cold for a picnic today." :marks="['too cold for a picnic']" />
       <p class="translation">今天太冷了，不適合野餐。</p>
     </NoteSlide>
 
-    <NoteSlide title="in、at 說明在哪裡、什麼時候太怎麼樣" mark="too small">
+    <NoteSlide title="in、at 說明在哪裡、什麼時候太怎麼樣">
       <div class="rows is-labeled">
         <div>
           <span class="term">in + 地方</span>
@@ -53,7 +53,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="for 後面用受格" mark="me">
+    <NoteSlide title="for 後面用受格" mark="for me">
       <NoteFix
         wrong="This bag is too heavy for I."
         right="This bag is too heavy for me."
@@ -70,7 +70,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="說明對誰來說，用 for，不用 to" mark="for">
-      <NoteFix wrong="The box is too heavy to me." right="The box is too heavy for me." fix="for" />
+      <NoteFix
+        wrong="These trousers are too long to my son."
+        right="These trousers are too long for my son."
+        fix="for"
+      />
     </NoteSlide>
   </NoteDeck>
 

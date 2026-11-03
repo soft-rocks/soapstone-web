@@ -31,7 +31,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">full of</span>
           <span
-            ><NoteMark sentence="He carried a bag full of books." :marks="['full of books']" /><span
+            ><NoteMark sentence="He carried a bag full of books." :marks="['full of']" /><span
               class="translation"
               >他提著一個裝滿書的袋子。</span
             ></span
@@ -42,7 +42,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span
             ><NoteMark
               sentence="Kyoto is a city famous for its old temples."
-              :marks="['famous for its old temples']"
+              :marks="['famous for']"
             /><span class="translation">京都是一座以古老寺廟出名的城市。</span></span
           >
         </div>
@@ -64,7 +64,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="形容詞 + to 不定詞也可以放在名詞後面" mark="full of">
+    <NoteSlide title="形容詞 + to 不定詞也可以放在名詞後面">
       <NoteWords
         :size="24"
         :parts="[
@@ -78,15 +78,15 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">這種寫法比較正式。</p>
     </NoteSlide>
 
-    <NoteSlide title="整個形容詞片語不放在名詞前面" mark="island full of">
+    <NoteSlide title="整個形容詞片語不放在名詞前面" mark="full of exotic species of birds">
       <NoteFix
         wrong="We visited a full of birds island."
         right="We visited an island full of birds."
-        fix="island full of birds"
+        fix="full of birds"
       />
     </NoteSlide>
 
-    <NoteSlide title="famous 後面接 for" mark="full of">
+    <NoteSlide title="famous 後面接 for">
       <NoteFix
         wrong="Kyoto is a city famous its old temples."
         right="Kyoto is a city famous for its old temples."

@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">大家穿上自己最好的衣服去參加節慶。</p>
     </NoteSlide>
 
-    <NoteSlide title="名詞加 's 也可以放在最高級前面" mark="our latest">
+    <NoteSlide title="名詞加 's 也可以放在最高級前面">
       <NoteMark
         sentence="My grandparents ate at the town's oldest bakery every Sunday."
         :marks="['the town\'s oldest bakery']"
@@ -47,7 +47,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFix wrong="She wore best her dress." right="She wore her best dress." fix="her best" />
     </NoteSlide>
 
-    <NoteSlide title="Asia's 已經是限定詞，最高級前面不加 the" mark="latest">
+    <NoteSlide title="Asia's 已經是限定詞，最高級前面不加 the">
       <NoteFix
         wrong="It's Asia's the tallest tower."
         right="It's Asia's tallest tower."

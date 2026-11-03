@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="態度副詞放在句首，先表明看法">
+    <NoteSlide title="態度副詞放在句首，先表明看法" mark="Obviously,">
       <NoteWords
         :size="28"
         :parts="[
@@ -25,22 +25,25 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">顯然，每個人都有罷工的權利。</p>
     </NoteSlide>
 
-    <NoteSlide title="態度副詞也可以放在一般動詞前面" mark="Obviously,">
+    <NoteSlide title="態度副詞也可以放在一般動詞前面">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'We can\'t', role: '主詞 + 助動詞', kind: 'dim' },
-          { t: 'truly', role: '態度副詞', kind: 'key' },
-          { t: 'blame', role: '一般動詞' },
-          { t: 'the driver', role: '受詞' },
-          { t: 'for the accident.', kind: 'dim' },
+          { t: 'My brother', role: '主詞', kind: 'dim' },
+          { t: 'wisely', role: '態度副詞', kind: 'key' },
+          { t: 'sold', role: '一般動詞' },
+          { t: 'his old car.', role: '受詞' },
         ]"
       />
-      <p class="translation">這場車禍我們其實不能怪司機。</p>
+      <p class="translation">我哥哥很明智地把他的舊車賣了。</p>
     </NoteSlide>
 
     <NoteSlide title="各個態度副詞表示不同的看法">
       <div class="rows is-labeled">
+        <div>
+          <span class="term">obviously</span>
+          <span>顯然，大家都知道</span>
+        </div>
         <div>
           <span class="term">apparently</span>
           <span>聽說，看起來</span>

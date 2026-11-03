@@ -12,29 +12,29 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="有 my 或 your，最高級前面不加 the" mark="your oldest clothes">
+    <NoteSlide title="有 my 或 your，最高級前面不加 the" mark="your oldest">
       <NoteWords
         :size="24"
         :parts="[
           { t: 'Bring', kind: 'dim' },
           { t: 'your', role: '所有格', kind: 'key', ring: true },
-          { t: 'warmest', role: '最高級', kind: 'key' },
+          { t: 'warmest', role: '最高級', kind: 'key', ring: true },
           { t: 'coat.', role: '名詞' },
           { t: 'It\'s snowing.', kind: 'dim' },
         ]"
       />
-      <p class="translation">帶你最保暖的外套，在下雪了。</p>
+      <p class="translation">帶你最保暖的外套，山上在下雪。</p>
     </NoteSlide>
 
-    <NoteSlide title="常用來說家人、東西和事情" mark="oldest">
+    <NoteSlide title="常用來說家人、東西和事情">
       <div class="rows is-labeled">
         <div>
           <span class="term">家人</span>
           <span
             ><NoteMark
-              sentence="My youngest daughter starts school next week."
+              sentence="My youngest daughter starts school on Monday."
               :marks="['My youngest daughter']"
-            /><span class="translation">我的小女兒下禮拜開始上學。</span></span
+            /><span class="translation">我的小女兒星期一開始上學。</span></span
           >
         </div>
         <div>
@@ -49,7 +49,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">事情</span>
           <span
-            ><NoteMark sentence="Math is my worst subject." :marks="['my worst subject']" /><span
+            ><NoteMark sentence="Maths is my worst subject." :marks="['my worst subject']" /><span
               class="translation"
               >數學是我最差的科目。</span
             ></span
@@ -74,11 +74,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="說最好的那件，用最高級 best" mark="oldest">
+    <NoteSlide title="短的形容詞，最高級加 -est" mark="oldest">
       <NoteFix
-        wrong="This is my good dress. I only wear it to weddings."
-        right="This is my best dress. I only wear it to weddings."
-        fix="best"
+        wrong="My most young brother is six."
+        right="My youngest brother is six."
+        fix="youngest"
       />
     </NoteSlide>
   </NoteDeck>

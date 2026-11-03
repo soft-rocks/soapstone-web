@@ -11875,60 +11875,60 @@
     "translation": "請穿你最舊的衣服。",
     "name": "my、your 加最高級加名詞",
     "sentences": [
-      "I'm buying a bike for my youngest brother's birthday.",
-      "My oldest sister lives in London.",
-      "My youngest daughter starts school next week.",
-      "My eldest son is studying in Tainan this year.",
-      "My oldest friend is getting married.",
-      "We're painting today, so wear your oldest clothes.",
-      "Bring your warmest coat. It's snowing.",
-      "Put on your best shoes for the wedding.",
-      "Wear your most comfortable shoes for the hike.",
-      "Is this your newest phone?",
-      "Use your sharpest knife to cut the bread.",
-      "This is my best dress. I only wear it to weddings.",
-      "My oldest shoes have holes in them.",
+      "Leo turns seven next week. I'm buying a bike for my youngest brother's birthday.",
+      "I have three sisters. My oldest sister lives in London.",
+      "I'm taking next week off. My youngest daughter starts school on Monday.",
+      "We have three sons. My eldest son is studying in Tainan this year.",
+      "We visited my grandparents last weekend. My oldest cousin drove us there.",
+      "Dad bought white paint for the hall. We're painting today, so wear your oldest clothes.",
+      "We're going up the mountain. Bring your warmest coat. It's snowing.",
+      "Your cousin is getting married on Saturday. Put on your best shoes for the wedding.",
+      "We're walking twenty kilometres. Wear your most comfortable shoes for the hike.",
+      "You have three phones on your desk. Is this your newest phone?",
+      "The crust is very hard. Use your sharpest knife to cut the bread.",
+      "I bought this dress for my sister's wedding. It's my best dress.",
+      "I need new trainers. My oldest shoes have holes in them.",
       "I keep my most important papers in this box.",
-      "My favorite cup is also my biggest.",
-      "My smallest bag fits in my pocket.",
-      "Math is my worst subject.",
+      "I drink a lot of tea, so I always use my biggest cup.",
+      "I don't carry much when I go running. My smallest bag fits in my pocket.",
+      "I failed the maths test again. Maths is my worst subject.",
       "With two jobs, my biggest problem is finding time to sleep.",
-      "What's your biggest dream?",
-      "That was my hardest exam.",
+      "You can do anything after you leave school. What's your biggest dream?",
+      "I studied for chemistry for two weeks. That was my hardest exam.",
       "I got an A in art. It's always been my best subject.",
-      "What was your happiest moment this year?",
-      "His youngest son is a doctor.",
-      "Her best friend lives in Kaohsiung.",
-      "Our oldest car still works well.",
-      "Their biggest worry is the cost.",
-      "She wore her prettiest dress to the party.",
-      "They sold their oldest furniture.",
-      "Our smallest room is the office.",
-      "He gave away his newest toy."
+      "You had a baby and a new job this year. What was your happiest moment?",
+      "Mr Green has three children. His youngest son is a doctor.",
+      "Lisa goes south every summer. Her best friend lives in Kaohsiung.",
+      "We have two cars. Our oldest car still works well.",
+      "My parents want a new roof. Their biggest worry is the cost.",
+      "Ann's party was on Saturday. She wore her prettiest dress.",
+      "My neighbours moved to a small flat. They sold their oldest furniture.",
+      "We have three bedrooms and a tiny room. Our smallest room is the office.",
+      "My son saw a poor boy at the park. He gave away his newest toy."
     ],
     "examples": [
       {
         "heading": "① my + 最高級 + 家人",
         "items": [
           {
-            "en": "I'm buying a bike for my youngest brother's birthday.",
-            "zh": "我要買一台腳踏車給我最小的弟弟當生日禮物。"
+            "en": "Leo turns seven next week. I'm buying a bike for my youngest brother's birthday.",
+            "zh": "Leo 下星期滿七歲。我要買一台腳踏車給我最小的弟弟當生日禮物。"
           },
           {
-            "en": "My oldest sister lives in London.",
-            "zh": "我大姊住在倫敦。"
+            "en": "I have three sisters. My oldest sister lives in London.",
+            "zh": "我有三個姊妹。我大姊住在倫敦。"
           },
           {
-            "en": "My youngest daughter starts school next week.",
-            "zh": "我的小女兒下禮拜開始上學。"
+            "en": "I'm taking next week off. My youngest daughter starts school on Monday.",
+            "zh": "我下星期要請假。我的小女兒星期一開始上學。"
           },
           {
-            "en": "My eldest son is studying in Tainan this year.",
-            "zh": "我的大兒子今年在台南讀書。"
+            "en": "We have three sons. My eldest son is studying in Tainan this year.",
+            "zh": "我們有三個兒子。我的大兒子今年在台南讀書。"
           },
           {
-            "en": "My oldest friend is getting married.",
-            "zh": "我認識最久的朋友要結婚了。"
+            "en": "We visited my grandparents last weekend. My oldest cousin drove us there.",
+            "zh": "我們上個週末去看爺爺奶奶。我最大的表哥開車載我們去。"
           }
         ]
       },
@@ -11936,28 +11936,28 @@
         "heading": "② your + 最高級 + 東西",
         "items": [
           {
-            "en": "We're painting today, so wear your oldest clothes.",
-            "zh": "我們今天要油漆，所以穿你最舊的衣服。"
+            "en": "Dad bought white paint for the hall. We're painting today, so wear your oldest clothes.",
+            "zh": "爸爸買了白色油漆要漆走廊。我們今天要油漆，所以穿你最舊的衣服。"
           },
           {
-            "en": "Bring your warmest coat. It's snowing.",
-            "zh": "帶你最保暖的外套，在下雪了。"
+            "en": "We're going up the mountain. Bring your warmest coat. It's snowing.",
+            "zh": "我們要上山。帶你最保暖的外套，山上在下雪。"
           },
           {
-            "en": "Put on your best shoes for the wedding.",
-            "zh": "穿你最好的鞋去婚禮。"
+            "en": "Your cousin is getting married on Saturday. Put on your best shoes for the wedding.",
+            "zh": "你表哥星期六結婚。穿你最好的鞋去婚禮。"
           },
           {
-            "en": "Wear your most comfortable shoes for the hike.",
-            "zh": "健行要穿你最舒服的鞋。"
+            "en": "We're walking twenty kilometres. Wear your most comfortable shoes for the hike.",
+            "zh": "我們要走二十公里。健行要穿你最舒服的鞋。"
           },
           {
-            "en": "Is this your newest phone?",
-            "zh": "這是你最新的手機嗎？"
+            "en": "You have three phones on your desk. Is this your newest phone?",
+            "zh": "你桌上有三支手機。這是你最新的手機嗎？"
           },
           {
-            "en": "Use your sharpest knife to cut the bread.",
-            "zh": "用你最利的刀切麵包。"
+            "en": "The crust is very hard. Use your sharpest knife to cut the bread.",
+            "zh": "麵包皮很硬。用你最利的刀切麵包。"
           }
         ]
       },
@@ -11965,24 +11965,24 @@
         "heading": "③ my + 最高級 + 東西",
         "items": [
           {
-            "en": "This is my best dress. I only wear it to weddings.",
-            "zh": "這是我最好的洋裝，我只穿去婚禮。"
+            "en": "I bought this dress for my sister's wedding. It's my best dress.",
+            "zh": "我買這件洋裝去參加我姊姊的婚禮。這是我最好的洋裝。"
           },
           {
-            "en": "My oldest shoes have holes in them.",
-            "zh": "我最舊的鞋子有洞。"
+            "en": "I need new trainers. My oldest shoes have holes in them.",
+            "zh": "我需要新的運動鞋。我最舊的鞋子有洞。"
           },
           {
             "en": "I keep my most important papers in this box.",
             "zh": "我把最重要的文件放在這個盒子裡。"
           },
           {
-            "en": "My favorite cup is also my biggest.",
-            "zh": "我最喜歡的杯子也是我最大的。"
+            "en": "I drink a lot of tea, so I always use my biggest cup.",
+            "zh": "我喝很多茶，所以我都用我最大的杯子。"
           },
           {
-            "en": "My smallest bag fits in my pocket.",
-            "zh": "我最小的包包放得進口袋。"
+            "en": "I don't carry much when I go running. My smallest bag fits in my pocket.",
+            "zh": "我去跑步時不帶什麼東西。我最小的包包放得進口袋。"
           }
         ]
       },
@@ -11990,28 +11990,28 @@
         "heading": "④ my / your + 最高級 + 事情",
         "items": [
           {
-            "en": "Math is my worst subject.",
-            "zh": "數學是我最差的科目。"
+            "en": "I failed the maths test again. Maths is my worst subject.",
+            "zh": "我數學考試又不及格了。數學是我最差的科目。"
           },
           {
             "en": "With two jobs, my biggest problem is finding time to sleep.",
             "zh": "做兩份工作，我最大的問題是找時間睡覺。"
           },
           {
-            "en": "What's your biggest dream?",
-            "zh": "你最大的夢想是什麼？"
+            "en": "You can do anything after you leave school. What's your biggest dream?",
+            "zh": "你畢業後做什麼都可以。你最大的夢想是什麼？"
           },
           {
-            "en": "That was my hardest exam.",
-            "zh": "那是我考過最難的考試。"
+            "en": "I studied for chemistry for two weeks. That was my hardest exam.",
+            "zh": "化學我讀了兩個星期。那是我考過最難的考試。"
           },
           {
             "en": "I got an A in art. It's always been my best subject.",
             "zh": "我美術拿了 A，美術一直是我最好的科目。"
           },
           {
-            "en": "What was your happiest moment this year?",
-            "zh": "你今年最快樂的時刻是什麼時候？"
+            "en": "You had a baby and a new job this year. What was your happiest moment?",
+            "zh": "你今年生了寶寶，又換了新工作。你今年最快樂的時刻是什麼時候？"
           }
         ]
       },
@@ -12019,36 +12019,36 @@
         "heading": "⑤ his / her / our / their + 最高級 + 名詞",
         "items": [
           {
-            "en": "His youngest son is a doctor.",
-            "zh": "他最小的兒子是醫生。"
+            "en": "Mr Green has three children. His youngest son is a doctor.",
+            "zh": "Green 先生有三個孩子。他最小的兒子是醫生。"
           },
           {
-            "en": "Her best friend lives in Kaohsiung.",
-            "zh": "她最好的朋友住在高雄。"
+            "en": "Lisa goes south every summer. Her best friend lives in Kaohsiung.",
+            "zh": "Lisa 每年夏天都去南部。她最好的朋友住在高雄。"
           },
           {
-            "en": "Our oldest car still works well.",
-            "zh": "我們最舊的那輛車還很好開。"
+            "en": "We have two cars. Our oldest car still works well.",
+            "zh": "我們有兩輛車。我們最舊的那輛車還很好開。"
           },
           {
-            "en": "Their biggest worry is the cost.",
-            "zh": "他們最擔心的是費用。"
+            "en": "My parents want a new roof. Their biggest worry is the cost.",
+            "zh": "我爸媽想換新屋頂。他們最擔心的是費用。"
           },
           {
-            "en": "She wore her prettiest dress to the party.",
-            "zh": "她穿了她最漂亮的洋裝去派對。"
+            "en": "Ann's party was on Saturday. She wore her prettiest dress.",
+            "zh": "Ann 的派對在星期六。她穿了她最漂亮的洋裝。"
           },
           {
-            "en": "They sold their oldest furniture.",
-            "zh": "他們把最舊的家具賣掉了。"
+            "en": "My neighbours moved to a small flat. They sold their oldest furniture.",
+            "zh": "我的鄰居搬到一間小公寓。他們把最舊的家具賣掉了。"
           },
           {
-            "en": "Our smallest room is the office.",
-            "zh": "我們最小的房間是書房。"
+            "en": "We have three bedrooms and a tiny room. Our smallest room is the office.",
+            "zh": "我們有三間臥室和一間很小的房間。我們最小的房間是書房。"
           },
           {
-            "en": "He gave away his newest toy.",
-            "zh": "他把他最新的玩具送人了。"
+            "en": "My son saw a poor boy at the park. He gave away his newest toy.",
+            "zh": "我兒子在公園看到一個窮人家的男孩。他把他最新的玩具送人了。"
           }
         ]
       }

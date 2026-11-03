@@ -12,12 +12,12 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="句首的時間副詞修飾後面的整個子句">
+    <NoteSlide title="句首的時間副詞修飾後面的整個子句" mark="Yesterday">
       <NoteWords
         :size="28"
         :parts="[
           { t: 'Yesterday', role: '時間副詞', kind: 'key' },
-          { t: 'I went shopping', role: '第一個動詞' },
+          { t: 'I went shopping', role: '主詞 + 第一個動詞' },
           { t: 'and', role: '連接詞', kind: 'dim' },
           { t: 'bought some clothes.', role: '第二個動詞' },
         ]"
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">昨天我去逛街，買了一些衣服。</p>
     </NoteSlide>
 
-    <NoteSlide title="時間副詞也可以放在句尾" mark="Yesterday">
+    <NoteSlide title="時間副詞也可以放在句尾">
       <NoteWords
         :size="30"
         :parts="[
@@ -75,7 +75,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="時間副詞不放在動詞和受詞中間" mark="Yesterday">
+    <NoteSlide title="時間副詞不放在動詞和受詞中間">
       <NoteFix
         wrong="I bought yesterday some new shoes."
         right="I bought some new shoes yesterday."
@@ -83,11 +83,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="接下一件事用 then，不用 after">
+    <NoteSlide title="時間副詞不放在主詞和動詞中間">
       <NoteFix
-        wrong="First we had a coffee and after we went to the park."
-        right="First we had a coffee and then we went to the park."
-        fix="then"
+        wrong="I last week visited my grandmother."
+        right="Last week I visited my grandmother."
+        fix="Last week"
       />
     </NoteSlide>
 

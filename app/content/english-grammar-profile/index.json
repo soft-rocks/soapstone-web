@@ -20094,29 +20094,29 @@
     "sentences": [
       "Our guests arrive on Monday. Yesterday we cleaned the whole house.",
       "I can't meet for lunch. Today I have three classes.",
-      "She looks so happy. Last week my sister started a new job.",
+      "My sister looks so happy. Last week she started a new job.",
       "The kids can't sleep. Tomorrow we're going to the zoo.",
       "The baby needed her own room. Last year, we moved to a bigger flat.",
       "My legs are tired. This morning I missed the bus and walked to school.",
-      "He looks just like you. I saw your brother yesterday.",
+      "I saw your brother yesterday. He looks just like you.",
       "Don't forget your calculator. We have a maths test today.",
-      "She's in a meeting now. She'll call you tomorrow.",
-      "Look at their wedding photos. They got married last month.",
-      "They don't take the bus any more. My parents bought a car last week.",
-      "He loves travelling. My uncle often sends us photos from his trips.",
-      "Hide a spare key for him. He always forgets his keys.",
+      "Ms Lee is in a meeting now. She'll call you tomorrow.",
+      "Look at Tom and Amy's wedding photos. They got married last month.",
+      "My parents don't take the bus any more. They bought a car last week.",
+      "My uncle loves travelling. He often sends us photos from his trips.",
+      "Hide a spare key for Dad. He always forgets his keys.",
       "Let's go out now. I've just finished my essay.",
-      "Don't run. They've already left.",
-      "The teacher is worried about her. She is often late for class.",
-      "I'll call you later. I usually walk my dog after dinner.",
+      "Don't run. The others have already left.",
+      "The teacher is worried about Emma. She is often late for class.",
+      "I can't talk now. I usually walk my dog at this time.",
       "I was hungry all morning. Yesterday I got up late and missed breakfast.",
       "Nobody wanted to cook. Last night we went out and had a pizza.",
-      "It was a lovely day. On Sunday my family visited my aunt and stayed for lunch.",
-      "She's never late for work. Every morning she makes coffee and reads the news.",
-      "The garden looks great now. First I washed the car, then I cut the grass.",
+      "We had a lovely weekend. On Sunday my family visited my aunt and stayed for lunch.",
+      "My mum has the same routine every day. Every morning she makes coffee and reads the news.",
+      "I was busy on Saturday. First I washed the car, then I cut the grass.",
       "We were too tired to talk. We watched a film. After that, we went to bed.",
       "Making a cake is easy. First you mix the eggs and sugar, then you add the flour.",
-      "She was busy all evening. She did her homework. After that, she called her friends.",
+      "My daughter was busy all evening. She did her homework. After that, she called her friends.",
       "It was Mum's birthday. First we went to the market, and then we cooked dinner together.",
       "The weather was perfect. Yesterday we went to the beach first, and then we had lunch.",
       "My room looks brand new. Last weekend I painted it. After that, I bought a new lamp.",
@@ -20136,8 +20136,8 @@
             "zh": "我不能一起吃午餐。我今天有三堂課。"
           },
           {
-            "en": "She looks so happy. Last week my sister started a new job.",
-            "zh": "她看起來好開心。上禮拜我姊姊開始做新工作。"
+            "en": "My sister looks so happy. Last week she started a new job.",
+            "zh": "我姊姊看起來好開心。她上禮拜開始做新工作。"
           },
           {
             "en": "The kids can't sleep. Tomorrow we're going to the zoo.",
@@ -20157,24 +20157,24 @@
         "heading": "② 句尾的時間副詞",
         "items": [
           {
-            "en": "He looks just like you. I saw your brother yesterday.",
-            "zh": "他長得跟你好像。我昨天看到你哥哥。"
+            "en": "I saw your brother yesterday. He looks just like you.",
+            "zh": "我昨天看到你哥哥。他長得跟你好像。"
           },
           {
             "en": "Don't forget your calculator. We have a maths test today.",
             "zh": "別忘了帶計算機。我們今天有數學考試。"
           },
           {
-            "en": "She's in a meeting now. She'll call you tomorrow.",
-            "zh": "她現在在開會。她明天會打給你。"
+            "en": "Ms Lee is in a meeting now. She'll call you tomorrow.",
+            "zh": "Lee 小姐現在在開會。她明天會打給你。"
           },
           {
-            "en": "Look at their wedding photos. They got married last month.",
-            "zh": "你看他們的婚紗照。他們上個月結婚了。"
+            "en": "Look at Tom and Amy's wedding photos. They got married last month.",
+            "zh": "你看 Tom 和 Amy 的婚紗照。他們上個月結婚了。"
           },
           {
-            "en": "They don't take the bus any more. My parents bought a car last week.",
-            "zh": "他們不再搭公車了。我爸媽上禮拜買了一輛車。"
+            "en": "My parents don't take the bus any more. They bought a car last week.",
+            "zh": "我爸媽不再搭公車了。他們上禮拜買了一輛車。"
           }
         ]
       },
@@ -20182,28 +20182,28 @@
         "heading": "③ 句中的時間副詞",
         "items": [
           {
-            "en": "He loves travelling. My uncle often sends us photos from his trips.",
-            "zh": "他很愛旅行。我叔叔常傳他旅行的照片給我們。"
+            "en": "My uncle loves travelling. He often sends us photos from his trips.",
+            "zh": "我叔叔很愛旅行。他常傳他旅行的照片給我們。"
           },
           {
-            "en": "Hide a spare key for him. He always forgets his keys.",
-            "zh": "幫他藏一把備用鑰匙吧。他總是忘記帶鑰匙。"
+            "en": "Hide a spare key for Dad. He always forgets his keys.",
+            "zh": "幫爸爸藏一把備用鑰匙吧。他總是忘記帶鑰匙。"
           },
           {
             "en": "Let's go out now. I've just finished my essay.",
             "zh": "我們現在出去吧。我剛寫完報告。"
           },
           {
-            "en": "Don't run. They've already left.",
-            "zh": "別跑了。他們已經走了。"
+            "en": "Don't run. The others have already left.",
+            "zh": "別跑了。其他人已經走了。"
           },
           {
-            "en": "The teacher is worried about her. She is often late for class.",
-            "zh": "老師很擔心她。她上課常遲到。"
+            "en": "The teacher is worried about Emma. She is often late for class.",
+            "zh": "老師很擔心 Emma。她上課常遲到。"
           },
           {
-            "en": "I'll call you later. I usually walk my dog after dinner.",
-            "zh": "我晚點打給你。我通常晚餐後遛狗。"
+            "en": "I can't talk now. I usually walk my dog at this time.",
+            "zh": "我現在不能講電話。我通常這個時間遛狗。"
           }
         ]
       },
@@ -20219,12 +20219,12 @@
             "zh": "沒人想煮飯。昨晚我們出去吃了披薩。"
           },
           {
-            "en": "It was a lovely day. On Sunday my family visited my aunt and stayed for lunch.",
-            "zh": "那天很愉快。星期天我們全家去看我阿姨，留下來吃午餐。"
+            "en": "We had a lovely weekend. On Sunday my family visited my aunt and stayed for lunch.",
+            "zh": "我們週末過得很愉快。星期天我們全家去看我阿姨，留下來吃午餐。"
           },
           {
-            "en": "She's never late for work. Every morning she makes coffee and reads the news.",
-            "zh": "她上班從來不遲到。她每天早上泡咖啡、看新聞。"
+            "en": "My mum has the same routine every day. Every morning she makes coffee and reads the news.",
+            "zh": "我媽媽每天都照同樣的習慣。她每天早上泡咖啡、看新聞。"
           }
         ]
       },
@@ -20232,8 +20232,8 @@
         "heading": "⑤ first、then、after that",
         "items": [
           {
-            "en": "The garden looks great now. First I washed the car, then I cut the grass.",
-            "zh": "院子現在看起來好漂亮。我先洗車，然後割草。"
+            "en": "I was busy on Saturday. First I washed the car, then I cut the grass.",
+            "zh": "我星期六很忙。我先洗車，然後割草。"
           },
           {
             "en": "We were too tired to talk. We watched a film. After that, we went to bed.",
@@ -20244,8 +20244,8 @@
             "zh": "做蛋糕很簡單。你先把蛋和糖拌在一起，然後加麵粉。"
           },
           {
-            "en": "She was busy all evening. She did her homework. After that, she called her friends.",
-            "zh": "她整個晚上都很忙。她寫完功課。之後打電話給她的朋友。"
+            "en": "My daughter was busy all evening. She did her homework. After that, she called her friends.",
+            "zh": "我女兒整個晚上都很忙。她寫完功課。之後打電話給她的朋友。"
           },
           {
             "en": "It was Mum's birthday. First we went to the market, and then we cooked dinner together.",

@@ -44,7 +44,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="-ed 說人的感覺，-ing 說帶給別人的感覺" mark="free">
+    <NoteSlide title="-ed 說人的感覺，-ing 說帶給別人的感覺">
       <div class="rows is-labeled">
         <div>
           <span class="term">-ed</span>
@@ -71,7 +71,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFix wrong="I free on Monday." right="I am free on Monday." fix="am" />
     </NoteSlide>
 
-    <NoteSlide title="說自己的感覺用 -ed" mark="free">
+    <NoteSlide title="說東西帶給人的感覺用 -ing">
       <NoteFix
         wrong="My geography homework is bored. It's just copying maps."
         right="My geography homework is boring. It's just copying maps."

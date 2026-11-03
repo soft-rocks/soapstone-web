@@ -37,7 +37,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark"><code>It</code> 指搭公車來這件事。</p>
     </NoteSlide>
 
-    <NoteSlide title="It would be better 客氣地提出建議" mark="easier">
+    <NoteSlide title="It would be better 客氣地提出建議">
       <NoteWords
         :size="24"
         :parts="[
@@ -46,6 +46,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         ]"
       />
       <p class="translation">你五點以後來會比較好。</p>
+      <p class="remark">if 子句常用過去式，像 <code>came</code>。</p>
     </NoteSlide>
 
     <NoteSlide title="有 than 的句子要用比較級" mark="easier">
@@ -64,7 +65,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="長的形容詞前面加 more" mark="easier">
+    <NoteSlide title="長的形容詞前面加 more">
       <NoteFix
         wrong="Sofia's new bed is comfortabler."
         right="Sofia's new bed is more comfortable."

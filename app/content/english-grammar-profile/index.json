@@ -2593,7 +2593,7 @@
       "The wind is blowing from the sea. Sit here. This side is warmer.",
       "I can hear the street from my hotel room. Is the second floor quieter?",
       "Don't buy the green apples for the kids. The red apples are sweeter.",
-      "You can't swim across the river by the sea. It's wider there.",
+      "Don't try to swim across the river near the sea. It's wider there.",
       "It's very hot at noon in the summer. Come in the morning. It's cooler then.",
       "It'll be thirty-five degrees tomorrow. Wear shorts. You'll be more comfortable.",
       "I didn't finish the first book, but the second book is more exciting.",
@@ -2604,7 +2604,7 @@
       "I'm busy all day today. Call me tomorrow. Tomorrow is better.",
       "Lucy stayed home from school again. Her cold is worse today.",
       "I watch English films every night. My English is better than last year.",
-      "We stayed at the lake, not in the hills. The weather was worse in the mountains.",
+      "We stayed at the lake, not in the hills. The weather was worse in the hills.",
       "The first pen didn't write very well. Is this one better?",
       "Don't drive into town at the end of the week. The traffic is worse on Fridays.",
       "I'm in meetings until five. It would be better if you came after five.",
@@ -2653,8 +2653,8 @@
             "zh": "別買青蘋果給孩子吃。紅蘋果比較甜。"
           },
           {
-            "en": "You can't swim across the river by the sea. It's wider there.",
-            "zh": "河靠近海的地方你游不過去。那裡比較寬。"
+            "en": "Don't try to swim across the river near the sea. It's wider there.",
+            "zh": "別想在靠近海的地方游過河。那裡的河比較寬。"
           },
           {
             "en": "It's very hot at noon in the summer. Come in the morning. It's cooler then.",
@@ -2707,7 +2707,7 @@
             "zh": "我每天晚上看英文電影。我的英文比去年好。"
           },
           {
-            "en": "We stayed at the lake, not in the hills. The weather was worse in the mountains.",
+            "en": "We stayed at the lake, not in the hills. The weather was worse in the hills.",
             "zh": "我們待在湖邊，沒去山上。山上的天氣比較糟。"
           },
           {

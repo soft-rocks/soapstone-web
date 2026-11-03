@@ -31,7 +31,7 @@ defineProps<{ note: (typeof notes)[number] }>();
     <NoteSlide title="兩個比較級可以是 -er，也可以用 more" mark="faster">
       <div class="rows is-labeled">
         <div>
-          <span class="term">-er + and + -er</span>
+          <span class="term">-er 和 -er</span>
           <span
             ><NoteMark
               sentence="My new phone is lighter and faster."
@@ -40,7 +40,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           >
         </div>
         <div>
-          <span class="term">more + and + more</span>
+          <span class="term">more 和 more</span>
           <span
             ><NoteMark
               sentence="The new library is more modern and more comfortable."
@@ -49,7 +49,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           >
         </div>
         <div>
-          <span class="term">-er + and + more</span>
+          <span class="term">-er 和 more</span>
           <span
             ><NoteMark
               sentence="Trains are cheaper and more comfortable than planes."
@@ -60,7 +60,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="比較的對象放在最後，用 than" mark="cheaper">
+    <NoteSlide title="比較的對象放在最後，用 than">
       <NoteWords
         :size="26"
         :parts="[
@@ -72,7 +72,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這個包包比我的小，也比我的輕。</p>
     </NoteSlide>
 
-    <NoteSlide title="兩個比較級也可以放在名詞前面" mark="faster and cheaper">
+    <NoteSlide title="兩個比較級也可以放在名詞前面">
       <NoteWords
         :size="26"
         :parts="[
@@ -92,15 +92,15 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="and 後面也要用比較級" mark="cheaper">
+    <NoteSlide title="短的形容詞前面不加 more" mark="cheaper">
       <NoteFix
-        wrong="Our new flat is bigger and quiet."
-        right="Our new flat is bigger and quieter."
-        fix="quieter"
+        wrong="The new hotel is more cheap and more modern than the old one."
+        right="The new hotel is cheaper and more modern than the old one."
+        fix="cheaper"
       />
     </NoteSlide>
 
-    <NoteSlide title="good 的比較級是 better" mark="faster">
+    <NoteSlide title="good 的比較級是 better">
       <NoteFix
         wrong="I feel gooder and stronger now."
         right="I feel better and stronger now."

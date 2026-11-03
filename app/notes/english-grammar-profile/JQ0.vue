@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="so 前面是原因，後面是結果">
+    <NoteSlide title="so 前面是原因，後面是結果" mark="so">
       <NoteWords
         :size="28"
         :parts="[
@@ -24,7 +24,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我不喜歡綠色，所以我決定用藍色。</p>
     </NoteSlide>
 
-    <NoteSlide title="however 開始一個新的句子，後面加逗號" mark="so">
+    <NoteSlide title="however 開始一個新的句子，後面加逗號">
       <NoteWords
         :size="28"
         :parts="[
@@ -79,14 +79,14 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="because 和 so 不放在同一句" mark="so">
       <NoteFix
-        wrong="Because I was tired, so I went to bed."
-        right="I was tired, so I went to bed."
-        fix="I was tired"
+        wrong="Because my brother had a cold, so he stayed in bed."
+        right="My brother had a cold, so he stayed in bed."
+        fix="My brother"
       />
     </NoteSlide>
 
-    <NoteSlide title="also 不放在句尾，放在句尾用 too">
-      <NoteFix wrong="I like tennis also." right="I also like tennis." fix="also" />
+    <NoteSlide title="also 不放在動詞和受詞中間">
+      <NoteFix wrong="I like also tennis." right="I also like tennis." fix="also" />
     </NoteSlide>
 
     <NoteSlide title="also 不放在 be 前面">
@@ -99,24 +99,24 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">so<br /><i>結果</i></span>
           <span
             ><NoteMark
-              sentence="It was raining, so we stayed home."
-              :marks="['so we stayed home']"
-            /><span class="translation">在下雨，所以我們待在家。</span></span
+              sentence="The bus was late, so I took a taxi."
+              :marks="['so I took a taxi']"
+            /><span class="translation">公車誤點，所以我搭了計程車。</span></span
           >
         </div>
         <div>
           <span class="term">because<br /><i>原因</i></span>
           <span
             ><NoteMark
-              sentence="We stayed home because it was raining."
-              :marks="['because it was raining']"
-            /><span class="translation">我們待在家，因為在下雨。</span></span
+              sentence="I took a taxi because the bus was late."
+              :marks="['because the bus was late']"
+            /><span class="translation">我搭了計程車，因為公車誤點。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="but 用逗號連接同一句裡的子句">
+    <NoteSlide title="but 連接同一句裡的子句，however 開始新的句子">
       <div class="rows is-labeled">
         <div>
           <span class="term">but</span>
@@ -130,10 +130,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">however</span>
           <span
-            ><NoteMark sentence="The test was hard. However, I passed." :marks="['However']" /><span
-              class="translation"
-              >考試很難。不過我過了。</span
-            ></span
+            ><NoteMark
+              sentence="The questions were difficult. However, everyone in my class passed."
+              :marks="['However,']"
+            /><span class="translation">題目很難。不過我們班每個人都過了。</span></span
           >
         </div>
       </div>

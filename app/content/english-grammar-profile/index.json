@@ -24625,32 +24625,32 @@
     "translation": "我不喜歡綠色，所以我決定用藍色。",
     "name": "also、so、however 連接子句",
     "sentences": [
-      "I was hungry, so I made a sandwich.",
-      "It's late, so let's go home.",
-      "My phone was dead, so I couldn't call you.",
-      "The shop was closed, so we went to the market.",
-      "She's ill, so she can't come to the party.",
-      "We missed the bus, so we took a taxi.",
-      "The film was boring, so I fell asleep.",
-      "I don't have much money, so I usually cook at home.",
-      "The clothes were cheap. However, they were good quality.",
-      "My flat is small. However, it's very close to work.",
-      "We wanted to go to the beach. However, it rained all day.",
-      "The food was great. However, the service was slow.",
-      "He studied hard. However, he didn't pass the test.",
-      "I like my job. However, I want to try something new.",
-      "Tickets usually cost forty pounds. However, students pay twenty.",
-      "I also bought a new pair of jeans.",
-      "She plays the piano. She also sings.",
-      "We visited the castle, and we also went to the museum.",
-      "My dad also works on Saturdays.",
-      "They also want to come with us.",
-      "I also need some milk.",
-      "My mother is a nurse. My aunt is also a nurse.",
-      "The hotel is cheap. It's also near the station.",
-      "I can also speak a little Spanish.",
-      "You should also bring a coat.",
-      "We were also very tired.",
+      "There was nothing in the fridge except bread and cheese. I was hungry, so I made a sandwich.",
+      "The last train leaves at midnight. It's late, so let's go home.",
+      "Sorry about last night. My phone was dead, so I couldn't call you.",
+      "We wanted to buy bread at the bakery. The shop was closed, so we went to the market.",
+      "Lucy has a fever. She's ill, so she can't come to the party.",
+      "The buses only run every hour. We missed the bus, so we took a taxi.",
+      "Nothing happened for the first hour. The film was boring, so I fell asleep.",
+      "I'm a student with a part-time job. I don't have much money, so I usually cook at home.",
+      "I bought three shirts at the market. The clothes were cheap. However, they were good quality.",
+      "I only have one room. My flat is small. However, it's very close to work.",
+      "We packed our swimsuits on Saturday. We wanted to go to the beach. However, it rained all day.",
+      "We waited forty minutes for dessert. The food was great. However, the service was slow.",
+      "Tom studied every night for a month. He studied hard. However, he didn't pass the test.",
+      "I've worked at the bank for ten years. I like my job. However, I want to try something new.",
+      "Show your student card at the door. Tickets usually cost forty pounds. However, students pay twenty.",
+      "I went shopping for a shirt for the wedding. I also bought a new pair of jeans.",
+      "Mia is in the school band. She plays the piano. She also sings.",
+      "We had a great day in Edinburgh. We visited the castle, and we also went to the museum.",
+      "My mum works from Monday to Friday. My dad also works on Saturdays.",
+      "I told my cousins about the picnic. They also want to come with us.",
+      "Can you get some bread? I also need some milk.",
+      "My dad is a teacher. My mum is also a teacher.",
+      "You should book the Park Hotel. It's cheap. It's also near the station.",
+      "I speak English and French. I can also speak a little Spanish.",
+      "Don't forget your hat and gloves. You should also bring a coat.",
+      "The kids were hungry after the long walk. We were also very tired.",
       "The train was late, so I missed the meeting. I also missed lunch.",
       "The flat is small. However, it's cheap, so I'm going to take it.",
       "I don't like coffee, so I usually drink tea. However, I sometimes have a latte.",
@@ -24661,36 +24661,36 @@
         "heading": "① 子句 + , so + 子句",
         "items": [
           {
-            "en": "I was hungry, so I made a sandwich.",
-            "zh": "我餓了，所以做了一個三明治。"
+            "en": "There was nothing in the fridge except bread and cheese. I was hungry, so I made a sandwich.",
+            "zh": "冰箱裡只有麵包和起司。我餓了，所以做了一個三明治。"
           },
           {
-            "en": "It's late, so let's go home.",
-            "zh": "很晚了，我們回家吧。"
+            "en": "The last train leaves at midnight. It's late, so let's go home.",
+            "zh": "最後一班火車半夜開。很晚了，我們回家吧。"
           },
           {
-            "en": "My phone was dead, so I couldn't call you.",
-            "zh": "我的手機沒電了，所以沒辦法打給你。"
+            "en": "Sorry about last night. My phone was dead, so I couldn't call you.",
+            "zh": "昨晚的事很抱歉。我的手機沒電了，所以沒辦法打給你。"
           },
           {
-            "en": "The shop was closed, so we went to the market.",
-            "zh": "那家店沒開，所以我們去了市場。"
+            "en": "We wanted to buy bread at the bakery. The shop was closed, so we went to the market.",
+            "zh": "我們想在麵包店買麵包。那家店沒開，所以我們去了市場。"
           },
           {
-            "en": "She's ill, so she can't come to the party.",
-            "zh": "她生病了，所以不能來派對。"
+            "en": "Lucy has a fever. She's ill, so she can't come to the party.",
+            "zh": "Lucy 發燒了。她生病了，所以不能來派對。"
           },
           {
-            "en": "We missed the bus, so we took a taxi.",
-            "zh": "我們錯過了公車，所以搭了計程車。"
+            "en": "The buses only run every hour. We missed the bus, so we took a taxi.",
+            "zh": "公車一個小時才一班。我們錯過了公車，所以搭了計程車。"
           },
           {
-            "en": "The film was boring, so I fell asleep.",
-            "zh": "電影很無聊，所以我睡著了。"
+            "en": "Nothing happened for the first hour. The film was boring, so I fell asleep.",
+            "zh": "第一個小時什麼事都沒發生。電影很無聊，所以我睡著了。"
           },
           {
-            "en": "I don't have much money, so I usually cook at home.",
-            "zh": "我錢不多，所以通常在家煮飯。"
+            "en": "I'm a student with a part-time job. I don't have much money, so I usually cook at home.",
+            "zh": "我是有兼職工作的學生。我錢不多，所以通常在家煮飯。"
           }
         ]
       },
@@ -24698,32 +24698,32 @@
         "heading": "② 句子。However, + 句子。",
         "items": [
           {
-            "en": "The clothes were cheap. However, they were good quality.",
-            "zh": "那些衣服很便宜。不過品質很好。"
+            "en": "I bought three shirts at the market. The clothes were cheap. However, they were good quality.",
+            "zh": "我在市場買了三件襯衫。那些衣服很便宜。不過品質很好。"
           },
           {
-            "en": "My flat is small. However, it's very close to work.",
-            "zh": "我的公寓很小。不過離公司很近。"
+            "en": "I only have one room. My flat is small. However, it's very close to work.",
+            "zh": "我只有一個房間。我的公寓很小。不過離公司很近。"
           },
           {
-            "en": "We wanted to go to the beach. However, it rained all day.",
-            "zh": "我們本來想去海邊。不過下了一整天的雨。"
+            "en": "We packed our swimsuits on Saturday. We wanted to go to the beach. However, it rained all day.",
+            "zh": "我們星期六帶了泳衣。我們本來想去海邊。不過下了一整天的雨。"
           },
           {
-            "en": "The food was great. However, the service was slow.",
-            "zh": "食物很好吃。不過服務很慢。"
+            "en": "We waited forty minutes for dessert. The food was great. However, the service was slow.",
+            "zh": "我們的甜點等了四十分鐘。食物很好吃。不過服務很慢。"
           },
           {
-            "en": "He studied hard. However, he didn't pass the test.",
-            "zh": "他很用功。不過考試沒過。"
+            "en": "Tom studied every night for a month. He studied hard. However, he didn't pass the test.",
+            "zh": "Tom 一個月每天晚上都在讀書。他很用功。不過考試沒過。"
           },
           {
-            "en": "I like my job. However, I want to try something new.",
-            "zh": "我喜歡我的工作。不過我想嘗試新的東西。"
+            "en": "I've worked at the bank for ten years. I like my job. However, I want to try something new.",
+            "zh": "我在銀行工作了十年。我喜歡我的工作。不過我想嘗試新的東西。"
           },
           {
-            "en": "Tickets usually cost forty pounds. However, students pay twenty.",
-            "zh": "票通常要四十英鎊。不過學生付二十英鎊就好。"
+            "en": "Show your student card at the door. Tickets usually cost forty pounds. However, students pay twenty.",
+            "zh": "在門口出示學生證。票通常要四十英鎊。不過學生付二十英鎊就好。"
           }
         ]
       },
@@ -24731,28 +24731,28 @@
         "heading": "③ also + 一般動詞",
         "items": [
           {
-            "en": "I also bought a new pair of jeans.",
-            "zh": "我也買了一條新的牛仔褲。"
+            "en": "I went shopping for a shirt for the wedding. I also bought a new pair of jeans.",
+            "zh": "我去買婚禮要穿的襯衫。我也買了一條新的牛仔褲。"
           },
           {
-            "en": "She plays the piano. She also sings.",
-            "zh": "她會彈鋼琴。她也會唱歌。"
+            "en": "Mia is in the school band. She plays the piano. She also sings.",
+            "zh": "Mia 在學校樂團。她會彈鋼琴。她也會唱歌。"
           },
           {
-            "en": "We visited the castle, and we also went to the museum.",
-            "zh": "我們參觀了城堡，也去了博物館。"
+            "en": "We had a great day in Edinburgh. We visited the castle, and we also went to the museum.",
+            "zh": "我們在愛丁堡玩得很開心。我們參觀了城堡，也去了博物館。"
           },
           {
-            "en": "My dad also works on Saturdays.",
-            "zh": "我爸星期六也要上班。"
+            "en": "My mum works from Monday to Friday. My dad also works on Saturdays.",
+            "zh": "我媽星期一到星期五上班。我爸星期六也要上班。"
           },
           {
-            "en": "They also want to come with us.",
-            "zh": "他們也想跟我們一起去。"
+            "en": "I told my cousins about the picnic. They also want to come with us.",
+            "zh": "我跟我表弟妹說了野餐的事。他們也想跟我們一起去。"
           },
           {
-            "en": "I also need some milk.",
-            "zh": "我也需要一些牛奶。"
+            "en": "Can you get some bread? I also need some milk.",
+            "zh": "你可以買一些麵包嗎？我也需要一些牛奶。"
           }
         ]
       },
@@ -24760,24 +24760,24 @@
         "heading": "④ be + also、助動詞 + also",
         "items": [
           {
-            "en": "My mother is a nurse. My aunt is also a nurse.",
-            "zh": "我媽是護士。我阿姨也是護士。"
+            "en": "My dad is a teacher. My mum is also a teacher.",
+            "zh": "我爸爸是老師。我媽媽也是老師。"
           },
           {
-            "en": "The hotel is cheap. It's also near the station.",
-            "zh": "那家旅館很便宜。它也在車站附近。"
+            "en": "You should book the Park Hotel. It's cheap. It's also near the station.",
+            "zh": "你應該訂 Park 飯店。它很便宜。它也在車站附近。"
           },
           {
-            "en": "I can also speak a little Spanish.",
-            "zh": "我也會說一點西班牙文。"
+            "en": "I speak English and French. I can also speak a little Spanish.",
+            "zh": "我會說英文和法文。我也會說一點西班牙文。"
           },
           {
-            "en": "You should also bring a coat.",
-            "zh": "你也應該帶件外套。"
+            "en": "Don't forget your hat and gloves. You should also bring a coat.",
+            "zh": "別忘了帶帽子和手套。你也應該帶件外套。"
           },
           {
-            "en": "We were also very tired.",
-            "zh": "我們也很累。"
+            "en": "The kids were hungry after the long walk. We were also very tired.",
+            "zh": "走了很遠的路，孩子們都餓了。我們也很累。"
           }
         ]
       },

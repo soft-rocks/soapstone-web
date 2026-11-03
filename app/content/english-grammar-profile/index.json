@@ -192,64 +192,64 @@
     "translation": "我一個人在公車站，所以很緊張。",
     "name": "a- 開頭的形容詞只當補語",
     "sentences": [
-      "Be quiet. The baby is asleep.",
+      "Don't ring the doorbell. Be quiet. The baby is asleep.",
       "I was almost asleep when the doorbell rang.",
-      "He fell asleep in front of the TV.",
-      "The kids were fast asleep by nine.",
-      "Is Grandpa still asleep?",
-      "I fell asleep on the train and missed my stop.",
+      "Dad watched the football last night. He fell asleep in front of the TV.",
+      "We had a long day at the beach. The kids were fast asleep by nine.",
+      "It's ten o'clock. Is Grandpa still asleep?",
+      "I worked late on Friday. I fell asleep on the train and missed my stop.",
       "Are you awake? I need to talk to you.",
-      "I was awake all night because of the noise.",
-      "Drink some coffee to stay awake.",
+      "The neighbours had a party until four. I was awake all night because of the noise.",
+      "You have to drive for three more hours. Drink some coffee to stay awake.",
       "The baby is awake now. Can you pick her up?",
-      "I lay awake thinking about the exam.",
-      "I was so happy that my father was still alive.",
-      "Is the lobster in the tank still alive?",
-      "The old tree is still alive after the storm.",
-      "Keep the plants alive while I'm away.",
-      "We found the bird alive under the car.",
-      "I was alone in the office on Friday night.",
-      "My grandmother is alone during the day.",
-      "Don't leave the dog alone all day.",
-      "I like to be alone when I study.",
-      "She was alone on the trip, but she made friends.",
-      "I'm often alone, but I'm not lonely.",
-      "Don't be afraid to ask questions in class.",
-      "My son is afraid of the dark.",
-      "The cat looked afraid of the noise.",
-      "Were you afraid during the storm?",
-      "Grandpa felt alone in the big house.",
-      "The kids fell asleep in the back of the car.",
-      "Nobody was afraid of the new teacher.",
-      "After the long flight, I could hardly stay awake."
+      "My maths exam was the next morning. I lay awake thinking about it.",
+      "There was a fire in my father's building. I was so happy that he was still alive.",
+      "We're choosing our dinner at the seafood restaurant. Is the lobster in the tank still alive?",
+      "The wind broke lots of trees in the park, but the old oak tree is still alive.",
+      "I'm going to Spain for a month. Keep the plants alive while I'm away.",
+      "The cat carried a bird into the garage. Luckily, the bird was still alive.",
+      "Everyone went home early. I was alone in the office on Friday night.",
+      "My parents work all day, so my grandmother is alone during the day.",
+      "Don't leave the dog alone all day. Ask a neighbour to walk him.",
+      "Please don't play music in my room. I like to be alone when I study.",
+      "My sister went to Peru by herself. She was alone on the trip, but she made friends.",
+      "I live by myself and see friends at weekends. I'm often alone, but I'm not lonely.",
+      "Nobody knows everything. Don't be afraid to ask questions in class.",
+      "We leave a light on in the hall. My son is afraid of the dark.",
+      "A car alarm went off outside. The cat looked afraid of the noise.",
+      "The wind broke your windows last night. Were you afraid during the storm?",
+      "Grandma died last year. Grandpa felt alone in the big house.",
+      "We drove home from the zoo. The kids fell asleep in the back of the car.",
+      "The new teacher smiled a lot. Nobody was afraid of her.",
+      "After the long flight, I could hardly stay awake at dinner."
     ],
     "examples": [
       {
         "heading": "① asleep",
         "items": [
           {
-            "en": "Be quiet. The baby is asleep.",
-            "zh": "小聲一點，寶寶睡著了。"
+            "en": "Don't ring the doorbell. Be quiet. The baby is asleep.",
+            "zh": "別按門鈴。小聲一點，寶寶睡著了。"
           },
           {
             "en": "I was almost asleep when the doorbell rang.",
             "zh": "我快睡著的時候，門鈴響了。"
           },
           {
-            "en": "He fell asleep in front of the TV.",
-            "zh": "他在電視前面睡著了。"
+            "en": "Dad watched the football last night. He fell asleep in front of the TV.",
+            "zh": "爸爸昨晚看足球。他在電視前面睡著了。"
           },
           {
-            "en": "The kids were fast asleep by nine.",
-            "zh": "孩子們九點就睡熟了。"
+            "en": "We had a long day at the beach. The kids were fast asleep by nine.",
+            "zh": "我們在海邊玩了一整天。孩子們九點就睡熟了。"
           },
           {
-            "en": "Is Grandpa still asleep?",
-            "zh": "爺爺還在睡嗎？"
+            "en": "It's ten o'clock. Is Grandpa still asleep?",
+            "zh": "已經十點了。爺爺還在睡嗎？"
           },
           {
-            "en": "I fell asleep on the train and missed my stop.",
-            "zh": "我在火車上睡著，坐過站了。"
+            "en": "I worked late on Friday. I fell asleep on the train and missed my stop.",
+            "zh": "我星期五加班。我在火車上睡著，坐過站了。"
           }
         ]
       },
@@ -261,20 +261,20 @@
             "zh": "你醒著嗎？我需要跟你說話。"
           },
           {
-            "en": "I was awake all night because of the noise.",
-            "zh": "因為太吵，我整晚都沒睡。"
+            "en": "The neighbours had a party until four. I was awake all night because of the noise.",
+            "zh": "鄰居的派對開到四點。因為太吵，我整晚都沒睡。"
           },
           {
-            "en": "Drink some coffee to stay awake.",
-            "zh": "喝點咖啡保持清醒。"
+            "en": "You have to drive for three more hours. Drink some coffee to stay awake.",
+            "zh": "你還要再開三個小時的車。喝點咖啡保持清醒。"
           },
           {
             "en": "The baby is awake now. Can you pick her up?",
             "zh": "寶寶醒了，你可以把她抱起來嗎？"
           },
           {
-            "en": "I lay awake thinking about the exam.",
-            "zh": "我躺著睡不著，一直想著考試。"
+            "en": "My maths exam was the next morning. I lay awake thinking about it.",
+            "zh": "我的數學考試在隔天早上。我躺著睡不著，一直想著考試。"
           }
         ]
       },
@@ -282,24 +282,24 @@
         "heading": "③ alive",
         "items": [
           {
-            "en": "I was so happy that my father was still alive.",
-            "zh": "我很高興我爸爸還活著。"
+            "en": "There was a fire in my father's building. I was so happy that he was still alive.",
+            "zh": "我爸爸住的大樓失火了。我很高興他還活著。"
           },
           {
-            "en": "Is the lobster in the tank still alive?",
-            "zh": "水箱裡那隻龍蝦還活著嗎？"
+            "en": "We're choosing our dinner at the seafood restaurant. Is the lobster in the tank still alive?",
+            "zh": "我們在海鮮餐廳挑晚餐。水箱裡那隻龍蝦還活著嗎？"
           },
           {
-            "en": "The old tree is still alive after the storm.",
-            "zh": "暴風雨過後，那棵老樹還活著。"
+            "en": "The wind broke lots of trees in the park, but the old oak tree is still alive.",
+            "zh": "風吹斷了公園裡很多樹，不過那棵老橡樹還活著。"
           },
           {
-            "en": "Keep the plants alive while I'm away.",
-            "zh": "我不在的時候，別讓這些植物死掉。"
+            "en": "I'm going to Spain for a month. Keep the plants alive while I'm away.",
+            "zh": "我要去西班牙一個月。我不在的時候，別讓這些植物死掉。"
           },
           {
-            "en": "We found the bird alive under the car.",
-            "zh": "我們在車子底下找到那隻鳥，牠還活著。"
+            "en": "The cat carried a bird into the garage. Luckily, the bird was still alive.",
+            "zh": "貓把一隻鳥叼進車庫。還好那隻鳥還活著。"
           }
         ]
       },
@@ -307,28 +307,28 @@
         "heading": "④ alone",
         "items": [
           {
-            "en": "I was alone in the office on Friday night.",
-            "zh": "星期五晚上我一個人在辦公室。"
+            "en": "Everyone went home early. I was alone in the office on Friday night.",
+            "zh": "大家都早早回家了。星期五晚上我一個人在辦公室。"
           },
           {
-            "en": "My grandmother is alone during the day.",
-            "zh": "我奶奶白天一個人在家。"
+            "en": "My parents work all day, so my grandmother is alone during the day.",
+            "zh": "我爸媽整天都在工作，所以我奶奶白天一個人在家。"
           },
           {
-            "en": "Don't leave the dog alone all day.",
-            "zh": "別把狗整天丟著不管。"
+            "en": "Don't leave the dog alone all day. Ask a neighbour to walk him.",
+            "zh": "別把狗整天單獨留在家。請鄰居帶牠去散步。"
           },
           {
-            "en": "I like to be alone when I study.",
-            "zh": "我讀書的時候喜歡一個人。"
+            "en": "Please don't play music in my room. I like to be alone when I study.",
+            "zh": "請別在我房間放音樂。我讀書的時候喜歡一個人。"
           },
           {
-            "en": "She was alone on the trip, but she made friends.",
-            "zh": "她這趟旅行是一個人，不過交到了朋友。"
+            "en": "My sister went to Peru by herself. She was alone on the trip, but she made friends.",
+            "zh": "我姊姊自己去了祕魯。她這趟旅行是一個人，不過交到了朋友。"
           },
           {
-            "en": "I'm often alone, but I'm not lonely.",
-            "zh": "我常常一個人，但是我不寂寞。"
+            "en": "I live by myself and see friends at weekends. I'm often alone, but I'm not lonely.",
+            "zh": "我一個人住，週末跟朋友見面。我常常一個人，但是我不寂寞。"
           }
         ]
       },
@@ -336,36 +336,36 @@
         "heading": "⑤ afraid 和連綴動詞",
         "items": [
           {
-            "en": "Don't be afraid to ask questions in class.",
-            "zh": "上課別害怕發問。"
+            "en": "Nobody knows everything. Don't be afraid to ask questions in class.",
+            "zh": "沒有人什麼都懂。上課別害怕發問。"
           },
           {
-            "en": "My son is afraid of the dark.",
-            "zh": "我兒子怕黑。"
+            "en": "We leave a light on in the hall. My son is afraid of the dark.",
+            "zh": "我們在走廊留一盞燈。我兒子怕黑。"
           },
           {
-            "en": "The cat looked afraid of the noise.",
-            "zh": "那隻貓看起來被聲音嚇到了。"
+            "en": "A car alarm went off outside. The cat looked afraid of the noise.",
+            "zh": "外面有汽車警報器響了。那隻貓看起來被聲音嚇到了。"
           },
           {
-            "en": "Were you afraid during the storm?",
-            "zh": "暴風雨的時候你害怕嗎？"
+            "en": "The wind broke your windows last night. Were you afraid during the storm?",
+            "zh": "昨晚風把你家的窗戶吹破了。暴風雨的時候你害怕嗎？"
           },
           {
-            "en": "Grandpa felt alone in the big house.",
-            "zh": "爺爺在大房子裡覺得孤單。"
+            "en": "Grandma died last year. Grandpa felt alone in the big house.",
+            "zh": "奶奶去年過世了。爺爺在大房子裡覺得孤單。"
           },
           {
-            "en": "The kids fell asleep in the back of the car.",
-            "zh": "孩子們在車子後座睡著了。"
+            "en": "We drove home from the zoo. The kids fell asleep in the back of the car.",
+            "zh": "我們從動物園開車回家。孩子們在車子後座睡著了。"
           },
           {
-            "en": "Nobody was afraid of the new teacher.",
-            "zh": "沒有人怕新老師。"
+            "en": "The new teacher smiled a lot. Nobody was afraid of her.",
+            "zh": "新老師常常笑。沒有人怕她。"
           },
           {
-            "en": "After the long flight, I could hardly stay awake.",
-            "zh": "長途飛行後，我幾乎沒辦法保持清醒。"
+            "en": "After the long flight, I could hardly stay awake at dinner.",
+            "zh": "長途飛行後，我吃晚餐時幾乎沒辦法保持清醒。"
           }
         ]
       }

@@ -44,15 +44,31 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="放在名詞前面時，換一個字" mark="alone">
+    <NoteSlide title="放在名詞前面時，換一個字">
       <div class="rows is-labeled">
         <div>
           <span class="term">asleep → sleeping</span>
           <span
-            ><NoteMark
-              sentence="Be quiet. There's a sleeping baby in the next room."
-              :marks="['sleeping baby']"
-            /><span class="translation">小聲一點，隔壁房間有個寶寶在睡覺。</span></span
+            ><NoteMark sentence="a sleeping baby" :marks="['sleeping']" /><span class="translation"
+              >睡著的寶寶</span
+            ></span
+          >
+        </div>
+        <div>
+          <span class="term">alive → live</span>
+          <span
+            ><NoteMark sentence="a live fish" :marks="['live']" /><span class="translation"
+              >活魚</span
+            ></span
+          >
+        </div>
+        <div>
+          <span class="term">afraid → frightened</span>
+          <span
+            ><NoteMark sentence="a frightened girl" :marks="['frightened']" /><span
+              class="translation"
+              >受到驚嚇的女孩</span
+            ></span
           >
         </div>
       </div>
@@ -63,7 +79,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我常常一個人，但是我不寂寞。</p>
     </NoteSlide>
 
-    <NoteSlide title="asleep 不放在名詞前面" mark="alone">
+    <NoteSlide title="asleep 不放在名詞前面">
       <NoteFix
         wrong="Be quiet. There's an asleep baby in the next room."
         right="Be quiet. There's a sleeping baby in the next room."
@@ -71,10 +87,10 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="睡得很熟用 fast asleep，不用 very" mark="very">
+    <NoteSlide title="睡得很熟用 fast asleep，不用 very">
       <NoteFix
-        wrong="The baby is very asleep."
-        right="The baby is fast asleep."
+        wrong="My son was very asleep at eight."
+        right="My son was fast asleep at eight."
         fix="fast asleep"
       />
     </NoteSlide>

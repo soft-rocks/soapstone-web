@@ -11508,18 +11508,18 @@
     "translation": "這就是會讓我生氣的事！",
     "name": "形容詞當 make 的受詞補語",
     "sentences": [
-      "Waiting in long lines makes me angry.",
-      "Long car trips make me sleepy.",
-      "Our old neighbour died last week. The news made my parents very sad.",
+      "Waiting in long queues makes me angry.",
+      "Long car trips make me bored.",
+      "Mr Brown from next door died last week. The news made my parents very sad.",
       "Exams always make me nervous.",
-      "Her funny emails make me happy.",
-      "The smell of bread makes me hungry.",
+      "My aunt's funny emails make me happy.",
+      "The new puppy makes the kids very excited.",
       "You always sleep with the light on. Does the dark make you afraid?",
       "The hike up the hill made us hungry.",
       "My dad only drinks one cup a day. Too much coffee makes him sick.",
       "Nobody knew the writer before 2019. Winning the prize made her famous.",
       "We played football at noon in July. The heat made everyone thirsty.",
-      "Don't drive after you take this. The medicine will make you sleepy.",
+      "Don't drive after you take this medicine. It will make you sleepy.",
       "My grandfather started with one small shop. Hard work made him rich.",
       "We couldn't swim the next day. The storm made the river brown.",
       "A little sugar makes the sauce sweet.",
@@ -11529,7 +11529,7 @@
       "Our manager bought some plants for the office. They make it more pleasant.",
       "I'm moving to another city, and I don't want to make you sad.",
       "I just want to make my customers happy.",
-      "Grandma came to stay with us. We tried to make the spare room cozy for her.",
+      "Grandma came to stay with us. We tried to make the spare room cosy for her.",
       "Dad is tired after work. Try not to make him angry.",
       "My cousin studies every night. She wants to make her parents proud.",
       "You're singing in the kitchen. What makes you so happy today?",
@@ -11544,28 +11544,28 @@
         "heading": "① make + 人 + 感覺",
         "items": [
           {
-            "en": "Waiting in long lines makes me angry.",
+            "en": "Waiting in long queues makes me angry.",
             "zh": "排長隊讓我很生氣。"
           },
           {
-            "en": "Long car trips make me sleepy.",
-            "zh": "長途坐車讓我想睡。"
+            "en": "Long car trips make me bored.",
+            "zh": "長途坐車讓我很無聊。"
           },
           {
-            "en": "Our old neighbour died last week. The news made my parents very sad.",
-            "zh": "我們以前的鄰居上星期過世了。這個消息讓我爸媽很難過。"
+            "en": "Mr Brown from next door died last week. The news made my parents very sad.",
+            "zh": "隔壁的 Brown 先生上星期過世了。這個消息讓我爸媽很難過。"
           },
           {
             "en": "Exams always make me nervous.",
             "zh": "考試總是讓我很緊張。"
           },
           {
-            "en": "Her funny emails make me happy.",
-            "zh": "她寫的好笑的電子郵件讓我很開心。"
+            "en": "My aunt's funny emails make me happy.",
+            "zh": "我阿姨寫的好笑的電子郵件讓我很開心。"
           },
           {
-            "en": "The smell of bread makes me hungry.",
-            "zh": "麵包的味道讓我肚子餓。"
+            "en": "The new puppy makes the kids very excited.",
+            "zh": "新來的小狗讓孩子們很興奮。"
           },
           {
             "en": "You always sleep with the light on. Does the dark make you afraid?",
@@ -11593,8 +11593,8 @@
             "zh": "我們七月中午踢足球。天氣熱得大家都很口渴。"
           },
           {
-            "en": "Don't drive after you take this. The medicine will make you sleepy.",
-            "zh": "吃了這個以後別開車。這個藥會讓你想睡。"
+            "en": "Don't drive after you take this medicine. It will make you sleepy.",
+            "zh": "吃了這個藥以後別開車。它會讓你想睡。"
           },
           {
             "en": "My grandfather started with one small shop. Hard work made him rich.",
@@ -11643,7 +11643,7 @@
             "zh": "我只想讓我的客人開心。"
           },
           {
-            "en": "Grandma came to stay with us. We tried to make the spare room cozy for her.",
+            "en": "Grandma came to stay with us. We tried to make the spare room cosy for her.",
             "zh": "奶奶來我們家住。我們想把客房弄得溫馨一點給她住。"
           },
           {

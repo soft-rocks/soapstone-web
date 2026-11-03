@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="26"
         :parts="[
           { t: 'Loud music', role: '主詞' },
-          { t: 'makes', role: 'make', kind: 'dim' },
+          { t: 'makes', role: '動詞', kind: 'dim' },
           { t: 'me', role: '受詞', kind: 'key' },
           { t: 'tired.', role: '形容詞', kind: 'key', ring: true },
         ]"
@@ -25,12 +25,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">很吵的音樂讓我覺得很累。</p>
     </NoteSlide>
 
-    <NoteSlide title="受詞也可以是東西" mark="makes me angry">
+    <NoteSlide title="受詞也可以是東西">
       <NoteWords
         :size="26"
         :parts="[
           { t: 'The rain', role: '主詞' },
-          { t: 'made', role: 'make', kind: 'dim' },
+          { t: 'made', role: '動詞', kind: 'dim' },
           { t: 'the roads', role: '受詞', kind: 'key' },
           { t: 'wet.', role: '形容詞', kind: 'key', ring: true },
         ]"

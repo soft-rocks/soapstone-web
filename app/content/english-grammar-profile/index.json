@@ -6496,12 +6496,12 @@
       "The kitchen was in complete chaos after the party.",
       "Grandma is coming in an hour, and your bedroom is a total mess!",
       "The cake fell on the floor, and the oven broke. My first dinner party was a total disaster.",
-      "I waved at a woman. She wasn't my sister. I felt like a total fool.",
+      "I waved at a woman. I thought she was my sister, but she wasn't. I felt like a total fool.",
       "We lost the game ten to nil. It was a total embarrassment.",
       "He's a total stranger. I've never seen him before.",
       "The head teacher said the school was going to close. There was total silence after the announcement.",
       "You called the fire brigade about a cat in a tree? Is this a real emergency?",
-      "It broke down three times in a month. Buying that car was a complete mistake.",
+      "That car broke down three times in a month. Buying it was a complete mistake.",
       "I didn't know you lived in Rome. What a total surprise to see you here!",
       "The tickets are still on sale. It would be a real pity to miss the show.",
       "We didn't finish the app, but we learned a lot. The project was not a complete failure.",
@@ -6550,7 +6550,7 @@
           },
           {
             "en": "Tom says cats can't swim. That's absolute nonsense.",
-            "zh": "湯姆說貓不會游泳。那完全是胡說八道。"
+            "zh": "Tom 說貓不會游泳。那完全是胡說八道。"
           },
           {
             "en": "The climb takes three hours, but the view from the top is an absolute joy.",
@@ -6607,8 +6607,8 @@
             "zh": "蛋糕掉到地上，烤箱也壞了。我第一次辦的晚餐派對完全是一場災難。"
           },
           {
-            "en": "I waved at a woman. She wasn't my sister. I felt like a total fool.",
-            "zh": "我跟一個女人揮手。她不是我姊姊。我覺得自己像個大笨蛋。"
+            "en": "I waved at a woman. I thought she was my sister, but she wasn't. I felt like a total fool.",
+            "zh": "我跟一個女人揮手。我以為她是我姊姊，結果不是。我覺得自己像個大笨蛋。"
           },
           {
             "en": "We lost the game ten to nil. It was a total embarrassment.",
@@ -6632,8 +6632,8 @@
             "zh": "你為了樹上的一隻貓打電話給消防隊？這是真正的緊急狀況嗎？"
           },
           {
-            "en": "It broke down three times in a month. Buying that car was a complete mistake.",
-            "zh": "它一個月壞了三次。買那輛車完全是個錯誤。"
+            "en": "That car broke down three times in a month. Buying it was a complete mistake.",
+            "zh": "那輛車一個月壞了三次。買它完全是個錯誤。"
           },
           {
             "en": "I didn't know you lived in Rome. What a total surprise to see you here!",

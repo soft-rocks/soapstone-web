@@ -29,7 +29,7 @@ defineProps<{ note: (typeof notes)[number] }>();
             ><NoteMark
               sentence="Tom says cats can't swim. That's absolute nonsense."
               :marks="['absolute nonsense']"
-            /><span class="translation">湯姆說貓不會游泳。那完全是胡說八道。</span></span
+            /><span class="translation">Tom 說貓不會游泳。那完全是胡說八道。</span></span
           >
         </div>
         <div>
@@ -52,7 +52,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">停電的時候，整條街一片漆黑。</p>
     </NoteSlide>
 
-    <NoteSlide title="complete 放在 be 後面時，意思是完成的" mark="complete">
+    <NoteSlide title="complete 放在 be 後面時，意思是完成的" mark="complete darkness">
       <div class="rows is-labeled">
         <div>
           <span class="term">名詞前面</span>
@@ -87,7 +87,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFix
         wrong="We sat in a complete darkness."
         right="We sat in complete darkness."
-        fix="in complete"
+        fix="complete darkness"
       />
     </NoteSlide>
 

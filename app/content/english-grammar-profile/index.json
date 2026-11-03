@@ -4078,17 +4078,17 @@
       "I bought a new camera for the trip. It's smaller than my old one.",
       "Wear your thick coat. Today is colder than yesterday.",
       "We got the dog first and the cat later. My cat is younger than my dog.",
-      "Don't take the main road to the station. This road is shorter.",
+      "Take this road to the station. It's shorter than the main road.",
       "We walked along the river all day. The river is longer than I thought.",
       "People think Ann and I are sisters, but her hair is darker than mine.",
       "You can bend a gold ring with your fingers. Gold is softer than iron.",
       "You carry my bag, and I'll carry yours. Your bag is lighter than mine.",
-      "The cleaner came on Monday. The room was cleaner than before.",
+      "My mum mopped the kitchen this morning. The floor is cleaner than before.",
       "Our school opened in 1890. It's older than our town hall.",
       "I looked at two bags in the shop. This bag is cheap, but that one is cheaper.",
       "My phone is so heavy. Is the new phone lighter?",
       "Come out of the sea now. The water is getting colder.",
-      "These jeans are too big for me. I need a smaller size.",
+      "These jeans are too big for me. Are the blue ones smaller?",
       "I can't read with the red lamp. The blue lamp is brighter.",
       "I passed the first test easily, but the second test was harder.",
       "There are three kids in my family. I have an older brother and a younger sister.",
@@ -4100,7 +4100,7 @@
       "My house was built in 1920. Is your house older than mine?",
       "Don't forget your gloves. Tomorrow will be colder than today.",
       "Your dog is huge now! When we got our puppies, my dog was smaller than yours.",
-      "You and Ken are the same height. Who is taller, you or Ken?",
+      "You and Ken look the same height. Who is taller, you or Ken?",
       "I can't sleep after tea at night. The tea is stronger than the coffee here.",
       "My grandfather wears old clothes, but he owns three houses. He's richer than he looks."
     ],
@@ -4126,11 +4126,11 @@
           },
           {
             "en": "We got the dog first and the cat later. My cat is younger than my dog.",
-            "zh": "我們先養狗，後來才養貓。我的貓比我的狗年輕。"
+            "zh": "我們先養狗，後來才養貓。我的貓比我的狗小。"
           },
           {
-            "en": "Don't take the main road to the station. This road is shorter.",
-            "zh": "去車站別走大馬路。這條路比較短。"
+            "en": "Take this road to the station. It's shorter than the main road.",
+            "zh": "走這條路去車站。它比大馬路近。"
           },
           {
             "en": "We walked along the river all day. The river is longer than I thought.",
@@ -4149,8 +4149,8 @@
             "zh": "你提我的包包，我提你的。你的包包比我的輕。"
           },
           {
-            "en": "The cleaner came on Monday. The room was cleaner than before.",
-            "zh": "清潔工星期一來過。房間比以前乾淨。"
+            "en": "My mum mopped the kitchen this morning. The floor is cleaner than before.",
+            "zh": "我媽媽今天早上拖了廚房的地。地板比以前乾淨。"
           },
           {
             "en": "Our school opened in 1890. It's older than our town hall.",
@@ -4174,8 +4174,8 @@
             "zh": "現在從海裡出來吧。水越來越冷了。"
           },
           {
-            "en": "These jeans are too big for me. I need a smaller size.",
-            "zh": "這條牛仔褲我穿太大了。我需要小一號的尺寸。"
+            "en": "These jeans are too big for me. Are the blue ones smaller?",
+            "zh": "這條牛仔褲我穿太大了。藍色那條比較小嗎？"
           },
           {
             "en": "I can't read with the red lamp. The blue lamp is brighter.",
@@ -4232,8 +4232,8 @@
             "zh": "你的狗現在好大！我們剛養小狗的時候，我的狗比你的小。"
           },
           {
-            "en": "You and Ken are the same height. Who is taller, you or Ken?",
-            "zh": "你和 Ken 一樣高。你和 Ken 誰比較高？"
+            "en": "You and Ken look the same height. Who is taller, you or Ken?",
+            "zh": "你和 Ken 看起來一樣高。你和 Ken 誰比較高？"
           },
           {
             "en": "I can't sleep after tea at night. The tea is stronger than the coffee here.",

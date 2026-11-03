@@ -26,12 +26,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark"><code>tall</code> 加 <code>-er</code>，就是比較級。</p>
     </NoteSlide>
 
-    <NoteSlide title="比較的對象很清楚時，可以不寫 than" mark="than the trousers">
+    <NoteSlide title="比較的對象很清楚時，可以不寫 than 和比較的對象" mark="than the trousers">
       <NoteMark sentence="This bag is cheap, but that one is cheaper." :marks="['cheaper']" />
       <p class="translation">這個包包很便宜，但是那個更便宜。</p>
     </NoteSlide>
 
-    <NoteSlide title="比較級也可以放在名詞前面" mark="cheaper">
+    <NoteSlide title="比較級也可以放在名詞前面">
       <NoteWords
         :size="26"
         :parts="[

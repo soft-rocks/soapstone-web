@@ -50,13 +50,13 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="最高級前面要加 the" mark="the happiest">
       <NoteFix
-        wrong="Lake Baikal is deepest lake on Earth."
-        right="Lake Baikal is the deepest lake on Earth."
+        wrong="Lake Baikal is deepest lake in the world."
+        right="Lake Baikal is the deepest lake in the world."
         fix="the deepest"
       />
     </NoteSlide>
 
-    <NoteSlide title="範圍是地方或團體時用 in" mark="of">
+    <NoteSlide title="範圍是地方或團體時用 in">
       <NoteFix
         wrong="Our hotel has the biggest swimming pool of the city."
         right="Our hotel has the biggest swimming pool in the city."

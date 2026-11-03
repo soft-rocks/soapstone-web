@@ -6104,7 +6104,7 @@
     "translation": "那些日子是我這輩子最快樂的時光。",
     "name": "最高級加介系詞片語",
     "sentences": [
-      "We took the kids to see the pandas. Ueno has the oldest zoo in Japan.",
+      "We took the kids to Ueno Zoo. It's the oldest zoo in Japan.",
       "More than thirty million people live in and around Tokyo. It's the largest city in Japan.",
       "The guide stopped outside a small stone church. This is the oldest building in the city.",
       "Here's the last question in the quiz. What's the longest river in the world?",
@@ -6140,8 +6140,8 @@
         "heading": "① 最高級 + 名詞 + in the world / country / city",
         "items": [
           {
-            "en": "We took the kids to see the pandas. Ueno has the oldest zoo in Japan.",
-            "zh": "我們帶孩子們去看貓熊。上野有日本最古老的動物園。"
+            "en": "We took the kids to Ueno Zoo. It's the oldest zoo in Japan.",
+            "zh": "我們帶孩子們去上野動物園。那是日本最古老的動物園。"
           },
           {
             "en": "More than thirty million people live in and around Tokyo. It's the largest city in Japan.",
@@ -6178,7 +6178,7 @@
           },
           {
             "en": "Put Lily in the last race. She's the fastest swimmer in our club.",
-            "zh": "讓莉莉游最後一棒。她是我們俱樂部裡游得最快的人。"
+            "zh": "讓 Lily 參加最後一場比賽。她是我們俱樂部裡游得最快的人。"
           },
           {
             "en": "Ken is only four. He's the youngest student in the school.",
@@ -6248,7 +6248,7 @@
           },
           {
             "en": "Invite Jack to the party. He's the funniest of my friends.",
-            "zh": "邀傑克來派對吧。他是我朋友裡最好笑的。"
+            "zh": "邀 Jack 來派對吧。他是我朋友裡最好笑的。"
           }
         ]
       },

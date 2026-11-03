@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">游泳對你的背很好。</p>
     </NoteSlide>
 
-    <NoteSlide title="good for 和 good at 意思不一樣" mark="full of">
+    <NoteSlide title="good for 和 good at 意思不一樣">
       <div class="rows is-labeled">
         <div>
           <span class="term">good for（有好處）</span>
@@ -49,7 +49,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="afraid、interested、kind 後面接不同的介系詞" mark="of">
+    <NoteSlide title="afraid、interested、kind 後面接不同的介系詞">
       <div class="rows is-labeled">
         <div>
           <span class="term">afraid of</span>
@@ -72,10 +72,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">kind to</span>
           <span
-            ><NoteMark
-              sentence="The nurses were very kind to my mother."
-              :marks="['kind to']"
-            /><span class="translation">護理師們對我媽媽很好。</span></span
+            ><NoteMark sentence="Be kind to your little sister." :marks="['kind to']" /><span
+              class="translation"
+              >對你妹妹好一點。</span
+            ></span
           >
         </div>
       </div>
@@ -85,11 +85,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFix wrong="The box is full books." right="The box is full of books." fix="of" />
     </NoteSlide>
 
-    <NoteSlide title="interested 後面接 in" mark="of">
+    <NoteSlide title="interested 後面接 in">
       <NoteFix wrong="I'm interested about art." right="I'm interested in art." fix="in" />
     </NoteSlide>
 
-    <NoteSlide title="介系詞後面的動詞加 -ing" mark="of people">
+    <NoteSlide title="介系詞後面的動詞加 -ing">
       <NoteFix wrong="He is good at swim." right="He is good at swimming." fix="swimming" />
     </NoteSlide>
   </NoteDeck>

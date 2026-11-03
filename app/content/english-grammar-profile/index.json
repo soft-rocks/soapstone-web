@@ -12242,35 +12242,35 @@
     "translation": "房子裡擠滿了人。",
     "name": "形容詞加介系詞片語",
     "sentences": [
-      "Swimming is good for your back.",
-      "Fruit is good for you, so eat an apple.",
-      "Too much sugar is bad for your teeth.",
-      "Is coffee bad for children?",
-      "Walking to school is good for the kids.",
-      "My sister is good at math.",
-      "Are you good at cooking?",
+      "You should go to the pool twice a week. Swimming is good for your back.",
+      "You haven't eaten all morning. Fruit is good for you, so eat an apple.",
+      "Don't give the kids sweets every day. Too much sugar is bad for their teeth.",
+      "My son wants to try my coffee. Is coffee bad for children?",
+      "We live near the school, and the kids walk there every day. Walking to school is good for them.",
+      "My sister always helps me with my homework. My sister is good at math.",
+      "We're having a dinner party on Saturday. Are you good at cooking?",
       "Ken is good at tennis. He plays every weekend.",
-      "My grandpa is good at fixing bikes.",
-      "She's really good at drawing animals.",
-      "The bus was full of students this morning.",
-      "My bag is full of books today.",
-      "The fridge is full of food for the party.",
-      "The park was full of children on Sunday.",
-      "Your room is full of old toys.",
-      "My little brother is afraid of dogs.",
-      "Are you afraid of the dark?",
-      "I'm afraid of flying, so we're taking the train.",
-      "Ann is interested in old movies.",
-      "Are you interested in art?",
-      "My dad is interested in cooking Thai food.",
-      "Hurry up, or we'll be late for school.",
-      "Sorry I'm late for the meeting.",
-      "The nurses were very kind to my mother.",
-      "Be kind to your little sister.",
-      "Don't be late for dinner again.",
-      "The old man was kind to us when we got lost.",
-      "Was he late for work again?",
-      "Everyone at the hotel was kind to the children.",
+      "My bike has a flat tyre. Take it to Grandpa. He's good at fixing bikes.",
+      "Lily wants to be an artist. She's really good at drawing animals.",
+      "There was a football match at the school. The bus was full of students this morning.",
+      "I have three exams today. My bag is full of books.",
+      "Don't put anything else in the fridge. It's full of food for the party.",
+      "It was sunny on Sunday. The park was full of children.",
+      "Give some toys to your cousins. Your room is full of old toys.",
+      "Don't bring your dog to our house. My little brother is afraid of dogs.",
+      "You always sleep with the light on. Are you afraid of the dark?",
+      "I'm afraid of flying, so we're taking the train to Rome.",
+      "Let's give Ann a Charlie Chaplin DVD. Ann is interested in old movies.",
+      "The art museum has a free day on Sunday. Are you interested in art?",
+      "We went to Bangkok last year. Now my dad is interested in cooking Thai food.",
+      "It's already eight. Hurry up, or we'll be late for school.",
+      "The train stopped for twenty minutes. Sorry I'm late for the meeting.",
+      "My mother was in hospital for a week. The nurses were very kind to her.",
+      "Stop taking her toys. Be kind to your little sister.",
+      "You came home at nine last night. Don't be late for dinner again.",
+      "We got lost in a small village. An old man was kind to us and drove us to the station.",
+      "Tom's desk is empty again. Is he late for work again?",
+      "We stayed at a hotel with our two kids. Everyone at the hotel was kind to the children.",
       "The bus didn't come, so I was late for my class."
     ],
     "examples": [
@@ -12278,24 +12278,24 @@
         "heading": "① good for / bad for",
         "items": [
           {
-            "en": "Swimming is good for your back.",
-            "zh": "游泳對你的背很好。"
+            "en": "You should go to the pool twice a week. Swimming is good for your back.",
+            "zh": "你應該一個星期去游泳池兩次。游泳對你的背很好。"
           },
           {
-            "en": "Fruit is good for you, so eat an apple.",
-            "zh": "水果對你有好處，吃顆蘋果吧。"
+            "en": "You haven't eaten all morning. Fruit is good for you, so eat an apple.",
+            "zh": "你一整個早上都沒吃東西。水果對你有好處，吃顆蘋果吧。"
           },
           {
-            "en": "Too much sugar is bad for your teeth.",
-            "zh": "吃太多糖對你的牙齒不好。"
+            "en": "Don't give the kids sweets every day. Too much sugar is bad for their teeth.",
+            "zh": "別每天給孩子吃糖果。吃太多糖對他們的牙齒不好。"
           },
           {
-            "en": "Is coffee bad for children?",
-            "zh": "咖啡對小孩不好嗎？"
+            "en": "My son wants to try my coffee. Is coffee bad for children?",
+            "zh": "我兒子想喝我的咖啡。咖啡對小孩不好嗎？"
           },
           {
-            "en": "Walking to school is good for the kids.",
-            "zh": "走路上學對孩子們有好處。"
+            "en": "We live near the school, and the kids walk there every day. Walking to school is good for them.",
+            "zh": "我們住在學校附近，孩子們每天走路去上學。走路上學對他們有好處。"
           }
         ]
       },
@@ -12303,24 +12303,24 @@
         "heading": "② good at",
         "items": [
           {
-            "en": "My sister is good at math.",
-            "zh": "我姊姊數學很好。"
+            "en": "My sister always helps me with my homework. My sister is good at math.",
+            "zh": "我姊姊總是幫我寫功課。我姊姊數學很好。"
           },
           {
-            "en": "Are you good at cooking?",
-            "zh": "你很會煮菜嗎？"
+            "en": "We're having a dinner party on Saturday. Are you good at cooking?",
+            "zh": "我們星期六要辦晚餐派對。你很會煮菜嗎？"
           },
           {
             "en": "Ken is good at tennis. He plays every weekend.",
             "zh": "Ken 很會打網球，他每個週末都打。"
           },
           {
-            "en": "My grandpa is good at fixing bikes.",
-            "zh": "我爺爺很會修腳踏車。"
+            "en": "My bike has a flat tyre. Take it to Grandpa. He's good at fixing bikes.",
+            "zh": "我的腳踏車爆胎了。拿去給爺爺吧。他很會修腳踏車。"
           },
           {
-            "en": "She's really good at drawing animals.",
-            "zh": "她很會畫動物。"
+            "en": "Lily wants to be an artist. She's really good at drawing animals.",
+            "zh": "Lily 想當畫家。她很會畫動物。"
           }
         ]
       },
@@ -12328,24 +12328,24 @@
         "heading": "③ full of",
         "items": [
           {
-            "en": "The bus was full of students this morning.",
-            "zh": "今天早上公車上都是學生。"
+            "en": "There was a football match at the school. The bus was full of students this morning.",
+            "zh": "學校有一場足球賽。今天早上公車上都是學生。"
           },
           {
-            "en": "My bag is full of books today.",
-            "zh": "我今天的包包裝滿了書。"
+            "en": "I have three exams today. My bag is full of books.",
+            "zh": "我今天有三科考試。我的包包裝滿了書。"
           },
           {
-            "en": "The fridge is full of food for the party.",
-            "zh": "冰箱裡塞滿了派對要用的食物。"
+            "en": "Don't put anything else in the fridge. It's full of food for the party.",
+            "zh": "別再把東西放進冰箱了。冰箱裡塞滿了派對要用的食物。"
           },
           {
-            "en": "The park was full of children on Sunday.",
-            "zh": "星期天公園裡都是小孩。"
+            "en": "It was sunny on Sunday. The park was full of children.",
+            "zh": "星期天天氣晴朗。公園裡都是小孩。"
           },
           {
-            "en": "Your room is full of old toys.",
-            "zh": "你的房間堆滿了舊玩具。"
+            "en": "Give some toys to your cousins. Your room is full of old toys.",
+            "zh": "送一些玩具給你的表弟妹吧。你的房間堆滿了舊玩具。"
           }
         ]
       },
@@ -12353,28 +12353,28 @@
         "heading": "④ afraid of / interested in",
         "items": [
           {
-            "en": "My little brother is afraid of dogs.",
-            "zh": "我弟弟怕狗。"
+            "en": "Don't bring your dog to our house. My little brother is afraid of dogs.",
+            "zh": "別帶你的狗來我們家。我弟弟怕狗。"
           },
           {
-            "en": "Are you afraid of the dark?",
-            "zh": "你怕黑嗎？"
+            "en": "You always sleep with the light on. Are you afraid of the dark?",
+            "zh": "你睡覺都開著燈。你怕黑嗎？"
           },
           {
-            "en": "I'm afraid of flying, so we're taking the train.",
-            "zh": "我怕坐飛機，所以我們要搭火車。"
+            "en": "I'm afraid of flying, so we're taking the train to Rome.",
+            "zh": "我怕坐飛機，所以我們要搭火車去羅馬。"
           },
           {
-            "en": "Ann is interested in old movies.",
-            "zh": "Ann 對老電影有興趣。"
+            "en": "Let's give Ann a Charlie Chaplin DVD. Ann is interested in old movies.",
+            "zh": "我們送 Ann 一片卓別林的 DVD 吧。Ann 對老電影有興趣。"
           },
           {
-            "en": "Are you interested in art?",
-            "zh": "你對藝術有興趣嗎？"
+            "en": "The art museum has a free day on Sunday. Are you interested in art?",
+            "zh": "美術館星期天免費參觀。你對藝術有興趣嗎？"
           },
           {
-            "en": "My dad is interested in cooking Thai food.",
-            "zh": "我爸爸對煮泰國菜有興趣。"
+            "en": "We went to Bangkok last year. Now my dad is interested in cooking Thai food.",
+            "zh": "我們去年去了曼谷。現在我爸爸對煮泰國菜有興趣。"
           }
         ]
       },
@@ -12382,36 +12382,36 @@
         "heading": "⑤ late for / kind to",
         "items": [
           {
-            "en": "Hurry up, or we'll be late for school.",
-            "zh": "快一點，不然我們上學會遲到。"
+            "en": "It's already eight. Hurry up, or we'll be late for school.",
+            "zh": "已經八點了。快一點，不然我們上學會遲到。"
           },
           {
-            "en": "Sorry I'm late for the meeting.",
-            "zh": "抱歉，我開會遲到了。"
+            "en": "The train stopped for twenty minutes. Sorry I'm late for the meeting.",
+            "zh": "火車停了二十分鐘。抱歉，我開會遲到了。"
           },
           {
-            "en": "The nurses were very kind to my mother.",
-            "zh": "護理師們對我媽媽很好。"
+            "en": "My mother was in hospital for a week. The nurses were very kind to her.",
+            "zh": "我媽媽住院一個星期。護理師們對她很好。"
           },
           {
-            "en": "Be kind to your little sister.",
-            "zh": "對你妹妹好一點。"
+            "en": "Stop taking her toys. Be kind to your little sister.",
+            "zh": "別再拿她的玩具了。對你妹妹好一點。"
           },
           {
-            "en": "Don't be late for dinner again.",
-            "zh": "晚餐別再遲到了。"
+            "en": "You came home at nine last night. Don't be late for dinner again.",
+            "zh": "你昨晚九點才回家。晚餐別再遲到了。"
           },
           {
-            "en": "The old man was kind to us when we got lost.",
-            "zh": "我們迷路的時候，那位老先生對我們很好。"
+            "en": "We got lost in a small village. An old man was kind to us and drove us to the station.",
+            "zh": "我們在一個小村子裡迷路了。一位老先生對我們很好，開車送我們去車站。"
           },
           {
-            "en": "Was he late for work again?",
-            "zh": "他上班又遲到了嗎？"
+            "en": "Tom's desk is empty again. Is he late for work again?",
+            "zh": "Tom 的位子又是空的。他上班又遲到了嗎？"
           },
           {
-            "en": "Everyone at the hotel was kind to the children.",
-            "zh": "飯店的每個人都對孩子們很好。"
+            "en": "We stayed at a hotel with our two kids. Everyone at the hotel was kind to the children.",
+            "zh": "我們帶兩個孩子住飯店。飯店的每個人都對孩子們很好。"
           },
           {
             "en": "The bus didn't come, so I was late for my class.",

@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="情狀副詞放在受詞後面">
+    <NoteSlide title="情狀副詞放在受詞後面" mark="his warning seriously">
       <NoteWords
         :size="30"
         :parts="[
@@ -24,17 +24,18 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">她應該認真看待他的警告。</p>
     </NoteSlide>
 
-    <NoteSlide title="要強調做法時，情狀副詞可以放在一般動詞前面" mark="seriously">
+    <NoteSlide title="要強調做法時，情狀副詞可以放在一般動詞前面">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'He', role: '主詞', kind: 'dim' },
+          { t: 'The boy', role: '主詞', kind: 'dim' },
           { t: 'deliberately', role: '情狀副詞', kind: 'key' },
-          { t: 'broke', role: '一般動詞' },
-          { t: 'the window.', role: '受詞' },
+          { t: 'kicked', role: '一般動詞' },
+          { t: 'the ball', role: '受詞' },
+          { t: 'into our garden.', kind: 'dim' },
         ]"
       />
-      <p class="translation">他是故意打破窗戶的。</p>
+      <p class="translation">那個男孩故意把球踢進我們的花園。</p>
     </NoteSlide>
 
     <NoteSlide title="有些情狀副詞常和固定的動詞一起用" mark="take his warning seriously">
@@ -86,11 +87,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="修飾動詞 take 用副詞 seriously">
+    <NoteSlide title="道歉時說不小心，用 accidentally">
       <NoteFix
-        wrong="The police didn't take the threat serious."
-        right="The police didn't take the threat seriously."
-        fix="seriously."
+        wrong="Sorry, I broke your cup deliberately."
+        right="Sorry, I broke your cup accidentally."
+        fix="accidentally."
       />
     </NoteSlide>
 

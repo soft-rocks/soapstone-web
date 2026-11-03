@@ -25203,23 +25203,23 @@
     "translation": "她發現他是個非常危險的人，她應該認真看待他的警告。",
     "name": "情狀副詞（多種）",
     "sentences": [
-      "The police took the problem seriously.",
+      "Ten people complained about the noise. The police took the problem seriously.",
       "My brother is seriously thinking about leaving his job.",
-      "You need to think seriously about your future.",
-      "She doesn't take anything seriously.",
-      "We urgently need more nurses.",
-      "I need to speak to you urgently.",
-      "The hospital is asking urgently for blood donors.",
-      "The roof needs repairing urgently.",
-      "He parked his car illegally outside the bank.",
-      "They entered the country illegally.",
+      "You're finishing school next year. You need to think seriously about your future.",
+      "My sister laughs at everything. She doesn't take anything seriously.",
+      "Three nurses left last month. We urgently need more staff.",
+      "Can you call me back? I need to speak to you urgently.",
+      "There was a big train accident. The hospital is asking urgently for blood donors.",
+      "Water is coming through the ceiling. The roof needs repairing urgently.",
+      "My uncle got a parking ticket. He parked his car illegally outside the bank.",
+      "The two men had no passports. They entered the country illegally.",
       "Someone has been using our parking space illegally.",
       "The factory illegally poured waste into the river.",
-      "She deliberately ignored my message.",
-      "I didn't do it deliberately!",
-      "He accidentally locked himself out of the house.",
+      "I texted Lucy three times. She deliberately ignored my messages.",
+      "I'm sorry I stood on your foot. I didn't do it deliberately!",
+      "My dad left his keys inside. He accidentally locked himself out of the house.",
       "I accidentally sent the email to my boss.",
-      "Did you break it accidentally?",
+      "Your glasses are broken. Did you break them accidentally?",
       "Shut the fridge door properly, or the food will go off.",
       "I haven't slept properly for days.",
       "Make sure you cook the chicken properly.",
@@ -25227,9 +25227,9 @@
       "The teacher marks our tests fairly.",
       "The company pays its workers fairly.",
       "Please share the sweets fairly.",
-      "She smiled politely and said nothing.",
+      "My mum didn't like the meal, but she smiled politely and said nothing.",
       "The children listened silently.",
-      "He spoke confidently in the interview.",
+      "Leo had prepared for weeks. He spoke confidently in the interview.",
       "We waited anxiously for the results.",
       "The players celebrated wildly after the goal.",
       "The firefighters got everyone out of the building safely."
@@ -25239,20 +25239,20 @@
         "heading": "① seriously",
         "items": [
           {
-            "en": "The police took the problem seriously.",
-            "zh": "警察認真看待這個問題。"
+            "en": "Ten people complained about the noise. The police took the problem seriously.",
+            "zh": "有十個人投訴噪音。警察認真看待這個問題。"
           },
           {
             "en": "My brother is seriously thinking about leaving his job.",
             "zh": "我哥哥在認真考慮辭職。"
           },
           {
-            "en": "You need to think seriously about your future.",
-            "zh": "你需要認真考慮你的未來。"
+            "en": "You're finishing school next year. You need to think seriously about your future.",
+            "zh": "你明年就畢業了。你需要認真考慮你的未來。"
           },
           {
-            "en": "She doesn't take anything seriously.",
-            "zh": "她什麼事都不認真。"
+            "en": "My sister laughs at everything. She doesn't take anything seriously.",
+            "zh": "我妹妹什麼都拿來笑。她什麼事都不認真。"
           }
         ]
       },
@@ -25260,20 +25260,20 @@
         "heading": "② urgently",
         "items": [
           {
-            "en": "We urgently need more nurses.",
-            "zh": "我們急需更多護士。"
+            "en": "Three nurses left last month. We urgently need more staff.",
+            "zh": "上個月走了三個護士。我們急需更多人手。"
           },
           {
-            "en": "I need to speak to you urgently.",
-            "zh": "我有急事要跟你說。"
+            "en": "Can you call me back? I need to speak to you urgently.",
+            "zh": "你可以回我電話嗎？我有急事要跟你說。"
           },
           {
-            "en": "The hospital is asking urgently for blood donors.",
-            "zh": "醫院正在緊急徵求捐血者。"
+            "en": "There was a big train accident. The hospital is asking urgently for blood donors.",
+            "zh": "發生了一場嚴重的火車事故。醫院正在緊急徵求捐血者。"
           },
           {
-            "en": "The roof needs repairing urgently.",
-            "zh": "屋頂急需修理。"
+            "en": "Water is coming through the ceiling. The roof needs repairing urgently.",
+            "zh": "水從天花板滲進來。屋頂急需修理。"
           }
         ]
       },
@@ -25281,12 +25281,12 @@
         "heading": "③ illegally",
         "items": [
           {
-            "en": "He parked his car illegally outside the bank.",
-            "zh": "他把車違規停在銀行外面。"
+            "en": "My uncle got a parking ticket. He parked his car illegally outside the bank.",
+            "zh": "我叔叔收到一張停車罰單。他把車違規停在銀行外面。"
           },
           {
-            "en": "They entered the country illegally.",
-            "zh": "他們非法入境那個國家。"
+            "en": "The two men had no passports. They entered the country illegally.",
+            "zh": "那兩個男人沒有護照。他們非法入境那個國家。"
           },
           {
             "en": "Someone has been using our parking space illegally.",
@@ -25302,24 +25302,24 @@
         "heading": "④ deliberately、accidentally",
         "items": [
           {
-            "en": "She deliberately ignored my message.",
-            "zh": "她故意不理我的訊息。"
+            "en": "I texted Lucy three times. She deliberately ignored my messages.",
+            "zh": "我傳了三次訊息給 Lucy。她故意不理我的訊息。"
           },
           {
-            "en": "I didn't do it deliberately!",
-            "zh": "我不是故意的！"
+            "en": "I'm sorry I stood on your foot. I didn't do it deliberately!",
+            "zh": "對不起踩到你的腳。我不是故意的！"
           },
           {
-            "en": "He accidentally locked himself out of the house.",
-            "zh": "他不小心把自己鎖在門外。"
+            "en": "My dad left his keys inside. He accidentally locked himself out of the house.",
+            "zh": "我爸爸把鑰匙留在屋裡。他不小心把自己鎖在門外。"
           },
           {
             "en": "I accidentally sent the email to my boss.",
             "zh": "我不小心把電子郵件寄給了我的老闆。"
           },
           {
-            "en": "Did you break it accidentally?",
-            "zh": "你是不小心弄壞的嗎？"
+            "en": "Your glasses are broken. Did you break them accidentally?",
+            "zh": "你的眼鏡壞了。你是不小心弄壞的嗎？"
           }
         ]
       },
@@ -25365,16 +25365,16 @@
         "heading": "⑦ 其他情狀副詞",
         "items": [
           {
-            "en": "She smiled politely and said nothing.",
-            "zh": "她禮貌地笑了笑，什麼也沒說。"
+            "en": "My mum didn't like the meal, but she smiled politely and said nothing.",
+            "zh": "我媽媽不喜歡那頓飯，不過她禮貌地笑了笑，什麼也沒說。"
           },
           {
             "en": "The children listened silently.",
             "zh": "孩子們靜靜地聽著。"
           },
           {
-            "en": "He spoke confidently in the interview.",
-            "zh": "他在面試時說話很有自信。"
+            "en": "Leo had prepared for weeks. He spoke confidently in the interview.",
+            "zh": "Leo 準備了好幾個星期。他在面試時說話很有自信。"
           },
           {
             "en": "We waited anxiously for the results.",

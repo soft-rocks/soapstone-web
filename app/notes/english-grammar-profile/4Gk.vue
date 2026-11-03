@@ -24,41 +24,64 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們去哪裡都在一起。</p>
     </NoteSlide>
 
-    <NoteSlide title="介系詞加名詞也可以說明動作怎麼做" mark="together">
+    <NoteSlide title="介系詞加名詞也可以說明動作怎麼做">
       <div class="rows is-labeled">
         <div>
           <span class="term">by + 名詞</span>
           <span
-            ><NoteMark sentence="She made the cake by hand." :marks="['by hand']" /><span
+            ><NoteMark sentence="Lucy made the cake by hand." :marks="['by hand']" /><span
               class="translation"
-              >那個蛋糕是她親手做的。</span
+              >那個蛋糕是 Lucy 親手做的。</span
             ></span
           >
         </div>
         <div>
           <span class="term">in a hurry</span>
           <span
-            ><NoteMark sentence="They packed their bags in a hurry." :marks="['in a hurry']" /><span
-              class="translation"
-              >他們匆匆忙忙地收拾行李。</span
-            ></span
+            ><NoteMark
+              sentence="The students packed their bags in a hurry."
+              :marks="['in a hurry']"
+            /><span class="translation">學生們匆匆忙忙地收拾行李。</span></span
           >
         </div>
         <div>
           <span class="term">with + 名詞</span>
           <span
             ><NoteMark
-              sentence="She opened the door with a smile."
+              sentence="The receptionist opened the door with a smile."
               :marks="['with a smile']"
-            /><span class="translation">她笑著開了門。</span></span
+            /><span class="translation">接待員笑著開了門。</span></span
           >
         </div>
         <div>
           <span class="term">like + 名詞</span>
           <span
-            ><NoteMark sentence="She sings like a bird." :marks="['like a bird']" /><span
+            ><NoteMark sentence="Emma sings like a bird." :marks="['like a bird']" /><span
               class="translation"
-              >她唱歌像小鳥一樣好聽。</span
+              >Emma 唱歌像小鳥一樣好聽。</span
+            ></span
+          >
+        </div>
+      </div>
+    </NoteSlide>
+
+    <NoteSlide title="in a strange way 和 like this 也說明動作怎麼做">
+      <div class="rows is-labeled">
+        <div>
+          <span class="term">in a + 形容詞 + way</span>
+          <span
+            ><NoteMark
+              sentence="The old man smiled at me in a strange way."
+              :marks="['in a strange way.']"
+            /><span class="translation">那個老人對我笑得很奇怪。</span></span
+          >
+        </div>
+        <div>
+          <span class="term">like this</span>
+          <span
+            ><NoteMark sentence="Hold the pen like this." :marks="['like this.']" /><span
+              class="translation"
+              >筆要這樣拿。</span
             ></span
           >
         </div>

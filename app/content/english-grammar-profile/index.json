@@ -25403,32 +25403,32 @@
       "Let's do the washing up together.",
       "The whole family had dinner together.",
       "My grandfather lives alone now.",
-      "She travelled alone across Asia.",
-      "He makes friends easily.",
-      "You can get there easily by train.",
+      "My aunt travelled alone across Asia.",
+      "My son makes friends easily.",
+      "You can get to the beach easily by train.",
       "The nurse put the bandage on my knee carefully.",
       "I opened the parcel carefully and slowly.",
       "My mum knits all our jumpers by hand.",
       "We went to the airport by taxi.",
       "Most people pay for their shopping by card now.",
-      "Please send it to me by post.",
+      "Please send the contract to me by post.",
       "My grandmother still washes her clothes by hand.",
-      "He smiled at me in a strange way.",
-      "She explained it in a simple way.",
+      "The old man smiled at me in a strange way.",
+      "The teacher explained the rule in a simple way.",
       "Sorry, I can't talk. I'm in a hurry.",
-      "They packed their bags in a hurry.",
+      "The students packed their bags in a hurry.",
       "Please handle this box with care.",
-      "She opened the door with a smile.",
-      "He listened to the news with interest.",
+      "The receptionist opened the door with a smile.",
+      "Grandpa listened to the news with interest.",
       "The children waited with excitement.",
-      "She sings like a bird.",
-      "He was shaking like a leaf.",
+      "Emma sings like a bird.",
+      "The little boy was shaking like a leaf.",
       "Hold the pen like this.",
       "Don't talk to me like that!",
       "You fold the paper like this, then like this.",
       "Did your daughter go to the cinema alone?",
       "Do you usually go to work by bus?",
-      "I can't do it like that.",
+      "I can't hold the chopsticks like that.",
       "Why did you leave in such a hurry?"
     ],
     "examples": [
@@ -25452,8 +25452,8 @@
             "zh": "我爺爺現在一個人住。"
           },
           {
-            "en": "She travelled alone across Asia.",
-            "zh": "她一個人在亞洲各地旅行。"
+            "en": "My aunt travelled alone across Asia.",
+            "zh": "我阿姨一個人在亞洲各地旅行。"
           }
         ]
       },
@@ -25461,12 +25461,12 @@
         "heading": "② easily、carefully",
         "items": [
           {
-            "en": "He makes friends easily.",
-            "zh": "他很容易交到朋友。"
+            "en": "My son makes friends easily.",
+            "zh": "我兒子很容易交到朋友。"
           },
           {
-            "en": "You can get there easily by train.",
-            "zh": "你搭火車很容易就能到那裡。"
+            "en": "You can get to the beach easily by train.",
+            "zh": "你搭火車很容易就能到海邊。"
           },
           {
             "en": "The nurse put the bandage on my knee carefully.",
@@ -25494,8 +25494,8 @@
             "zh": "現在大部分人買東西都刷卡。"
           },
           {
-            "en": "Please send it to me by post.",
-            "zh": "請用郵寄把它寄給我。"
+            "en": "Please send the contract to me by post.",
+            "zh": "請把合約用郵寄寄給我。"
           },
           {
             "en": "My grandmother still washes her clothes by hand.",
@@ -25507,20 +25507,20 @@
         "heading": "④ in a + 形容詞 + way、in a hurry",
         "items": [
           {
-            "en": "He smiled at me in a strange way.",
-            "zh": "他用奇怪的樣子對我笑。"
+            "en": "The old man smiled at me in a strange way.",
+            "zh": "那個老人對我笑得很奇怪。"
           },
           {
-            "en": "She explained it in a simple way.",
-            "zh": "她用簡單的方式解釋。"
+            "en": "The teacher explained the rule in a simple way.",
+            "zh": "老師用簡單的方式解釋那條規則。"
           },
           {
             "en": "Sorry, I can't talk. I'm in a hurry.",
             "zh": "抱歉，我不能聊。我在趕時間。"
           },
           {
-            "en": "They packed their bags in a hurry.",
-            "zh": "他們匆匆忙忙地收拾行李。"
+            "en": "The students packed their bags in a hurry.",
+            "zh": "學生們匆匆忙忙地收拾行李。"
           }
         ]
       },
@@ -25532,12 +25532,12 @@
             "zh": "請小心搬這個箱子。"
           },
           {
-            "en": "She opened the door with a smile.",
-            "zh": "她笑著開了門。"
+            "en": "The receptionist opened the door with a smile.",
+            "zh": "接待員笑著開了門。"
           },
           {
-            "en": "He listened to the news with interest.",
-            "zh": "他很感興趣地聽新聞。"
+            "en": "Grandpa listened to the news with interest.",
+            "zh": "爺爺很感興趣地聽新聞。"
           },
           {
             "en": "The children waited with excitement.",
@@ -25549,12 +25549,12 @@
         "heading": "⑥ like + 名詞、like this",
         "items": [
           {
-            "en": "She sings like a bird.",
-            "zh": "她唱歌像小鳥一樣好聽。"
+            "en": "Emma sings like a bird.",
+            "zh": "Emma 唱歌像小鳥一樣好聽。"
           },
           {
-            "en": "He was shaking like a leaf.",
-            "zh": "他抖得像片葉子一樣。"
+            "en": "The little boy was shaking like a leaf.",
+            "zh": "那個小男孩抖得像片葉子一樣。"
           },
           {
             "en": "Hold the pen like this.",
@@ -25582,8 +25582,8 @@
             "zh": "你通常搭公車上班嗎？"
           },
           {
-            "en": "I can't do it like that.",
-            "zh": "我沒辦法那樣做。"
+            "en": "I can't hold the chopsticks like that.",
+            "zh": "我沒辦法那樣拿筷子。"
           },
           {
             "en": "Why did you leave in such a hurry?",

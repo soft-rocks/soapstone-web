@@ -17,8 +17,8 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="24"
         :parts="[
           { t: 'The lake is', kind: 'dim' },
-          { t: 'quite', role: 'quite', kind: 'key', ring: true },
-          { t: 'a', role: 'a / an', kind: 'key' },
+          { t: 'quite', role: '程度', kind: 'key', ring: true },
+          { t: 'a', role: '冠詞', kind: 'key' },
           { t: 'long', role: '形容詞' },
           { t: 'way', role: '名詞' },
           { t: 'from here.', kind: 'dim' },
@@ -27,7 +27,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">湖離這裡滿遠的。</p>
     </NoteSlide>
 
-    <NoteSlide title="a 或 an 看後面形容詞的發音" mark="quite a">
+    <NoteSlide title="a 或 an 看後面形容詞的發音" mark="a good">
       <div class="rows is-labeled">
         <div>
           <span class="term">quite a + 子音</span>
@@ -50,7 +50,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="複數和不可數名詞前面沒有 a" mark="quite">
+    <NoteSlide title="複數和不可數名詞前面沒有 a">
       <div class="rows is-labeled">
         <div>
           <span class="term">複數名詞</span>
@@ -73,7 +73,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="quite a long time 說時間相當久" mark="quite a">
+    <NoteSlide title="quite a long time 說時間相當久">
       <NoteMark
         sentence="I've been waiting for quite a long time."
         :marks="['quite a long time']"
@@ -81,26 +81,26 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我已經等了滿久了。</p>
     </NoteSlide>
 
-    <NoteSlide title="quite 不放在 a 後面" mark="quite a">
+    <NoteSlide title="形容詞後面沒有名詞，就不加 a">
       <NoteFix
-        wrong="It was a quite difficult situation."
-        right="It was quite a difficult situation."
-        fix="quite a"
+        wrong="The test was quite a difficult."
+        right="The test was quite difficult."
+        fix="quite difficult"
       />
     </NoteSlide>
 
-    <NoteSlide title="母音開頭的形容詞前面用 an" mark="a good">
+    <NoteSlide title="母音開頭的形容詞前面用 an">
       <NoteFix
-        wrong="It's quite a interesting book."
-        right="It's quite an interesting book."
+        wrong="My aunt has quite a unusual job."
+        right="My aunt has quite an unusual job."
         fix="an"
       />
     </NoteSlide>
 
-    <NoteSlide title="複數名詞前面不加 a" mark="quite a">
+    <NoteSlide title="複數名詞前面不加 a">
       <NoteFix
-        wrong="They're quite a friendly neighbors."
-        right="They're quite friendly neighbors."
+        wrong="They're quite a friendly neighbours."
+        right="They're quite friendly neighbours."
         fix="quite friendly"
       />
     </NoteSlide>

@@ -3324,56 +3324,57 @@
     "translation": "我買了很多 T 恤，因為天氣越來越熱了。",
     "name": "重複字尾子音加 -er 的比較級",
     "sentences": [
-      "Elephants are bigger than horses.",
-      "We need a bigger table for the party.",
-      "The new stadium is much bigger.",
-      "Your feet are bigger than mine.",
-      "July is hotter than June here.",
-      "Summers are getting hotter.",
-      "Is it hotter in Taipei or in Tainan?",
-      "Be careful, this pan is hotter.",
-      "You look thinner since you started running.",
-      "This paper is thinner.",
-      "The cat got fatter over the winter.",
-      "He looks fatter in this photo.",
-      "I need a thinner blanket for summer.",
-      "The ground was wetter after the rain.",
-      "This winter is wetter than last winter.",
-      "The ending made the story even sadder.",
-      "She felt sadder after the call.",
-      "I want to get fitter this year.",
-      "After a month of swimming, Ken felt much fitter.",
-      "The water is colder in the morning.",
-      "Our kitchen is smaller than it looks.",
-      "The afternoon felt longer than the morning.",
-      "The sky grew darker in the west.",
-      "Which is bigger, the sun or the moon?",
-      "It will be hotter next week.",
-      "The puppy is getting bigger every day.",
-      "Were you thinner when you were young?",
-      "The soup is hotter than I like.",
-      "Which of the two pandas is fatter?",
-      "Our garden is wetter than our neighbor's."
+      "We saw both animals at the zoo. Elephants are bigger than horses.",
+      "Twenty people are coming on Saturday. We need a bigger table for the party.",
+      "The old stadium had ten thousand seats. The new stadium is much bigger.",
+      "You can't wear my shoes. Your feet are bigger than mine.",
+      "Turn on the fan. Today is hotter than yesterday.",
+      "We go to the beach in June, not July. July is hotter than June here.",
+      "Every year we use the air conditioner more. Summers are getting hotter.",
+      "I'm visiting Taiwan in August. Is it hotter in Taipei or in Tainan?",
+      "Don't touch the black pan. It's hotter than the other one.",
+      "Mia has been ill for weeks. She looks thinner now.",
+      "You started running in March, and you look thinner now.",
+      "Don't use that paper for the printer. This paper is thinner.",
+      "Our cat stayed inside all winter and got fatter.",
+      "My dad hates this photo. He thinks he looks fatter in it.",
+      "My winter blanket is too warm for July. I need a thinner blanket for summer.",
+      "It rained almost every weekend. This summer was wetter than last summer.",
+      "We can't play football today. The ground is wetter after last night's rain.",
+      "I cried at the end of the film. The ending made the story even sadder.",
+      "My grandmother's dog died last month. She has been sadder since then.",
+      "I joined a gym in January. I want to get fitter this year.",
+      "Ken swam every morning in May. After a month, he felt much fitter.",
+      "Take your coat. It's colder today.",
+      "Don't take a taxi to the airport. The bus is cheaper.",
+      "Don't swim before nine. The water is colder in the morning.",
+      "You'll see our kitchen on Saturday. It's smaller than it looks in the photos.",
+      "Storm clouds came over the hills. The sky grew darker in the west.",
+      "Pack your shorts. It'll be hotter next week.",
+      "We feed our puppy four times a day. He's getting bigger every day.",
+      "I saw your old school photos. Were you thinner when you were young?",
+      "Can you wait a minute before you eat? The soup is hotter than I like.",
+      "Our neighbours water their garden less. Our garden is wetter than theirs."
     ],
     "examples": [
       {
         "heading": "① big → bigger",
         "items": [
           {
-            "en": "Elephants are bigger than horses.",
-            "zh": "大象比馬大。"
+            "en": "We saw both animals at the zoo. Elephants are bigger than horses.",
+            "zh": "我們在動物園看到這兩種動物。大象比馬大。"
           },
           {
-            "en": "We need a bigger table for the party.",
-            "zh": "派對我們需要一張比較大的桌子。"
+            "en": "Twenty people are coming on Saturday. We need a bigger table for the party.",
+            "zh": "星期六有二十個人要來。派對我們需要一張比較大的桌子。"
           },
           {
-            "en": "The new stadium is much bigger.",
-            "zh": "新的體育場大多了。"
+            "en": "The old stadium had ten thousand seats. The new stadium is much bigger.",
+            "zh": "舊的體育場有一萬個座位。新的體育場大多了。"
           },
           {
-            "en": "Your feet are bigger than mine.",
-            "zh": "你的腳比我的大。"
+            "en": "You can't wear my shoes. Your feet are bigger than mine.",
+            "zh": "你不能穿我的鞋。你的腳比我的大。"
           }
         ]
       },
@@ -3381,20 +3382,24 @@
         "heading": "② hot → hotter",
         "items": [
           {
-            "en": "July is hotter than June here.",
-            "zh": "這裡七月比六月熱。"
+            "en": "Turn on the fan. Today is hotter than yesterday.",
+            "zh": "開電扇吧。今天比昨天熱。"
           },
           {
-            "en": "Summers are getting hotter.",
-            "zh": "夏天越來越熱。"
+            "en": "We go to the beach in June, not July. July is hotter than June here.",
+            "zh": "我們六月去海邊，不是七月。這裡七月比六月熱。"
           },
           {
-            "en": "Is it hotter in Taipei or in Tainan?",
-            "zh": "台北和台南，哪裡比較熱？"
+            "en": "Every year we use the air conditioner more. Summers are getting hotter.",
+            "zh": "我們每年開冷氣都開得更多。夏天越來越熱。"
           },
           {
-            "en": "Be careful, this pan is hotter.",
-            "zh": "小心，這個鍋子比較燙。"
+            "en": "I'm visiting Taiwan in August. Is it hotter in Taipei or in Tainan?",
+            "zh": "我八月要去台灣。台北和台南，哪裡比較熱？"
+          },
+          {
+            "en": "Don't touch the black pan. It's hotter than the other one.",
+            "zh": "別碰那個黑色的鍋子。它比另一個燙。"
           }
         ]
       },
@@ -3402,24 +3407,28 @@
         "heading": "③ thin → thinner、fat → fatter",
         "items": [
           {
-            "en": "You look thinner since you started running.",
-            "zh": "你開始跑步以後看起來瘦了。"
+            "en": "Mia has been ill for weeks. She looks thinner now.",
+            "zh": "Mia 病了好幾個星期。她現在看起來比較瘦。"
           },
           {
-            "en": "This paper is thinner.",
-            "zh": "這張紙比較薄。"
+            "en": "You started running in March, and you look thinner now.",
+            "zh": "你三月開始跑步，現在看起來瘦了。"
           },
           {
-            "en": "The cat got fatter over the winter.",
-            "zh": "那隻貓過了一個冬天變胖了。"
+            "en": "Don't use that paper for the printer. This paper is thinner.",
+            "zh": "印表機別用那種紙。這種紙比較薄。"
           },
           {
-            "en": "He looks fatter in this photo.",
-            "zh": "他在這張照片裡看起來比較胖。"
+            "en": "Our cat stayed inside all winter and got fatter.",
+            "zh": "我們的貓整個冬天都待在家裡，變胖了。"
           },
           {
-            "en": "I need a thinner blanket for summer.",
-            "zh": "夏天我需要一條比較薄的毯子。"
+            "en": "My dad hates this photo. He thinks he looks fatter in it.",
+            "zh": "我爸爸討厭這張照片。他覺得自己在照片裡看起來比較胖。"
+          },
+          {
+            "en": "My winter blanket is too warm for July. I need a thinner blanket for summer.",
+            "zh": "冬天的毯子七月蓋太熱了。夏天我需要一條比較薄的毯子。"
           }
         ]
       },
@@ -3427,28 +3436,28 @@
         "heading": "④ wet → wetter、sad → sadder、fit → fitter",
         "items": [
           {
-            "en": "The ground was wetter after the rain.",
-            "zh": "下過雨之後，地面更濕了。"
+            "en": "It rained almost every weekend. This summer was wetter than last summer.",
+            "zh": "幾乎每個週末都下雨。今年夏天比去年夏天多雨。"
           },
           {
-            "en": "This winter is wetter than last winter.",
-            "zh": "今年冬天比去年冬天多雨。"
+            "en": "We can't play football today. The ground is wetter after last night's rain.",
+            "zh": "我們今天不能踢足球。昨晚下過雨，地面更濕了。"
           },
           {
-            "en": "The ending made the story even sadder.",
-            "zh": "結局讓這個故事更悲傷了。"
+            "en": "I cried at the end of the film. The ending made the story even sadder.",
+            "zh": "我看到電影結尾哭了。結局讓這個故事更悲傷了。"
           },
           {
-            "en": "She felt sadder after the call.",
-            "zh": "講完電話以後，她更難過了。"
+            "en": "My grandmother's dog died last month. She has been sadder since then.",
+            "zh": "我奶奶的狗上個月死了。她從那時候起就比較憂鬱。"
           },
           {
-            "en": "I want to get fitter this year.",
-            "zh": "我今年想把身體練得更好。"
+            "en": "I joined a gym in January. I want to get fitter this year.",
+            "zh": "我一月加入了健身房。我今年想把身體練得更好。"
           },
           {
-            "en": "After a month of swimming, Ken felt much fitter.",
-            "zh": "游了一個月的泳，Ken 覺得體能好多了。"
+            "en": "Ken swam every morning in May. After a month, he felt much fitter.",
+            "zh": "Ken 五月每天早上都游泳。一個月以後，他覺得體能好多了。"
           }
         ]
       },
@@ -3456,20 +3465,24 @@
         "heading": "⑤ 不重複的形容詞",
         "items": [
           {
-            "en": "The water is colder in the morning.",
-            "zh": "早上的水比較冷。"
+            "en": "Take your coat. It's colder today.",
+            "zh": "帶外套吧。今天比較冷。"
           },
           {
-            "en": "Our kitchen is smaller than it looks.",
-            "zh": "我們的廚房比看起來小。"
+            "en": "Don't take a taxi to the airport. The bus is cheaper.",
+            "zh": "去機場別搭計程車。公車比較便宜。"
           },
           {
-            "en": "The afternoon felt longer than the morning.",
-            "zh": "下午感覺比早上長。"
+            "en": "Don't swim before nine. The water is colder in the morning.",
+            "zh": "九點以前別游泳。早上的水比較冷。"
           },
           {
-            "en": "The sky grew darker in the west.",
-            "zh": "西邊的天空變得更暗了。"
+            "en": "You'll see our kitchen on Saturday. It's smaller than it looks in the photos.",
+            "zh": "你星期六會看到我們的廚房。它比照片上看起來小。"
+          },
+          {
+            "en": "Storm clouds came over the hills. The sky grew darker in the west.",
+            "zh": "暴風雨的雲飄過山頭。西邊的天空變得更暗了。"
           }
         ]
       },
@@ -3477,32 +3490,24 @@
         "heading": "⑥ 不同的句子",
         "items": [
           {
-            "en": "Which is bigger, the sun or the moon?",
-            "zh": "太陽和月亮，哪一個比較大？"
+            "en": "Pack your shorts. It'll be hotter next week.",
+            "zh": "帶短褲吧。下禮拜會更熱。"
           },
           {
-            "en": "It will be hotter next week.",
-            "zh": "下禮拜會更熱。"
+            "en": "We feed our puppy four times a day. He's getting bigger every day.",
+            "zh": "我們一天餵小狗四次。牠一天比一天大。"
           },
           {
-            "en": "The puppy is getting bigger every day.",
-            "zh": "小狗一天比一天大。"
+            "en": "I saw your old school photos. Were you thinner when you were young?",
+            "zh": "我看到你以前的學校照片。你年輕的時候比較瘦嗎？"
           },
           {
-            "en": "Were you thinner when you were young?",
-            "zh": "你年輕的時候比較瘦嗎？"
+            "en": "Can you wait a minute before you eat? The soup is hotter than I like.",
+            "zh": "你可以等一下再吃嗎？這湯比我喜歡的燙。"
           },
           {
-            "en": "The soup is hotter than I like.",
-            "zh": "這湯比我喜歡的燙。"
-          },
-          {
-            "en": "Which of the two pandas is fatter?",
-            "zh": "那兩隻貓熊，哪一隻比較胖？"
-          },
-          {
-            "en": "Our garden is wetter than our neighbor's.",
-            "zh": "我們的花園比鄰居的濕。"
+            "en": "Our neighbours water their garden less. Our garden is wetter than theirs.",
+            "zh": "我們的鄰居比較少澆花。我們的花園比他們的濕。"
           }
         ]
       }

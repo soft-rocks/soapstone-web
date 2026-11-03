@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">單音節，字尾是一個短母音加一個子音。</p>
     </NoteSlide>
 
-    <NoteSlide title="常見的重複子音的形容詞" mark="hotter">
+    <NoteSlide title="hot、thin、wet 也重複最後一個子音" mark="hotter">
       <div class="rows is-labeled">
         <div>
           <span class="term">hot → hotter</span>
@@ -57,15 +57,24 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="字尾兩個子音或長母音，不重複" mark="hotter">
+    <NoteSlide title="字尾兩個子音或長母音，不重複">
       <div class="rows is-labeled">
         <div>
           <span class="term">cold → colder</span>
-          <span><NoteMark sentence="It's colder today." :marks="['colder']" /></span>
+          <span
+            ><NoteMark sentence="It's colder today." :marks="['colder']" /><span class="translation"
+              >今天比較冷。</span
+            ></span
+          >
         </div>
         <div>
           <span class="term">cheap → cheaper</span>
-          <span><NoteMark sentence="The bus is cheaper." :marks="['cheaper']" /></span>
+          <span
+            ><NoteMark sentence="The bus is cheaper." :marks="['cheaper']" /><span
+              class="translation"
+              >公車比較便宜。</span
+            ></span
+          >
         </div>
       </div>
     </NoteSlide>
@@ -78,16 +87,16 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="字尾兩個子音，不再重複" mark="hotter">
+    <NoteSlide title="字尾兩個子音，不再重複">
       <NoteFix
-        wrong="This box is smalller than that one."
-        right="This box is smaller than that one."
+        wrong="The new flat is smalller than our old one."
+        right="The new flat is smaller than our old one."
         fix="smaller"
       />
     </NoteSlide>
 
-    <NoteSlide title="bigger 前面不加 more" mark="getting hotter">
-      <NoteFix wrong="My new phone is more bigger." right="My new phone is bigger." fix="bigger" />
+    <NoteSlide title="重複子音的比較級前面不加 more" mark="hotter">
+      <NoteFix wrong="Your dog is more bigger now." right="Your dog is bigger now." fix="bigger" />
     </NoteSlide>
   </NoteDeck>
 

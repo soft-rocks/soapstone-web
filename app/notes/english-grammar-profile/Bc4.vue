@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="and 連接兩個情狀副詞，兩個都修飾同一個動詞">
+    <NoteSlide title="and 連接兩個情狀副詞，兩個都修飾同一個動詞" mark="quickly and easily.">
       <NoteWords
         :size="26"
         :parts="[
@@ -27,7 +27,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我很快、很輕鬆就學會用我的手機了。</p>
     </NoteSlide>
 
-    <NoteSlide title="-ly 的拼法看形容詞的結尾" mark="quickly and easily">
+    <NoteSlide title="-ly 的拼法看形容詞的結尾" mark="quickly and easily.">
       <div class="rows is-labeled">
         <div>
           <span class="term">一般形容詞</span>
@@ -43,7 +43,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="easy 的 y 改成 i 再加 -ly" mark="easily">
+    <NoteSlide title="easy 的 y 改成 i 再加 -ly" mark="easily.">
       <NoteFix
         wrong="She passed the test easyly."
         right="She passed the test easily."
@@ -51,7 +51,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="gentle 去掉 e，加 y">
+    <NoteSlide title="gentle 的 e 改成 y">
       <NoteFix wrong="Hold the baby gentlely." right="Hold the baby gently." fix="gently" />
     </NoteSlide>
 
@@ -63,7 +63,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="and 後面的字也要用副詞" mark="and easily">
+    <NoteSlide title="and 後面的字也要用副詞" mark="and easily.">
       <NoteFix
         wrong="The children played happily and quiet."
         right="The children played happily and quietly."

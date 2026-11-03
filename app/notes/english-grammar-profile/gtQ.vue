@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="particularly 放在要指出的部分前面">
+    <NoteSlide title="particularly 放在要指出的部分前面" mark="particularly">
       <NoteWords
         :size="26"
         :parts="[
@@ -59,7 +59,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="後面也可以接 when、if 子句" mark="particularly">
+    <NoteSlide title="especially 和 particularly 後面也可以接 when、if 子句" mark="particularly">
       <div class="rows is-labeled">
         <div>
           <span class="term">when</span>

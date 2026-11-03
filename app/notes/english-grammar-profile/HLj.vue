@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="shortly 放在句尾，表示不久之後">
+    <NoteSlide title="shortly 放在句尾，表示不久之後" mark="shortly.">
       <NoteWords
         :size="34"
         :parts="[
@@ -24,20 +24,20 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">公車馬上就到了。</p>
     </NoteSlide>
 
-    <NoteSlide title="instantly 也可以放在一般動詞前面" mark="shortly">
+    <NoteSlide title="instantly 也可以放在一般動詞前面">
       <NoteWords
         :size="28"
         :parts="[
-          { t: 'She', role: '主詞', kind: 'dim' },
+          { t: 'Tom', role: '主詞', kind: 'dim' },
           { t: 'instantly', role: '時間副詞', kind: 'key' },
           { t: 'recognised', role: '一般動詞' },
-          { t: 'her mother\'s laugh.', role: '受詞' },
+          { t: 'his old teacher.', role: '受詞' },
         ]"
       />
-      <p class="translation">她馬上就認出那是她媽媽的笑聲。</p>
+      <p class="translation">Tom 馬上就認出他以前的老師。</p>
     </NoteSlide>
 
-    <NoteSlide title="in advance 和 beforehand 表示事先，放在句尾">
+    <NoteSlide title="in advance 和 beforehand 表示事先">
       <div class="rows is-labeled">
         <div>
           <span class="term">in advance</span>
@@ -66,9 +66,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">previously</span>
           <span
             ><NoteMark
-              sentence="She previously worked as a teacher."
+              sentence="Our new manager previously worked as a teacher."
               :marks="['previously']"
-            /><span class="translation">她以前當過老師。</span></span
+            /><span class="translation">我們的新經理以前當過老師。</span></span
           >
         </div>
         <div>

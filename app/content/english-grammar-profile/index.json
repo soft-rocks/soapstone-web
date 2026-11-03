@@ -27265,26 +27265,26 @@
     "sentences": [
       "Mr Brown will be with you shortly.",
       "We'll be landing shortly.",
-      "She left shortly after midnight.",
+      "Anna left the party shortly after midnight.",
       "I'll reply to your email shortly.",
-      "He fell asleep instantly.",
-      "I instantly liked her.",
+      "The baby fell asleep instantly.",
+      "I met my new neighbour yesterday. I instantly liked her.",
       "The medicine works almost instantly.",
       "The photos appear instantly on your phone.",
-      "She previously worked as a teacher.",
-      "I had previously met him in Paris.",
+      "Our new manager previously worked as a teacher.",
+      "I had previously met Mr Grant in Paris.",
       "The building was previously a school.",
       "As I previously mentioned, the price includes breakfast.",
       "Let me know beforehand if you can't come.",
       "I always check the weather beforehand.",
-      "We had a drink beforehand and then went to the theatre.",
-      "If you need help, please call us beforehand.",
+      "The play started at eight. We had dinner beforehand.",
+      "If you need a wheelchair for the tour, please call us beforehand.",
       "Thanks in advance for your help with the move.",
       "We booked our tickets two months in advance.",
       "You need to pay for the course in advance.",
       "Please tell us in advance if you need a vegetarian meal.",
-      "They moved to Canada permanently.",
-      "The accident damaged his eyes permanently.",
+      "My aunt and uncle moved to Canada permanently.",
+      "The accident damaged Joe's eyes permanently.",
       "This road is temporarily closed because of the floods.",
       "I'm temporarily living with my parents.",
       "Will you live here permanently, or only for a year?",
@@ -27300,15 +27300,15 @@
         "items": [
           {
             "en": "Mr Brown will be with you shortly.",
-            "zh": "布朗先生很快就會來招呼你。"
+            "zh": "Brown 先生很快就會來招呼你。"
           },
           {
             "en": "We'll be landing shortly.",
             "zh": "我們很快就要降落了。"
           },
           {
-            "en": "She left shortly after midnight.",
-            "zh": "她午夜過後不久就離開了。"
+            "en": "Anna left the party shortly after midnight.",
+            "zh": "Anna 午夜過後不久就離開派對了。"
           },
           {
             "en": "I'll reply to your email shortly.",
@@ -27320,12 +27320,12 @@
         "heading": "② instantly",
         "items": [
           {
-            "en": "He fell asleep instantly.",
-            "zh": "他一下子就睡著了。"
+            "en": "The baby fell asleep instantly.",
+            "zh": "寶寶一下子就睡著了。"
           },
           {
-            "en": "I instantly liked her.",
-            "zh": "我一見到她就喜歡她了。"
+            "en": "I met my new neighbour yesterday. I instantly liked her.",
+            "zh": "我昨天認識了新鄰居。我馬上就喜歡上她了。"
           },
           {
             "en": "The medicine works almost instantly.",
@@ -27341,12 +27341,12 @@
         "heading": "③ previously",
         "items": [
           {
-            "en": "She previously worked as a teacher.",
-            "zh": "她以前當過老師。"
+            "en": "Our new manager previously worked as a teacher.",
+            "zh": "我們的新經理以前當過老師。"
           },
           {
-            "en": "I had previously met him in Paris.",
-            "zh": "我之前在巴黎見過他。"
+            "en": "I had previously met Mr Grant in Paris.",
+            "zh": "我之前在巴黎見過 Grant 先生。"
           },
           {
             "en": "The building was previously a school.",
@@ -27370,12 +27370,12 @@
             "zh": "我總是事先查天氣。"
           },
           {
-            "en": "We had a drink beforehand and then went to the theatre.",
-            "zh": "我們先喝了一杯，然後去看戲。"
+            "en": "The play started at eight. We had dinner beforehand.",
+            "zh": "戲八點開演。我們在開演前先吃了晚餐。"
           },
           {
-            "en": "If you need help, please call us beforehand.",
-            "zh": "如果你需要協助，請事先打電話給我們。"
+            "en": "If you need a wheelchair for the tour, please call us beforehand.",
+            "zh": "如果導覽時需要輪椅，請事先打電話給我們。"
           }
         ]
       },
@@ -27404,12 +27404,12 @@
         "heading": "⑥ permanently、temporarily",
         "items": [
           {
-            "en": "They moved to Canada permanently.",
-            "zh": "他們永久移居加拿大了。"
+            "en": "My aunt and uncle moved to Canada permanently.",
+            "zh": "我阿姨和姨丈永久移居加拿大了。"
           },
           {
-            "en": "The accident damaged his eyes permanently.",
-            "zh": "那場意外讓他的眼睛受到永久的傷害。"
+            "en": "The accident damaged Joe's eyes permanently.",
+            "zh": "那場意外讓 Joe 的眼睛受到永久的傷害。"
           },
           {
             "en": "This road is temporarily closed because of the floods.",

@@ -17,15 +17,15 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="24"
         :parts="[
           { t: 'I want to cook', kind: 'dim' },
-          { t: 'something', role: '代名詞', kind: 'key' },
+          { t: 'something', role: '代名詞', kind: 'key', ring: true },
           { t: 'special', role: '形容詞', kind: 'key', ring: true },
-          { t: 'for her birthday.', kind: 'dim' },
+          { t: 'for Mum\'s birthday.', kind: 'dim' },
         ]"
       />
-      <p class="translation">我想為她的生日煮點特別的東西。</p>
+      <p class="translation">我想為媽媽的生日煮點特別的東西。</p>
     </NoteSlide>
 
-    <NoteSlide title="someone、somewhere 後面也接形容詞" mark="nothing interesting">
+    <NoteSlide title="someone、somewhere 後面也接形容詞">
       <div class="rows is-labeled">
         <div>
           <span class="term">someone + 形容詞</span>
@@ -56,7 +56,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="形容詞放在 to 不定詞前面" mark="interesting">
+    <NoteSlide title="形容詞放在 to 不定詞前面">
       <NoteFix
         wrong="I have something to tell you important."
         right="I have something important to tell you."

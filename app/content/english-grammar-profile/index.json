@@ -12434,11 +12434,11 @@
     "name": "形容詞後置修飾 something、somewhere 等字",
     "sentences": [
       "My sister got her first salary. She bought something expensive for our mother.",
-      "Sorry I'm late. Something terrible happened on the way home. A car hit a cyclist.",
+      "Sorry I'm late. Something terrible happened on the way here. A car hit a cyclist.",
       "It's snowing, and I only have a thin jacket. I need something warm to wear.",
       "We always go to the cinema. Let's do something different this weekend.",
       "I called you three times, but you didn't answer. Is there something wrong with your phone?",
-      "She said something funny, and we all laughed.",
+      "My brother said something funny at dinner, and we all laughed.",
       "Did the doctor say anything worrying about your knee?",
       "The neighbours say someone broke into the garage. I didn't hear anything strange last night.",
       "I just got home from football, Mum. Is there anything good to eat?",
@@ -12447,13 +12447,14 @@
       "Dad put the paper down after two minutes. There's nothing interesting in the newspaper today.",
       "The mechanic checked everything. There was nothing wrong with the car.",
       "The kids were fine with the babysitter. Nothing bad happened, so don't worry.",
-      "Take this to the bank with you. Everything important is in this folder.",
-      "My mum moved to a smaller flat. She gave away everything old in her closet.",
+      "Take this folder to the bank with you. Everything important is in it.",
+      "My mum moved to a smaller flat. She gave away everything old in her wardrobe.",
       "We need someone strong to move the piano.",
-      "I've just moved to this city. I want to meet someone new.",
+      "My son started at a new school last week. He hasn't met anyone friendly yet.",
       "Look at all the photographers outside. Is there anyone famous at the party?",
       "I left Tom's party at nine. No one interesting was there.",
-      "You can't reach the top shelf. Ask someone older for help.",
+      "You can't reach the top shelf. Ask someone taller for help.",
+      "The boss and the managers were all away. No one important came to the meeting.",
       "Our cat always finds somewhere dark to hide.",
       "I'm tired of the long, cold winters here. I want to live somewhere warm.",
       "Is there anywhere cheap to eat near here?",
@@ -12473,8 +12474,8 @@
             "zh": "我姊姊領了第一份薪水。她買了很貴的東西給我們媽媽。"
           },
           {
-            "en": "Sorry I'm late. Something terrible happened on the way home. A car hit a cyclist.",
-            "zh": "抱歉我晚到了。回家的路上發生了一件很可怕的事。一輛車撞到一個騎腳踏車的人。"
+            "en": "Sorry I'm late. Something terrible happened on the way here. A car hit a cyclist.",
+            "zh": "抱歉我遲到了。來的路上發生了一件很可怕的事。一輛車撞到一個騎腳踏車的人。"
           },
           {
             "en": "It's snowing, and I only have a thin jacket. I need something warm to wear.",
@@ -12489,8 +12490,8 @@
             "zh": "我打給你三次，你都沒接。你的手機有什麼問題嗎？"
           },
           {
-            "en": "She said something funny, and we all laughed.",
-            "zh": "她說了一句好笑的話，我們全都笑了。"
+            "en": "My brother said something funny at dinner, and we all laughed.",
+            "zh": "我弟弟吃晚餐時說了一句好笑的話，我們全都笑了。"
           }
         ]
       },
@@ -12535,11 +12536,11 @@
             "zh": "孩子們跟保母在一起很好。沒發生什麼壞事，別擔心。"
           },
           {
-            "en": "Take this to the bank with you. Everything important is in this folder.",
-            "zh": "帶這個去銀行。所有重要的東西都在這個資料夾裡。"
+            "en": "Take this folder to the bank with you. Everything important is in it.",
+            "zh": "帶這個資料夾去銀行。所有重要的東西都在裡面。"
           },
           {
-            "en": "My mum moved to a smaller flat. She gave away everything old in her closet.",
+            "en": "My mum moved to a smaller flat. She gave away everything old in her wardrobe.",
             "zh": "我媽搬到一間比較小的公寓。她把衣櫃裡所有舊的東西都送人了。"
           }
         ]
@@ -12552,8 +12553,8 @@
             "zh": "我們需要一個力氣大的人來搬鋼琴。"
           },
           {
-            "en": "I've just moved to this city. I want to meet someone new.",
-            "zh": "我剛搬到這個城市。我想認識新朋友。"
+            "en": "My son started at a new school last week. He hasn't met anyone friendly yet.",
+            "zh": "我兒子上星期開始上新學校。他還沒遇到什麼友善的人。"
           },
           {
             "en": "Look at all the photographers outside. Is there anyone famous at the party?",
@@ -12561,11 +12562,15 @@
           },
           {
             "en": "I left Tom's party at nine. No one interesting was there.",
-            "zh": "我九點就離開湯姆的派對了。那裡沒有什麼有趣的人。"
+            "zh": "我九點就離開 Tom 的派對了。那裡沒有什麼有趣的人。"
           },
           {
-            "en": "You can't reach the top shelf. Ask someone older for help.",
-            "zh": "你搆不到最上面那一層。找一個年紀比較大的人幫忙。"
+            "en": "You can't reach the top shelf. Ask someone taller for help.",
+            "zh": "你搆不到最上面那一層。找一個比較高的人幫忙。"
+          },
+          {
+            "en": "The boss and the managers were all away. No one important came to the meeting.",
+            "zh": "老闆和經理們都不在。沒有重要的人來開會。"
           }
         ]
       },

@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="程度副詞放在形容詞前面">
+    <NoteSlide title="程度副詞放在形容詞前面" mark="too hot">
       <NoteWords
         :size="30"
         :parts="[
@@ -56,7 +56,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="quite 可以放在 a 前面修飾名詞" mark="too">
+    <NoteSlide title="quite 可以放在 a 前面修飾名詞">
       <NoteWords
         :size="30"
         :parts="[
@@ -70,7 +70,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">到車站的路滿遠的。</p>
     </NoteSlide>
 
-    <NoteSlide title="稱讚東西用 so 或 very，不用 too" mark="too">
+    <NoteSlide title="稱讚東西用 so 或 very，不用 too">
       <NoteFix
         wrong="Your garden is too beautiful!"
         right="Your garden is so beautiful!"
@@ -90,7 +90,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFix wrong="The box is to heavy." right="The box is too heavy." fix="too" />
     </NoteSlide>
 
-    <NoteSlide title="too 和 so 後面可以接結果" mark="too">
+    <NoteSlide title="too 和 so 後面可以接結果">
       <div class="rows is-labeled">
         <div>
           <span class="term">too + to<br /><i>做不到的事</i></span>

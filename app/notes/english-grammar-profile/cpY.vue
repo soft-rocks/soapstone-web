@@ -57,7 +57,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="ever 放在名詞後面" mark="best way">
+    <NoteSlide title="ever 放在名詞後面">
       <NoteFix
         wrong="We had the ever biggest crowd at the stadium."
         right="We had the biggest crowd ever at the stadium."
@@ -65,7 +65,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="到目前為止用 ever，不用 never" mark="best">
+    <NoteSlide title="到目前為止用 ever，不用 never">
       <NoteFix
         wrong="My grandma bakes the best cookies never."
         right="My grandma bakes the best cookies ever."

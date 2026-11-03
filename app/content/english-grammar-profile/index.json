@@ -9469,12 +9469,12 @@
       "The band put posters all over town. They want the biggest audience possible.",
       "The children are only six. Please answer in the simplest words possible.",
       "The summer of 2023 was the wettest summer ever here.",
-      "Dad says it's the tastiest pizza ever!",
+      "Dad loves the pizza at this café. He says it's the tastiest pizza ever!",
       "We've moved two kilometres in an hour. This is the worst traffic ever.",
       "We talked for five hours. It was the longest phone call ever.",
       "My daughter gave her teacher a card on the last day. It said, \"You're the best teacher ever!\"",
       "Everything is seventy per cent off. It's the biggest sale ever at this shop.",
-      "Many fans say it was her greatest show ever.",
+      "The singer performed for three hours last night. Many fans say it was her greatest show ever.",
       "A hotel wants ten thousand towels from our factory. This is our biggest order ever.",
       "I lost my phone and missed my train. Yesterday was my worst day ever.",
       "Our town's football club won twenty games last year. It was the team's best season ever.",
@@ -9486,11 +9486,11 @@
       "This letter has my bank details in it. Please send it in the most secure way possible.",
       "In our chess club, Lucy is the strongest player by far.",
       "I looked at ten hotels near the station. The Green Inn is the cheapest hotel by far.",
-      "It can go at four hundred kilometres an hour. Is this the fastest car ever made?",
+      "This car can go at four hundred kilometres an hour. Is it the fastest car ever made?",
       "The cat opened the fridge by itself? That's the strangest thing ever.",
       "My son hates waiting at airports. We'll get there at the latest time possible.",
       "Hundreds of trees fell down last night. Was that the biggest storm ever in this area?",
-      "Her skin gets red very easily. Give the baby the softest blanket possible.",
+      "The baby's skin gets red very easily. Give her the softest blanket possible.",
       "With the kids away, we had the quietest Christmas ever."
     ],
     "examples": [
@@ -9531,8 +9531,8 @@
             "zh": "2023 年的夏天是這裡有史以來最多雨的夏天。"
           },
           {
-            "en": "Dad says it's the tastiest pizza ever!",
-            "zh": "爸爸說那是有史以來最好吃的披薩！"
+            "en": "Dad loves the pizza at this café. He says it's the tastiest pizza ever!",
+            "zh": "爸爸很愛這家咖啡店的披薩。他說那是有史以來最好吃的披薩！"
           },
           {
             "en": "We've moved two kilometres in an hour. This is the worst traffic ever.",
@@ -9556,8 +9556,8 @@
         "heading": "③ 所有格 + 最高級 + 名詞 + ever",
         "items": [
           {
-            "en": "Many fans say it was her greatest show ever.",
-            "zh": "很多粉絲說那是她有史以來最精彩的演出。"
+            "en": "The singer performed for three hours last night. Many fans say it was her greatest show ever.",
+            "zh": "那位歌手昨晚唱了三個小時。很多粉絲說那是她有史以來最精彩的演出。"
           },
           {
             "en": "A hotel wants ten thousand towels from our factory. This is our biggest order ever.",
@@ -9611,11 +9611,11 @@
           },
           {
             "en": "I looked at ten hotels near the station. The Green Inn is the cheapest hotel by far.",
-            "zh": "我看了車站附近十家飯店。綠旅館絕對是最便宜的。"
+            "zh": "我看了車站附近十家飯店。Green Inn 絕對是最便宜的。"
           },
           {
-            "en": "It can go at four hundred kilometres an hour. Is this the fastest car ever made?",
-            "zh": "它時速可以到四百公里。這是有史以來最快的車嗎？"
+            "en": "This car can go at four hundred kilometres an hour. Is it the fastest car ever made?",
+            "zh": "這台車時速可以到四百公里。它是有史以來最快的車嗎？"
           },
           {
             "en": "The cat opened the fridge by itself? That's the strangest thing ever.",
@@ -9630,8 +9630,8 @@
             "zh": "昨天晚上倒了好幾百棵樹。那是這一帶有史以來最大的暴風雨嗎？"
           },
           {
-            "en": "Her skin gets red very easily. Give the baby the softest blanket possible.",
-            "zh": "她的皮膚很容易發紅。給寶寶最柔軟的毯子。"
+            "en": "The baby's skin gets red very easily. Give her the softest blanket possible.",
+            "zh": "寶寶的皮膚很容易發紅。給她最柔軟的毯子。"
           },
           {
             "en": "With the kids away, we had the quietest Christmas ever.",

@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark"><code>bad</code> 的比較級是 <code>worse</code>。</p>
     </NoteSlide>
 
-    <NoteSlide title="短的形容詞重複 -er，長的形容詞只重複 more" mark="worse and worse">
+    <NoteSlide title="比較級有 -er、more 和不規則三種形式" mark="worse and worse">
       <div class="rows is-labeled">
         <div>
           <span class="term">-er + and + -er</span>
@@ -70,7 +70,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">路上的車越來越多。</p>
     </NoteSlide>
 
-    <NoteSlide title="長的形容詞只重複 more，形容詞說一次" mark="worse and worse">
+    <NoteSlide title="長的形容詞只重複 more，形容詞說一次">
       <NoteFix
         wrong="Rent is getting more expensive and more expensive."
         right="Rent is getting more and more expensive."
@@ -86,7 +86,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="good 的比較級是 better" mark="worse">
+    <NoteSlide title="good 的比較級是 better">
       <NoteFix
         wrong="His English is getting gooder and gooder."
         right="His English is getting better and better."

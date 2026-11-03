@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="present、future、former 只放在名詞前面" mark="present situation">
+    <NoteSlide title="表示時間的 present、future、former 只放在名詞前面" mark="present situation">
       <div class="rows is-labeled">
         <div>
           <span class="term">present（現在的）</span>
@@ -35,16 +35,16 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">former（以前的）</span>
           <span
-            ><NoteMark sentence="He's a former student of mine." :marks="['former student']" /><span
-              class="translation"
-              >他是我以前的學生。</span
-            ></span
+            ><NoteMark
+              sentence="Mrs Lin is a former colleague of my father's."
+              :marks="['former colleague']"
+            /><span class="translation">林太太是我爸爸以前的同事。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="present 放在 be 後面，意思是在場" mark="present">
+    <NoteSlide title="present 放在 be 後面，意思是在場">
       <div class="rows is-labeled">
         <div>
           <span class="term">名詞前面</span>
@@ -67,7 +67,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="說現在的用 present，不用 now" mark="the present situation">
+    <NoteSlide title="說現在的用 present，不用 now" mark="present">
       <NoteFix
         wrong="We are worried about the now situation."
         right="We are worried about the present situation."
@@ -75,7 +75,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="former 放在名詞前面" mark="present">
+    <NoteSlide title="former 放在名詞前面">
       <NoteFix
         wrong="We visited our school former last week."
         right="We visited our former school last week."
@@ -83,7 +83,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="future 加單數名詞，前面要有 my 這類字" mark="the present">
+    <NoteSlide title="future 加單數名詞，前面要有 my 這類字">
       <NoteFix
         wrong="I want to meet future wife soon."
         right="I want to meet my future wife soon."

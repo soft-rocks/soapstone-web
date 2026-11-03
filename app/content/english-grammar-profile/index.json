@@ -390,20 +390,20 @@
       "Don't spend all your first salary. Save some money for future needs.",
       "The company wants to open shops in Japan. It is thinking about its future growth.",
       "Let's plant trees along the river. Future generations will thank us.",
-      "Mrs. Lin is a former colleague of my father's.",
-      "The guide showed us the big room upstairs. In former times, people held dances in this hall.",
-      "Our hotel has classrooms for bedrooms. It's in a former school.",
+      "Mrs Lin is a former colleague of my father's.",
+      "The guide showed us the big hall upstairs. In former times, people held dances in this hall.",
+      "Our hotel was a school until 2010. The bedrooms are former classrooms.",
       "Guess who I saw this morning? I met my former boss at the station.",
       "My friends moved out of the village in 2015. Their former house is now a café.",
       "Our university opened a new hall on Monday. The former president gave a speech.",
       "Mr Brown retired two years ago. The present head teacher started last year.",
-      "Nobody was ill this morning. Everyone in the class was present today.",
+      "Nobody was off sick today. Everyone in the class was present.",
       "The director's name isn't in the notes. Was she present at the meeting?",
       "Let's wait until the sales to buy a sofa. The present prices are too high.",
       "The trains were late that morning. Only ten people were present when the meeting started.",
       "Anna got married again last year. Do you know her former husband?",
       "I've changed jobs. Please send future emails to my new address.",
-      "They stopped making cars in our town in 2000. The former factory is now a museum.",
+      "They stopped making cars in our town in 2000. The former car factory is now a museum.",
       "The house is cheap, but the roof is old. We need to think about future costs.",
       "You didn't like your last job at the bank. Is your present job interesting?",
       "I've got three wedding invitations this month. My former classmates are getting married.",
@@ -472,16 +472,16 @@
         "heading": "③ former + 名詞",
         "items": [
           {
-            "en": "Mrs. Lin is a former colleague of my father's.",
+            "en": "Mrs Lin is a former colleague of my father's.",
             "zh": "林太太是我爸爸以前的同事。"
           },
           {
-            "en": "The guide showed us the big room upstairs. In former times, people held dances in this hall.",
-            "zh": "導遊帶我們看樓上的大房間。以前人們會在這個大廳辦舞會。"
+            "en": "The guide showed us the big hall upstairs. In former times, people held dances in this hall.",
+            "zh": "導遊帶我們看樓上的大廳。以前人們會在這個大廳辦舞會。"
           },
           {
-            "en": "Our hotel has classrooms for bedrooms. It's in a former school.",
-            "zh": "我們的飯店用教室當臥室。它開在一所以前的學校裡。"
+            "en": "Our hotel was a school until 2010. The bedrooms are former classrooms.",
+            "zh": "我們住的飯店到 2010 年都還是學校。臥室以前是教室。"
           },
           {
             "en": "Guess who I saw this morning? I met my former boss at the station.",
@@ -493,7 +493,7 @@
           },
           {
             "en": "Our university opened a new hall on Monday. The former president gave a speech.",
-            "zh": "我們大學星期一啟用了一棟新大樓。前任總統發表了演說。"
+            "zh": "我們大學星期一啟用了一棟新大樓。前任校長發表了演說。"
           }
         ]
       },
@@ -505,8 +505,8 @@
             "zh": "布朗先生兩年前退休了。現任校長是去年上任的。"
           },
           {
-            "en": "Nobody was ill this morning. Everyone in the class was present today.",
-            "zh": "今天早上沒有人生病。今天班上每個人都到了。"
+            "en": "Nobody was off sick today. Everyone in the class was present.",
+            "zh": "今天沒有人請病假。班上每個人都到了。"
           },
           {
             "en": "The director's name isn't in the notes. Was she present at the meeting?",
@@ -527,15 +527,15 @@
         "items": [
           {
             "en": "Anna got married again last year. Do you know her former husband?",
-            "zh": "安娜去年又結婚了。你認識她的前夫嗎？"
+            "zh": "Anna 去年又結婚了。你認識她的前夫嗎？"
           },
           {
             "en": "I've changed jobs. Please send future emails to my new address.",
             "zh": "我換工作了。以後的電子郵件請寄到我的新地址。"
           },
           {
-            "en": "They stopped making cars in our town in 2000. The former factory is now a museum.",
-            "zh": "我們鎮上 2000 年就不再生產汽車了。以前的工廠現在是博物館。"
+            "en": "They stopped making cars in our town in 2000. The former car factory is now a museum.",
+            "zh": "我們鎮上 2000 年就不再生產汽車了。以前的汽車工廠現在是博物館。"
           },
           {
             "en": "The house is cheap, but the roof is old. We need to think about future costs.",

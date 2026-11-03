@@ -35,7 +35,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="no + 比較級 + than 表示最多只有" mark="happier than">
+    <NoteSlide title="no + 比較級 + than 表示最多只有">
       <NoteWords
         :size="24"
         :parts="[
@@ -47,12 +47,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">水最多只到我的膝蓋。</p>
     </NoteSlide>
 
-    <NoteSlide title="no better 說情況沒有改善" mark="not any happier">
+    <NoteSlide title="no better 說情況沒有改善">
       <NoteMark sentence="My cold is no better today." :marks="['no better']" />
       <p class="translation">我的感冒今天沒有好一點。</p>
     </NoteSlide>
 
-    <NoteSlide title="no 前面不再加 not" mark="not any">
+    <NoteSlide title="no 前面不再加 not">
       <NoteFix
         wrong="The bus is not no cheaper than the train."
         right="The bus is no cheaper than the train."
@@ -60,11 +60,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="any 後面要用比較級" mark="happier">
+    <NoteSlide title="any 後面要用比較級" mark="any happier">
       <NoteFix
         wrong="The new office isn't any big than the old one."
         right="The new office isn't any bigger than the old one."
-        fix="bigger"
+        fix="any bigger"
       />
     </NoteSlide>
 

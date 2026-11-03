@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="apparently 放在一般動詞前面，表示寫的人不保證">
+    <NoteSlide title="apparently 放在一般動詞前面，表示寫的人不保證" mark="apparently">
       <NoteWords
         :size="24"
         :parts="[
@@ -40,15 +40,15 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">用逗號插入</span>
           <span
             ><NoteMark
-              sentence="His uncle, apparently, was a famous singer."
-              :marks="['apparently']"
-            /><span class="translation">他叔叔聽說是一位有名的歌手。</span></span
+              sentence="The meeting, reportedly, lasted six hours."
+              :marks="['reportedly']"
+            /><span class="translation">那場會議據報導開了六個小時。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="資訊的來源不同，用不同的副詞">
+    <NoteSlide title="各個保留態度副詞的意思不同">
       <div class="rows is-labeled">
         <div>
           <span class="term">apparently</span>

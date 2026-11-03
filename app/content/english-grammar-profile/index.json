@@ -23836,19 +23836,19 @@
     "translation": "寫這封信的人看來不知道在我們這個時代當父母是什麼樣子。",
     "name": "子句中插入副詞表示保留態度",
     "sentences": [
-      "Ask him about loans. The new manager apparently used to work in a bank.",
-      "There's a sign in their garden. They have apparently decided to sell the house.",
-      "It's closed for repairs now. The swimming pool apparently opens again in May.",
+      "The new manager apparently used to work in a bank. Ask him about loans.",
+      "There's a \"For Sale\" sign in Mr Lee's garden. He has apparently decided to sell the house.",
+      "The swimming pool is closed for repairs now. It apparently opens again in May.",
       "The alarm went off at three. Our neighbours apparently didn't hear it.",
-      "Don't invite them both. The two brothers, apparently, haven't spoken for years.",
-      "My aunt bought a tiny jar for fifty pounds. This cream supposedly makes you look younger.",
-      "Nobody stays there at night. The castle is supposedly haunted.",
-      "He is supposedly an expert, but he made a lot of mistakes.",
+      "The two brothers, apparently, haven't spoken for years. Don't invite them both.",
+      "My aunt bought a tiny jar of cream for fifty pounds. The cream supposedly makes you look younger.",
+      "The castle is supposedly haunted. Nobody stays there at night.",
+      "The new mechanic is supposedly an expert, but he made a lot of mistakes.",
       "The screen said \"on time\". The train was supposedly on time, but we waited an hour.",
       "Let's try the place on the corner. It's the best restaurant in town, supposedly.",
       "The police arrested a man last night. He allegedly stole three cars.",
       "The phones caught fire. The company allegedly hid the problem from its customers.",
-      "The case is going to court. She allegedly lied to the police.",
+      "The case is going to court. The bank manager allegedly lied to the police.",
       "The league is investigating. The player allegedly took money to lose the match.",
       "Fans are excited. The singer is reportedly planning a world tour.",
       "There was a scandal last month. The minister will reportedly resign next week.",
@@ -23856,11 +23856,11 @@
       "Nobody was hurt in the restaurant. The fire reportedly started in the kitchen.",
       "Three shops have closed. The company has reportedly lost millions this year.",
       "We've tried everything. The problem seemingly has no solution.",
-      "He was seemingly calm, but his hands were shaking.",
+      "The young pilot was seemingly calm, but his hands were shaking.",
       "We drove across the desert for hours. The road went on seemingly forever.",
-      "The quiz was hard for everyone else. She answered every question with seemingly no effort.",
+      "The quiz was hard for everyone else. Amy answered every question with seemingly no effort.",
       "The film, supposedly a comedy, didn't make anyone laugh.",
-      "Listen to his voice. His uncle, apparently, was a famous singer.",
+      "Listen to Tom's voice. His uncle, apparently, was a famous singer.",
       "The painting, allegedly a fake, sold for a million pounds.",
       "Nobody agreed on anything. The meeting, reportedly, lasted six hours.",
       "A camera filmed the break-in. The suspect allegedly entered the building at midnight.",
@@ -23872,15 +23872,15 @@
         "heading": "① apparently",
         "items": [
           {
-            "en": "Ask him about loans. The new manager apparently used to work in a bank.",
-            "zh": "問他貸款的事吧。新經理聽說以前在銀行工作。"
+            "en": "The new manager apparently used to work in a bank. Ask him about loans.",
+            "zh": "新經理聽說以前在銀行工作。問他貸款的事吧。"
           },
           {
-            "en": "There's a sign in their garden. They have apparently decided to sell the house.",
-            "zh": "他們院子裡立了牌子。他們看來決定要賣房子了。"
+            "en": "There's a \"For Sale\" sign in Mr Lee's garden. He has apparently decided to sell the house.",
+            "zh": "Lee 先生家院子裡立了出售的牌子。他看來決定要賣房子了。"
           },
           {
-            "en": "It's closed for repairs now. The swimming pool apparently opens again in May.",
+            "en": "The swimming pool is closed for repairs now. It apparently opens again in May.",
             "zh": "游泳池現在在整修。聽說五月會重新開放。"
           },
           {
@@ -23888,8 +23888,8 @@
             "zh": "警報三點響了。我們的鄰居好像沒聽到。"
           },
           {
-            "en": "Don't invite them both. The two brothers, apparently, haven't spoken for years.",
-            "zh": "別兩個都請。那兩兄弟聽說好幾年沒說過話了。"
+            "en": "The two brothers, apparently, haven't spoken for years. Don't invite them both.",
+            "zh": "那兩兄弟聽說好幾年沒說過話了。別兩個都請。"
           }
         ]
       },
@@ -23897,16 +23897,16 @@
         "heading": "② supposedly",
         "items": [
           {
-            "en": "My aunt bought a tiny jar for fifty pounds. This cream supposedly makes you look younger.",
-            "zh": "我阿姨花五十英鎊買了一小罐。這種乳霜據說會讓你看起來比較年輕。"
+            "en": "My aunt bought a tiny jar of cream for fifty pounds. The cream supposedly makes you look younger.",
+            "zh": "我阿姨花五十英鎊買了一小罐乳霜。這種乳霜據說會讓人看起來比較年輕。"
           },
           {
-            "en": "Nobody stays there at night. The castle is supposedly haunted.",
-            "zh": "晚上沒人敢住那裡。據說那座城堡鬧鬼。"
+            "en": "The castle is supposedly haunted. Nobody stays there at night.",
+            "zh": "據說那座城堡鬧鬼。晚上沒人敢住那裡。"
           },
           {
-            "en": "He is supposedly an expert, but he made a lot of mistakes.",
-            "zh": "他據說是專家，可是他犯了很多錯。"
+            "en": "The new mechanic is supposedly an expert, but he made a lot of mistakes.",
+            "zh": "新來的技師據說是專家，可是他犯了很多錯。"
           },
           {
             "en": "The screen said \"on time\". The train was supposedly on time, but we waited an hour.",
@@ -23930,8 +23930,8 @@
             "zh": "那些手機起火了。那家公司據稱向顧客隱瞞了這個問題。"
           },
           {
-            "en": "The case is going to court. She allegedly lied to the police.",
-            "zh": "這個案子要上法院了。她據稱對警方說了謊。"
+            "en": "The case is going to court. The bank manager allegedly lied to the police.",
+            "zh": "這個案子要上法院了。那位銀行經理據稱對警方說了謊。"
           },
           {
             "en": "The league is investigating. The player allegedly took money to lose the match.",
@@ -23972,16 +23972,16 @@
             "zh": "我們什麼方法都試過了。這個問題看起來沒有解決辦法。"
           },
           {
-            "en": "He was seemingly calm, but his hands were shaking.",
-            "zh": "他表面上很冷靜，可是他的手在發抖。"
+            "en": "The young pilot was seemingly calm, but his hands were shaking.",
+            "zh": "那位年輕的機師表面上很冷靜，可是他的手在發抖。"
           },
           {
             "en": "We drove across the desert for hours. The road went on seemingly forever.",
             "zh": "我們在沙漠裡開了好幾個小時。那條路看起來好像永遠走不完。"
           },
           {
-            "en": "The quiz was hard for everyone else. She answered every question with seemingly no effort.",
-            "zh": "這個測驗對其他人都很難。她回答每個問題都好像毫不費力。"
+            "en": "The quiz was hard for everyone else. Amy answered every question with seemingly no effort.",
+            "zh": "這個測驗對其他人都很難。Amy 回答每個問題都好像毫不費力。"
           }
         ]
       },
@@ -23993,8 +23993,8 @@
             "zh": "那部電影據說是喜劇，可是沒有人笑。"
           },
           {
-            "en": "Listen to his voice. His uncle, apparently, was a famous singer.",
-            "zh": "你聽他的聲音。他叔叔聽說是一位有名的歌手。"
+            "en": "Listen to Tom's voice. His uncle, apparently, was a famous singer.",
+            "zh": "你聽 Tom 的聲音。他叔叔聽說是一位有名的歌手。"
           },
           {
             "en": "The painting, allegedly a fake, sold for a million pounds.",

@@ -26439,65 +26439,65 @@
     "translation": "可惜我們隊輸了。",
     "name": "actually、unfortunately 表示態度",
     "sentences": [
-      "Unfortunately, it rained all weekend.",
-      "Unfortunately, I can't come to your party.",
-      "Unfortunately, the tickets were sold out.",
+      "We wanted to go camping. Unfortunately, it rained all weekend.",
+      "Thanks for the invitation. Unfortunately, I can't come to your party.",
+      "We got to the box office at nine. Unfortunately, the tickets were sold out.",
       "We wanted to see the castle, but unfortunately it was closed.",
-      "My grandfather is unfortunately not very well.",
-      "Unfortunately, she didn't get the job.",
-      "Actually, I don't like chocolate very much.",
-      "He looks young, but he's actually forty.",
-      "I actually enjoyed the film.",
-      "Actually, I've changed my mind.",
-      "The new teacher was actually really friendly.",
+      "We can't go to the beach with Grandad this weekend. He is unfortunately not very well.",
+      "Ann had three interviews at the bank. Unfortunately, she didn't get the job.",
+      "Thanks for the box of chocolates. Actually, I don't like chocolate very much.",
+      "Our new manager looks young, but he's actually forty.",
+      "I didn't want to go to the cinema, but I actually enjoyed the film.",
+      "I said I'd have the fish. Actually, I've changed my mind.",
+      "I was nervous on the first day, but the new teacher was actually really friendly.",
       "\"Is this your car?\" \"Actually, it's my sister's.\"",
-      "Did you actually see the accident?",
-      "Of course, I'll help you with your homework.",
-      "Of course, everyone wants to win.",
-      "\"Do you remember me?\" \"Of course I do!\"",
+      "You told the police about the red car. Did you actually see the accident?",
+      "Don't worry about the maths. Of course, I'll help you with your homework.",
+      "It's the final tomorrow. Of course, everyone wants to win.",
+      "\"Do you remember me? We were at school together.\" \"Of course I do!\"",
       "\"Can I sit here?\" \"Yes, of course.\"",
-      "We'll invite your parents, of course.",
-      "Of course it's cold. It's January!",
-      "\"Is the museum free?\" \"Of course not.\"",
-      "The hotel was actually very nice.",
-      "I can't actually remember her name.",
-      "She actually lives next door to my aunt.",
-      "We have unfortunately lost the key.",
-      "They will of course need a map.",
-      "Actually, we met last year.",
-      "Unfortunately, the bus didn't come.",
-      "Of course, you can bring your dog.",
-      "Actually, I've never been to Paris.",
-      "Unfortunately, my brother broke his leg.",
-      "Of course, the food was delicious."
+      "We're making a list of guests for the wedding. We'll invite your parents, of course.",
+      "You're surprised about the snow? Of course it's cold. It's January!",
+      "\"Is the museum free?\" \"Of course not. It's fifteen pounds.\"",
+      "I didn't want to stay at the hotel, but it was actually very nice.",
+      "I met your friend at the party. I can't actually remember her name.",
+      "I've known Mrs Hill for years. She actually lives next door to my aunt.",
+      "We can't get into the house. We have unfortunately lost the key.",
+      "The hikers are going into the mountains. They will of course need a map.",
+      "You don't remember me? Actually, we met last year.",
+      "I waited for an hour in the rain. Unfortunately, the bus didn't come.",
+      "Our hotel welcomes pets. Of course, you can bring your dog.",
+      "People think I travel a lot. Actually, I've never been to Paris.",
+      "We can't go skiing this year. Unfortunately, my brother broke his leg.",
+      "My grandmother made dinner for everyone. Of course, the food was delicious."
     ],
     "examples": [
       {
         "heading": "① unfortunately",
         "items": [
           {
-            "en": "Unfortunately, it rained all weekend.",
-            "zh": "可惜整個週末都在下雨。"
+            "en": "We wanted to go camping. Unfortunately, it rained all weekend.",
+            "zh": "我們本來想去露營。可惜整個週末都在下雨。"
           },
           {
-            "en": "Unfortunately, I can't come to your party.",
-            "zh": "很可惜，我不能去你的派對。"
+            "en": "Thanks for the invitation. Unfortunately, I can't come to your party.",
+            "zh": "謝謝你的邀請。很可惜，我不能去你的派對。"
           },
           {
-            "en": "Unfortunately, the tickets were sold out.",
-            "zh": "很可惜，票都賣完了。"
+            "en": "We got to the box office at nine. Unfortunately, the tickets were sold out.",
+            "zh": "我們九點到售票處。很可惜，票都賣完了。"
           },
           {
             "en": "We wanted to see the castle, but unfortunately it was closed.",
             "zh": "我們想看那座城堡，可惜它沒開。"
           },
           {
-            "en": "My grandfather is unfortunately not very well.",
-            "zh": "可惜我爺爺身體不太好。"
+            "en": "We can't go to the beach with Grandad this weekend. He is unfortunately not very well.",
+            "zh": "我們這個週末不能跟爺爺去海邊。可惜他身體不太好。"
           },
           {
-            "en": "Unfortunately, she didn't get the job.",
-            "zh": "可惜她沒得到那份工作。"
+            "en": "Ann had three interviews at the bank. Unfortunately, she didn't get the job.",
+            "zh": "Ann 在銀行面試了三次。可惜她沒得到那份工作。"
           }
         ]
       },
@@ -26505,32 +26505,32 @@
         "heading": "② actually",
         "items": [
           {
-            "en": "Actually, I don't like chocolate very much.",
-            "zh": "其實我不太喜歡巧克力。"
+            "en": "Thanks for the box of chocolates. Actually, I don't like chocolate very much.",
+            "zh": "謝謝你的那盒巧克力。其實我不太喜歡巧克力。"
           },
           {
-            "en": "He looks young, but he's actually forty.",
-            "zh": "他看起來很年輕，其實已經四十歲了。"
+            "en": "Our new manager looks young, but he's actually forty.",
+            "zh": "我們的新經理看起來很年輕，其實已經四十歲了。"
           },
           {
-            "en": "I actually enjoyed the film.",
-            "zh": "其實我挺喜歡那部電影的。"
+            "en": "I didn't want to go to the cinema, but I actually enjoyed the film.",
+            "zh": "我本來不想去看電影，不過其實我挺喜歡那部電影的。"
           },
           {
-            "en": "Actually, I've changed my mind.",
-            "zh": "其實我改變主意了。"
+            "en": "I said I'd have the fish. Actually, I've changed my mind.",
+            "zh": "我說我要點魚。其實我改變主意了。"
           },
           {
-            "en": "The new teacher was actually really friendly.",
-            "zh": "新老師其實很友善。"
+            "en": "I was nervous on the first day, but the new teacher was actually really friendly.",
+            "zh": "我第一天很緊張，不過新老師其實很友善。"
           },
           {
             "en": "\"Is this your car?\" \"Actually, it's my sister's.\"",
             "zh": "這是你的車嗎？其實是我姊姊的。"
           },
           {
-            "en": "Did you actually see the accident?",
-            "zh": "你真的看到那場意外了嗎？"
+            "en": "You told the police about the red car. Did you actually see the accident?",
+            "zh": "你跟警察說了紅色車子的事。你真的看到那場意外了嗎？"
           }
         ]
       },
@@ -26538,32 +26538,32 @@
         "heading": "③ of course",
         "items": [
           {
-            "en": "Of course, I'll help you with your homework.",
-            "zh": "我當然會幫你寫功課。"
+            "en": "Don't worry about the maths. Of course, I'll help you with your homework.",
+            "zh": "別擔心數學。我當然會幫你寫功課。"
           },
           {
-            "en": "Of course, everyone wants to win.",
-            "zh": "當然，每個人都想贏。"
+            "en": "It's the final tomorrow. Of course, everyone wants to win.",
+            "zh": "明天就是決賽了。當然，每個人都想贏。"
           },
           {
-            "en": "\"Do you remember me?\" \"Of course I do!\"",
-            "zh": "你記得我嗎？當然記得！"
+            "en": "\"Do you remember me? We were at school together.\" \"Of course I do!\"",
+            "zh": "你記得我嗎？我們以前是同學。當然記得！"
           },
           {
             "en": "\"Can I sit here?\" \"Yes, of course.\"",
             "zh": "我可以坐這裡嗎？當然可以。"
           },
           {
-            "en": "We'll invite your parents, of course.",
-            "zh": "我們當然會邀請你爸媽。"
+            "en": "We're making a list of guests for the wedding. We'll invite your parents, of course.",
+            "zh": "我們在列婚禮的賓客名單。我們當然會邀請你爸媽。"
           },
           {
-            "en": "Of course it's cold. It's January!",
-            "zh": "當然冷啊。現在是一月！"
+            "en": "You're surprised about the snow? Of course it's cold. It's January!",
+            "zh": "你對下雪很驚訝？當然冷啊。現在是一月！"
           },
           {
-            "en": "\"Is the museum free?\" \"Of course not.\"",
-            "zh": "博物館免費嗎？當然不是。"
+            "en": "\"Is the museum free?\" \"Of course not. It's fifteen pounds.\"",
+            "zh": "博物館免費嗎？當然不是。要十五英鎊。"
           }
         ]
       },
@@ -26571,24 +26571,24 @@
         "heading": "④ 放在 be、助動詞後面或一般動詞前面",
         "items": [
           {
-            "en": "The hotel was actually very nice.",
-            "zh": "那家飯店其實很不錯。"
+            "en": "I didn't want to stay at the hotel, but it was actually very nice.",
+            "zh": "我本來不想住那家飯店，不過它其實很不錯。"
           },
           {
-            "en": "I can't actually remember her name.",
-            "zh": "我其實想不起她的名字。"
+            "en": "I met your friend at the party. I can't actually remember her name.",
+            "zh": "我在派對上見過你的朋友。我其實想不起她的名字。"
           },
           {
-            "en": "She actually lives next door to my aunt.",
-            "zh": "她其實就住在我阿姨家隔壁。"
+            "en": "I've known Mrs Hill for years. She actually lives next door to my aunt.",
+            "zh": "我認識 Hill 太太好多年了。她其實就住在我阿姨家隔壁。"
           },
           {
-            "en": "We have unfortunately lost the key.",
-            "zh": "很可惜，我們把鑰匙弄丟了。"
+            "en": "We can't get into the house. We have unfortunately lost the key.",
+            "zh": "我們進不了房子。很可惜，我們把鑰匙弄丟了。"
           },
           {
-            "en": "They will of course need a map.",
-            "zh": "他們當然需要一張地圖。"
+            "en": "The hikers are going into the mountains. They will of course need a map.",
+            "zh": "那些健行者要進山裡。他們當然需要一張地圖。"
           }
         ]
       },
@@ -26596,28 +26596,28 @@
         "heading": "⑤ 放在句首",
         "items": [
           {
-            "en": "Actually, we met last year.",
-            "zh": "其實我們去年見過面。"
+            "en": "You don't remember me? Actually, we met last year.",
+            "zh": "你不記得我？其實我們去年見過面。"
           },
           {
-            "en": "Unfortunately, the bus didn't come.",
-            "zh": "可惜公車沒來。"
+            "en": "I waited for an hour in the rain. Unfortunately, the bus didn't come.",
+            "zh": "我在雨中等了一個小時。可惜公車沒來。"
           },
           {
-            "en": "Of course, you can bring your dog.",
-            "zh": "你當然可以帶你的狗來。"
+            "en": "Our hotel welcomes pets. Of course, you can bring your dog.",
+            "zh": "我們的飯店歡迎寵物。你當然可以帶你的狗來。"
           },
           {
-            "en": "Actually, I've never been to Paris.",
-            "zh": "其實我從來沒去過巴黎。"
+            "en": "People think I travel a lot. Actually, I've never been to Paris.",
+            "zh": "大家以為我常旅行。其實我從來沒去過巴黎。"
           },
           {
-            "en": "Unfortunately, my brother broke his leg.",
-            "zh": "很不幸，我哥哥摔斷了腿。"
+            "en": "We can't go skiing this year. Unfortunately, my brother broke his leg.",
+            "zh": "我們今年不能去滑雪。很不幸，我哥哥摔斷了腿。"
           },
           {
-            "en": "Of course, the food was delicious.",
-            "zh": "當然，食物很好吃。"
+            "en": "My grandmother made dinner for everyone. Of course, the food was delicious.",
+            "zh": "我奶奶幫大家煮了晚餐。當然，食物很好吃。"
           }
         ]
       }

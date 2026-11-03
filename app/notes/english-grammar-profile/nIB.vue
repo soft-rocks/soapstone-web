@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="unfortunately 放在句首，說出壞消息">
+    <NoteSlide title="unfortunately 放在句首，說出壞消息" mark="Unfortunately,">
       <NoteWords
         :size="30"
         :parts="[
@@ -38,9 +38,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">of course<br /><i>當然</i></span>
           <span
-            ><NoteMark sentence="Of course, my new watch is black." :marks="['Of course,']" /><span
+            ><NoteMark sentence="Of course, you can borrow my bike." :marks="['Of course,']" /><span
               class="translation"
-              >我的新手錶當然是黑色的。</span
+              >你當然可以借我的腳踏車。</span
             ></span
           >
         </div>
@@ -84,17 +84,17 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">of course</span>
           <span
-            ><NoteMark sentence="Can I use your phone? Of course." :marks="['Of course.']" /><span
-              class="translation"
-              >「我可以用你的電話嗎？」「當然可以。」</span
-            ></span
+            ><NoteMark
+              sentence='"Can I use your phone?" "Of course."'
+              :marks="['Of course.']"
+            /><span class="translation">「我可以用你的電話嗎？」「當然可以。」</span></span
           >
         </div>
         <div>
           <span class="term">actually</span>
           <span
             ><NoteMark
-              sentence="Are you from Spain? Actually, I'm from Mexico."
+              sentence='"Are you from Spain?" "Actually, I&apos;m from Mexico."'
               :marks="['Actually,']"
             /><span class="translation">「你是西班牙人嗎？」「其實我是墨西哥人。」</span></span
           >
@@ -104,8 +104,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="否定的回答用 of course not">
       <NoteFix
-        wrong="Is it raining? Of course no."
-        right="Is it raining? Of course not."
+        wrong='"Is it raining?" "Of course no."'
+        right='"Is it raining?" "Of course not."'
         fix="Of course not."
       />
     </NoteSlide>
@@ -128,8 +128,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="對方說新消息時，不回答 of course">
       <NoteFix
-        wrong="I passed my driving test! Of course."
-        right="I passed my driving test! Well done!"
+        wrong='"I passed my driving test!" "Of course."'
+        right='"I passed my driving test!" "Well done!"'
         fix="Well done!"
       />
     </NoteSlide>

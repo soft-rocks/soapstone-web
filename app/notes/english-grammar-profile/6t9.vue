@@ -12,16 +12,17 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="情狀副詞放在動詞後面，說明動作怎麼做">
+    <NoteSlide title="情狀副詞放在動詞後面，說明動作怎麼做" mark="well">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'Both the players', role: '主詞', kind: 'dim' },
+          { t: 'The band', role: '主詞', kind: 'dim' },
           { t: 'played', role: '動詞' },
-          { t: 'well.', role: '情狀副詞', kind: 'key' },
+          { t: 'very well', role: '情狀副詞', kind: 'key' },
+          { t: 'last night.', kind: 'dim' },
         ]"
       />
-      <p class="translation">兩位選手都打得很好。</p>
+      <p class="translation">樂團昨晚表演得很好。</p>
     </NoteSlide>
 
     <NoteSlide title="動詞有受詞時，情狀副詞放在受詞後面" mark="well">
@@ -37,7 +38,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">她英文說得很好。</p>
     </NoteSlide>
 
-    <NoteSlide title="情狀副詞多半是形容詞加 -ly，good 的情狀副詞是 well" mark="well">
+    <NoteSlide title="情狀副詞多半是形容詞加 -ly，有些和形容詞相同，good 的是 well" mark="well">
       <div class="rows is-labeled">
         <div>
           <span class="term">形容詞 + -&#x2060;ly</span>
@@ -76,9 +77,10 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'then turn left.', kind: 'dim' },
         ]"
       />
+      <p class="translation">直走，然後左轉。</p>
     </NoteSlide>
 
-    <NoteSlide title="very 後面修飾動詞也用 well" mark="well">
+    <NoteSlide title="修飾動詞用 well，不用 good" mark="well">
       <NoteFix wrong="He cooks very good." right="He cooks very well." fix="well" />
     </NoteSlide>
 
@@ -108,7 +110,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="be 後面接形容詞，不接情狀副詞" mark="well">
+    <NoteSlide title="be 後面接形容詞，不接情狀副詞">
       <div class="rows is-labeled">
         <div>
           <span class="term">形容詞</span>

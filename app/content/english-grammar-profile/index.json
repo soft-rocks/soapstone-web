@@ -14459,104 +14459,104 @@
     "translation": "他富有想像力、幽默又友善，同學都很尊敬他、喜歡他。",
     "name": "多個形容詞構成的省略子句（強調）",
     "sentences": [
-      "Tired and hungry, we finally reached the hotel.",
-      "Calm and patient, she answered every question.",
-      "Cold, wet and miserable, the children walked home.",
-      "Young, rich and famous, he seemed to have everything.",
-      "Nervous but excited, Ann walked onto the stage.",
-      "Quiet, polite, hard-working, she was every teacher's favorite.",
-      "Kind and generous, my grandfather helped everyone in the village.",
-      "Small, cheap and fast, the new car sold very well.",
-      "Hot, dusty and crowded, the market was full of noise.",
-      "Brave and honest, the young reporter told the truth.",
-      "Angry and confused, he left the room without a word.",
-      "Funny, clever and kind, Ken soon made many friends.",
-      "Old and tired, the dog slept all day.",
-      "Clean, bright and modern, the new library is popular with students.",
-      "Sad and lonely, she wrote to her old friends.",
-      "Shy and nervous, the boy said nothing at first.",
-      "The old man – tired, cold and hungry – sat down by the fire.",
-      "The room – dark, small and dirty – smelled terrible.",
-      "Our teacher – strict but fair – was loved by everyone.",
-      "The road – narrow, steep and icy – was very dangerous.",
-      "The puppy – small, soft and sleepy – lay in my arms.",
-      "The hotel – cheap, clean and quiet – was perfect for us.",
-      "My brother – tall, thin and pale – looked very ill.",
-      "The city – busy, loud and exciting – never sleeps.",
-      "Happy and relaxed, they will enjoy the holiday.",
-      "Wet and cold, I couldn't wait to get home.",
-      "Excited, nervous, a little scared, the students waited for the results.",
-      "Proud and happy, the parents watched their son graduate.",
-      "The test – long and difficult – took three hours.",
-      "Simple, fresh and cheap, the food at the stall is always popular."
+      "Our flight landed at midnight, and the taxi got lost. Tired and hungry, we finally reached the hotel at two.",
+      "The reporters asked the doctor about the new virus. Calm and patient, she answered every question.",
+      "The school bus broke down in the rain. Cold, wet and miserable, the children walked home.",
+      "At twenty-five, Jack had a big house and a famous band. Young, rich and famous, he seemed to have everything.",
+      "It was Ann's first school concert. Nervous but excited, she walked onto the stage.",
+      "My mother never got into trouble at school. Quiet, polite, hard-working, she was every teacher's favourite.",
+      "My grandfather was the village doctor for forty years. Kind and generous, he helped everyone in the village.",
+      "The company sold a million cars in the first year. Small, cheap and fast, the new model was very popular.",
+      "We visited the old market in Marrakech. Hot, dusty and crowded, it was full of noise.",
+      "The mayor tried to stop the story. Brave and honest, the young reporter told the truth.",
+      "Nobody explained the new rules to Tim. Angry and confused, he left the room without a word.",
+      "Ken moved to our school in May. Funny, clever and kind, he soon made many friends.",
+      "Our dog Rex is fourteen now. Old and tired, he sleeps all day.",
+      "The town opened a new library last year. Clean, bright and modern, it's popular with students.",
+      "My aunt moved to a city where she knew nobody. Sad and lonely, she wrote to her old friends every week.",
+      "A new boy came into the classroom. Shy and nervous, he said nothing at first.",
+      "We heard a knock at the door in the storm. The old man – tired, cold and hungry – sat down by the fire.",
+      "We didn't stay at the hostel. The room – dark, small and dirty – smelled terrible.",
+      "I still remember Mrs Hall from primary school. Our teacher – strict but fair – was everyone's favourite.",
+      "We didn't drive up the mountain in January. The road – narrow, steep and icy – was very dangerous.",
+      "My friend's dog had puppies, and she let me hold one. The puppy – small, soft and sleepy – lay in my arms.",
+      "We found a little hotel near the station. The hotel – cheap, clean and quiet – was perfect for us.",
+      "I visited my brother in hospital. My brother – thin and pale – looked very ill.",
+      "I love New York at night. The city – busy, loud and exciting – never sleeps.",
+      "Grandma came back from her cruise last week. Happy and relaxed, she showed us all her photos.",
+      "I forgot my umbrella that day. Wet and cold, I couldn't wait to get home.",
+      "The exam results came out at nine. Excited, nervous, a little scared, the students waited by the notice board.",
+      "Our son finished university in June. Proud and happy, we watched him graduate.",
+      "I took my driving theory exam yesterday. The test – long and difficult – took three hours.",
+      "There's always a queue at the noodle stall. Simple, fresh and cheap, the food there is always popular."
     ],
     "examples": [
       {
         "heading": "① 一串形容詞放在句首",
         "items": [
           {
-            "en": "Tired and hungry, we finally reached the hotel.",
-            "zh": "又累又餓的我們終於到了旅館。"
+            "en": "Our flight landed at midnight, and the taxi got lost. Tired and hungry, we finally reached the hotel at two.",
+            "zh": "我們的班機半夜才降落，計程車又迷路了。又累又餓的我們，兩點終於到了旅館。"
           },
           {
-            "en": "Calm and patient, she answered every question.",
-            "zh": "她冷靜又有耐心，回答了每一個問題。"
+            "en": "The reporters asked the doctor about the new virus. Calm and patient, she answered every question.",
+            "zh": "記者問醫生新病毒的事。她冷靜又有耐心，回答了每一個問題。"
           },
           {
-            "en": "Cold, wet and miserable, the children walked home.",
-            "zh": "孩子們又冷又濕又難受，走路回家。"
+            "en": "The school bus broke down in the rain. Cold, wet and miserable, the children walked home.",
+            "zh": "校車在雨中拋錨了。孩子們又冷又濕又難受，走路回家。"
           },
           {
-            "en": "Young, rich and famous, he seemed to have everything.",
-            "zh": "他年輕、有錢又有名，好像什麼都有了。"
+            "en": "At twenty-five, Jack had a big house and a famous band. Young, rich and famous, he seemed to have everything.",
+            "zh": "二十五歲的 Jack 有大房子，還有一個有名的樂團。他年輕、有錢又有名，好像什麼都有了。"
           },
           {
-            "en": "Nervous but excited, Ann walked onto the stage.",
-            "zh": "Ann 緊張又興奮地走上舞台。"
+            "en": "It was Ann's first school concert. Nervous but excited, she walked onto the stage.",
+            "zh": "那是 Ann 第一次參加學校的音樂會。她緊張又興奮地走上舞台。"
           },
           {
-            "en": "Quiet, polite, hard-working, she was every teacher's favorite.",
-            "zh": "她安靜、有禮貌又勤奮，是每個老師最喜歡的學生。"
+            "en": "My mother never got into trouble at school. Quiet, polite, hard-working, she was every teacher's favourite.",
+            "zh": "我媽媽在學校從來沒惹過麻煩。她安靜、有禮貌又勤奮，是每個老師最喜歡的學生。"
           },
           {
-            "en": "Kind and generous, my grandfather helped everyone in the village.",
-            "zh": "我爺爺善良又大方，幫助村裡的每一個人。"
+            "en": "My grandfather was the village doctor for forty years. Kind and generous, he helped everyone in the village.",
+            "zh": "我爺爺當了四十年的村醫。他善良又大方，幫助村裡的每一個人。"
           },
           {
-            "en": "Small, cheap and fast, the new car sold very well.",
-            "zh": "新車小巧、便宜又快，賣得很好。"
+            "en": "The company sold a million cars in the first year. Small, cheap and fast, the new model was very popular.",
+            "zh": "那家公司第一年就賣了一百萬輛車。新車款小巧、便宜又快，很受歡迎。"
           },
           {
-            "en": "Hot, dusty and crowded, the market was full of noise.",
-            "zh": "市場又熱、灰塵又多、人又擠，到處都很吵。"
+            "en": "We visited the old market in Marrakech. Hot, dusty and crowded, it was full of noise.",
+            "zh": "我們去了馬拉喀什的老市場。市場又熱、灰塵又多、人又擠，到處都很吵。"
           },
           {
-            "en": "Brave and honest, the young reporter told the truth.",
-            "zh": "那個年輕記者勇敢又誠實，說出了真相。"
+            "en": "The mayor tried to stop the story. Brave and honest, the young reporter told the truth.",
+            "zh": "市長想壓下那則新聞。那個年輕記者勇敢又誠實，說出了真相。"
           },
           {
-            "en": "Angry and confused, he left the room without a word.",
-            "zh": "他又生氣又困惑，一句話也沒說就離開了房間。"
+            "en": "Nobody explained the new rules to Tim. Angry and confused, he left the room without a word.",
+            "zh": "沒有人跟 Tim 解釋新的規定。他又生氣又困惑，一句話也沒說就離開了房間。"
           },
           {
-            "en": "Funny, clever and kind, Ken soon made many friends.",
-            "zh": "Ken 風趣、聰明又善良，很快就交了很多朋友。"
+            "en": "Ken moved to our school in May. Funny, clever and kind, he soon made many friends.",
+            "zh": "Ken 五月轉來我們學校。他風趣、聰明又善良，很快就交了很多朋友。"
           },
           {
-            "en": "Old and tired, the dog slept all day.",
-            "zh": "那隻狗又老又累，整天都在睡覺。"
+            "en": "Our dog Rex is fourteen now. Old and tired, he sleeps all day.",
+            "zh": "我們的狗 Rex 現在十四歲了。牠又老又累，整天都在睡覺。"
           },
           {
-            "en": "Clean, bright and modern, the new library is popular with students.",
-            "zh": "新的圖書館乾淨、明亮又現代，很受學生歡迎。"
+            "en": "The town opened a new library last year. Clean, bright and modern, it's popular with students.",
+            "zh": "鎮上去年開了一間新的圖書館。圖書館乾淨、明亮又現代，很受學生歡迎。"
           },
           {
-            "en": "Sad and lonely, she wrote to her old friends.",
-            "zh": "她又難過又寂寞，寫信給她的老朋友。"
+            "en": "My aunt moved to a city where she knew nobody. Sad and lonely, she wrote to her old friends every week.",
+            "zh": "我阿姨搬到一個一個人都不認識的城市。她又難過又寂寞，每個星期都寫信給老朋友。"
           },
           {
-            "en": "Shy and nervous, the boy said nothing at first.",
-            "zh": "那個男孩又害羞又緊張，一開始什麼話也沒說。"
+            "en": "A new boy came into the classroom. Shy and nervous, he said nothing at first.",
+            "zh": "一個新來的男孩走進教室。他又害羞又緊張，一開始什麼話也沒說。"
           }
         ]
       },
@@ -14564,36 +14564,36 @@
         "heading": "② 一串形容詞放在名詞後面",
         "items": [
           {
-            "en": "The old man – tired, cold and hungry – sat down by the fire.",
-            "zh": "那個老人又累又冷又餓，在火爐旁坐了下來。"
+            "en": "We heard a knock at the door in the storm. The old man – tired, cold and hungry – sat down by the fire.",
+            "zh": "暴風雨中我們聽到敲門聲。那個老人又累又冷又餓，在火爐旁坐了下來。"
           },
           {
-            "en": "The room – dark, small and dirty – smelled terrible.",
-            "zh": "那個房間又暗又小又髒，聞起來很可怕。"
+            "en": "We didn't stay at the hostel. The room – dark, small and dirty – smelled terrible.",
+            "zh": "我們沒住那家青年旅館。房間又暗又小又髒，聞起來很可怕。"
           },
           {
-            "en": "Our teacher – strict but fair – was loved by everyone.",
-            "zh": "我們老師很嚴格，但是很公平，大家都很喜歡她。"
+            "en": "I still remember Mrs Hall from primary school. Our teacher – strict but fair – was everyone's favourite.",
+            "zh": "我還記得小學的 Hall 老師。我們老師很嚴格，但是很公平，是大家最喜歡的老師。"
           },
           {
-            "en": "The road – narrow, steep and icy – was very dangerous.",
-            "zh": "那條路又窄又陡又結冰，非常危險。"
+            "en": "We didn't drive up the mountain in January. The road – narrow, steep and icy – was very dangerous.",
+            "zh": "我們一月沒有開車上山。那條路又窄又陡又結冰，非常危險。"
           },
           {
-            "en": "The puppy – small, soft and sleepy – lay in my arms.",
-            "zh": "那隻小狗又小又軟，睡眼惺忪，躺在我懷裡。"
+            "en": "My friend's dog had puppies, and she let me hold one. The puppy – small, soft and sleepy – lay in my arms.",
+            "zh": "我朋友的狗生了小狗，她讓我抱一隻。那隻小狗又小又軟，睡眼惺忪，躺在我懷裡。"
           },
           {
-            "en": "The hotel – cheap, clean and quiet – was perfect for us.",
-            "zh": "那家旅館便宜、乾淨又安靜，對我們來說剛剛好。"
+            "en": "We found a little hotel near the station. The hotel – cheap, clean and quiet – was perfect for us.",
+            "zh": "我們在車站附近找到一家小旅館。那家旅館便宜、乾淨又安靜，對我們來說剛剛好。"
           },
           {
-            "en": "My brother – tall, thin and pale – looked very ill.",
-            "zh": "我哥哥又高又瘦，臉色蒼白，看起來病得很重。"
+            "en": "I visited my brother in hospital. My brother – thin and pale – looked very ill.",
+            "zh": "我去醫院看我哥哥。我哥哥又瘦又蒼白，看起來病得很重。"
           },
           {
-            "en": "The city – busy, loud and exciting – never sleeps.",
-            "zh": "這座城市忙碌、喧鬧又刺激，從來不睡覺。"
+            "en": "I love New York at night. The city – busy, loud and exciting – never sleeps.",
+            "zh": "我喜歡紐約的夜晚。這座城市忙碌、喧鬧又刺激，從來不睡覺。"
           }
         ]
       },
@@ -14601,28 +14601,28 @@
         "heading": "③ 不同的形式",
         "items": [
           {
-            "en": "Happy and relaxed, they will enjoy the holiday.",
-            "zh": "他們開心又放鬆，會好好享受假期。"
+            "en": "Grandma came back from her cruise last week. Happy and relaxed, she showed us all her photos.",
+            "zh": "奶奶上星期坐郵輪回來。她又開心又放鬆，給我們看她所有的照片。"
           },
           {
-            "en": "Wet and cold, I couldn't wait to get home.",
-            "zh": "我又濕又冷，等不及要回家。"
+            "en": "I forgot my umbrella that day. Wet and cold, I couldn't wait to get home.",
+            "zh": "那天我忘了帶傘。我又濕又冷，等不及要回家。"
           },
           {
-            "en": "Excited, nervous, a little scared, the students waited for the results.",
-            "zh": "學生們興奮、緊張，還有點害怕，等著結果。"
+            "en": "The exam results came out at nine. Excited, nervous, a little scared, the students waited by the notice board.",
+            "zh": "考試成績九點公布。學生們興奮、緊張，還有點害怕，在布告欄旁邊等。"
           },
           {
-            "en": "Proud and happy, the parents watched their son graduate.",
-            "zh": "父母又驕傲又開心，看著兒子畢業。"
+            "en": "Our son finished university in June. Proud and happy, we watched him graduate.",
+            "zh": "我們的兒子六月大學畢業。我們又驕傲又開心，看著他畢業。"
           },
           {
-            "en": "The test – long and difficult – took three hours.",
-            "zh": "那次考試又長又難，花了三個小時。"
+            "en": "I took my driving theory exam yesterday. The test – long and difficult – took three hours.",
+            "zh": "我昨天考了駕照筆試。那次考試又長又難，花了三個小時。"
           },
           {
-            "en": "Simple, fresh and cheap, the food at the stall is always popular.",
-            "zh": "那個攤子的食物簡單、新鮮又便宜，一直都很受歡迎。"
+            "en": "There's always a queue at the noodle stall. Simple, fresh and cheap, the food there is always popular.",
+            "zh": "那個麵攤總是在排隊。那裡的食物簡單、新鮮又便宜，一直都很受歡迎。"
           }
         ]
       }

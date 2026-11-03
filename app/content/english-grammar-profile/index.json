@@ -26668,18 +26668,18 @@
       "Hopefully, we'll see you again soon.",
       "Hopefully, the rain will stop before the match.",
       "Obviously, you need a passport to travel abroad.",
-      "He was obviously very tired.",
+      "Dad fell asleep in his chair. He was obviously very tired.",
       "The baker clearly enjoys talking to his customers.",
       "Clearly, the school needs a bigger car park.",
       "The driver clearly didn't see the red light.",
       "Honestly, I didn't enjoy the second half of the film.",
-      "I honestly don't know where he is.",
+      "I honestly don't know where Tom is.",
       "Basically, the job is answering the phone.",
       "Basically, the club is for anyone who likes walking.",
-      "It's basically a small hotel with a restaurant.",
-      "Surely you remember her!",
+      "The Red Lion is basically a small hotel with a restaurant.",
+      "You met my aunt at the wedding. Surely you remember her!",
       "Surely the shops are open on Saturday.",
-      "Surely they won't charge us for water.",
+      "Surely the restaurant won't charge us for water.",
       "You're not leaving already, surely?",
       "I completely forgot about the meeting.",
       "The room was completely empty.",
@@ -26738,7 +26738,7 @@
           },
           {
             "en": "The parcel will hopefully arrive tomorrow.",
-            "zh": "包裹希望明天會到。"
+            "zh": "希望包裹明天會到。"
           },
           {
             "en": "Hopefully, we'll see you again soon.",
@@ -26758,8 +26758,8 @@
             "zh": "出國當然需要護照。"
           },
           {
-            "en": "He was obviously very tired.",
-            "zh": "他顯然很累了。"
+            "en": "Dad fell asleep in his chair. He was obviously very tired.",
+            "zh": "爸爸在椅子上睡著了。他顯然很累了。"
           },
           {
             "en": "The baker clearly enjoys talking to his customers.",
@@ -26783,8 +26783,8 @@
             "zh": "老實說，我不喜歡那部電影的下半段。"
           },
           {
-            "en": "I honestly don't know where he is.",
-            "zh": "我真的不知道他在哪裡。"
+            "en": "I honestly don't know where Tom is.",
+            "zh": "我真的不知道 Tom 在哪裡。"
           },
           {
             "en": "Basically, the job is answering the phone.",
@@ -26795,8 +26795,8 @@
             "zh": "簡單地說，這個社團是給喜歡健行的人參加的。"
           },
           {
-            "en": "It's basically a small hotel with a restaurant.",
-            "zh": "那基本上就是一家附設餐廳的小旅館。"
+            "en": "The Red Lion is basically a small hotel with a restaurant.",
+            "zh": "The Red Lion 基本上就是一家附設餐廳的小旅館。"
           }
         ]
       },
@@ -26804,16 +26804,16 @@
         "heading": "⑥ surely",
         "items": [
           {
-            "en": "Surely you remember her!",
-            "zh": "你總不會不記得她吧！"
+            "en": "You met my aunt at the wedding. Surely you remember her!",
+            "zh": "你在婚禮上見過我阿姨。你總不會不記得她吧！"
           },
           {
             "en": "Surely the shops are open on Saturday.",
             "zh": "商店星期六應該有開吧。"
           },
           {
-            "en": "Surely they won't charge us for water.",
-            "zh": "他們總不會連水都跟我們收錢吧。"
+            "en": "Surely the restaurant won't charge us for water.",
+            "zh": "這家餐廳總不會連水都跟我們收錢吧。"
           },
           {
             "en": "You're not leaving already, surely?",

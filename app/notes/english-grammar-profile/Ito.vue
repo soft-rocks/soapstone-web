@@ -12,13 +12,13 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="completely 放在形容詞前面，表示完全">
+    <NoteSlide title="completely 放在形容詞前面，表示完全" mark="completely">
       <NoteWords
         :size="34"
         :parts="[
           { t: 'I', role: '主詞', kind: 'dim' },
           { t: 'am', role: 'be' },
-          { t: 'completely', role: '態度副詞', kind: 'key' },
+          { t: 'completely', role: '程度副詞', kind: 'key' },
           { t: 'sure.', role: '形容詞' },
         ]"
       />

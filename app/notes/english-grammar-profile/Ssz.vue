@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這間公寓比我們以前那間大很多。</p>
     </NoteSlide>
 
-    <NoteSlide title="短的形容詞加 -er，長的形容詞用 more" mark="much better">
+    <NoteSlide title="短的形容詞加 -er，長的形容詞用 more">
       <div class="rows is-labeled">
         <div>
           <span class="term">much + 形容詞-er</span>
@@ -48,7 +48,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="so much 的語氣比 much 強" mark="much">
+    <NoteSlide title="so much 的語氣比 much 強">
       <NoteWords
         :size="22"
         :parts="[
@@ -61,12 +61,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這間房子很漂亮，而且比之前那間大太多了。</p>
     </NoteSlide>
 
-    <NoteSlide title="much 加比較級也可以放在 look、feel 後面" mark="is much better">
+    <NoteSlide title="much 加比較級也可以放在 look、feel 後面">
       <NoteWords
         :size="24"
         :parts="[
           { t: 'The children', role: '主詞' },
-          { t: 'look', role: '連綴動詞', kind: 'key', ring: true },
+          { t: 'look', role: '動詞', kind: 'key', ring: true },
           { t: 'much happier', role: 'much + 比較級', kind: 'key' },
           { t: 'in the new school.', kind: 'dim' },
         ]"
@@ -98,7 +98,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="修飾比較級用 so much，不用 so many" mark="much">
+    <NoteSlide title="修飾比較級用 so much，不用 so many">
       <NoteFix
         wrong="The new bed is so many softer."
         right="The new bed is so much softer."

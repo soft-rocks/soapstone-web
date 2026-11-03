@@ -12,50 +12,88 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="to 不定詞說明是做什麼事最怎麼樣" mark="the cheapest way to travel">
+    <NoteSlide title="最高級加名詞，後面接 to 不定詞">
       <NoteWords
         :size="24"
         :parts="[
-          { t: 'The quickest', role: 'the + 最高級', kind: 'key' },
+          { t: 'For people who can\'t afford a car, a bicycle is perhaps', kind: 'dim' },
+          { t: 'the cheapest', role: 'the + 最高級', kind: 'key' },
           { t: 'way', role: '名詞' },
-          { t: 'to get there', role: 'to 不定詞', kind: 'key', ring: true },
-          { t: 'is by train.', kind: 'dim' },
+          { t: 'to travel in the city.', role: 'to 不定詞', kind: 'key', ring: true },
         ]"
       />
-      <p class="translation">去那裡最快的方法是搭火車。</p>
+      <p class="translation">對買不起車的人來說，腳踏車大概是在市區移動最便宜的方式。</p>
     </NoteSlide>
 
-    <NoteSlide title="名詞也可以是 place、time、thing" mark="way">
+    <NoteSlide title="名詞也可以是 place、time、thing">
       <div class="rows is-labeled">
         <div>
           <span class="term">place to</span>
           <span
             ><NoteMark
-              sentence="Don't carry your passport around the city. The safest place to keep it is the hotel safe."
-              :marks="['safest place to keep']"
-            /><span class="translation"
-              >別帶著護照在市區走。放護照最安全的地方是飯店的保險箱。</span
-            ></span
+              sentence="Where's the safest place to swim?"
+              :marks="['safest place to swim']"
+            /><span class="translation">在哪裡游泳最安全？</span></span
           >
         </div>
         <div>
           <span class="term">time to</span>
           <span
             ><NoteMark
-              sentence="Book your trip to Spain for the winter. The cheapest time to fly is in February."
+              sentence="The cheapest time to fly is in February."
               :marks="['cheapest time to fly']"
-            /><span class="translation"
-              >你去西班牙的行程訂在冬天吧。二月是搭飛機最便宜的時候。</span
-            ></span
+            /><span class="translation">二月是搭飛機最便宜的時候。</span></span
           >
         </div>
         <div>
-          <span class="term">the most + thing to</span>
+          <span class="term">thing to</span>
+          <span
+            ><NoteMark
+              sentence="At the end, the hardest thing to do was say goodbye."
+              :marks="['hardest thing to do']"
+            /><span class="translation">到最後，最難做的事是說再見。</span></span
+          >
+        </div>
+      </div>
+    </NoteSlide>
+
+    <NoteSlide title="多音節的形容詞用 the most">
+      <div class="rows">
+        <div>
           <span
             ><NoteMark
               sentence="The most important thing to remember is your passport."
-              :marks="['most important thing']"
+              :marks="['most important']"
             /><span class="translation">最要記得帶的是你的護照。</span></span
+          >
+        </div>
+        <div>
+          <span
+            ><NoteMark
+              sentence="What's the most useful word to learn in Japanese?"
+              :marks="['most useful']"
+            /><span class="translation">日文裡最值得學的字是哪一個？</span></span
+          >
+        </div>
+      </div>
+    </NoteSlide>
+
+    <NoteSlide title="the best 和 the worst 也接名詞和 to 不定詞">
+      <div class="rows">
+        <div>
+          <span
+            ><NoteMark
+              sentence="When you're lost, the best thing to do is ask for help."
+              :marks="['the best']"
+            /><span class="translation">迷路的時候，最好的做法是找人幫忙。</span></span
+          >
+        </div>
+        <div>
+          <span
+            ><NoteMark
+              sentence="Friday afternoon is the worst time to drive into the city."
+              :marks="['the worst']"
+            /><span class="translation">星期五下午是開車進城最糟的時間。</span></span
           >
         </div>
       </div>

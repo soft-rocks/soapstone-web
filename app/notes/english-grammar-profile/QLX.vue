@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="24"
         :parts="[
           { t: 'Football is', kind: 'dim' },
-          { t: 'the most', role: 'the most', kind: 'key', ring: true },
+          { t: 'the most', role: '最高級', kind: 'key', ring: true },
           { t: 'popular', role: '形容詞', kind: 'key' },
           { t: 'sport', role: '名詞' },
           { t: 'in Brazil.', kind: 'dim' },
@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">足球是巴西最受歡迎的運動。</p>
     </NoteSlide>
 
-    <NoteSlide title="三個音節以上和 -ful 結尾的形容詞用 the most" mark="most famous">
+    <NoteSlide title="三個音節以上，和字尾是 -ful、-ous 的形容詞用 the most" mark="the most famous">
       <div class="rows is-labeled">
         <div>
           <span class="term">三個音節以上</span>

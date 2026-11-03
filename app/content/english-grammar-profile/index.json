@@ -10950,180 +10950,210 @@
     "translation": "那是這家店裡最便宜的！",
     "name": "單音節形容詞加 -est 的最高級",
     "sentences": [
-      "I only have fifty dollars. Which is the cheapest phone you sell?",
-      "I bought the shirt because it was the cheapest.",
-      "What's the cheapest way to get to the airport?",
-      "My grandfather is the oldest man in the village.",
+      "My phone broke, and I only have fifty dollars. Which is the cheapest phone you sell?",
+      "I don't want to pay for a taxi. What's the cheapest way to get to the airport?",
+      "My grandfather was born in 1925. He's the oldest man in the village.",
       "People say the oak by the gate is the oldest tree in the park.",
-      "Who's the oldest in your class?",
-      "My brother is the tallest in our family.",
-      "That's the tallest building in the city.",
-      "I'd like the smallest size, please.",
-      "Our flat is the smallest one on the floor.",
-      "The smallest dog in the park is the loudest.",
-      "The Nile is the longest river in Africa.",
-      "Monday felt like the longest day of the week.",
-      "That's the fastest train in the country.",
-      "Who is the fastest swimmer in your class?",
-      "Take the fastest road, not the prettiest.",
-      "Ann was the youngest at the party, so she went home first.",
-      "The youngest player on the team is fifteen.",
+      "That's the tallest building in the city. You can see it from everywhere.",
+      "These gloves are too big. I'd like the smallest size, please.",
+      "We sailed down the Nile last winter. The Nile is the longest river in Africa.",
+      "I had four meetings and a test. Monday felt like the longest day of the week.",
+      "The Shinkansen goes three hundred kilometres an hour. That's the fastest train in Japan.",
+      "Our team has players from fifteen to thirty-five. The youngest player is fifteen.",
       "Put the milk in the garage. It's the coldest place we have.",
-      "That was the hardest test this year.",
-      "We saw the most stars on the darkest night of the trip.",
-      "He's the kindest man I know.",
+      "Mr Ford drives the old lady next door to the doctor every week. He's the kindest man I know.",
+      "We took the slowest train, so the trip took six hours.",
+      "Have you seen my dad's phone? It's the newest model, and it was very expensive.",
+      "The guide was very friendly. She was the nicest person on the tour.",
+      "Blue whales are the largest animals in the world.",
+      "Keep your passport in the hotel. That's the safest place for it.",
+      "We need a lot of space for the party. Can we book the biggest room?",
+      "July is usually the hottest month here, so we go to the beach then.",
+      "The dog died at the end of the film. It was the saddest part.",
+      "It hardly ever rains in March. That's the driest month of the year.",
+      "Keep the flour in the cupboard above the oven. It's the driest place in the kitchen.",
       "Look at all these melons. Which one is the sweetest?",
-      "We tried all the cafés, and this one is the cheapest.",
-      "Of all the roads, the main road is the quickest.",
-      "Of our three cats, the grey one is the oldest and the laziest.",
-      "I washed all the towels. The blue one is the softest.",
-      "We looked at three beds, and this one is the longest.",
-      "I tried on five pairs of boots. These are the warmest.",
-      "All the boys are strong, but Bob is the strongest."
+      "We tried all the cafés near the office, and this one is the cheapest.",
+      "My brother plays basketball. He's the tallest in our family.",
+      "Of our three cats, the grey one is the oldest and the fattest.",
+      "I'm going to Finland in January. I tried on five pairs of boots, and these are the warmest.",
+      "The boys lifted the boat out of the water. They're all strong, but Bob is the strongest.",
+      "My oldest friend lives in Canada now, so we only talk on the phone.",
+      "Our youngest daughter starts school in September.",
+      "Thanks for the scarf. It's the best present I got this year.",
+      "Which is the best way to the station from here?",
+      "I got lost and missed the train. It was the worst day of my holiday.",
+      "Don't go in August. That's the worst time to visit, because it's so crowded."
     ],
     "examples": [
       {
-        "heading": "① cheapest / oldest",
+        "heading": "① 加 -est",
         "items": [
           {
-            "en": "I only have fifty dollars. Which is the cheapest phone you sell?",
-            "zh": "我只有五十塊，你們賣的最便宜的手機是哪一支？"
+            "en": "My phone broke, and I only have fifty dollars. Which is the cheapest phone you sell?",
+            "zh": "我的手機壞了，我只有五十塊。你們賣的最便宜的手機是哪一支？"
           },
           {
-            "en": "I bought the shirt because it was the cheapest.",
-            "zh": "我買那件襯衫，因為它最便宜。"
+            "en": "I don't want to pay for a taxi. What's the cheapest way to get to the airport?",
+            "zh": "我不想付計程車錢。到機場最便宜的方法是什麼？"
           },
           {
-            "en": "What's the cheapest way to get to the airport?",
-            "zh": "到機場最便宜的方法是什麼？"
-          },
-          {
-            "en": "My grandfather is the oldest man in the village.",
-            "zh": "我爺爺是村子裡年紀最大的人。"
+            "en": "My grandfather was born in 1925. He's the oldest man in the village.",
+            "zh": "我爺爺 1925 年出生。他是村子裡年紀最大的人。"
           },
           {
             "en": "People say the oak by the gate is the oldest tree in the park.",
             "zh": "大家說門邊那棵橡樹是公園裡最老的樹。"
           },
           {
-            "en": "Who's the oldest in your class?",
-            "zh": "你們班上誰年紀最大？"
-          }
-        ]
-      },
-      {
-        "heading": "② tallest / smallest",
-        "items": [
-          {
-            "en": "My brother is the tallest in our family.",
-            "zh": "我哥哥是我們家最高的。"
+            "en": "That's the tallest building in the city. You can see it from everywhere.",
+            "zh": "那是這座城市最高的大樓。你在哪裡都看得到它。"
           },
           {
-            "en": "That's the tallest building in the city.",
-            "zh": "那是這座城市最高的大樓。"
+            "en": "These gloves are too big. I'd like the smallest size, please.",
+            "zh": "這雙手套太大了。請給我最小的尺寸。"
           },
           {
-            "en": "I'd like the smallest size, please.",
-            "zh": "請給我最小的尺寸。"
+            "en": "We sailed down the Nile last winter. The Nile is the longest river in Africa.",
+            "zh": "我們去年冬天沿著尼羅河航行。尼羅河是非洲最長的河。"
           },
           {
-            "en": "Our flat is the smallest one on the floor.",
-            "zh": "我們家是這層樓最小的一戶。"
+            "en": "I had four meetings and a test. Monday felt like the longest day of the week.",
+            "zh": "我開了四個會，還有一場考試。星期一感覺是一週裡最漫長的一天。"
           },
           {
-            "en": "The smallest dog in the park is the loudest.",
-            "zh": "公園裡最小的那隻狗叫得最大聲。"
-          }
-        ]
-      },
-      {
-        "heading": "③ longest / fastest",
-        "items": [
-          {
-            "en": "The Nile is the longest river in Africa.",
-            "zh": "尼羅河是非洲最長的河。"
+            "en": "The Shinkansen goes three hundred kilometres an hour. That's the fastest train in Japan.",
+            "zh": "新幹線一小時開三百公里。那是日本最快的火車。"
           },
           {
-            "en": "Monday felt like the longest day of the week.",
-            "zh": "星期一感覺是一週裡最漫長的一天。"
-          },
-          {
-            "en": "That's the fastest train in the country.",
-            "zh": "那是全國最快的火車。"
-          },
-          {
-            "en": "Who is the fastest swimmer in your class?",
-            "zh": "你們班誰游得最快？"
-          },
-          {
-            "en": "Take the fastest road, not the prettiest.",
-            "zh": "走最快的路，不要走最漂亮的那條。"
-          }
-        ]
-      },
-      {
-        "heading": "④ youngest / 其他",
-        "items": [
-          {
-            "en": "Ann was the youngest at the party, so she went home first.",
-            "zh": "Ann 是派對上年紀最小的，所以她最先回家。"
-          },
-          {
-            "en": "The youngest player on the team is fifteen.",
-            "zh": "隊上最年輕的球員十五歲。"
+            "en": "Our team has players from fifteen to thirty-five. The youngest player is fifteen.",
+            "zh": "我們隊的球員從十五歲到三十五歲。最年輕的球員十五歲。"
           },
           {
             "en": "Put the milk in the garage. It's the coldest place we have.",
             "zh": "把牛奶放到車庫，那是我們家最冷的地方。"
           },
           {
-            "en": "That was the hardest test this year.",
-            "zh": "那是今年最難的考試。"
+            "en": "Mr Ford drives the old lady next door to the doctor every week. He's the kindest man I know.",
+            "zh": "Ford 先生每個星期都開車載隔壁的老太太去看醫生。他是我認識最好心的人。"
           },
           {
-            "en": "We saw the most stars on the darkest night of the trip.",
-            "zh": "我們在旅行中最黑的那一晚看到最多星星。"
+            "en": "We took the slowest train, so the trip took six hours.",
+            "zh": "我們搭了最慢的火車，所以這趟路花了六個小時。"
           },
           {
-            "en": "He's the kindest man I know.",
-            "zh": "他是我認識最好心的人。"
+            "en": "Have you seen my dad's phone? It's the newest model, and it was very expensive.",
+            "zh": "你看過我爸的手機嗎？那是最新的型號，很貴。"
           }
         ]
       },
       {
-        "heading": "⑤ the + 形容詞-est，省略名詞",
+        "heading": "② 字尾是 e，加 -st",
+        "items": [
+          {
+            "en": "The guide was very friendly. She was the nicest person on the tour.",
+            "zh": "導遊很友善。她是這趟旅行裡人最好的。"
+          },
+          {
+            "en": "Blue whales are the largest animals in the world.",
+            "zh": "藍鯨是世界上最大的動物。"
+          },
+          {
+            "en": "Keep your passport in the hotel. That's the safest place for it.",
+            "zh": "把護照放在飯店裡。那是放它最安全的地方。"
+          }
+        ]
+      },
+      {
+        "heading": "③ 重複字尾的子音，再加 -est",
+        "items": [
+          {
+            "en": "We need a lot of space for the party. Can we book the biggest room?",
+            "zh": "派對需要很大的空間。我們可以訂最大的那間嗎？"
+          },
+          {
+            "en": "July is usually the hottest month here, so we go to the beach then.",
+            "zh": "這裡七月通常最熱，所以我們那時候去海邊。"
+          },
+          {
+            "en": "The dog died at the end of the film. It was the saddest part.",
+            "zh": "電影最後那隻狗死了。那是最悲傷的一段。"
+          }
+        ]
+      },
+      {
+        "heading": "④ 把 y 改成 i，再加 -est",
+        "items": [
+          {
+            "en": "It hardly ever rains in March. That's the driest month of the year.",
+            "zh": "三月幾乎不下雨。那是一年裡最乾的月份。"
+          },
+          {
+            "en": "Keep the flour in the cupboard above the oven. It's the driest place in the kitchen.",
+            "zh": "把麵粉放在烤箱上面的櫃子裡。那是廚房裡最乾燥的地方。"
+          }
+        ]
+      },
+      {
+        "heading": "⑤ the + 形容詞-est，不接名詞",
         "items": [
           {
             "en": "Look at all these melons. Which one is the sweetest?",
             "zh": "你看這些瓜，哪一顆最甜？"
           },
           {
-            "en": "We tried all the cafés, and this one is the cheapest.",
-            "zh": "我們每家咖啡店都試過了，這家最便宜。"
+            "en": "We tried all the cafés near the office, and this one is the cheapest.",
+            "zh": "我們把辦公室附近的咖啡店都試過了，這家最便宜。"
           },
           {
-            "en": "Of all the roads, the main road is the quickest.",
-            "zh": "所有路裡面，大馬路最快。"
+            "en": "My brother plays basketball. He's the tallest in our family.",
+            "zh": "我哥哥打籃球。他是我們家最高的。"
           },
           {
-            "en": "Of our three cats, the grey one is the oldest and the laziest.",
-            "zh": "我們家三隻貓裡，灰色那隻年紀最大，也最懶。"
+            "en": "Of our three cats, the grey one is the oldest and the fattest.",
+            "zh": "我們家三隻貓裡，灰色那隻年紀最大，也最胖。"
           },
           {
-            "en": "I washed all the towels. The blue one is the softest.",
-            "zh": "我洗了所有毛巾，藍色那條最柔軟。"
+            "en": "I'm going to Finland in January. I tried on five pairs of boots, and these are the warmest.",
+            "zh": "我一月要去芬蘭。我試穿了五雙靴子，這雙最保暖。"
           },
           {
-            "en": "We looked at three beds, and this one is the longest.",
-            "zh": "我們看了三張床，這張最長。"
+            "en": "The boys lifted the boat out of the water. They're all strong, but Bob is the strongest.",
+            "zh": "男生們把船抬出水面。他們都很強壯，不過 Bob 最強壯。"
+          }
+        ]
+      },
+      {
+        "heading": "⑥ 所有格加最高級",
+        "items": [
+          {
+            "en": "My oldest friend lives in Canada now, so we only talk on the phone.",
+            "zh": "我最老的朋友現在住在加拿大，所以我們只講電話。"
           },
           {
-            "en": "I tried on five pairs of boots. These are the warmest.",
-            "zh": "我試穿了五雙靴子，這雙最保暖。"
+            "en": "Our youngest daughter starts school in September.",
+            "zh": "我們的小女兒九月開始上學。"
+          }
+        ]
+      },
+      {
+        "heading": "⑦ best 和 worst",
+        "items": [
+          {
+            "en": "Thanks for the scarf. It's the best present I got this year.",
+            "zh": "謝謝你送的圍巾。這是我今年收到最好的禮物。"
           },
           {
-            "en": "All the boys are strong, but Bob is the strongest.",
-            "zh": "男生們都很強壯，不過 Bob 最強壯。"
+            "en": "Which is the best way to the station from here?",
+            "zh": "從這裡去車站，哪條路最好走？"
+          },
+          {
+            "en": "I got lost and missed the train. It was the worst day of my holiday.",
+            "zh": "我迷路了，還錯過火車。那是我假期裡最糟的一天。"
+          },
+          {
+            "en": "Don't go in August. That's the worst time to visit, because it's so crowded.",
+            "zh": "不要八月去。那是最不適合去的時候，因為人太多了。"
           }
         ]
       }

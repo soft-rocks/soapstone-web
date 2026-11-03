@@ -16273,35 +16273,35 @@
     "translation": "你可以來，我真的好開心！",
     "name": "程度副詞修飾形容詞",
     "sentences": [
-      "Buy your chicken from Mr Lee. The chicken at that market is really good.",
+      "Buy your chicken at the market on King Street. The chicken there is really good.",
       "I like my job more now. My new boss is really nice.",
-      "Drive slowly. The roads were really icy this morning.",
+      "Close the windows before you go to bed. The flat gets really cold in winter.",
       "You've worked twelve hours today. You look really tired. Go to bed.",
       "We danced all night. We had a really good time at the wedding.",
       "A garden on the roof? That's a really interesting idea.",
       "We changed trains four times. It was an extremely long journey.",
-      "He swims every morning before work. My brother is a pretty good swimmer.",
-      "I'll keep my old one. The new phones are extremely expensive.",
+      "My brother swims every morning before work. He's a pretty good swimmer.",
+      "The new phones are extremely expensive. I'll keep my old one.",
       "We asked the same question five times. The teacher was extremely patient with us.",
       "It's going to be hot today. It's extremely important to drink enough water.",
       "Walk in a line, please. The path up the hill is extremely narrow.",
       "The traffic was terrible. I'm so sorry I'm late.",
-      "She can already read at four. Your little girl is so clever.",
+      "Your little girl can already read at four. She's so clever.",
       "Did someone leave a window open? Why is the house so cold?",
       "We packed our bags a week early. We were so excited about the trip.",
-      "He told them where to get off. The bus driver was pretty friendly to the tourists.",
-      "His car is outside. I'm pretty sure he's at home.",
-      "She lived in Paris for a year. Her French is pretty good.",
+      "The bus driver told the tourists where to get off. He was pretty friendly.",
+      "Dan's car is outside. I'm pretty sure he's at home.",
+      "My sister lived in Paris for a year. Her French is pretty good.",
       "Nobody scored. The match was pretty boring.",
-      "I'm a bit hungry. Let's eat.",
+      "I'm getting a bit hungry. Let's eat.",
       "I need the next size up. This coat is a bit small for me.",
-      "I checked my phone twice. The film was a bit long.",
-      "His dog died last week. He seemed a bit sad on the phone.",
+      "The film was a bit long. I checked my phone twice.",
+      "Sam's dog died last week. He seemed a bit sad on the phone.",
       "Can we stop the car? I feel a little sick.",
       "Can you help me build this shelf? The instructions are a little confusing.",
-      "Speak up when you call her. My grandmother is a little deaf.",
+      "My grandmother is a little deaf. Speak up when you call her.",
       "The water was a little cold, but we swam anyway.",
-      "I asked for new ones. The towels in the bathroom weren't really clean.",
+      "The towels in the bathroom weren't really clean. I asked for new ones.",
       "You keep checking your notes. Are you a bit nervous about the exam?",
       "You only stayed one night. Were the rooms extremely expensive?",
       "My feet hurt already. Is the museum really far from here?"
@@ -16311,16 +16311,16 @@
         "heading": "① really + 形容詞",
         "items": [
           {
-            "en": "Buy your chicken from Mr Lee. The chicken at that market is really good.",
-            "zh": "去李先生那裡買雞肉。那個市場的雞肉真的很好吃。"
+            "en": "Buy your chicken at the market on King Street. The chicken there is really good.",
+            "zh": "去國王街的市場買雞肉。那裡的雞肉真的很好吃。"
           },
           {
             "en": "I like my job more now. My new boss is really nice.",
             "zh": "我現在比較喜歡我的工作了。我的新老闆人真的很好。"
           },
           {
-            "en": "Drive slowly. The roads were really icy this morning.",
-            "zh": "開慢一點。今天早上路面結冰結得很厲害。"
+            "en": "Close the windows before you go to bed. The flat gets really cold in winter.",
+            "zh": "睡覺前把窗戶關上。這間公寓冬天會變得很冷。"
           },
           {
             "en": "You've worked twelve hours today. You look really tired. Go to bed.",
@@ -16344,8 +16344,8 @@
             "zh": "我們換了四次火車。那是一趟非常漫長的旅程。"
           },
           {
-            "en": "He swims every morning before work. My brother is a pretty good swimmer.",
-            "zh": "他每天上班前都去游泳。我哥哥游泳游得滿好的。"
+            "en": "My brother swims every morning before work. He's a pretty good swimmer.",
+            "zh": "我哥哥每天上班前都去游泳。他游泳游得滿好的。"
           }
         ]
       },
@@ -16353,8 +16353,8 @@
         "heading": "③ extremely + 形容詞",
         "items": [
           {
-            "en": "I'll keep my old one. The new phones are extremely expensive.",
-            "zh": "我會繼續用我的舊手機。新的手機貴得要命。"
+            "en": "The new phones are extremely expensive. I'll keep my old one.",
+            "zh": "新的手機貴得要命。我會繼續用我的舊手機。"
           },
           {
             "en": "We asked the same question five times. The teacher was extremely patient with us.",
@@ -16378,8 +16378,8 @@
             "zh": "交通糟透了。真的很抱歉我遲到了。"
           },
           {
-            "en": "She can already read at four. Your little girl is so clever.",
-            "zh": "她四歲就會讀書了。你的小女兒好聰明。"
+            "en": "Your little girl can already read at four. She's so clever.",
+            "zh": "你的小女兒四歲就會讀書了。她好聰明。"
           },
           {
             "en": "Did someone leave a window open? Why is the house so cold?",
@@ -16395,16 +16395,16 @@
         "heading": "⑤ pretty + 形容詞",
         "items": [
           {
-            "en": "He told them where to get off. The bus driver was pretty friendly to the tourists.",
-            "zh": "他告訴他們在哪裡下車。公車司機對觀光客還滿友善的。"
+            "en": "The bus driver told the tourists where to get off. He was pretty friendly.",
+            "zh": "公車司機告訴觀光客在哪裡下車。他還滿友善的。"
           },
           {
-            "en": "His car is outside. I'm pretty sure he's at home.",
-            "zh": "他的車在外面。我滿確定他在家。"
+            "en": "Dan's car is outside. I'm pretty sure he's at home.",
+            "zh": "Dan 的車在外面。我滿確定他在家。"
           },
           {
-            "en": "She lived in Paris for a year. Her French is pretty good.",
-            "zh": "她在巴黎住了一年。她的法文滿好的。"
+            "en": "My sister lived in Paris for a year. Her French is pretty good.",
+            "zh": "我姊姊在巴黎住了一年。她的法文滿好的。"
           },
           {
             "en": "Nobody scored. The match was pretty boring.",
@@ -16416,20 +16416,20 @@
         "heading": "⑥ a bit + 形容詞",
         "items": [
           {
-            "en": "I'm a bit hungry. Let's eat.",
-            "zh": "我有點餓。我們吃飯吧。"
+            "en": "I'm getting a bit hungry. Let's eat.",
+            "zh": "我有點餓了。我們吃飯吧。"
           },
           {
             "en": "I need the next size up. This coat is a bit small for me.",
             "zh": "我需要大一號的。這件外套我穿有點小。"
           },
           {
-            "en": "I checked my phone twice. The film was a bit long.",
-            "zh": "我看了兩次手機。那部電影有點長。"
+            "en": "The film was a bit long. I checked my phone twice.",
+            "zh": "那部電影有點長。我看了兩次手機。"
           },
           {
-            "en": "His dog died last week. He seemed a bit sad on the phone.",
-            "zh": "他的狗上星期死了。他在電話裡聽起來有點難過。"
+            "en": "Sam's dog died last week. He seemed a bit sad on the phone.",
+            "zh": "Sam 的狗上星期死了。他在電話裡聽起來有點難過。"
           }
         ]
       },
@@ -16445,8 +16445,8 @@
             "zh": "你可以幫我組這個架子嗎？說明有點難懂。"
           },
           {
-            "en": "Speak up when you call her. My grandmother is a little deaf.",
-            "zh": "你打給她的時候講大聲一點。我奶奶耳朵有點背。"
+            "en": "My grandmother is a little deaf. Speak up when you call her.",
+            "zh": "我奶奶耳朵有點背。你打給她的時候講大聲一點。"
           },
           {
             "en": "The water was a little cold, but we swam anyway.",
@@ -16458,8 +16458,8 @@
         "heading": "⑧ 否定句和疑問句",
         "items": [
           {
-            "en": "I asked for new ones. The towels in the bathroom weren't really clean.",
-            "zh": "我要了新的。浴室裡的毛巾不太乾淨。"
+            "en": "The towels in the bathroom weren't really clean. I asked for new ones.",
+            "zh": "浴室裡的毛巾不太乾淨。我要了新的。"
           },
           {
             "en": "You keep checking your notes. Are you a bit nervous about the exam?",

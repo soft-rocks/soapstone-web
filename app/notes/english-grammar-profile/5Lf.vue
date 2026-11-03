@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="程度副詞放在形容詞前面">
+    <NoteSlide title="程度副詞放在形容詞前面" mark="so happy">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,11 +25,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">你可以來，我真的好開心！</p>
     </NoteSlide>
 
-    <NoteSlide title="really、extremely、pretty 加形容詞可以放在名詞前面" mark="so happy">
+    <NoteSlide title="really、extremely、pretty 加形容詞可以放在名詞前面">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'It\'s', role: '主詞 + be', kind: 'dim' },
+          { t: 'This is', role: '主詞 + be', kind: 'dim' },
           { t: 'a', role: '冠詞' },
           { t: 'really', role: '程度副詞', kind: 'key' },
           { t: 'important', role: '形容詞' },
@@ -37,10 +37,10 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'for me.', role: '對誰', kind: 'dim' },
         ]"
       />
-      <p class="translation">這本書對我很重要。</p>
+      <p class="translation">這是一本對我很重要的書。</p>
     </NoteSlide>
 
-    <NoteSlide title="程度從高到低：extremely、really、pretty、a bit" mark="so">
+    <NoteSlide title="各個程度副詞的程度從高到低" mark="so">
       <div class="rows is-labeled">
         <div>
           <span class="term">extremely</span>
@@ -87,7 +87,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'The food was', role: '主詞 + be', kind: 'dim' },
           { t: 'pretty', role: '程度副詞', kind: 'key' },
-          { t: 'good.', role: '好的性質' },
+          { t: 'good.', role: '形容詞' },
         ]"
       />
       <p class="translation">食物還滿好吃的。</p>
@@ -99,8 +99,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="a 後面用 really，不用 so" mark="so">
       <NoteFix
-        wrong="It's a so beautiful beach."
-        right="It's a really beautiful beach."
+        wrong="This is a so beautiful beach."
+        right="This is a really beautiful beach."
         fix="really"
       />
     </NoteSlide>
@@ -159,9 +159,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">形容詞</span>
           <span
             ><NoteMark
-              sentence="She lives in a pretty village by the sea."
+              sentence="My aunt lives in a pretty village by the sea."
               :marks="['pretty village']"
-            /><span class="translation">她住在海邊一個漂亮的村子。</span></span
+            /><span class="translation">我阿姨住在海邊一個漂亮的村子。</span></span
           >
         </div>
       </div>

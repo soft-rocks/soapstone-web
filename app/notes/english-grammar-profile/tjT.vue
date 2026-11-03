@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="過去分詞單獨放在名詞後面，有被動的意思" mark="film shown">
+    <NoteSlide title="過去分詞放在名詞後面，有被動的意思" mark="film shown">
       <NoteWords
         :size="26"
         :parts="[
@@ -31,9 +31,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">required</span>
           <span
             ><NoteMark
-              sentence="Please bring the documents required."
-              :marks="['documents required']"
-            /><span class="translation">請帶齊要求的文件。</span></span
+              sentence="You need a visa for this trip. Fill in all the forms required."
+              :marks="['forms required']"
+            /><span class="translation">這趟旅行你需要簽證。請填好所有要求的表格。</span></span
           >
         </div>
         <div>
@@ -59,7 +59,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="involved 放在名詞前面和後面意思不同" mark="shown">
+    <NoteSlide title="involved 放在名詞前面和後面意思不同">
       <div class="rows is-labeled">
         <div>
           <span class="term">名詞後面（相關的）</span>

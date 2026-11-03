@@ -5013,13 +5013,13 @@
       "My son is only seven, but he can read this story alone. The words used in it are easy.",
       "The scientists cleaned the river in a year. The method used was very simple.",
       "The school picked six students for the science prize. The students chosen will travel to London.",
-      "We painted the baby's room last week. The colors chosen for it are calm.",
-      "The school disco has finished. Please count the money collected at the door.",
-      "We spent £500 on my son's birthday. The money spent on the party was too much.",
+      "We painted the baby's room last week. The colours chosen for it are calm.",
+      "The school disco has finished. Please count the money paid at the door.",
+      "Here's your receipt. The amount paid is at the bottom.",
       "The school bus will not run next week. The families concerned have all been told.",
       "Some exam papers went missing. The head teacher spoke to the teachers concerned.",
       "We asked our neighbours about a street party. Most of the people asked said yes.",
-      "We cooked too much for the wedding. The food left after the party went to a shelter.",
+      "We cooked too much for the wedding. The food left after the wedding went to a shelter.",
       "Welcome to the hotel. The rooms booked for the conference are on the second floor.",
       "The shop is busier now. The changes made last year helped a lot.",
       "We had too much cake at the launch. Ten of the people invited didn't come."
@@ -5124,16 +5124,16 @@
             "zh": "學校挑了六個學生參加科學獎。被選上的學生會去倫敦。"
           },
           {
-            "en": "We painted the baby's room last week. The colors chosen for it are calm.",
+            "en": "We painted the baby's room last week. The colours chosen for it are calm.",
             "zh": "我們上星期粉刷了寶寶的房間。房間挑的顏色很柔和。"
           },
           {
-            "en": "The school disco has finished. Please count the money collected at the door.",
-            "zh": "學校的舞會結束了。請點一下在門口收到的錢。"
+            "en": "The school disco has finished. Please count the money paid at the door.",
+            "zh": "學校的舞會結束了。請點一下在門口付的錢。"
           },
           {
-            "en": "We spent £500 on my son's birthday. The money spent on the party was too much.",
-            "zh": "我們為我兒子的生日花了五百英鎊。花在派對上的錢太多了。"
+            "en": "Here's your receipt. The amount paid is at the bottom.",
+            "zh": "這是你的收據。付款金額在最下面。"
           }
         ]
       },
@@ -5153,8 +5153,8 @@
             "zh": "我們問鄰居要不要辦街頭派對。被問到的人大多說好。"
           },
           {
-            "en": "We cooked too much for the wedding. The food left after the party went to a shelter.",
-            "zh": "我們為婚禮煮了太多菜。派對剩下的食物送到了收容所。"
+            "en": "We cooked too much for the wedding. The food left after the wedding went to a shelter.",
+            "zh": "我們為婚禮煮了太多菜。婚禮剩下的食物送到了收容所。"
           },
           {
             "en": "Welcome to the hotel. The rooms booked for the conference are on the second floor.",

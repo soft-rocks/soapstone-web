@@ -12,9 +12,9 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="前面說過是什麼，the + 最高級後面省略名詞" mark="the best">
+    <NoteSlide title="前面說過是什麼，最高級後面就省略名詞" mark="the best">
       <NoteWords
-        :size="22"
+        :size="20"
         :parts="[
           { t: 'All the rooms are nice,', role: '一組東西', kind: 'dim' },
           { t: 'but this one is', kind: 'dim' },
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">所有房間都不錯，不過這間最大。</p>
     </NoteSlide>
 
-    <NoteSlide title="長的形容詞用 the most" mark="the best">
+    <NoteSlide title="長的形容詞用 the most">
       <NoteMark
         sentence="All the questions were hard, but the last one was the most difficult."
         :marks="['the most difficult']"
@@ -33,23 +33,23 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">所有題目都很難，不過最後一題最難。</p>
     </NoteSlide>
 
-    <NoteSlide title="在一組東西裡比較，最高級前面加 the" mark="the best">
+    <NoteSlide title="短的形容詞加 -est，不用 most">
       <NoteFix
-        wrong="Of all the presents, Mark's was most beautiful."
-        right="Of all the presents, Mark's was the most beautiful."
-        fix="the most"
+        wrong="We looked at four flats, and this one was the most cheap."
+        right="We looked at four flats, and this one was the cheapest."
+        fix="cheapest"
       />
     </NoteSlide>
 
     <NoteSlide title="三個以上比較，用最高級" mark="best">
       <NoteFix
-        wrong="I have three brothers, and Tom is the older."
-        right="I have three brothers, and Tom is the oldest."
-        fix="oldest"
+        wrong="I have three sisters, and Lucy is the taller."
+        right="I have three sisters, and Lucy is the tallest."
+        fix="tallest"
       />
     </NoteSlide>
 
-    <NoteSlide title="加了 -est 就不加 most" mark="best">
+    <NoteSlide title="加了 -est 就不加 most">
       <NoteFix
         wrong="Of the three rooms, this one is the most biggest."
         right="Of the three rooms, this one is the biggest."

@@ -564,68 +564,68 @@
     "translation": "我們有一個大花園和一個小游泳池。",
     "name": "形容詞放在名詞前（限定用法）",
     "sentences": [
-      "I have a small dog. His name is Max.",
-      "My uncle has a big farm with cows.",
-      "She has an old bike.",
-      "It's a nice day. Let's go out.",
-      "He is a good teacher.",
+      "I love animals. I have a small dog. His name is Max.",
+      "My uncle lives in the country. He has a big farm with cows.",
+      "Lucy rides to school every day. She has an old bike.",
+      "Look at the sun! It's a nice day. Let's go out.",
+      "Everyone in our class likes Mr Lee. He's a good teacher.",
       "It's cold. Let's get a hot drink.",
-      "There's a new café on our street.",
-      "This is my new phone.",
-      "I'm your new neighbor. My name is Ken.",
-      "The little girl is my sister.",
-      "Where is your red bag?",
-      "Please sit on the soft chair by the window.",
+      "Let's have breakfast out on Sunday. There's a new café on our street.",
+      "I got a present from my parents. Look at my new phone.",
+      "Hi, I live in number twelve. I'm your new neighbour. My name is Ken.",
+      "That's my mum in the photo. The little girl next to her is my sister.",
+      "Your red bag isn't in your room. Where did you put it?",
+      "The doctor will see you soon. Please sit on the soft chair by the window.",
       "I like my home because there's a nice park next to it.",
-      "I'm going to the cinema with my best friend tonight.",
-      "They sell nice cakes.",
-      "We have two big rooms upstairs.",
-      "I like old movies.",
-      "Tall trees grow along the river.",
-      "My grandparents have three black cats.",
-      "I need new shoes.",
-      "Our flat has a big kitchen and a small bathroom.",
-      "I have a white cat and a brown dog.",
-      "She has long hair and blue eyes.",
-      "There's a big table and a small sofa in the room.",
-      "I want a cold drink and a hot meal.",
+      "I'm not studying tonight. I'm going to the cinema with my new friend from school.",
+      "Let's buy dessert at that bakery. They sell nice cakes.",
+      "You can stay at our house. We have two big rooms upstairs.",
+      "My dad and I watch Charlie Chaplin films. I like old movies.",
+      "We had our picnic in the shade. Tall trees grow along the river.",
+      "My grandparents love cats. They have three black cats.",
+      "My trainers have holes in them. I need new shoes.",
+      "We moved in last week. Our flat has a big kitchen and a small bathroom.",
+      "My pets are very different. I have a white cat and a brown dog.",
+      "You'll find my sister easily at the airport. She has long hair and blue eyes.",
+      "The room at the hostel is simple. It has a big table and a small sofa.",
+      "We walked all day in the snow. I want a hot bath and a big dinner.",
       "Do you have a big family? I have four brothers.",
-      "Is there a good restaurant near here?",
-      "We don't have a big kitchen.",
-      "Do you want the blue cup or the green cup?",
-      "I don't like hot weather."
+      "We're hungry, and we don't know the town. Is there a good restaurant near here?",
+      "We can't have twenty people for dinner. We don't have a big kitchen.",
+      "I'm making tea. Do you want the blue cup or the green cup?",
+      "I never go to the beach in August. I don't like hot weather."
     ],
     "examples": [
       {
         "heading": "① a / an + 形容詞 + 名詞",
         "items": [
           {
-            "en": "I have a small dog. His name is Max.",
-            "zh": "我有一隻小狗，牠叫 Max。"
+            "en": "I love animals. I have a small dog. His name is Max.",
+            "zh": "我很喜歡動物。我有一隻小狗，牠叫 Max。"
           },
           {
-            "en": "My uncle has a big farm with cows.",
-            "zh": "我叔叔有一座養牛的大農場。"
+            "en": "My uncle lives in the country. He has a big farm with cows.",
+            "zh": "我叔叔住在鄉下。他有一座養牛的大農場。"
           },
           {
-            "en": "She has an old bike.",
-            "zh": "她有一台舊腳踏車。"
+            "en": "Lucy rides to school every day. She has an old bike.",
+            "zh": "Lucy 每天騎車上學。她有一台舊腳踏車。"
           },
           {
-            "en": "It's a nice day. Let's go out.",
-            "zh": "今天天氣很好，我們出去吧。"
+            "en": "Look at the sun! It's a nice day. Let's go out.",
+            "zh": "你看太陽！今天天氣很好，我們出去吧。"
           },
           {
-            "en": "He is a good teacher.",
-            "zh": "他是個好老師。"
+            "en": "Everyone in our class likes Mr Lee. He's a good teacher.",
+            "zh": "我們班每個人都喜歡李老師。他是個好老師。"
           },
           {
             "en": "It's cold. Let's get a hot drink.",
             "zh": "好冷，我們去買杯熱飲吧。"
           },
           {
-            "en": "There's a new café on our street.",
-            "zh": "我們那條街上開了一家新的咖啡店。"
+            "en": "Let's have breakfast out on Sunday. There's a new café on our street.",
+            "zh": "我們星期天出去吃早餐吧。我們那條街上開了一家新的咖啡店。"
           }
         ]
       },
@@ -633,32 +633,32 @@
         "heading": "② my / your / the / this + 形容詞 + 名詞",
         "items": [
           {
-            "en": "This is my new phone.",
-            "zh": "這是我的新手機。"
+            "en": "I got a present from my parents. Look at my new phone.",
+            "zh": "我爸媽送我禮物。你看我的新手機。"
           },
           {
-            "en": "I'm your new neighbor. My name is Ken.",
-            "zh": "我是你的新鄰居，我叫 Ken。"
+            "en": "Hi, I live in number twelve. I'm your new neighbour. My name is Ken.",
+            "zh": "嗨，我住在十二號。我是你的新鄰居，我叫 Ken。"
           },
           {
-            "en": "The little girl is my sister.",
-            "zh": "那個小女孩是我妹妹。"
+            "en": "That's my mum in the photo. The little girl next to her is my sister.",
+            "zh": "照片裡那個是我媽媽。她旁邊那個小女孩是我妹妹。"
           },
           {
-            "en": "Where is your red bag?",
-            "zh": "你的紅色包包在哪裡？"
+            "en": "Your red bag isn't in your room. Where did you put it?",
+            "zh": "你的紅色包包不在你房間。你放到哪裡去了？"
           },
           {
-            "en": "Please sit on the soft chair by the window.",
-            "zh": "請坐窗邊那張軟椅子。"
+            "en": "The doctor will see you soon. Please sit on the soft chair by the window.",
+            "zh": "醫生馬上就來看你。請坐窗邊那張軟椅子。"
           },
           {
             "en": "I like my home because there's a nice park next to it.",
             "zh": "我喜歡我家，因為旁邊有一座很棒的公園。"
           },
           {
-            "en": "I'm going to the cinema with my best friend tonight.",
-            "zh": "我今天晚上要跟我最好的朋友去看電影。"
+            "en": "I'm not studying tonight. I'm going to the cinema with my new friend from school.",
+            "zh": "我今晚不讀書。我要跟學校新認識的朋友去看電影。"
           }
         ]
       },
@@ -666,28 +666,28 @@
         "heading": "③ 形容詞 + 複數名詞",
         "items": [
           {
-            "en": "They sell nice cakes.",
-            "zh": "他們賣很好吃的蛋糕。"
+            "en": "Let's buy dessert at that bakery. They sell nice cakes.",
+            "zh": "我們在那家麵包店買甜點吧。他們賣很好吃的蛋糕。"
           },
           {
-            "en": "We have two big rooms upstairs.",
-            "zh": "我們樓上有兩間大房間。"
+            "en": "You can stay at our house. We have two big rooms upstairs.",
+            "zh": "你可以住我們家。我們樓上有兩間大房間。"
           },
           {
-            "en": "I like old movies.",
-            "zh": "我喜歡老電影。"
+            "en": "My dad and I watch Charlie Chaplin films. I like old movies.",
+            "zh": "我爸爸和我會看卓別林的電影。我喜歡老電影。"
           },
           {
-            "en": "Tall trees grow along the river.",
-            "zh": "河邊長著高高的樹。"
+            "en": "We had our picnic in the shade. Tall trees grow along the river.",
+            "zh": "我們在樹蔭下野餐。河邊長著高高的樹。"
           },
           {
-            "en": "My grandparents have three black cats.",
-            "zh": "我爺爺奶奶養了三隻黑貓。"
+            "en": "My grandparents love cats. They have three black cats.",
+            "zh": "我爺爺奶奶很喜歡貓。他們養了三隻黑貓。"
           },
           {
-            "en": "I need new shoes.",
-            "zh": "我需要新鞋子。"
+            "en": "My trainers have holes in them. I need new shoes.",
+            "zh": "我的運動鞋破洞了。我需要新鞋子。"
           }
         ]
       },
@@ -695,24 +695,24 @@
         "heading": "④ 兩個名詞片語",
         "items": [
           {
-            "en": "Our flat has a big kitchen and a small bathroom.",
-            "zh": "我們的公寓有一間大廚房和一間小浴室。"
+            "en": "We moved in last week. Our flat has a big kitchen and a small bathroom.",
+            "zh": "我們上星期搬進來。我們的公寓有一間大廚房和一間小浴室。"
           },
           {
-            "en": "I have a white cat and a brown dog.",
-            "zh": "我有一隻白貓和一隻棕色的狗。"
+            "en": "My pets are very different. I have a white cat and a brown dog.",
+            "zh": "我的寵物很不一樣。我有一隻白貓和一隻棕色的狗。"
           },
           {
-            "en": "She has long hair and blue eyes.",
-            "zh": "她有長頭髮和藍眼睛。"
+            "en": "You'll find my sister easily at the airport. She has long hair and blue eyes.",
+            "zh": "你在機場很容易就能找到我姊姊。她有長頭髮和藍眼睛。"
           },
           {
-            "en": "There's a big table and a small sofa in the room.",
-            "zh": "房間裡有一張大桌子和一張小沙發。"
+            "en": "The room at the hostel is simple. It has a big table and a small sofa.",
+            "zh": "青年旅館的房間很簡單。房間裡有一張大桌子和一張小沙發。"
           },
           {
-            "en": "I want a cold drink and a hot meal.",
-            "zh": "我想要一杯冷飲和一份熱騰騰的餐點。"
+            "en": "We walked all day in the snow. I want a hot bath and a big dinner.",
+            "zh": "我們在雪地裡走了一整天。我想泡個熱水澡，再吃一頓豐盛的晚餐。"
           }
         ]
       },
@@ -724,20 +724,20 @@
             "zh": "你家人口多嗎？我有四個兄弟。"
           },
           {
-            "en": "Is there a good restaurant near here?",
-            "zh": "這附近有好吃的餐廳嗎？"
+            "en": "We're hungry, and we don't know the town. Is there a good restaurant near here?",
+            "zh": "我們肚子餓，又不熟這個小鎮。這附近有好吃的餐廳嗎？"
           },
           {
-            "en": "We don't have a big kitchen.",
-            "zh": "我們的廚房不大。"
+            "en": "We can't have twenty people for dinner. We don't have a big kitchen.",
+            "zh": "我們沒辦法請二十個人來吃晚餐。我們的廚房不大。"
           },
           {
-            "en": "Do you want the blue cup or the green cup?",
-            "zh": "你要藍色的杯子還是綠色的杯子？"
+            "en": "I'm making tea. Do you want the blue cup or the green cup?",
+            "zh": "我在泡茶。你要藍色的杯子還是綠色的杯子？"
           },
           {
-            "en": "I don't like hot weather.",
-            "zh": "我不喜歡炎熱的天氣。"
+            "en": "I never go to the beach in August. I don't like hot weather.",
+            "zh": "我八月從來不去海邊。我不喜歡炎熱的天氣。"
           }
         ]
       }

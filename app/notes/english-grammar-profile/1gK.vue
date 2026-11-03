@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="形容詞放在名詞前面" mark="a big garden">
+    <NoteSlide title="形容詞放在名詞前面" :mark="['a big garden', 'a small swimming pool']">
       <NoteWords
         :size="26"
         :parts="[
@@ -26,43 +26,47 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark"><code>old</code> 是母音開頭，前面用 <code>an</code>。</p>
     </NoteSlide>
 
-    <NoteSlide title="前面也可以是 my、the、this" mark="a small swimming pool">
+    <NoteSlide title="形容詞前面也可以是 my 或 the">
       <div class="rows is-labeled">
         <div>
           <span class="term">my</span>
           <span
-            ><NoteMark sentence="This is my new phone." :marks="['my new phone']" /><span
+            ><NoteMark sentence="Look at my new phone." :marks="['my new phone']" /><span
               class="translation"
-              >這是我的新手機。</span
+              >你看我的新手機。</span
             ></span
           >
         </div>
         <div>
           <span class="term">the</span>
           <span
-            ><NoteMark sentence="The little girl is my sister." :marks="['The little girl']" /><span
-              class="translation"
-              >那個小女孩是我妹妹。</span
-            ></span
+            ><NoteMark
+              sentence="The little girl next to her is my sister."
+              :marks="['The little girl']"
+            /><span class="translation">她旁邊那個小女孩是我妹妹。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="複數名詞前面的形容詞不加 -s" mark="big garden">
+    <NoteSlide title="複數名詞前面的形容詞不加 -s">
       <NoteMark sentence="We have two big rooms upstairs." :marks="['big rooms']" />
       <p class="translation">我們樓上有兩間大房間。</p>
     </NoteSlide>
 
-    <NoteSlide title="形容詞放在名詞前面，不放在後面" mark="big garden">
-      <NoteFix wrong="I have a car red." right="I have a red car." fix="red car" />
+    <NoteSlide title="形容詞放在名詞前面，不放在後面" :mark="['big garden', 'small swimming pool']">
+      <NoteFix
+        wrong="My cousin drives a car red."
+        right="My cousin drives a red car."
+        fix="red car"
+      />
     </NoteSlide>
 
-    <NoteSlide title="形容詞不加 -s" mark="big">
+    <NoteSlide title="形容詞不加 -s">
       <NoteFix wrong="We have two bigs rooms." right="We have two big rooms." fix="big" />
     </NoteSlide>
 
-    <NoteSlide title="母音開頭的形容詞前面用 an" mark="a big">
+    <NoteSlide title="母音開頭的形容詞前面用 an">
       <NoteFix wrong="She has a old bike." right="She has an old bike." fix="an" />
     </NoteSlide>
   </NoteDeck>

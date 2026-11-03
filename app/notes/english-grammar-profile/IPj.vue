@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="句子的動詞是 be 時，頻率副詞放在 be 後面">
+    <NoteSlide title="句子的動詞是 be 時，頻率副詞放在 be 後面" mark="are always">
       <NoteWords
         :size="28"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">他們總是很友善、很有禮貌。</p>
     </NoteSlide>
 
-    <NoteSlide title="其他動詞的句子，頻率副詞放在動詞前面" mark="always">
+    <NoteSlide title="其他動詞的句子，頻率副詞放在動詞前面">
       <NoteWords
         :size="30"
         :parts="[
@@ -38,7 +38,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我都走路上學。</p>
     </NoteSlide>
 
-    <NoteSlide title="sometimes 也可以放在句首或句尾，always 不行" mark="always">
+    <NoteSlide title="sometimes 也可以放在句首或句尾，always 不行">
       <div class="rows is-labeled">
         <div>
           <span class="term">句首</span>
@@ -61,7 +61,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="always 放在一般動詞前面" mark="always">
+    <NoteSlide title="always 放在一般動詞前面">
       <NoteFix
         wrong="I play always tennis on Sundays."
         right="I always play tennis on Sundays."
@@ -116,7 +116,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="always 加現在進行式表示不滿" mark="always">
+    <NoteSlide title="always 加現在進行式表示不滿">
       <NoteWords
         :size="30"
         :parts="[

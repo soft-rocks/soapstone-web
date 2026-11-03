@@ -90028,66 +90028,66 @@
     "translation": "我已經看過了。",
     "name": "just、already 等副詞表示事件時間",
     "sentences": [
-      "We've already had lunch.",
-      "She has already left for the airport.",
+      "Thanks, but I'm not hungry. We've already had lunch.",
+      "You're too late to see Mum. She has already left for the airport.",
       "Don't tell me the ending. I've already read the book.",
-      "They've already sold the house.",
-      "The film has already started.",
-      "I've already told you twice!",
-      "I've just got home.",
-      "The bus has just left.",
-      "My sister has just had a baby.",
-      "We've just moved to a new flat.",
-      "I've just read your email.",
-      "He has just woken up.",
-      "Yesterday I went to the dentist.",
-      "It rained all day yesterday.",
-      "Did you call your mum yesterday?",
-      "I bought this jacket yesterday.",
-      "We didn't go to work yesterday.",
-      "Yesterday was my birthday.",
-      "I'm cooking dinner now.",
-      "She lives in Berlin now.",
-      "The doctor can see you now.",
-      "We're saving money now because we want a car.",
+      "My cousins put their flat on the market in May. They've already sold it.",
+      "We're ten minutes late. The film has already started.",
+      "Put your phone away at dinner. I've already told you twice!",
+      "Can I call you back in ten minutes? I've just got home.",
+      "You missed it by a minute. The bus has just left.",
+      "I'm going to the hospital. My sister has just had a baby.",
+      "Come and visit us. We've just moved to a new flat.",
+      "Yes, I'm coming to the meeting. I've just read your email.",
+      "Don't ask Tom anything yet. He has just woken up.",
+      "My tooth hurt for a week. Yesterday I went to the dentist.",
+      "We couldn't play tennis. It rained all day yesterday.",
+      "Your mum's birthday was on Monday. Did you call her yesterday?",
+      "I bought this jacket yesterday. It was half price in the sale.",
+      "There was too much snow on the roads. We didn't go to work yesterday.",
+      "It was my birthday yesterday, and my friends made me a cake.",
+      "I can't talk on the phone. I'm cooking dinner now.",
+      "Anna moved to Germany last year. She lives in Berlin now.",
+      "Thank you for waiting, Mr Lee. The doctor can see you now.",
+      "We don't eat out much. We're saving money now because we want a car.",
       "It's raining now, so let's stay inside.",
-      "My brother is a teacher now.",
-      "I just saw your brother at the shop.",
-      "She already paid for the tickets.",
-      "We just got back from the beach.",
-      "He already knew the answer.",
-      "Have you already eaten?",
-      "Has the mail just arrived?",
-      "Isn't she working now?",
-      "Why didn't you tell me yesterday?"
+      "My brother finished university in June. He teaches at a primary school now.",
+      "Is your brother back from college? I just saw him at the store.",
+      "Don't worry about the concert tickets. Mum already paid for them.",
+      "Our hair is still wet. We just got back from the beach.",
+      "The teacher asked Sam a question, but he already knew the answer.",
+      "I made pasta for everyone. Have you already eaten?",
+      "I heard a noise at the door. Has the post just arrived?",
+      "Your sister is at home every day. Isn't she working now?",
+      "I waited for you at the station for an hour. Why didn't you tell me yesterday?"
     ],
     "examples": [
       {
         "heading": "① have / has + already + 過去分詞",
         "items": [
           {
-            "en": "We've already had lunch.",
-            "zh": "我們已經吃過午餐了。"
+            "en": "Thanks, but I'm not hungry. We've already had lunch.",
+            "zh": "謝謝，不過我不餓。我們已經吃過午餐了。"
           },
           {
-            "en": "She has already left for the airport.",
-            "zh": "她已經出發去機場了。"
+            "en": "You're too late to see Mum. She has already left for the airport.",
+            "zh": "你太晚來了，見不到媽媽。她已經出發去機場了。"
           },
           {
             "en": "Don't tell me the ending. I've already read the book.",
             "zh": "別告訴我結局。我已經看過那本書了。"
           },
           {
-            "en": "They've already sold the house.",
-            "zh": "他們已經把房子賣掉了。"
+            "en": "My cousins put their flat on the market in May. They've already sold it.",
+            "zh": "我表哥一家五月把公寓拿出來賣。他們已經賣掉了。"
           },
           {
-            "en": "The film has already started.",
-            "zh": "電影已經開始了。"
+            "en": "We're ten minutes late. The film has already started.",
+            "zh": "我們晚了十分鐘。電影已經開始了。"
           },
           {
-            "en": "I've already told you twice!",
-            "zh": "我已經跟你說兩次了！"
+            "en": "Put your phone away at dinner. I've already told you twice!",
+            "zh": "吃晚餐時把手機收起來。我已經跟你說兩次了！"
           }
         ]
       },
@@ -90095,28 +90095,28 @@
         "heading": "② have / has + just + 過去分詞",
         "items": [
           {
-            "en": "I've just got home.",
-            "zh": "我剛到家。"
+            "en": "Can I call you back in ten minutes? I've just got home.",
+            "zh": "我可以十分鐘後回你電話嗎？我剛到家。"
           },
           {
-            "en": "The bus has just left.",
-            "zh": "公車剛開走。"
+            "en": "You missed it by a minute. The bus has just left.",
+            "zh": "你晚了一分鐘。公車剛開走。"
           },
           {
-            "en": "My sister has just had a baby.",
-            "zh": "我姊姊剛生了寶寶。"
+            "en": "I'm going to the hospital. My sister has just had a baby.",
+            "zh": "我要去醫院。我姊姊剛生了寶寶。"
           },
           {
-            "en": "We've just moved to a new flat.",
-            "zh": "我們剛搬到新公寓。"
+            "en": "Come and visit us. We've just moved to a new flat.",
+            "zh": "來看我們吧。我們剛搬到新公寓。"
           },
           {
-            "en": "I've just read your email.",
-            "zh": "我剛看了你的電子郵件。"
+            "en": "Yes, I'm coming to the meeting. I've just read your email.",
+            "zh": "好，我會去開會。我剛看了你的電子郵件。"
           },
           {
-            "en": "He has just woken up.",
-            "zh": "他剛睡醒。"
+            "en": "Don't ask Tom anything yet. He has just woken up.",
+            "zh": "現在先別問 Tom 任何事。他剛睡醒。"
           }
         ]
       },
@@ -90124,28 +90124,28 @@
         "heading": "③ 過去式 + yesterday",
         "items": [
           {
-            "en": "Yesterday I went to the dentist.",
-            "zh": "我昨天去看牙醫。"
+            "en": "My tooth hurt for a week. Yesterday I went to the dentist.",
+            "zh": "我的牙痛了一個星期。我昨天去看牙醫。"
           },
           {
-            "en": "It rained all day yesterday.",
-            "zh": "昨天下了一整天的雨。"
+            "en": "We couldn't play tennis. It rained all day yesterday.",
+            "zh": "我們沒辦法打網球。昨天下了一整天的雨。"
           },
           {
-            "en": "Did you call your mum yesterday?",
-            "zh": "你昨天有打電話給你媽嗎？"
+            "en": "Your mum's birthday was on Monday. Did you call her yesterday?",
+            "zh": "你媽媽的生日是星期一。你昨天有打電話給她嗎？"
           },
           {
-            "en": "I bought this jacket yesterday.",
-            "zh": "這件夾克是我昨天買的。"
+            "en": "I bought this jacket yesterday. It was half price in the sale.",
+            "zh": "這件夾克是我昨天買的。它特價打五折。"
           },
           {
-            "en": "We didn't go to work yesterday.",
-            "zh": "我們昨天沒去上班。"
+            "en": "There was too much snow on the roads. We didn't go to work yesterday.",
+            "zh": "路上的雪太多了。我們昨天沒去上班。"
           },
           {
-            "en": "Yesterday was my birthday.",
-            "zh": "昨天是我的生日。"
+            "en": "It was my birthday yesterday, and my friends made me a cake.",
+            "zh": "昨天是我的生日，我的朋友幫我做了蛋糕。"
           }
         ]
       },
@@ -90153,28 +90153,28 @@
         "heading": "④ 現在式、現在進行式 + now",
         "items": [
           {
-            "en": "I'm cooking dinner now.",
-            "zh": "我現在在煮晚餐。"
+            "en": "I can't talk on the phone. I'm cooking dinner now.",
+            "zh": "我沒辦法講電話。我現在在煮晚餐。"
           },
           {
-            "en": "She lives in Berlin now.",
-            "zh": "她現在住在柏林。"
+            "en": "Anna moved to Germany last year. She lives in Berlin now.",
+            "zh": "Anna 去年搬到德國。她現在住在柏林。"
           },
           {
-            "en": "The doctor can see you now.",
-            "zh": "醫生現在可以看你了。"
+            "en": "Thank you for waiting, Mr Lee. The doctor can see you now.",
+            "zh": "李先生，謝謝您的等候。醫生現在可以看您了。"
           },
           {
-            "en": "We're saving money now because we want a car.",
-            "zh": "我們現在在存錢，因為我們想買車。"
+            "en": "We don't eat out much. We're saving money now because we want a car.",
+            "zh": "我們不常外食。我們現在在存錢，因為我們想買車。"
           },
           {
             "en": "It's raining now, so let's stay inside.",
             "zh": "現在在下雨，我們待在室內吧。"
           },
           {
-            "en": "My brother is a teacher now.",
-            "zh": "我哥哥現在是老師。"
+            "en": "My brother finished university in June. He teaches at a primary school now.",
+            "zh": "我哥哥六月大學畢業。他現在在一所小學教書。"
           }
         ]
       },
@@ -90182,20 +90182,20 @@
         "heading": "⑤ just、already + 過去式（美式英文）",
         "items": [
           {
-            "en": "I just saw your brother at the shop.",
-            "zh": "我剛在商店看到你哥哥。"
+            "en": "Is your brother back from college? I just saw him at the store.",
+            "zh": "你哥哥從大學回來了嗎？我剛在商店看到他。"
           },
           {
-            "en": "She already paid for the tickets.",
-            "zh": "她已經付了票錢。"
+            "en": "Don't worry about the concert tickets. Mum already paid for them.",
+            "zh": "別擔心音樂會的票。媽媽已經付錢了。"
           },
           {
-            "en": "We just got back from the beach.",
-            "zh": "我們剛從海灘回來。"
+            "en": "Our hair is still wet. We just got back from the beach.",
+            "zh": "我們的頭髮還是濕的。我們剛從海灘回來。"
           },
           {
-            "en": "He already knew the answer.",
-            "zh": "他早就知道答案了。"
+            "en": "The teacher asked Sam a question, but he already knew the answer.",
+            "zh": "老師問 Sam 一個問題，不過他早就知道答案了。"
           }
         ]
       },
@@ -90203,20 +90203,20 @@
         "heading": "⑥ 疑問句和否定句裡的時間副詞",
         "items": [
           {
-            "en": "Have you already eaten?",
-            "zh": "你已經吃過了嗎？"
+            "en": "I made pasta for everyone. Have you already eaten?",
+            "zh": "我煮了大家的義大利麵。你已經吃過了嗎？"
           },
           {
-            "en": "Has the mail just arrived?",
-            "zh": "信剛到嗎？"
+            "en": "I heard a noise at the door. Has the post just arrived?",
+            "zh": "我聽到門口有聲音。信剛到嗎？"
           },
           {
-            "en": "Isn't she working now?",
-            "zh": "她現在沒在工作嗎？"
+            "en": "Your sister is at home every day. Isn't she working now?",
+            "zh": "你姊姊每天都在家。她現在沒在工作嗎？"
           },
           {
-            "en": "Why didn't you tell me yesterday?",
-            "zh": "你昨天為什麼沒跟我說？"
+            "en": "I waited for you at the station for an hour. Why didn't you tell me yesterday?",
+            "zh": "我在車站等了你一個小時。你昨天為什麼沒跟我說？"
           }
         ]
       }

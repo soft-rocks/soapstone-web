@@ -7229,32 +7229,32 @@
       "Thanks to Grandma's recipe, this is the best soup I've ever made.",
       "Thanks for lending me that novel. It's the best story I've ever read.",
       "You've helped me so much. You're the best friend I've ever had.",
-      "The beans come from Ethiopia. It's the best coffee I've ever tasted.",
+      "This coffee is from Ethiopia. It's the best coffee I've ever tasted.",
       "The band played for three hours. It was the best concert I've ever been to.",
-      "Ms. Lee is the best teacher our class has ever had.",
-      "Everyone agrees that it's the best goal he has ever scored.",
-      "My parents say it's the best hotel they've ever stayed in.",
+      "Ms Lee makes maths fun for everyone. She's the best teacher our class has ever had.",
+      "Ronaldo kicked the ball from the halfway line. Everyone agrees that it's the best goal he has ever scored.",
+      "My parents stayed at a little hotel by the sea in Greece. They say it's the best hotel they've ever stayed in.",
       "Print this one. It's the best photo you've ever taken of the kids.",
       "Dad's roast chicken was the best meal he has ever cooked for us.",
-      "We walked out after twenty minutes. It was the worst movie we've ever seen.",
+      "We walked out after twenty minutes. It was the worst film we've ever seen.",
       "The plane shook for an hour. It was the worst flight I've ever taken.",
       "I stayed in bed for a week. It was the worst cold I've ever had.",
-      "My sister cried when she saw the mirror. It was the worst haircut she's ever had.",
-      "Santorini is the most beautiful island I've ever visited.",
-      "My new roommate is the funniest guy I've ever lived with.",
+      "My sister cried when she saw herself in the mirror. It was the worst haircut she's ever had.",
+      "We spent a week in Greece last summer. Santorini is the most beautiful island I've ever visited.",
+      "My new flatmate Jake tells jokes at breakfast every day. He's the funniest guy I've ever lived with.",
       "Look at this! It's the biggest crab we've ever caught at this beach.",
-      "The driving test was the hardest exam I've ever taken.",
-      "Climbing that hill was the longest hike our kids have ever done.",
-      "Which is the best city you've ever lived in?",
-      "Is this the best wine you've ever had?",
-      "Who's the best singer you've ever heard live?",
+      "I failed my driving test twice before I passed. It was the hardest exam I've ever taken.",
+      "We walked for six hours on Sunday. Climbing that hill was the longest hike our kids have ever done.",
+      "You've moved five times for work. Which is the best city you've ever lived in?",
+      "This bottle is from my uncle's farm in France. Is this the best wine you've ever had?",
+      "You go to concerts every month. Who's the best singer you've ever heard live?",
       "Thanks for the party! It's the best surprise I've ever had.",
-      "That was the best holiday our family has ever had.",
-      "What's the best advice anyone has ever given you?",
-      "Moving here was the smartest choice we've ever made.",
-      "This must be the best view we've ever had from a hotel room.",
-      "Was it the best party you've ever been to?",
-      "That's the best news I've heard all week."
+      "We went to Iceland and saw the northern lights. That was the best holiday our family has ever had.",
+      "You're starting your first job tomorrow. What's the best advice anyone has ever given you?",
+      "The kids love their school, and we love the garden. Moving here was the smartest choice we've ever made.",
+      "You can see the whole bay from the balcony. This must be the best view we've ever had from a hotel room.",
+      "You didn't come home until four. Was it the best party you've ever been to?",
+      "My sister is having a baby! That's the best news I've ever heard."
     ],
     "examples": [
       {
@@ -7277,8 +7277,8 @@
             "zh": "你幫了我好多，你是我交過最好的朋友。"
           },
           {
-            "en": "The beans come from Ethiopia. It's the best coffee I've ever tasted.",
-            "zh": "這些咖啡豆來自衣索比亞，這是我喝過最好喝的咖啡。"
+            "en": "This coffee is from Ethiopia. It's the best coffee I've ever tasted.",
+            "zh": "這咖啡來自衣索比亞，這是我喝過最好喝的咖啡。"
           },
           {
             "en": "The band played for three hours. It was the best concert I've ever been to.",
@@ -7290,16 +7290,16 @@
         "heading": "② the best + 名詞 + 其他主詞 + have ever + 過去分詞",
         "items": [
           {
-            "en": "Ms. Lee is the best teacher our class has ever had.",
-            "zh": "李老師是我們班遇過最好的老師。"
+            "en": "Ms Lee makes maths fun for everyone. She's the best teacher our class has ever had.",
+            "zh": "李老師讓每個人都覺得數學很好玩。她是我們班遇過最好的老師。"
           },
           {
-            "en": "Everyone agrees that it's the best goal he has ever scored.",
-            "zh": "大家都同意那是他進過最漂亮的一球。"
+            "en": "Ronaldo kicked the ball from the halfway line. Everyone agrees that it's the best goal he has ever scored.",
+            "zh": "Ronaldo 從中場線把球踢進。大家都同意那是他進過最漂亮的一球。"
           },
           {
-            "en": "My parents say it's the best hotel they've ever stayed in.",
-            "zh": "我爸媽說那是他們住過最好的飯店。"
+            "en": "My parents stayed at a little hotel by the sea in Greece. They say it's the best hotel they've ever stayed in.",
+            "zh": "我爸媽在希臘海邊的一家小飯店住過。他們說那是他們住過最好的飯店。"
           },
           {
             "en": "Print this one. It's the best photo you've ever taken of the kids.",
@@ -7315,7 +7315,7 @@
         "heading": "③ the worst + 名詞 + have ever + 過去分詞",
         "items": [
           {
-            "en": "We walked out after twenty minutes. It was the worst movie we've ever seen.",
+            "en": "We walked out after twenty minutes. It was the worst film we've ever seen.",
             "zh": "我們二十分鐘就離場了，那是我們看過最爛的電影。"
           },
           {
@@ -7327,7 +7327,7 @@
             "zh": "我在床上躺了一個禮拜，那是我得過最嚴重的感冒。"
           },
           {
-            "en": "My sister cried when she saw the mirror. It was the worst haircut she's ever had.",
+            "en": "My sister cried when she saw herself in the mirror. It was the worst haircut she's ever had.",
             "zh": "我姊姊照鏡子的時候哭了，那是她剪過最糟的髮型。"
           }
         ]
@@ -7336,24 +7336,24 @@
         "heading": "④ 其他最高級 + 名詞 + have ever + 過去分詞",
         "items": [
           {
-            "en": "Santorini is the most beautiful island I've ever visited.",
-            "zh": "聖托里尼是我去過最美的島。"
+            "en": "We spent a week in Greece last summer. Santorini is the most beautiful island I've ever visited.",
+            "zh": "我們去年夏天在希臘待了一個星期。聖托里尼是我去過最美的島。"
           },
           {
-            "en": "My new roommate is the funniest guy I've ever lived with.",
-            "zh": "我的新室友是我一起住過最好笑的人。"
+            "en": "My new flatmate Jake tells jokes at breakfast every day. He's the funniest guy I've ever lived with.",
+            "zh": "我的新室友 Jake 每天早餐都講笑話。他是我一起住過最好笑的人。"
           },
           {
             "en": "Look at this! It's the biggest crab we've ever caught at this beach.",
             "zh": "你看！這是我們在這片海灘抓過最大的螃蟹。"
           },
           {
-            "en": "The driving test was the hardest exam I've ever taken.",
-            "zh": "駕照考試是我考過最難的考試。"
+            "en": "I failed my driving test twice before I passed. It was the hardest exam I've ever taken.",
+            "zh": "我的駕照考試考了兩次沒過，第三次才過。那是我考過最難的考試。"
           },
           {
-            "en": "Climbing that hill was the longest hike our kids have ever done.",
-            "zh": "爬那座山是我們孩子走過最長的一段健行。"
+            "en": "We walked for six hours on Sunday. Climbing that hill was the longest hike our kids have ever done.",
+            "zh": "我們星期天走了六個小時。爬那座山是我們孩子走過最長的一段健行。"
           }
         ]
       },
@@ -7361,44 +7361,44 @@
         "heading": "⑤ 問句和不同的句型",
         "items": [
           {
-            "en": "Which is the best city you've ever lived in?",
-            "zh": "你住過最好的城市是哪一個？"
+            "en": "You've moved five times for work. Which is the best city you've ever lived in?",
+            "zh": "你為了工作搬了五次家。你住過最好的城市是哪一個？"
           },
           {
-            "en": "Is this the best wine you've ever had?",
-            "zh": "這是你喝過最好喝的酒嗎？"
+            "en": "This bottle is from my uncle's farm in France. Is this the best wine you've ever had?",
+            "zh": "這瓶酒來自我叔叔在法國的農場。這是你喝過最好喝的酒嗎？"
           },
           {
-            "en": "Who's the best singer you've ever heard live?",
-            "zh": "你聽過現場唱得最好的歌手是誰？"
+            "en": "You go to concerts every month. Who's the best singer you've ever heard live?",
+            "zh": "你每個月都去聽演唱會。你聽過現場唱得最好的歌手是誰？"
           },
           {
             "en": "Thanks for the party! It's the best surprise I've ever had.",
             "zh": "謝謝你們辦的派對！這是我收過最棒的驚喜。"
           },
           {
-            "en": "That was the best holiday our family has ever had.",
-            "zh": "那是我們家度過最棒的假期。"
+            "en": "We went to Iceland and saw the northern lights. That was the best holiday our family has ever had.",
+            "zh": "我們去了冰島，看到北極光。那是我們家度過最棒的假期。"
           },
           {
-            "en": "What's the best advice anyone has ever given you?",
-            "zh": "別人給過你最好的建議是什麼？"
+            "en": "You're starting your first job tomorrow. What's the best advice anyone has ever given you?",
+            "zh": "你明天開始第一份工作。別人給過你最好的建議是什麼？"
           },
           {
-            "en": "Moving here was the smartest choice we've ever made.",
-            "zh": "搬來這裡是我們做過最聰明的選擇。"
+            "en": "The kids love their school, and we love the garden. Moving here was the smartest choice we've ever made.",
+            "zh": "孩子們很喜歡他們的學校，我們也很喜歡這個花園。搬來這裡是我們做過最聰明的選擇。"
           },
           {
-            "en": "This must be the best view we've ever had from a hotel room.",
-            "zh": "這一定是我們在飯店房間看過最美的景色。"
+            "en": "You can see the whole bay from the balcony. This must be the best view we've ever had from a hotel room.",
+            "zh": "從陽台看得到整個海灣。這一定是我們在飯店房間看過最美的景色。"
           },
           {
-            "en": "Was it the best party you've ever been to?",
-            "zh": "那是你參加過最棒的派對嗎？"
+            "en": "You didn't come home until four. Was it the best party you've ever been to?",
+            "zh": "你四點才回家。那是你參加過最棒的派對嗎？"
           },
           {
-            "en": "That's the best news I've heard all week.",
-            "zh": "那是我這整個禮拜聽到最好的消息。"
+            "en": "My sister is having a baby! That's the best news I've ever heard.",
+            "zh": "我姊姊要生寶寶了！那是我聽過最好的消息。"
           }
         ]
       }

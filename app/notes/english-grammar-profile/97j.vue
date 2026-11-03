@@ -25,14 +25,14 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">名詞和子句中間省略了 <code>that</code>。</p>
     </NoteSlide>
 
-    <NoteSlide title="其他最高級也可以用" mark="the best">
+    <NoteSlide title="其他最高級也可以用">
       <div class="rows is-labeled">
         <div>
           <span class="term">the worst</span>
           <span
             ><NoteMark
-              sentence="We walked out after twenty minutes. It was the worst movie we've ever seen."
-              :marks="['the worst movie']"
+              sentence="We walked out after twenty minutes. It was the worst film we've ever seen."
+              :marks="['the worst film']"
             /><span class="translation">我們二十分鐘就離場了，那是我們看過最爛的電影。</span></span
           >
         </div>
@@ -48,15 +48,15 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="到目前為止的經驗用現在完成式" mark="have ever had">
+    <NoteSlide title="ever 是任何時候，不寫成 never" mark="ever">
       <NoteFix
-        wrong="It's the best book I ever read."
+        wrong="It's the best book I've never read."
         right="It's the best book I've ever read."
-        fix="I've ever read"
+        fix="ever"
       />
     </NoteSlide>
 
-    <NoteSlide title="hear 的過去分詞是 heard" mark="had">
+    <NoteSlide title="hear 的過去分詞是 heard">
       <NoteFix
         wrong="That's the best song I've ever heared."
         right="That's the best song I've ever heard."
@@ -64,11 +64,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="名詞就是受詞，子句裡不再加 it" mark="I have ever had">
+    <NoteSlide title="名詞就是受詞，子句裡不再加 them" mark="I have ever had">
       <NoteFix
-        wrong="This is the best cake I've ever eaten it."
-        right="This is the best cake I've ever eaten."
-        fix="eaten"
+        wrong="These are the best shoes I've ever bought them."
+        right="These are the best shoes I've ever bought."
+        fix="bought"
       />
     </NoteSlide>
   </NoteDeck>

@@ -12,20 +12,20 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="even 表示比已經很怎麼樣的還要更怎麼樣" mark="even better">
+    <NoteSlide title="even + 比較級：前面那個已經很怎麼樣，這個更怎麼樣" mark="even better">
       <NoteWords
         :size="22"
         :parts="[
-          { t: 'Monday was hot,', role: '已經很熱', kind: 'dim' },
+          { t: 'Monday was hot,', role: '前面那個已經很熱', kind: 'dim' },
           { t: 'but today is', kind: 'dim' },
-          { t: 'even', role: 'even', kind: 'key', ring: true },
+          { t: 'even', role: '修飾比較級', kind: 'key', ring: true },
           { t: 'hotter.', role: '比較級', kind: 'key' },
         ]"
       />
       <p class="translation">星期一已經很熱，今天更熱。</p>
     </NoteSlide>
 
-    <NoteSlide title="much 只說差很多，even 表示前面那個已經很怎麼樣" mark="even">
+    <NoteSlide title="much 只說差很多，even 說前面那個也很怎麼樣" mark="even">
       <div class="rows is-labeled">
         <div>
           <span class="term">much</span>
@@ -48,12 +48,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="get even + 比較級，表示變得更怎麼樣" mark="even better">
+    <NoteSlide title="get even + 比較級，表示變得更怎麼樣">
       <NoteWords
         :size="24"
         :parts="[
           { t: 'The rain', role: '主詞' },
-          { t: 'got', role: 'get', kind: 'key', ring: true },
+          { t: 'got', role: '動詞', kind: 'key', ring: true },
           { t: 'even heavier', role: 'even + 比較級', kind: 'key' },
           { t: 'in the afternoon.', kind: 'dim' },
         ]"
@@ -61,20 +61,22 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">到了下午，雨下得更大了。</p>
     </NoteSlide>
 
-    <NoteSlide title="even 後面要用比較級" mark="better">
+    <NoteSlide title="even 後面要用比較級" mark="even better">
       <NoteFix
-        wrong="The second test was even hard."
-        right="The second test was even harder."
-        fix="harder"
+        wrong="Yesterday was cold, but today is even cold."
+        right="Yesterday was cold, but today is even colder."
+        fix="colder"
       />
     </NoteSlide>
 
-    <NoteSlide title="very 不修飾比較級" mark="even">
+    <NoteSlide title="比較級前面用 even，不用 very" mark="even better">
       <NoteFix
         wrong="The soup was good, but the dessert was very better."
         right="The soup was good, but the dessert was even better."
         fix="even"
-      />
+      >
+        <code>very</code> 不修飾比較級。
+      </NoteFix>
     </NoteSlide>
 
     <NoteSlide title="even 放在比較級前面" mark="even better">

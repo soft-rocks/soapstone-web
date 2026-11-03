@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="幾個字用連字號連起來，當成一個形容詞" mark="long-term">
+    <NoteSlide title="字和字用連字號連起來，當成一個形容詞" mark="long-term">
       <NoteWords
         :size="24"
         :parts="[
@@ -57,7 +57,7 @@ defineProps<{ note: (typeof notes)[number] }>();
           >
         </div>
         <div>
-          <span class="term">副詞 / 名詞 + 過去分詞</span>
+          <span class="term">副詞 / 形容詞 / 名詞 + 過去分詞</span>
           <span
             ><NoteMark sentence="Many people eat ready-made meals." :marks="['ready-made']" /><span
               class="translation"
@@ -68,7 +68,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="up-to-date 放在 be 後面時一般不加連字號" mark="long-term">
+    <NoteSlide title="up-to-date 放在 be 後面時一般不加連字號">
       <div class="rows is-labeled">
         <div>
           <span class="term">名詞前面</span>
@@ -91,7 +91,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="放在名詞前面時要加連字號" mark="long-term">
+    <NoteSlide title="放在名詞前面時要加連字號" mark="long-term effect">
       <NoteFix
         wrong="This is a short term plan."
         right="This is a short-term plan."
@@ -107,7 +107,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="user-friendly 是名詞在前、形容詞在後" mark="long-term">
+    <NoteSlide title="user-friendly 是名詞在前、形容詞在後">
       <NoteFix
         wrong="The website is friendly-user."
         right="The website is user-friendly."

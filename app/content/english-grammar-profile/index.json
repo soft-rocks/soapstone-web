@@ -3154,13 +3154,13 @@
       "Our map is from 2010, and the roads have changed. We need an up-to-date map.",
       "You'll get good care there. The hospital has state-of-the-art equipment.",
       "I don't like video calls with clients. I prefer face-to-face meetings.",
-      "This website shows last year's bus times. Is the information up to date?",
+      "I found the bus times on this website. Is the information up to date?",
       "The city spent millions on the World Cup. They built a state-of-the-art stadium.",
       "I told my aunt about my money problems. She gave me some down-to-earth advice.",
       "Nurses work very long hours. They should have well-paid jobs.",
       "Cooking takes time after a long day at work. Many people eat ready-made meals.",
       "My mother knitted all winter. She gave me a hand-made scarf for my birthday.",
-      "All the streets in Barcelona's old centre are easy to find. It's a well-planned city.",
+      "It's easy to find your way around Barcelona. It's a well-planned city.",
       "The storm broke our neighbours' windows, but our house was fine. It's a well-built house.",
       "Maria came to the party with some home-made cookies.",
       "You finish university next year. Do you have any long-term plans?",
@@ -3248,8 +3248,8 @@
             "zh": "我不喜歡跟客戶視訊。我比較喜歡面對面開會。"
           },
           {
-            "en": "This website shows last year's bus times. Is the information up to date?",
-            "zh": "這個網站上是去年的公車時刻。這些資料是最新的嗎？"
+            "en": "I found the bus times on this website. Is the information up to date?",
+            "zh": "我在這個網站上找到公車時刻。這些資料是最新的嗎？"
           },
           {
             "en": "The city spent millions on the World Cup. They built a state-of-the-art stadium.",
@@ -3266,7 +3266,7 @@
         "items": [
           {
             "en": "Nurses work very long hours. They should have well-paid jobs.",
-            "zh": "護理師工作時間很長。她們應該有薪水好的工作。"
+            "zh": "護理師工作時間很長。他們應該有薪水好的工作。"
           },
           {
             "en": "Cooking takes time after a long day at work. Many people eat ready-made meals.",
@@ -3277,8 +3277,8 @@
             "zh": "我媽媽織了一整個冬天。她送我一條手工圍巾當生日禮物。"
           },
           {
-            "en": "All the streets in Barcelona's old centre are easy to find. It's a well-planned city.",
-            "zh": "巴塞隆納舊城區的街道都很好找。那是一座規劃得很好的城市。"
+            "en": "It's easy to find your way around Barcelona. It's a well-planned city.",
+            "zh": "在巴塞隆納很容易認路。那是一座規劃得很好的城市。"
           },
           {
             "en": "The storm broke our neighbours' windows, but our house was fine. It's a well-built house.",

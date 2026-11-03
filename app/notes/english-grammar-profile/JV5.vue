@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="very much 放在受詞後面">
+    <NoteSlide title="very much 放在受詞後面" mark="very much">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我很喜歡我的花園。</p>
     </NoteSlide>
 
-    <NoteSlide title="really 放在動詞前面" mark="like">
+    <NoteSlide title="really 放在動詞前面">
       <NoteWords
         :size="30"
         :parts="[
@@ -36,10 +36,12 @@ defineProps<{ note: (typeof notes)[number] }>();
         ]"
       />
       <p class="translation">我真的很愛我的新工作。</p>
-      <p class="remark"><code>hate</code> 只和 <code>really</code> 一起用。</p>
+      <p class="remark">
+        <code>hate</code> 常和 <code>really</code> 一起用，很少接 <code>very much</code>。
+      </p>
     </NoteSlide>
 
-    <NoteSlide title="否定句的 really 放在 don't 後面，very much 放在句尾" mark="very much">
+    <NoteSlide title="否定句和疑問句裡，really 放在動詞前面，very much 放在句尾" mark="very much">
       <div class="rows is-labeled">
         <div>
           <span class="term">don't really</span>
@@ -73,43 +75,47 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="very much 不放在動詞和受詞中間" mark="very much">
       <NoteFix
-        wrong="I like very much this song."
-        right="I like this song very much."
+        wrong="My dad likes very much old jazz records."
+        right="My dad likes old jazz records very much."
         fix="very much"
       />
     </NoteSlide>
 
     <NoteSlide title="very 不能單獨修飾動詞" mark="very">
-      <NoteFix wrong="We very enjoyed the trip." right="We really enjoyed the trip." fix="really" />
+      <NoteFix
+        wrong="The kids very enjoyed the puppet show."
+        right="The kids really enjoyed the puppet show."
+        fix="really"
+      />
     </NoteSlide>
 
     <NoteSlide title="加強喜好動詞時，really 放在動詞前面">
       <NoteFix wrong="She loves her cat really." right="She really loves her cat." fix="really" />
     </NoteSlide>
 
-    <NoteSlide title="very 後面要有 much 才能修飾動詞" mark="very much">
+    <NoteSlide title="放在句尾修飾動詞時，very 後面要有 much" mark="very much">
       <NoteFix
-        wrong="Thank you very for the flowers."
-        right="Thank you very much for the flowers."
+        wrong="My grandmother likes her new flat very."
+        right="My grandmother likes her new flat very much."
         fix="much"
       />
     </NoteSlide>
 
-    <NoteSlide title="really 放在 don't 前面，語氣比較強">
+    <NoteSlide title="really 放在 don't 前面語氣比較強，放在後面語氣比較弱">
       <NoteFork
         stem="I"
         :branches="[
           {
             head: 'don\'t really',
-            rest: 'like coffee',
+            rest: 'like horror films',
             meaning: '語氣比較弱',
-            zh: '我不太喜歡咖啡。',
+            zh: '我不太喜歡恐怖片。',
           },
           {
             head: 'really don\'t',
-            rest: 'like coffee',
+            rest: 'like horror films',
             meaning: '語氣比較強',
-            zh: '我真的很不喜歡咖啡。',
+            zh: '我真的很不喜歡恐怖片。',
           },
         ]"
       />
@@ -121,11 +127,11 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'We', role: '主詞', kind: 'dim' },
           { t: 'like', role: '動詞' },
-          { t: 'this restaurant', role: '受詞' },
-          { t: 'a lot.', role: '比較口語', kind: 'key' },
+          { t: 'the Thai place on Hill Street', role: '受詞' },
+          { t: 'a lot.', role: '程度副詞', kind: 'key' },
         ]"
       />
-      <p class="translation">我們很喜歡這家餐廳。</p>
+      <p class="translation">我們很喜歡 Hill 街上那家泰國餐廳。</p>
     </NoteSlide>
   </NoteDeck>
 

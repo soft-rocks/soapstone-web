@@ -9277,7 +9277,7 @@
     "name": "最高級後接 of 片語表示範圍",
     "sentences": [
       "Ann threw the best party of the year last Saturday.",
-      "Friday is the busiest evening of the week at our café.",
+      "Friday is the busiest day of the week at our café.",
       "We went to the beach on the hottest day of the summer.",
       "Don't go to school hungry. Breakfast is the most important meal of the day.",
       "The pipes froze in our kitchen on 3 January. That was the coldest night of the winter.",
@@ -9287,7 +9287,7 @@
       "You've been a nurse for twenty years. What's the hardest part of your job?",
       "The speeches were long, but the food was the best part of the wedding.",
       "I take two buses to work. Waiting at the bus stop is the most boring part of the day.",
-      "I was lucky that I had time left at the end. The last question was the easiest part of the exam.",
+      "I finished the exam twenty minutes early. The last question was the easiest part of the exam.",
       "Everyone agreed her cake was the best one of all.",
       "I'll take the blue bag. It's the cheapest of the three.",
       "Ann still goes to primary school. She's the youngest of the four kids.",
@@ -9302,7 +9302,7 @@
       "I missed the match on TV last night. What was the best moment of the game?",
       "I hear this everywhere I go. Is this the most popular song of the summer?",
       "I only have time to read one chapter before class. Which is the most interesting chapter of the book?",
-      "Why did you go out for popcorn then? You missed the funniest scene of the movie.",
+      "Why did you go out for popcorn then? You missed the funniest scene of the film.",
       "I didn't know anyone, and the teacher spoke very fast. The first day was the most difficult day of the course.",
       "We paid two hundred euros for fish in Venice. That was the most expensive meal of the whole trip.",
       "All the children were away at camp. That was the quietest week of the month."
@@ -9316,8 +9316,8 @@
             "zh": "Ann 上週六辦了今年最棒的派對。"
           },
           {
-            "en": "Friday is the busiest evening of the week at our café.",
-            "zh": "星期五晚上是我們咖啡店一週裡最忙的時候。"
+            "en": "Friday is the busiest day of the week at our café.",
+            "zh": "星期五是我們咖啡店一週裡最忙的一天。"
           },
           {
             "en": "We went to the beach on the hottest day of the summer.",
@@ -9361,8 +9361,8 @@
             "zh": "我上班要搭兩班公車。在公車站等車是一天中最無聊的部分。"
           },
           {
-            "en": "I was lucky that I had time left at the end. The last question was the easiest part of the exam.",
-            "zh": "我很幸運最後還有時間。最後一題是考試最簡單的部分。"
+            "en": "I finished the exam twenty minutes early. The last question was the easiest part of the exam.",
+            "zh": "我提早二十分鐘考完。最後一題是考試最簡單的部分。"
           }
         ]
       },
@@ -9436,7 +9436,7 @@
             "zh": "上課前我只有時間讀一章。這本書哪一章最有趣？"
           },
           {
-            "en": "Why did you go out for popcorn then? You missed the funniest scene of the movie.",
+            "en": "Why did you go out for popcorn then? You missed the funniest scene of the film.",
             "zh": "你為什麼那時候出去買爆米花？你錯過了電影最好笑的一幕。"
           },
           {

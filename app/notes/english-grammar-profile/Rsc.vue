@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="of + 名詞說明在哪一組裡最怎麼樣" mark="of the year">
+    <NoteSlide title="of + 名詞說明在什麼範圍裡最怎麼樣" mark="of the year">
       <NoteWords
         :size="24"
         :parts="[
@@ -31,9 +31,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">of + 一段時間</span>
           <span
             ><NoteMark
-              sentence="Monday is the busiest day of the week."
+              sentence="Friday is the busiest day of the week at our café."
               :marks="['of the week']"
-            /><span class="translation">星期一是一週裡最忙的一天。</span></span
+            /><span class="translation">星期五是我們咖啡店一週裡最忙的一天。</span></span
           >
         </div>
         <div>
@@ -48,7 +48,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="字尾 y 改成 i 再加 -est" mark="best">
+    <NoteSlide title="字尾 y 改成 i 再加 -est">
       <NoteFix
         wrong="That was the funnyest scene of the whole film."
         right="That was the funniest scene of the whole film."

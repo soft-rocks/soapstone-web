@@ -4442,8 +4442,8 @@
     "sentences": [
       "My mum bakes our bread at home. Homemade bread is better than store bread.",
       "I always feel sleepy at work in the afternoon. A walk is better than a nap after lunch.",
-      "Thanks for the soup last night. I feel much better today.",
-      "We need a song for the wedding. Which song do you think is better?",
+      "I've tried the coffee at both shops. The coffee at the shop on the corner is better.",
+      "We've picked two songs for the wedding. Which one do you think is better?",
       "We didn't catch any fish in the morning, but we had better luck in the afternoon.",
       "My grandmother remembers everyone's birthday. Her memory is better than mine.",
       "You saw both films. Do you think the second one is better?",
@@ -4484,12 +4484,12 @@
             "zh": "我下午上班總是很睏。午餐後散個步比睡午覺好。"
           },
           {
-            "en": "Thanks for the soup last night. I feel much better today.",
-            "zh": "謝謝你昨晚的湯。我今天覺得好多了。"
+            "en": "I've tried the coffee at both shops. The coffee at the shop on the corner is better.",
+            "zh": "兩家咖啡店的咖啡我都喝過。轉角那家的咖啡比較好喝。"
           },
           {
-            "en": "We need a song for the wedding. Which song do you think is better?",
-            "zh": "我們婚禮需要一首歌。你覺得哪一首歌比較好？"
+            "en": "We've picked two songs for the wedding. Which one do you think is better?",
+            "zh": "我們幫婚禮挑了兩首歌。你覺得哪一首比較好？"
           },
           {
             "en": "We didn't catch any fish in the morning, but we had better luck in the afternoon.",

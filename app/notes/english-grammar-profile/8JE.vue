@@ -25,14 +25,40 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">自己做的麵包比店裡買的好。</p>
     </NoteSlide>
 
-    <NoteSlide title="常見的不規則比較級" mark="better">
+    <NoteSlide title="be 可以換成 get，表示情況變得比較好或比較糟">
+      <NoteWords
+        :size="26"
+        :parts="[
+          { t: 'The storm', role: '主詞' },
+          { t: 'got', role: 'get', kind: 'key', ring: true },
+          { t: 'worse', role: '不規則比較級', kind: 'key' },
+          { t: 'at night.', kind: 'dim' },
+        ]"
+      />
+      <p class="translation">暴風雨到了晚上變得更嚴重。</p>
+    </NoteSlide>
+
+    <NoteSlide title="不規則比較級也可以放在名詞前面">
+      <NoteWords
+        :size="26"
+        :parts="[
+          { t: 'This hotel', kind: 'dim' },
+          { t: 'has', kind: 'dim' },
+          { t: 'better', role: '不規則比較級', kind: 'key', ring: true },
+          { t: 'rooms.', role: '名詞', kind: 'key' },
+        ]"
+      />
+      <p class="translation">這家旅館的房間比較好。</p>
+    </NoteSlide>
+
+    <NoteSlide title="不規則比較級要另外記" mark="better">
       <div class="rows is-labeled">
         <div>
           <span class="term">good → better</span>
           <span
-            ><NoteMark sentence="I feel much better today." :marks="['better']" /><span
+            ><NoteMark sentence="This hotel has better rooms." :marks="['better']" /><span
               class="translation"
-              >我今天覺得好多了。</span
+              >這家旅館的房間比較好。</span
             ></span
           >
         </div>
@@ -57,7 +83,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="further 還有更多、進一步的意思" mark="better">
+    <NoteSlide title="further 還有更多、進一步的意思">
       <NoteMark
         sentence="For further information, call our office."
         :marks="['further information']"
@@ -86,7 +112,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="bad 的比較級是 worse" mark="better">
+    <NoteSlide title="bad 的比較級是 worse">
       <NoteFix
         wrong="The traffic is more bad today."
         right="The traffic is worse today."
@@ -94,7 +120,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="better 前面不加 more" mark="is better">
+    <NoteSlide title="better 前面不加 more" mark="better">
       <NoteFix
         wrong="Dad's new car is more better than his old one."
         right="Dad's new car is better than his old one."

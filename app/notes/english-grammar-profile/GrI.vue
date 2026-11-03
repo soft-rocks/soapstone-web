@@ -44,30 +44,30 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="名詞前面：a really，quite a" mark="really">
+    <NoteSlide title="名詞前面：a really，quite a">
       <div class="rows is-labeled">
         <div>
-          <span class="term">a + really + 形容詞</span>
+          <span class="term">a + really + 形容詞 + 名詞</span>
           <span
             ><NoteMark
               sentence="We had a really nice dinner at the new restaurant."
-              :marks="['a really nice']"
+              :marks="['a really nice dinner']"
             /><span class="translation">我們在那家新餐廳吃了一頓很棒的晚餐。</span></span
           >
         </div>
         <div>
-          <span class="term">quite + a + 形容詞</span>
+          <span class="term">quite + a + 形容詞 + 名詞</span>
           <span
             ><NoteMark
               sentence="Take the bus. It's quite a long walk to the museum."
-              :marks="['quite a long']"
+              :marks="['quite a long walk']"
             /><span class="translation">搭公車吧，走到博物館滿遠的。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="quite 放在 a 前面" mark="really">
+    <NoteSlide title="quite 放在 a 前面">
       <NoteFix
         wrong="They live in a quite big house."
         right="They live in quite a big house."
@@ -75,8 +75,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="形容詞後面接名詞時，用 such a" mark="really hot">
-      <NoteFix wrong="It was a so nice day." right="It was such a nice day." fix="such a" />
+    <NoteSlide title="形容詞後面接名詞時，用 such a">
+      <NoteFix
+        wrong="My aunt has a so lovely garden."
+        right="My aunt has such a lovely garden."
+        fix="such a"
+      />
     </NoteSlide>
 
     <NoteSlide title="程度副詞放在形容詞前面" mark="really hot">

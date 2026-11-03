@@ -10015,64 +10015,64 @@
     "translation": "每天都出大太陽，真的好熱！",
     "name": "really、so、quite 修飾形容詞",
     "sentences": [
-      "Don't jump in yet. The pool is really cold.",
-      "Your new haircut looks really good.",
-      "The math homework was really hard tonight.",
-      "Thanks for the help. You're really kind.",
-      "The bus was really crowded this morning.",
-      "Is the hotel really expensive in July?",
+      "The heater in the pool broke last night. Don't jump in yet. The pool is really cold.",
+      "You went to the hairdresser! Your new haircut looks really good.",
+      "I needed two hours for my maths homework. It was really hard tonight.",
+      "Thanks for carrying my bags. You're really kind.",
+      "I had to stand all the way to work. The bus was really crowded this morning.",
+      "Thanks for the book. It's a really good story.",
       "We had a really nice dinner at the new restaurant.",
-      "I'm so happy we can have a party for my birthday!",
+      "Mum said yes! I'm so happy we can have a party for my birthday!",
       "Thank you for the flowers. They're so beautiful.",
       "I'm so tired. I'm going to bed.",
       "Look at that puppy in the window! It's so cute!",
-      "I almost fell asleep. The movie was so boring.",
+      "I almost fell asleep. The film was so boring.",
       "I said sorry. Why are you still so upset?",
       "Turn on the fan. The kitchen is so hot.",
-      "The jeans are quite expensive, but they're good quality.",
-      "The town is quite small, so we walked everywhere.",
-      "The people in my new office are quite friendly.",
-      "The exam was quite easy for most of us.",
+      "These jeans are quite expensive, but they're good quality. I'm going to buy them.",
+      "We didn't need a car in Hallstatt. The town is quite small, so we walked everywhere.",
+      "I started my new job on Monday. The people in my office are quite friendly.",
+      "We all finished early. The exam was quite easy.",
       "It's quite cold today. Take a jacket.",
-      "Her English is quite good for a beginner.",
-      "Take the bus. It's quite a long walk to the museum.",
-      "They live in quite a big house near the park.",
-      "Ken asked quite a strange question in class.",
-      "We had quite a good time at the beach.",
-      "She's quite a fast runner.",
-      "The rooms were bright and really warm in winter.",
-      "The room was clean and really quiet.",
-      "The teacher was so patient and so kind.",
-      "The shop is small but quite busy.",
-      "The cake looked so pretty and tasted really good."
+      "Maria only started English classes in March. Her English is quite good for a beginner.",
+      "You want to walk from the station? Take the bus. It's quite a long walk to the museum.",
+      "My uncle has four kids. They live in quite a big house near the park.",
+      "Ken asked the teacher why the sky is blue. It was quite a strange question in a maths class.",
+      "It was cloudy, but we had quite a good time at the beach.",
+      "Lucy won the school race. She's quite a fast runner.",
+      "We loved our flat in Oslo. The rooms were bright and really warm in winter.",
+      "We slept well at the hotel. The room was clean and really quiet.",
+      "My son learned to read with Mrs Brown. She was so patient and so kind.",
+      "Ana's bakery opened in May. The shop is small but quite busy.",
+      "I bought a cake for Dad's birthday. It looked so pretty and tasted really good."
     ],
     "examples": [
       {
         "heading": "① really + 形容詞",
         "items": [
           {
-            "en": "Don't jump in yet. The pool is really cold.",
-            "zh": "先別跳下去，游泳池的水真的很冰。"
+            "en": "The heater in the pool broke last night. Don't jump in yet. The pool is really cold.",
+            "zh": "游泳池的加熱器昨晚壞了。先別跳下去，游泳池的水真的很冰。"
           },
           {
-            "en": "Your new haircut looks really good.",
-            "zh": "你的新髮型真的很好看。"
+            "en": "You went to the hairdresser! Your new haircut looks really good.",
+            "zh": "你去剪頭髮了！你的新髮型真的很好看。"
           },
           {
-            "en": "The math homework was really hard tonight.",
-            "zh": "今天晚上的數學作業真的很難。"
+            "en": "I needed two hours for my maths homework. It was really hard tonight.",
+            "zh": "我的數學作業花了兩個小時。今天晚上的作業真的很難。"
           },
           {
-            "en": "Thanks for the help. You're really kind.",
-            "zh": "謝謝你幫忙，你人真的很好。"
+            "en": "Thanks for carrying my bags. You're really kind.",
+            "zh": "謝謝你幫我提袋子，你人真的很好。"
           },
           {
-            "en": "The bus was really crowded this morning.",
-            "zh": "今天早上公車真的很擠。"
+            "en": "I had to stand all the way to work. The bus was really crowded this morning.",
+            "zh": "我一路站到公司。今天早上公車真的很擠。"
           },
           {
-            "en": "Is the hotel really expensive in July?",
-            "zh": "那家旅館七月真的很貴嗎？"
+            "en": "Thanks for the book. It's a really good story.",
+            "zh": "謝謝你送的書，故事真的很好看。"
           },
           {
             "en": "We had a really nice dinner at the new restaurant.",
@@ -10084,8 +10084,8 @@
         "heading": "② so + 形容詞",
         "items": [
           {
-            "en": "I'm so happy we can have a party for my birthday!",
-            "zh": "我好開心我們可以一起幫我辦生日派對！"
+            "en": "Mum said yes! I'm so happy we can have a party for my birthday!",
+            "zh": "媽媽答應了！我好開心可以辦生日派對！"
           },
           {
             "en": "Thank you for the flowers. They're so beautiful.",
@@ -10100,7 +10100,7 @@
             "zh": "你看櫥窗裡那隻小狗！好可愛！"
           },
           {
-            "en": "I almost fell asleep. The movie was so boring.",
+            "en": "I almost fell asleep. The film was so boring.",
             "zh": "我差點睡著，那部電影好無聊。"
           },
           {
@@ -10117,28 +10117,28 @@
         "heading": "③ quite + 形容詞",
         "items": [
           {
-            "en": "The jeans are quite expensive, but they're good quality.",
-            "zh": "這條牛仔褲相當貴，不過品質很好。"
+            "en": "These jeans are quite expensive, but they're good quality. I'm going to buy them.",
+            "zh": "這條牛仔褲相當貴，不過品質很好。我要買。"
           },
           {
-            "en": "The town is quite small, so we walked everywhere.",
-            "zh": "那個小鎮不大，所以我們到哪裡都用走的。"
+            "en": "We didn't need a car in Hallstatt. The town is quite small, so we walked everywhere.",
+            "zh": "我們在哈修塔特不需要車。那個小鎮不大，所以我們到哪裡都用走的。"
           },
           {
-            "en": "The people in my new office are quite friendly.",
-            "zh": "我新辦公室的同事還算友善。"
+            "en": "I started my new job on Monday. The people in my office are quite friendly.",
+            "zh": "我星期一開始新工作。我辦公室的同事還算友善。"
           },
           {
-            "en": "The exam was quite easy for most of us.",
-            "zh": "這次考試對我們大部分的人來說還算簡單。"
+            "en": "We all finished early. The exam was quite easy.",
+            "zh": "我們都提早寫完了。這次考試還算簡單。"
           },
           {
             "en": "It's quite cold today. Take a jacket.",
             "zh": "今天滿冷的，帶件外套吧。"
           },
           {
-            "en": "Her English is quite good for a beginner.",
-            "zh": "以初學者來說，她的英文算很好了。"
+            "en": "Maria only started English classes in March. Her English is quite good for a beginner.",
+            "zh": "Maria 三月才開始上英文課。以初學者來說，她的英文算很好了。"
           }
         ]
       },
@@ -10146,24 +10146,24 @@
         "heading": "④ quite a + 形容詞 + 名詞",
         "items": [
           {
-            "en": "Take the bus. It's quite a long walk to the museum.",
-            "zh": "搭公車吧，走到博物館滿遠的。"
+            "en": "You want to walk from the station? Take the bus. It's quite a long walk to the museum.",
+            "zh": "你想從車站走路過去？搭公車吧，走到博物館滿遠的。"
           },
           {
-            "en": "They live in quite a big house near the park.",
-            "zh": "他們住在公園附近一棟相當大的房子。"
+            "en": "My uncle has four kids. They live in quite a big house near the park.",
+            "zh": "我叔叔有四個小孩。他們住在公園附近一棟相當大的房子。"
           },
           {
-            "en": "Ken asked quite a strange question in class.",
-            "zh": "Ken 在課堂上問了一個滿奇怪的問題。"
+            "en": "Ken asked the teacher why the sky is blue. It was quite a strange question in a maths class.",
+            "zh": "Ken 問老師天空為什麼是藍的。在數學課上，那是一個滿奇怪的問題。"
           },
           {
-            "en": "We had quite a good time at the beach.",
-            "zh": "我們在海邊玩得滿開心的。"
+            "en": "It was cloudy, but we had quite a good time at the beach.",
+            "zh": "天氣陰陰的，不過我們在海邊玩得滿開心的。"
           },
           {
-            "en": "She's quite a fast runner.",
-            "zh": "她跑得滿快的。"
+            "en": "Lucy won the school race. She's quite a fast runner.",
+            "zh": "Lucy 贏了學校的賽跑。她跑得滿快的。"
           }
         ]
       },
@@ -10171,24 +10171,24 @@
         "heading": "⑤ 兩個形容詞",
         "items": [
           {
-            "en": "The rooms were bright and really warm in winter.",
-            "zh": "冬天房間很亮，而且真的很暖和。"
+            "en": "We loved our flat in Oslo. The rooms were bright and really warm in winter.",
+            "zh": "我們很喜歡在奧斯陸住的公寓。房間很亮，冬天也真的很暖和。"
           },
           {
-            "en": "The room was clean and really quiet.",
-            "zh": "房間很乾淨，而且真的很安靜。"
+            "en": "We slept well at the hotel. The room was clean and really quiet.",
+            "zh": "我們在飯店睡得很好。房間很乾淨，而且真的很安靜。"
           },
           {
-            "en": "The teacher was so patient and so kind.",
-            "zh": "老師好有耐心，人又好。"
+            "en": "My son learned to read with Mrs Brown. She was so patient and so kind.",
+            "zh": "我兒子跟 Brown 老師學會了認字。她好有耐心，人又好。"
           },
           {
-            "en": "The shop is small but quite busy.",
-            "zh": "那家店很小，但是客人還算多。"
+            "en": "Ana's bakery opened in May. The shop is small but quite busy.",
+            "zh": "Ana 的麵包店五月開張。那家店很小，但是客人還算多。"
           },
           {
-            "en": "The cake looked so pretty and tasted really good.",
-            "zh": "蛋糕看起來好漂亮，吃起來也真的很好吃。"
+            "en": "I bought a cake for Dad's birthday. It looked so pretty and tasted really good.",
+            "zh": "我為爸爸的生日買了一個蛋糕。它看起來好漂亮，吃起來也真的很好吃。"
           }
         ]
       }

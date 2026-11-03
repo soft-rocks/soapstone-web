@@ -18,7 +18,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :parts="[
           { t: 'The new flat', role: '主詞' },
           { t: 'isn\'t', role: 'be + not', kind: 'key' },
-          { t: 'that much', role: 'that much', kind: 'key', ring: true },
+          { t: 'that much', role: '程度', kind: 'key', ring: true },
           { t: 'bigger', role: '比較級', kind: 'key' },
           { t: 'than our old one.', role: 'than + 比較的對象' },
         ]"
@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">新公寓沒有比我們以前那間大多少。</p>
     </NoteSlide>
 
-    <NoteSlide title="look、feel 這類動詞的否定用 don't" mark="not">
+    <NoteSlide title="look、feel 這類動詞的否定用 don't">
       <NoteWords
         :size="22"
         :parts="[
@@ -55,7 +55,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="that much 後面要用比較級" mark="older">
+    <NoteSlide title="that much 後面要用比較級" mark="that much older">
       <NoteFix
         wrong="The train isn't that much fast than the bus."
         right="The train isn't that much faster than the bus."

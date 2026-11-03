@@ -15469,69 +15469,69 @@
     "translation": "我真的很喜歡日本音樂。",
     "name": "程度副詞和時間副詞修飾動詞",
     "sentences": [
-      "I really love the smell of fresh bread.",
-      "We really enjoyed the trip.",
-      "My daughter really wants to learn the piano.",
-      "They really need some help.",
-      "Do you really believe his story about the lost wallet?",
-      "Our teacher really likes our class project.",
-      "Thanks, I really appreciate your help.",
-      "My kids love their grandmother very much.",
-      "My parents enjoyed their holiday in Greece very much.",
-      "My grandmother loved her garden very much.",
-      "He doesn't like his new job very much.",
-      "I miss my old friends very much.",
-      "My dad always reads the newspaper at breakfast.",
-      "We always visit my grandparents at Christmas.",
-      "She always wears a hat in the sun.",
-      "Do you always take the same bus to work?",
-      "I sometimes play tennis with my brother.",
-      "We sometimes have pizza on Friday nights.",
-      "My neighbour sometimes leaves his car in front of my house.",
-      "Sometimes we eat dinner in the garden.",
-      "My mum never drinks coffee.",
-      "He never forgets my birthday.",
-      "We never watch TV in the morning.",
-      "They never answer the phone.",
-      "I never take sugar in my tea.",
-      "The children are always hungry after school.",
-      "I'm sometimes tired in the afternoon.",
-      "You can always ask me.",
-      "I don't really know my new neighbours yet.",
-      "We've never been to Japan.",
-      "My little brother doesn't really eat vegetables."
+      "Let's stop at the bakery. I really love the smell of fresh bread.",
+      "We saw dolphins every day in Greece. We really enjoyed the trip.",
+      "My daughter plays on her grandma's piano every weekend. She really wants to learn the piano.",
+      "Our neighbours have a new baby and two sick kids. They really need some help.",
+      "He says a dog took his wallet. Do you really believe his story?",
+      "We made a model of the solar system. Our teacher really likes our class project.",
+      "You drove me to the airport at five in the morning. Thanks, I really appreciate your help.",
+      "Grandma reads to my kids every night. They love her very much.",
+      "My parents enjoyed their holiday in Greece very much. They want to go back next year.",
+      "My grandmother loved her garden very much. She grew roses there for fifty years.",
+      "My brother works every weekend now. He doesn't like his new job very much.",
+      "I moved to Canada two years ago. I miss my old friends very much.",
+      "My dad doesn't talk much in the morning. He always reads the newspaper at breakfast.",
+      "My grandparents live in Wales. We always visit them at Christmas.",
+      "My sister burns easily. She always wears a hat in the sun.",
+      "I see you on the number 9 every morning. Do you always take the same bus to work?",
+      "There's a court near our house. I sometimes play tennis with my brother.",
+      "Nobody wants to cook at the end of the week. We sometimes have pizza on Friday nights.",
+      "I can't get my car out. My neighbour sometimes leaves his car in front of my house.",
+      "We have a big table outside. Sometimes we eat dinner in the garden.",
+      "My mum never drinks coffee. It makes her heart beat fast.",
+      "My brother sends me a card every year. He never forgets my birthday.",
+      "We're always too busy before school. We never watch TV in the morning.",
+      "Don't call my grandparents' house. They never answer the phone.",
+      "No sugar for me, thanks. I never take sugar in my tea.",
+      "Keep some fruit in the kitchen. The children are always hungry after school.",
+      "I need coffee after lunch. I'm sometimes tired in the afternoon.",
+      "Don't worry about the homework. You can always ask me.",
+      "We only moved in last week. I don't really know my new neighbours yet.",
+      "We want to go to Japan next year. We've never been there.",
+      "My little brother doesn't really eat vegetables. He only eats rice and chicken."
     ],
     "examples": [
       {
         "heading": "① really + 一般動詞",
         "items": [
           {
-            "en": "I really love the smell of fresh bread.",
-            "zh": "我真的很愛剛出爐麵包的味道。"
+            "en": "Let's stop at the bakery. I really love the smell of fresh bread.",
+            "zh": "我們在麵包店停一下吧。我真的很愛剛出爐麵包的味道。"
           },
           {
-            "en": "We really enjoyed the trip.",
-            "zh": "我們真的很享受這趟旅行。"
+            "en": "We saw dolphins every day in Greece. We really enjoyed the trip.",
+            "zh": "我們在希臘每天都看到海豚。我們真的很享受這趟旅行。"
           },
           {
-            "en": "My daughter really wants to learn the piano.",
-            "zh": "我女兒真的很想學鋼琴。"
+            "en": "My daughter plays on her grandma's piano every weekend. She really wants to learn the piano.",
+            "zh": "我女兒每個週末都彈奶奶的鋼琴。她真的很想學鋼琴。"
           },
           {
-            "en": "They really need some help.",
-            "zh": "他們真的需要幫忙。"
+            "en": "Our neighbours have a new baby and two sick kids. They really need some help.",
+            "zh": "我們的鄰居剛生了寶寶，另外兩個孩子又生病了。他們真的需要幫忙。"
           },
           {
-            "en": "Do you really believe his story about the lost wallet?",
-            "zh": "你真的相信他說掉了錢包的事嗎？"
+            "en": "He says a dog took his wallet. Do you really believe his story?",
+            "zh": "他說一隻狗把他的錢包叼走了。你真的相信他說的事嗎？"
           },
           {
-            "en": "Our teacher really likes our class project.",
-            "zh": "我們老師真的很喜歡我們班的專題。"
+            "en": "We made a model of the solar system. Our teacher really likes our class project.",
+            "zh": "我們做了一個太陽系的模型。我們老師真的很喜歡我們班的專題。"
           },
           {
-            "en": "Thanks, I really appreciate your help.",
-            "zh": "謝謝，我真的很感激你的幫忙。"
+            "en": "You drove me to the airport at five in the morning. Thanks, I really appreciate your help.",
+            "zh": "你早上五點開車送我去機場。謝謝，我真的很感激你的幫忙。"
           }
         ]
       },
@@ -15539,24 +15539,24 @@
         "heading": "② 受詞 + very much",
         "items": [
           {
-            "en": "My kids love their grandmother very much.",
-            "zh": "我的孩子很愛他們的奶奶。"
+            "en": "Grandma reads to my kids every night. They love her very much.",
+            "zh": "奶奶每天晚上都唸書給我的孩子聽。他們很愛她。"
           },
           {
-            "en": "My parents enjoyed their holiday in Greece very much.",
-            "zh": "我爸媽很喜歡他們在希臘的假期。"
+            "en": "My parents enjoyed their holiday in Greece very much. They want to go back next year.",
+            "zh": "我爸媽很喜歡他們在希臘的假期。他們明年想再去。"
           },
           {
-            "en": "My grandmother loved her garden very much.",
-            "zh": "我奶奶很愛她的花園。"
+            "en": "My grandmother loved her garden very much. She grew roses there for fifty years.",
+            "zh": "我奶奶很愛她的花園。她在那裡種了五十年的玫瑰。"
           },
           {
-            "en": "He doesn't like his new job very much.",
-            "zh": "他不太喜歡他的新工作。"
+            "en": "My brother works every weekend now. He doesn't like his new job very much.",
+            "zh": "我哥哥現在每個週末都要上班。他不太喜歡他的新工作。"
           },
           {
-            "en": "I miss my old friends very much.",
-            "zh": "我很想念我的老朋友。"
+            "en": "I moved to Canada two years ago. I miss my old friends very much.",
+            "zh": "我兩年前搬到加拿大。我很想念我的老朋友。"
           }
         ]
       },
@@ -15564,20 +15564,20 @@
         "heading": "③ always + 一般動詞",
         "items": [
           {
-            "en": "My dad always reads the newspaper at breakfast.",
-            "zh": "我爸爸總是在吃早餐的時候看報紙。"
+            "en": "My dad doesn't talk much in the morning. He always reads the newspaper at breakfast.",
+            "zh": "我爸爸早上話不多。他總是在吃早餐的時候看報紙。"
           },
           {
-            "en": "We always visit my grandparents at Christmas.",
-            "zh": "我們聖誕節都會去看我祖父母。"
+            "en": "My grandparents live in Wales. We always visit them at Christmas.",
+            "zh": "我祖父母住在威爾斯。我們聖誕節都會去看他們。"
           },
           {
-            "en": "She always wears a hat in the sun.",
-            "zh": "她在太陽底下都會戴帽子。"
+            "en": "My sister burns easily. She always wears a hat in the sun.",
+            "zh": "我姊姊很容易曬傷。她在太陽底下都會戴帽子。"
           },
           {
-            "en": "Do you always take the same bus to work?",
-            "zh": "你上班都搭同一班公車嗎？"
+            "en": "I see you on the number 9 every morning. Do you always take the same bus to work?",
+            "zh": "我每天早上都在九號公車上看到你。你上班都搭同一班公車嗎？"
           }
         ]
       },
@@ -15585,20 +15585,20 @@
         "heading": "④ sometimes + 一般動詞",
         "items": [
           {
-            "en": "I sometimes play tennis with my brother.",
-            "zh": "我有時候會跟我哥哥打網球。"
+            "en": "There's a court near our house. I sometimes play tennis with my brother.",
+            "zh": "我們家附近有一座球場。我有時候會跟我哥哥打網球。"
           },
           {
-            "en": "We sometimes have pizza on Friday nights.",
-            "zh": "我們星期五晚上有時候會吃披薩。"
+            "en": "Nobody wants to cook at the end of the week. We sometimes have pizza on Friday nights.",
+            "zh": "一個星期快結束時，沒有人想煮飯。我們星期五晚上有時候會吃披薩。"
           },
           {
-            "en": "My neighbour sometimes leaves his car in front of my house.",
-            "zh": "我的鄰居有時候會把車停在我家門口。"
+            "en": "I can't get my car out. My neighbour sometimes leaves his car in front of my house.",
+            "zh": "我的車開不出來。我的鄰居有時候會把車停在我家門口。"
           },
           {
-            "en": "Sometimes we eat dinner in the garden.",
-            "zh": "我們有時候在院子裡吃晚餐。"
+            "en": "We have a big table outside. Sometimes we eat dinner in the garden.",
+            "zh": "我們外面有一張大桌子。我們有時候在院子裡吃晚餐。"
           }
         ]
       },
@@ -15606,24 +15606,24 @@
         "heading": "⑤ never + 一般動詞",
         "items": [
           {
-            "en": "My mum never drinks coffee.",
-            "zh": "我媽媽從不喝咖啡。"
+            "en": "My mum never drinks coffee. It makes her heart beat fast.",
+            "zh": "我媽媽從不喝咖啡。咖啡會讓她心跳很快。"
           },
           {
-            "en": "He never forgets my birthday.",
-            "zh": "他從來不會忘記我的生日。"
+            "en": "My brother sends me a card every year. He never forgets my birthday.",
+            "zh": "我哥哥每年都寄卡片給我。他從來不會忘記我的生日。"
           },
           {
-            "en": "We never watch TV in the morning.",
-            "zh": "我們早上從來不看電視。"
+            "en": "We're always too busy before school. We never watch TV in the morning.",
+            "zh": "我們上學前總是很忙。我們早上從來不看電視。"
           },
           {
-            "en": "They never answer the phone.",
-            "zh": "他們從來不接電話。"
+            "en": "Don't call my grandparents' house. They never answer the phone.",
+            "zh": "別打電話到我爺爺奶奶家。他們從來不接電話。"
           },
           {
-            "en": "I never take sugar in my tea.",
-            "zh": "我喝茶從來不加糖。"
+            "en": "No sugar for me, thanks. I never take sugar in my tea.",
+            "zh": "我不要糖，謝謝。我喝茶從來不加糖。"
           }
         ]
       },
@@ -15631,28 +15631,28 @@
         "heading": "⑥ be 或助動詞 + 副詞",
         "items": [
           {
-            "en": "The children are always hungry after school.",
-            "zh": "孩子們放學後總是很餓。"
+            "en": "Keep some fruit in the kitchen. The children are always hungry after school.",
+            "zh": "在廚房放些水果。孩子們放學後總是很餓。"
           },
           {
-            "en": "I'm sometimes tired in the afternoon.",
-            "zh": "我下午有時候會很累。"
+            "en": "I need coffee after lunch. I'm sometimes tired in the afternoon.",
+            "zh": "我午餐後需要咖啡。我下午有時候會很累。"
           },
           {
-            "en": "You can always ask me.",
-            "zh": "你隨時都可以問我。"
+            "en": "Don't worry about the homework. You can always ask me.",
+            "zh": "別擔心功課。你隨時都可以問我。"
           },
           {
-            "en": "I don't really know my new neighbours yet.",
-            "zh": "我跟新鄰居還不太熟。"
+            "en": "We only moved in last week. I don't really know my new neighbours yet.",
+            "zh": "我們上星期才搬進來。我跟新鄰居還不太熟。"
           },
           {
-            "en": "We've never been to Japan.",
-            "zh": "我們從來沒去過日本。"
+            "en": "We want to go to Japan next year. We've never been there.",
+            "zh": "我們明年想去日本。我們從來沒去過那裡。"
           },
           {
-            "en": "My little brother doesn't really eat vegetables.",
-            "zh": "我弟弟不太吃蔬菜。"
+            "en": "My little brother doesn't really eat vegetables. He only eats rice and chicken.",
+            "zh": "我弟弟不太吃蔬菜。他只吃飯和雞肉。"
           }
         ]
       }

@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="really 放在一般動詞前面">
+    <NoteSlide title="really 放在一般動詞前面" mark="really like">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,26 +25,26 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我真的很喜歡日本音樂。</p>
     </NoteSlide>
 
-    <NoteSlide title="very much 放在受詞後面" mark="like">
+    <NoteSlide title="very much 放在受詞後面">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'I like', role: '主詞 + 一般動詞', kind: 'dim' },
-          { t: 'my college', role: '受詞' },
+          { t: 'My cousin likes', role: '主詞 + 一般動詞', kind: 'dim' },
+          { t: 'her college in Leeds', role: '受詞' },
           { t: 'very much.', role: '程度副詞', kind: 'key' },
         ]"
       />
-      <p class="translation">我很喜歡我的學院。</p>
+      <p class="translation">我表姊很喜歡她在里茲念的學院。</p>
     </NoteSlide>
 
-    <NoteSlide title="always 和 sometimes 放在一般動詞前面" mark="really like">
+    <NoteSlide title="always 和 sometimes 放在一般動詞前面">
       <div class="rows is-labeled">
         <div>
           <span class="term">always</span>
           <span
-            ><NoteMark sentence="I always walk to school." :marks="['always walk']" /><span
+            ><NoteMark sentence="My son always walks to school." :marks="['always walks']" /><span
               class="translation"
-              >我都走路上學。</span
+              >我兒子都走路上學。</span
             ></span
           >
         </div>
@@ -65,9 +65,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">助動詞後面</span>
           <span
-            ><NoteMark sentence="I can't really sing." :marks="['can\'t really']" /><span
+            ><NoteMark sentence="My dad can't really dance." :marks="['can\'t really']" /><span
               class="translation"
-              >我其實不太會唱歌。</span
+              >我爸爸其實不太會跳舞。</span
             ></span
           >
         </div>
@@ -84,7 +84,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="very much 不放在動詞和受詞中間">
-      <NoteFix wrong="I like very much pizza." right="I like pizza very much." fix="very much" />
+      <NoteFix
+        wrong="We enjoyed very much the concert."
+        right="We enjoyed the concert very much."
+        fix="very much"
+      />
     </NoteSlide>
 
     <NoteSlide title="always 不放在一般動詞後面">
@@ -96,7 +100,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="never 已經是否定，不再加 not">
-      <NoteFix wrong="I don't never eat fish." right="I never eat fish." fix="never" />
+      <NoteFix
+        wrong="Grandpa doesn't never drive at night."
+        right="Grandpa never drives at night."
+        fix="never"
+      />
     </NoteSlide>
 
     <NoteSlide title="always 不放在 be 前面">

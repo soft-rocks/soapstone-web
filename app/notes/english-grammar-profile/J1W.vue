@@ -50,10 +50,10 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="前面也可以是 my、the，複數名詞可以不加限定詞" mark="a really">
+    <NoteSlide title="前面也可以是 my、the，複數和不可數名詞可以不加限定詞">
       <div class="rows is-labeled">
         <div>
-          <span class="term">my + 副詞 + 形容詞</span>
+          <span class="term">my + 程度副詞 + 形容詞</span>
           <span
             ><NoteMark
               sentence="My really old laptop finally stopped working."
@@ -75,18 +75,26 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="程度副詞放在形容詞前面" mark="really good">
       <NoteFix
-        wrong="She's a good really friend."
-        right="She's a really good friend."
-        fix="really good"
+        wrong="Mia wrote a long really email."
+        right="Mia wrote a really long email."
+        fix="really long"
       />
     </NoteSlide>
 
     <NoteSlide title="a 或 an 不看形容詞，看緊接在後面的字" mark="a">
-      <NoteFix wrong="It was an very old house." right="It was a very old house." fix="a" />
+      <NoteFix
+        wrong="My uncle has an really old dog."
+        right="My uncle has a really old dog."
+        fix="a"
+      />
     </NoteSlide>
 
     <NoteSlide title="程度副詞要接形容詞" mark="really good">
-      <NoteFix wrong="He's a very teacher." right="He's a very good teacher." fix="very good" />
+      <NoteFix
+        wrong="Maria is a really singer."
+        right="Maria is a really good singer."
+        fix="really good"
+      />
     </NoteSlide>
   </NoteDeck>
 

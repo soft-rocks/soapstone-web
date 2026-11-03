@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="never 本身是否定，受詞用 anything">
+    <NoteSlide title="never 本身是否定，受詞用 anything" mark="never">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">你老是什麼都不記得！</p>
     </NoteSlide>
 
-    <NoteSlide title="頻率副詞放在 be 和助動詞後面" mark="never">
+    <NoteSlide title="頻率副詞放在 be 和助動詞後面">
       <div class="rows is-labeled">
         <div>
           <span class="term">be 後面</span>
@@ -48,7 +48,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="usually 是大部分的時候，often 是很多次" mark="never">
+    <NoteSlide title="usually、often、never 說多常發生" mark="never">
       <div class="rows is-labeled">
         <div>
           <span class="term">usually</span>
@@ -92,8 +92,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這本雜誌每週出刊。</p>
     </NoteSlide>
 
-    <NoteSlide title="never 已經表示否定，不再加 don't" mark="never">
-      <NoteFix wrong="I don't never eat meat." right="I never eat meat." fix="never" />
+    <NoteSlide title="never 已經表示否定，不再加 doesn't" mark="never">
+      <NoteFix
+        wrong="My son doesn't never tidy his room."
+        right="My son never tidies his room."
+        fix="never"
+      />
     </NoteSlide>
 
     <NoteSlide title="weekly 不放在動詞前面">
@@ -102,8 +106,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="often 不放在動詞和受詞中間">
       <NoteFix
-        wrong="I visit often my grandparents."
-        right="I often visit my grandparents."
+        wrong="My aunt calls often my mum."
+        right="My aunt often calls my mum."
         fix="often"
       />
     </NoteSlide>

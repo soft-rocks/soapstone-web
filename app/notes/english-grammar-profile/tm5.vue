@@ -28,7 +28,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">最後一個形容詞和名詞中間不加逗號。</p>
     </NoteSlide>
 
-    <NoteSlide title="一串形容詞也可以放在 be 後面" mark="greedy and shallow">
+    <NoteSlide title="一串形容詞也可以放在 be 後面">
       <NoteWords
         :size="26"
         :parts="[
@@ -57,7 +57,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark"><code>increasingly</code> 修飾 <code>materialistic</code>。</p>
     </NoteSlide>
 
-    <NoteSlide title="形容詞也可以是複合形容詞" mark="greedy">
+    <NoteSlide title="形容詞也可以是複合形容詞">
       <NoteMark
         sentence="He was a shy, self-conscious and sensitive boy."
         :marks="['self-conscious']"
@@ -67,9 +67,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="最後一個形容詞和名詞中間不加逗號" mark="shallow society">
       <NoteFix
-        wrong="It was a long, cold and lonely, winter."
-        right="It was a long, cold and lonely winter."
-        fix="lonely winter"
+        wrong="We had a quiet, warm and sunny, holiday."
+        right="We had a quiet, warm and sunny holiday."
+        fix="sunny holiday"
       />
     </NoteSlide>
 
@@ -81,7 +81,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="修飾形容詞要用副詞" mark="increasingly">
+    <NoteSlide title="修飾形容詞要用副詞" mark="increasingly materialistic">
       <NoteFix
         wrong="We live in an increasing busy city."
         right="We live in an increasingly busy city."

@@ -1670,72 +1670,72 @@
     "translation": "我們生活在一個越來越物質、貪婪又膚淺的社會。",
     "name": "多個形容詞，最後兩個用 and 連接",
     "sentences": [
-      "It was a long, cold and lonely winter.",
-      "She is a smart, funny and kind teacher.",
-      "He told a long, strange and sad story.",
-      "They live in a small, dark and noisy flat.",
-      "We had a quiet, simple and happy life.",
-      "It was a hot, dry and dusty afternoon.",
-      "A timid, shy, nervous and lonely boy sat in the corner.",
-      "They wanted a fast, safe, cheap and reliable car.",
-      "It is an increasingly busy and crowded city.",
-      "She wrote a deeply moving, honest and beautiful letter.",
-      "He gave a surprisingly short, clear and useful talk.",
-      "It was a terribly long, boring and pointless meeting.",
-      "We stayed in a beautifully quiet, clean and friendly village.",
-      "They face an extremely difficult, slow and expensive process.",
-      "A shy, self-conscious and sensitive boy joined our class.",
-      "She is an open-minded, hard-working and patient manager.",
-      "She is a cheerful, easy-going and good-natured nurse.",
-      "He is a self-assured, confident and even bossy leader.",
-      "He was tired, hungry and very angry.",
-      "The streets were dark, empty, wet and silent.",
-      "The film is long, slow and rather confusing.",
-      "Our new neighbors are loud, rude and completely careless.",
-      "The water was clear, cold and surprisingly deep.",
-      "My grandmother was strict, fair and deeply kind.",
-      "What a long, hot and tiring day!",
-      "Was it a cheap, fast and easy trip?",
-      "Don't be so rude, lazy and selfish.",
-      "I prefer warm, sunny and quiet places.",
-      "They built a modern, bright and very expensive school.",
-      "She has a calm, low and gentle voice."
+      "My grandfather lived alone in the mountains that year. It was a long, cold and lonely winter.",
+      "All the kids love Ms Ford. She's a smart, funny and kind teacher.",
+      "An old man sat next to me on the train. He told a long, strange and sad story about his brother.",
+      "My cousins can't afford a bigger place. They live in a small, dark and noisy flat.",
+      "We didn't have much money on the farm, but we had a quiet, simple and happy life.",
+      "We waited for the bus by the road. It was a hot, dry and dusty afternoon.",
+      "On the first day of school, a timid, shy, nervous and lonely boy sat in the corner.",
+      "My parents drive for work every day. They wanted a fast, safe, cheap and reliable car.",
+      "More people move to Shanghai every year. It's an increasingly busy and crowded city.",
+      "My daughter thanked her old teacher. She wrote a deeply moving, honest and beautiful letter.",
+      "I expected the head teacher to talk for an hour, but he gave a surprisingly short, clear and useful talk.",
+      "We talked for three hours and decided nothing. It was a terribly long, boring and pointless meeting.",
+      "We didn't want a busy beach holiday, so we stayed in a beautifully quiet, clean and friendly village.",
+      "My friends want to adopt a child. They face an extremely difficult, slow and expensive process.",
+      "My grandfather didn't talk much as a child. He was a shy, self-conscious and sensitive boy.",
+      "Everyone in the office likes Rosa. She's an open-minded, hard-working and patient manager.",
+      "The nurse on my grandmother's ward is lovely. She's a cheerful, easy-going and good-natured woman.",
+      "Our new team captain tells everyone what to do. He's a self-confident, loud and even bossy leader.",
+      "Dad got home at ten after a long drive. He was tired, hungry and very angry.",
+      "We walked home after the storm. The streets were dark, empty, wet and silent.",
+      "I don't recommend that film. It's long, slow and rather confusing.",
+      "I can't sleep at night. Our new neighbours are loud, rude and very messy.",
+      "We jumped off the rocks into the river. The water was clear, cold and surprisingly deep.",
+      "I lived with my grandmother as a child. She was strict, fair and very kind.",
+      "I had two exams and a football match today. What a long, hot and tiring day!",
+      "You took the train to Paris. Was it a cheap, fast and easy trip?",
+      "Help your sister with the dishes. Don't be so rude, lazy and selfish.",
+      "I don't enjoy holidays in big cities. I prefer warm, sunny and quiet places.",
+      "The town spent all its money last year. They built a modern, bright and very expensive school.",
+      "Our yoga teacher never shouts. She has a calm, low and gentle voice."
     ],
     "examples": [
       {
-        "heading": "① 三個以上的形容詞 + 名詞",
+        "heading": "① 形容詞, + 形容詞 + and + 形容詞 + 名詞",
         "items": [
           {
-            "en": "It was a long, cold and lonely winter.",
-            "zh": "那是一個漫長、寒冷又寂寞的冬天。"
+            "en": "My grandfather lived alone in the mountains that year. It was a long, cold and lonely winter.",
+            "zh": "那年我爺爺一個人住在山上。那是一個漫長、寒冷又寂寞的冬天。"
           },
           {
-            "en": "She is a smart, funny and kind teacher.",
-            "zh": "她是一位聰明、風趣又親切的老師。"
+            "en": "All the kids love Ms Ford. She's a smart, funny and kind teacher.",
+            "zh": "所有的孩子都喜歡 Ford 老師。她是一位聰明、風趣又親切的老師。"
           },
           {
-            "en": "He told a long, strange and sad story.",
-            "zh": "他講了一個又長又奇怪又悲傷的故事。"
+            "en": "An old man sat next to me on the train. He told a long, strange and sad story about his brother.",
+            "zh": "火車上一個老人坐在我旁邊。他講了一個關於他哥哥的故事，又長又奇怪又悲傷。"
           },
           {
-            "en": "They live in a small, dark and noisy flat.",
-            "zh": "他們住在一間又小又暗又吵的公寓。"
+            "en": "My cousins can't afford a bigger place. They live in a small, dark and noisy flat.",
+            "zh": "我表哥一家負擔不起大一點的房子。他們住在一間又小又暗又吵的公寓。"
           },
           {
-            "en": "We had a quiet, simple and happy life.",
-            "zh": "我們過著安靜、簡單又快樂的生活。"
+            "en": "We didn't have much money on the farm, but we had a quiet, simple and happy life.",
+            "zh": "我們在農場上沒什麼錢，不過過著安靜、簡單又快樂的生活。"
           },
           {
-            "en": "It was a hot, dry and dusty afternoon.",
-            "zh": "那是一個又熱又乾又多灰塵的下午。"
+            "en": "We waited for the bus by the road. It was a hot, dry and dusty afternoon.",
+            "zh": "我們在路邊等公車。那是一個又熱又乾又多灰塵的下午。"
           },
           {
-            "en": "A timid, shy, nervous and lonely boy sat in the corner.",
-            "zh": "一個膽小、害羞、緊張又孤單的男孩坐在角落。"
+            "en": "On the first day of school, a timid, shy, nervous and lonely boy sat in the corner.",
+            "zh": "開學第一天，一個膽小、害羞、緊張又孤單的男孩坐在角落。"
           },
           {
-            "en": "They wanted a fast, safe, cheap and reliable car.",
-            "zh": "他們想要一輛快速、安全、便宜又可靠的車。"
+            "en": "My parents drive for work every day. They wanted a fast, safe, cheap and reliable car.",
+            "zh": "我爸媽每天開車上班。他們想要一輛快速、安全、便宜又可靠的車。"
           }
         ]
       },
@@ -1743,28 +1743,28 @@
         "heading": "② 副詞 + 形容詞",
         "items": [
           {
-            "en": "It is an increasingly busy and crowded city.",
-            "zh": "那是一座越來越忙碌、越來越擁擠的城市。"
+            "en": "More people move to Shanghai every year. It's an increasingly busy and crowded city.",
+            "zh": "每年都有更多人搬到上海。那是一座越來越忙碌、越來越擁擠的城市。"
           },
           {
-            "en": "She wrote a deeply moving, honest and beautiful letter.",
-            "zh": "她寫了一封非常感人、真誠又優美的信。"
+            "en": "My daughter thanked her old teacher. She wrote a deeply moving, honest and beautiful letter.",
+            "zh": "我女兒向她以前的老師道謝。她寫了一封非常感人、真誠又優美的信。"
           },
           {
-            "en": "He gave a surprisingly short, clear and useful talk.",
-            "zh": "他做了一場出乎意料簡短、清楚又有用的演講。"
+            "en": "I expected the head teacher to talk for an hour, but he gave a surprisingly short, clear and useful talk.",
+            "zh": "我以為校長會講一個小時，不過他做了一場出乎意料簡短、清楚又有用的演講。"
           },
           {
-            "en": "It was a terribly long, boring and pointless meeting.",
-            "zh": "那是一場非常冗長、無聊又沒有意義的會議。"
+            "en": "We talked for three hours and decided nothing. It was a terribly long, boring and pointless meeting.",
+            "zh": "我們談了三個小時，什麼都沒決定。那是一場非常冗長、無聊又沒有意義的會議。"
           },
           {
-            "en": "We stayed in a beautifully quiet, clean and friendly village.",
-            "zh": "我們待在一個非常安靜、乾淨又友善的村子。"
+            "en": "We didn't want a busy beach holiday, so we stayed in a beautifully quiet, clean and friendly village.",
+            "zh": "我們不想在熱鬧的海灘度假，所以待在一個非常安靜、乾淨又友善的村子。"
           },
           {
-            "en": "They face an extremely difficult, slow and expensive process.",
-            "zh": "他們面對的是一個極困難、緩慢又昂貴的過程。"
+            "en": "My friends want to adopt a child. They face an extremely difficult, slow and expensive process.",
+            "zh": "我的朋友想領養小孩。他們面對的是一個極困難、緩慢又昂貴的過程。"
           }
         ]
       },
@@ -1772,20 +1772,20 @@
         "heading": "③ 複合形容詞",
         "items": [
           {
-            "en": "A shy, self-conscious and sensitive boy joined our class.",
-            "zh": "一個害羞、在意別人眼光又敏感的男孩加入了我們班。"
+            "en": "My grandfather didn't talk much as a child. He was a shy, self-conscious and sensitive boy.",
+            "zh": "我爺爺小時候話不多。他是個害羞、在意別人眼光又敏感的男孩。"
           },
           {
-            "en": "She is an open-minded, hard-working and patient manager.",
-            "zh": "她是一位心胸開放、勤奮又有耐心的經理。"
+            "en": "Everyone in the office likes Rosa. She's an open-minded, hard-working and patient manager.",
+            "zh": "辦公室裡每個人都喜歡 Rosa。她是一位心胸開放、勤奮又有耐心的經理。"
           },
           {
-            "en": "She is a cheerful, easy-going and good-natured nurse.",
-            "zh": "她是一位開朗、隨和又脾氣好的護理師。"
+            "en": "The nurse on my grandmother's ward is lovely. She's a cheerful, easy-going and good-natured woman.",
+            "zh": "我奶奶病房的護理師人很好。她是一位開朗、隨和又脾氣好的女士。"
           },
           {
-            "en": "He is a self-assured, confident and even bossy leader.",
-            "zh": "他是一個很有把握、有自信，甚至有點霸道的領導者。"
+            "en": "Our new team captain tells everyone what to do. He's a self-confident, loud and even bossy leader.",
+            "zh": "我們新的隊長叫每個人做這做那。他是一個有自信、大聲，甚至有點霸道的領導者。"
           }
         ]
       },
@@ -1793,28 +1793,28 @@
         "heading": "④ 放在 be 後面",
         "items": [
           {
-            "en": "He was tired, hungry and very angry.",
-            "zh": "他又累又餓，而且非常生氣。"
+            "en": "Dad got home at ten after a long drive. He was tired, hungry and very angry.",
+            "zh": "爸爸開了很久的車，十點才到家。他又累又餓，而且非常生氣。"
           },
           {
-            "en": "The streets were dark, empty, wet and silent.",
-            "zh": "街道又暗又空，又濕又安靜。"
+            "en": "We walked home after the storm. The streets were dark, empty, wet and silent.",
+            "zh": "暴風雨過後我們走路回家。街道又暗又空，又濕又安靜。"
           },
           {
-            "en": "The film is long, slow and rather confusing.",
-            "zh": "那部電影又長又慢，而且相當難懂。"
+            "en": "I don't recommend that film. It's long, slow and rather confusing.",
+            "zh": "我不推薦那部電影。那部電影又長又慢，而且相當難懂。"
           },
           {
-            "en": "Our new neighbors are loud, rude and completely careless.",
-            "zh": "我們的新鄰居又吵又沒禮貌，而且完全不在乎。"
+            "en": "I can't sleep at night. Our new neighbours are loud, rude and very messy.",
+            "zh": "我晚上睡不著。我們的新鄰居又吵又沒禮貌，而且很髒亂。"
           },
           {
-            "en": "The water was clear, cold and surprisingly deep.",
-            "zh": "水很清澈、很冷，而且出乎意料地深。"
+            "en": "We jumped off the rocks into the river. The water was clear, cold and surprisingly deep.",
+            "zh": "我們從石頭上跳進河裡。水很清澈、很冷，而且出乎意料地深。"
           },
           {
-            "en": "My grandmother was strict, fair and deeply kind.",
-            "zh": "我奶奶很嚴格、很公平，而且非常善良。"
+            "en": "I lived with my grandmother as a child. She was strict, fair and very kind.",
+            "zh": "我小時候跟奶奶住。她很嚴格、很公平，而且非常善良。"
           }
         ]
       },
@@ -1822,28 +1822,28 @@
         "heading": "⑤ 不同的句子",
         "items": [
           {
-            "en": "What a long, hot and tiring day!",
-            "zh": "多麼漫長、炎熱又累人的一天！"
+            "en": "I had two exams and a football match today. What a long, hot and tiring day!",
+            "zh": "我今天考了兩科，還踢了一場足球賽。多麼漫長、炎熱又累人的一天！"
           },
           {
-            "en": "Was it a cheap, fast and easy trip?",
-            "zh": "那是一趟便宜、快速又輕鬆的旅行嗎？"
+            "en": "You took the train to Paris. Was it a cheap, fast and easy trip?",
+            "zh": "你搭火車去巴黎。那是一趟便宜、快速又輕鬆的旅行嗎？"
           },
           {
-            "en": "Don't be so rude, lazy and selfish.",
-            "zh": "不要那麼沒禮貌、懶惰又自私。"
+            "en": "Help your sister with the dishes. Don't be so rude, lazy and selfish.",
+            "zh": "幫你妹妹洗碗。不要那麼沒禮貌、懶惰又自私。"
           },
           {
-            "en": "I prefer warm, sunny and quiet places.",
-            "zh": "我比較喜歡溫暖、晴朗又安靜的地方。"
+            "en": "I don't enjoy holidays in big cities. I prefer warm, sunny and quiet places.",
+            "zh": "我不喜歡去大城市度假。我比較喜歡溫暖、晴朗又安靜的地方。"
           },
           {
-            "en": "They built a modern, bright and very expensive school.",
-            "zh": "他們蓋了一所現代、明亮又非常昂貴的學校。"
+            "en": "The town spent all its money last year. They built a modern, bright and very expensive school.",
+            "zh": "鎮上去年把錢都花光了。他們蓋了一所現代、明亮又非常昂貴的學校。"
           },
           {
-            "en": "She has a calm, low and gentle voice.",
-            "zh": "她的聲音冷靜、低沉又溫柔。"
+            "en": "Our yoga teacher never shouts. She has a calm, low and gentle voice.",
+            "zh": "我們的瑜伽老師從不大聲說話。她的聲音冷靜、低沉又溫柔。"
           }
         ]
       }

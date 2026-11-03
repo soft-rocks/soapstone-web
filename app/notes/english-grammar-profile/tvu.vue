@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們想要最好的價格。</p>
     </NoteSlide>
 
-    <NoteSlide title="常配 the earliest、the lowest、the worst" mark="possible">
+    <NoteSlide title="常配 the earliest、the worst" mark="possible">
       <div class="rows is-labeled">
         <div>
           <span class="term">the earliest possible</span>

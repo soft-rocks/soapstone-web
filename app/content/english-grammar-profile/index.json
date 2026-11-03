@@ -9090,20 +9090,20 @@
     "translation": "這不是最短的路線，但對帶著行李的人來說是最輕鬆的。",
     "name": "最高級加 possible 再接名詞",
     "sentences": [
-      "Most of our clients work near the river. Central London is the best possible location for the office.",
+      "Most of our clients work near the river. Central London is the best possible location for our office.",
       "My parents are selling their house this spring. They want the best possible price for it.",
       "My grandmother was in hospital for a month. The doctors gave her the best possible care.",
       "I'm sorry your order arrived late. We'll find the best possible solution.",
       "The final is on Sunday. Our team wants to get the best possible result.",
-      "The manager spoke about next year's plans. We want to raise sales to the highest possible level.",
+      "The manager spoke about next year's plans. She wants to raise sales to the highest possible level.",
       "We'll repair the roof in three stages. This isn't the quickest possible plan, but it's the cheapest.",
       "All our staff are busy right now. We'll call you back at the earliest possible moment.",
       "The client moved the deadline to Friday. We need to finish in the shortest possible time.",
-      "The theatre wanted students to come. They sold the tickets at the lowest possible price.",
+      "The theatre wanted students to come. It gave them the biggest possible discount.",
       "The salesman said the car was very safe. It was built with the strongest possible steel.",
-      "My dad paid extra for a bed seat. This is the most comfortable possible seat on the plane.",
+      "My dad has a bad back. He wanted the most comfortable possible seat for the long flight.",
       "We didn't want to change planes with a baby. We chose the most direct possible flight.",
-      "My grandmother doesn't understand computers. Explain it in the most basic possible terms.",
+      "My grandmother doesn't understand computers. Explain the app to her in the most basic possible terms.",
       "The interviewer asked about her weaknesses. She gave the most honest possible answer.",
       "The old bridge might fall down. The engineers took the most careful possible approach.",
       "My car broke down on the way to my wedding. It happened at the worst possible time.",
@@ -9113,12 +9113,12 @@
       "The airline charges for big suitcases. We packed the smallest possible bags for the flight.",
       "The client wants to sign the contract soon. What's the earliest possible date for the meeting?",
       "Three hundred pounds for a phone repair? Is this the cheapest possible option?",
-      "Your new passport is ready. We'll send it by the fastest possible route.",
+      "Your new passport is ready. We'll send it by the fastest possible delivery service.",
       "I got a new job on 2 January. That was the best possible start to the year.",
       "Our host family met us at the airport with flowers. They gave us the warmest possible welcome.",
       "The party will be boring at the start. Let's leave at the latest possible time.",
       "My sister met her boyfriend's parents last week. She tried to make the best possible impression.",
-      "We wanted to talk about the plans. We asked for the quietest possible table in the café.",
+      "We wanted to talk about our wedding plans. We asked for the quietest possible table in the café.",
       "There are six of us, with the grandparents. We booked the largest possible room for the family."
     ],
     "examples": [
@@ -9126,8 +9126,8 @@
         "heading": "① the best possible + 名詞",
         "items": [
           {
-            "en": "Most of our clients work near the river. Central London is the best possible location for the office.",
-            "zh": "我們大部分的客戶都在河邊附近工作。倫敦市中心是辦公室最理想的地點。"
+            "en": "Most of our clients work near the river. Central London is the best possible location for our office.",
+            "zh": "我們大部分的客戶都在河邊附近工作。倫敦市中心是我們辦公室最理想的地點。"
           },
           {
             "en": "My parents are selling their house this spring. They want the best possible price for it.",
@@ -9151,8 +9151,8 @@
         "heading": "② the + 形容詞-est + possible + 名詞",
         "items": [
           {
-            "en": "The manager spoke about next year's plans. We want to raise sales to the highest possible level.",
-            "zh": "經理談到明年的計畫。我們想把銷售量提高到最高的水準。"
+            "en": "The manager spoke about next year's plans. She wants to raise sales to the highest possible level.",
+            "zh": "經理談到明年的計畫。她想把銷售量提高到最高的水準。"
           },
           {
             "en": "We'll repair the roof in three stages. This isn't the quickest possible plan, but it's the cheapest.",
@@ -9167,8 +9167,8 @@
             "zh": "客戶把截止日改到星期五。我們要在最短的時間內完成。"
           },
           {
-            "en": "The theatre wanted students to come. They sold the tickets at the lowest possible price.",
-            "zh": "劇院希望學生來看。他們用最低的價格賣票。"
+            "en": "The theatre wanted students to come. It gave them the biggest possible discount.",
+            "zh": "劇院希望學生來看。劇院給了學生最大的折扣。"
           },
           {
             "en": "The salesman said the car was very safe. It was built with the strongest possible steel.",
@@ -9180,16 +9180,16 @@
         "heading": "③ the most + 形容詞 + possible + 名詞",
         "items": [
           {
-            "en": "My dad paid extra for a bed seat. This is the most comfortable possible seat on the plane.",
-            "zh": "我爸爸多付錢買了可以躺平的座位。這是飛機上最舒服的座位。"
+            "en": "My dad has a bad back. He wanted the most comfortable possible seat for the long flight.",
+            "zh": "我爸爸背不好。這趟長途飛行他想要最舒服的座位。"
           },
           {
             "en": "We didn't want to change planes with a baby. We chose the most direct possible flight.",
             "zh": "我們不想帶著寶寶轉機。我們選了最直接的航班。"
           },
           {
-            "en": "My grandmother doesn't understand computers. Explain it in the most basic possible terms.",
-            "zh": "我奶奶不懂電腦。用最基本的說法解釋。"
+            "en": "My grandmother doesn't understand computers. Explain the app to her in the most basic possible terms.",
+            "zh": "我奶奶不懂電腦。用最簡單的說法跟她解釋這個 app。"
           },
           {
             "en": "The interviewer asked about her weaknesses. She gave the most honest possible answer.",
@@ -9227,7 +9227,7 @@
         ]
       },
       {
-        "heading": "⑤ 不同的句型",
+        "heading": "⑤ 問句和其他例子",
         "items": [
           {
             "en": "The client wants to sign the contract soon. What's the earliest possible date for the meeting?",
@@ -9238,8 +9238,8 @@
             "zh": "修手機要三百英鎊？這是最便宜的選擇嗎？"
           },
           {
-            "en": "Your new passport is ready. We'll send it by the fastest possible route.",
-            "zh": "你的新護照好了。我們會用最快的路線寄出。"
+            "en": "Your new passport is ready. We'll send it by the fastest possible delivery service.",
+            "zh": "你的新護照好了。我們會用最快的寄送方式寄給你。"
           },
           {
             "en": "I got a new job on 2 January. That was the best possible start to the year.",
@@ -9258,8 +9258,8 @@
             "zh": "我姊姊上星期見了她男朋友的爸媽。她努力留下最好的印象。"
           },
           {
-            "en": "We wanted to talk about the plans. We asked for the quietest possible table in the café.",
-            "zh": "我們想談那些計畫。我們在咖啡店要了最安靜的位子。"
+            "en": "We wanted to talk about our wedding plans. We asked for the quietest possible table in the café.",
+            "zh": "我們想談婚禮的計畫。我們在咖啡店要了最安靜的位子。"
           },
           {
             "en": "There are six of us, with the grandparents. We booked the largest possible room for the family.",

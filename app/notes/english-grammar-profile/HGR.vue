@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="a lot 放在動詞後面">
+    <NoteSlide title="a lot 放在動詞後面" mark="danced a lot">
       <NoteWords
         :size="28"
         :parts="[
@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們聽了音樂，也跳了很多舞。</p>
     </NoteSlide>
 
-    <NoteSlide title="動詞有受詞時，a lot 和 so much 放在受詞後面" mark="a lot">
+    <NoteSlide title="動詞有受詞時，a lot 和 so much 放在受詞後面">
       <div class="rows is-labeled">
         <div>
           <span class="term">a lot</span>
@@ -72,7 +72,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="a lot 不放在動詞和受詞中間" mark="a lot">
+    <NoteSlide title="a lot 不放在動詞和受詞中間">
       <NoteFix wrong="I like a lot this song." right="I like this song a lot." fix="a lot" />
     </NoteSlide>
 
@@ -81,11 +81,19 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="so much 不放在動詞前面">
-      <NoteFix wrong="I so much love this city." right="I love this city so much." fix="so much" />
+      <NoteFix
+        wrong="My daughter so much enjoys her ballet class."
+        right="My daughter enjoys her ballet class so much."
+        fix="so much"
+      />
     </NoteSlide>
 
     <NoteSlide title="a lot 是兩個字" mark="a lot">
-      <NoteFix wrong="We laughed alot." right="We laughed a lot." fix="a lot" />
+      <NoteFix
+        wrong="My cousins visited alot this summer."
+        right="My cousins visited a lot this summer."
+        fix="a lot"
+      />
     </NoteSlide>
 
     <NoteSlide title="a lot 修飾動詞，a lot of 後面接名詞" mark="a lot">
@@ -103,9 +111,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">修飾動詞</span>
           <span
-            ><NoteMark sentence="I love you so much." :marks="['so much']" /><span
+            ><NoteMark sentence="Our dog misses you so much." :marks="['so much']" /><span
               class="translation"
-              >我好愛你。</span
+              >我們的狗好想你。</span
             ></span
           >
         </div>

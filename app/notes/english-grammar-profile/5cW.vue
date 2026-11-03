@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="26"
         :parts="[
           { t: 'You', role: '主詞' },
-          { t: 'look', role: 'look', kind: 'key', ring: true },
+          { t: 'look', role: '連綴動詞', kind: 'key', ring: true },
           { t: 'tired.', role: '形容詞', kind: 'key' },
           { t: 'Did you sleep well?', kind: 'dim' },
         ]"
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">你看起來很累，你有睡好嗎？</p>
     </NoteSlide>
 
-    <NoteSlide title="feel 說人的感覺，也說摸起來的感覺" mark="looks">
+    <NoteSlide title="feel 說人的感覺，也說摸起來的感覺">
       <div class="rows is-labeled">
         <div>
           <span class="term">人 + feel</span>
@@ -41,16 +41,16 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">東西 + feel</span>
           <span
-            ><NoteMark sentence="This sweater feels soft." :marks="['feels soft']" /><span
+            ><NoteMark sentence="The baby's hair feels so soft." :marks="['feels so soft']" /><span
               class="translation"
-              >這件毛衣摸起來很軟。</span
+              >寶寶的頭髮摸起來好軟。</span
             ></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="look 後面接形容詞，不用副詞" mark="perfect">
+    <NoteSlide title="look 後面接形容詞，不用副詞" mark="looks perfect">
       <NoteFix
         wrong="You look beautifully in your wedding photos."
         right="You look beautiful in your wedding photos."
@@ -58,7 +58,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="feel 前面不加 am" mark="looks">
+    <NoteSlide title="feel 前面不加 am">
       <NoteFix
         wrong="I am feel sick after the boat ride."
         right="I feel sick after the boat ride."
@@ -66,7 +66,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="第三人稱單數的 feel 要加 -s" mark="looks">
+    <NoteSlide title="主詞是第三人稱單數，動詞加 -s" mark="it looks">
       <NoteFix wrong="This sweater feel soft." right="This sweater feels soft." fix="feels" />
     </NoteSlide>
   </NoteDeck>

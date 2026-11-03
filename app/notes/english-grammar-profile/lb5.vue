@@ -12,12 +12,12 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="a bit 放在比較級前面，表示差一點" mark="a little bit">
+    <NoteSlide title="a bit 放在比較級前面，表示差一點" mark="a little bit older">
       <NoteWords
         :size="24"
         :parts="[
           { t: 'This jacket is', kind: 'dim' },
-          { t: 'a bit', role: 'a bit', kind: 'key', ring: true },
+          { t: 'a bit', role: '程度', kind: 'key', ring: true },
           { t: 'cheaper', role: '比較級', kind: 'key' },
           { t: 'than that one.', role: 'than + 比較的對象' },
         ]"
@@ -57,12 +57,26 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="長的形容詞用 a bit more" mark="older">
+    <NoteSlide title="長的形容詞用 a bit more">
       <NoteMark
         sentence="The hotel was a bit more expensive than we planned."
         :marks="['a bit more expensive']"
       />
       <p class="translation">旅館比我們預計的貴一點。</p>
+    </NoteSlide>
+
+    <NoteSlide title="a bit 加比較級也可以放在 look、feel、get 後面">
+      <NoteWords
+        :size="24"
+        :parts="[
+          { t: 'I', role: '主詞' },
+          { t: 'feel', role: '動詞', kind: 'key', ring: true },
+          { t: 'a bit', role: '程度', kind: 'key' },
+          { t: 'better', role: '比較級', kind: 'key' },
+          { t: 'after some sleep.', kind: 'dim' },
+        ]"
+      />
+      <p class="translation">睡了一下之後，我覺得好一點了。</p>
     </NoteSlide>
 
     <NoteSlide title="bit 前面要加 a" mark="a little bit">
@@ -73,7 +87,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="有 than 的句子要用比較級" mark="older">
+    <NoteSlide title="有 than 的句子要用比較級" mark="older than">
       <NoteFix
         wrong="My room is a bit small than yours."
         right="My room is a bit smaller than yours."

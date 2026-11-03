@@ -7407,22 +7407,22 @@
     "name": "a (little) bit 修飾比較級形容詞",
     "sentences": [
       "I like both jackets, but I'll take the green one. This jacket is a bit cheaper than that one.",
-      "People think Max is the older brother, but he's a bit shorter than his brother.",
+      "Max is two years older than his brother, but he's a bit shorter.",
       "We had two cooking lessons on Saturday. The second lesson was a bit longer.",
       "My shoulder hurts from carrying the red bag. Is the blue bag a bit lighter?",
       "We swam in the lake again this morning. The water was a bit colder than yesterday.",
-      "My company moved me to the third floor. My new office is a bit quieter.",
+      "My company moved me to the top floor. My new office is a bit quieter.",
       "Our neighbours don't have room for a pool. Their garden is a bit smaller than ours.",
       "Sara and I were born in the same year. She's a little bit younger than me.",
       "Did you add more salt? The soup is a little bit saltier today.",
-      "Let's dance in the big hall. The music is a little bit louder in this room.",
+      "Let's dance in this room. The music is a little bit louder in here.",
       "I stopped using that shampoo. My hair is a little bit darker now.",
       "The kids can see the board better this year. The new chairs are a little bit higher.",
       "I finished the maths test early. It was a little bit easier than last time.",
       "We stayed by the sea in August. The hotel was a bit more expensive than we planned.",
-      "That's the second glass this week. Could you be a bit more careful with the plates?",
+      "That's the second glass this week. Could you be a bit more careful with the glasses?",
       "I didn't like the first film much. The second film was a bit more exciting.",
-      "Ken and his sister are both quiet, but Ken is a little bit more reticent than his sister.",
+      "Ken and his sister are both quiet, but Ken is a bit more reticent than his sister.",
       "Drive slowly on the hill road. This road is a bit more dangerous at night.",
       "We looked at two rooms in the hotel. The second room was a little larger.",
       "The bus costs two pounds now. Prices are a little higher this year.",
@@ -7446,8 +7446,8 @@
             "zh": "兩件外套我都喜歡，不過我買綠色那件。這件外套比那件便宜一點。"
           },
           {
-            "en": "People think Max is the older brother, but he's a bit shorter than his brother.",
-            "zh": "大家都以為 Max 是哥哥，不過他比他哥哥矮一點。"
+            "en": "Max is two years older than his brother, but he's a bit shorter.",
+            "zh": "Max 比他弟弟大兩歲，不過他矮一點。"
           },
           {
             "en": "We had two cooking lessons on Saturday. The second lesson was a bit longer.",
@@ -7462,8 +7462,8 @@
             "zh": "我們今天早上又去湖裡游泳。水比昨天冷一點。"
           },
           {
-            "en": "My company moved me to the third floor. My new office is a bit quieter.",
-            "zh": "公司把我調到四樓。我的新辦公室安靜一點。"
+            "en": "My company moved me to the top floor. My new office is a bit quieter.",
+            "zh": "公司把我調到頂樓。我的新辦公室安靜一點。"
           },
           {
             "en": "Our neighbours don't have room for a pool. Their garden is a bit smaller than ours.",
@@ -7483,8 +7483,8 @@
             "zh": "你多加了鹽嗎？今天的湯鹹一點。"
           },
           {
-            "en": "Let's dance in the big hall. The music is a little bit louder in this room.",
-            "zh": "我們去大廳跳舞吧。這個房間的音樂大聲一點。"
+            "en": "Let's dance in this room. The music is a little bit louder in here.",
+            "zh": "我們在這個房間跳舞吧。這裡的音樂大聲一點。"
           },
           {
             "en": "I stopped using that shampoo. My hair is a little bit darker now.",
@@ -7508,15 +7508,15 @@
             "zh": "我們八月住在海邊。旅館比我們預計的貴一點。"
           },
           {
-            "en": "That's the second glass this week. Could you be a bit more careful with the plates?",
-            "zh": "這是這星期第二個杯子了。你拿盤子可以小心一點嗎？"
+            "en": "That's the second glass this week. Could you be a bit more careful with the glasses?",
+            "zh": "這是這星期第二個杯子了。你拿杯子可以小心一點嗎？"
           },
           {
             "en": "I didn't like the first film much. The second film was a bit more exciting.",
             "zh": "我不太喜歡第一部電影。第二部電影刺激一點。"
           },
           {
-            "en": "Ken and his sister are both quiet, but Ken is a little bit more reticent than his sister.",
+            "en": "Ken and his sister are both quiet, but Ken is a bit more reticent than his sister.",
             "zh": "Ken 和他姊姊都很安靜，不過 Ken 比他姊姊話少一點。"
           },
           {

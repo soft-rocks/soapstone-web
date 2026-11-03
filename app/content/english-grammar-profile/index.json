@@ -4259,13 +4259,13 @@
       "I've got my laptop and all my books. My bag is heavier than yours.",
       "I can't sleep with the traffic outside. The city is noisier than the countryside.",
       "Don't take a day off on Saturday. Saturdays are busier than Sundays at the shop.",
-      "Everyone laughed at your story. Your joke was funnier than mine.",
+      "Everyone laughed at your joke. It was funnier than mine.",
       "Give the kids an apple after school. Fruit is healthier than sweets.",
       "Ken won a car in a competition. He's luckier than his brother.",
       "Clean the kitchen first. The kitchen is dirtier than the living room.",
       "I finally met Tom's girlfriend. She's prettier than her photo.",
       "I broke the window with my football. Dad was angrier than Mum.",
-      "The trees had flowers in February. This year, spring came earlier than usual.",
+      "The trees had flowers in February. Spring was earlier than usual this year.",
       "My little brother got a drum set for his birthday. He's noisier than ever.",
       "I didn't like the start of the book, but the last chapter was funnier.",
       "We moved the kids to a smaller school. They look happier now.",
@@ -4310,8 +4310,8 @@
             "zh": "星期六別請假。店裡星期六比星期天忙。"
           },
           {
-            "en": "Everyone laughed at your story. Your joke was funnier than mine.",
-            "zh": "大家都被你的故事逗笑了。你的笑話比我的好笑。"
+            "en": "Everyone laughed at your joke. It was funnier than mine.",
+            "zh": "大家都被你的笑話逗笑了。你的笑話比我的好笑。"
           },
           {
             "en": "Give the kids an apple after school. Fruit is healthier than sweets.",
@@ -4334,8 +4334,8 @@
             "zh": "我踢足球打破了窗戶。爸爸比媽媽更生氣。"
           },
           {
-            "en": "The trees had flowers in February. This year, spring came earlier than usual.",
-            "zh": "二月樹就開花了。今年春天來得比平常早。"
+            "en": "The trees had flowers in February. Spring was earlier than usual this year.",
+            "zh": "二月樹就開花了。今年的春天比平常早。"
           },
           {
             "en": "My little brother got a drum set for his birthday. He's noisier than ever.",

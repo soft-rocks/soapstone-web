@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="the + 最高級 + 名詞可以當主詞、受詞或補語" mark="the latest technology">
+    <NoteSlide title="最高級的名詞片語可以當主詞、受詞或補語" mark="the latest technology">
       <div class="rows is-labeled">
         <div>
           <span class="term">主詞</span>
@@ -44,7 +44,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="名詞加 's 可以代替 the" mark="the latest">
+    <NoteSlide title="名詞加 's 可以代替 the">
       <NoteMark
         sentence="Taipei 101 was once the world's tallest building."
         :marks="['the world\'s tallest']"
@@ -60,19 +60,19 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="用了 Europe's 就不加 the" mark="the latest">
+    <NoteSlide title="用了 Europe's 就不加 the">
       <NoteFix
-        wrong="It's the Europe's biggest beach."
-        right="It's Europe's biggest beach."
+        wrong="The Volga is the Europe's longest river."
+        right="The Volga is Europe's longest river."
         fix="Europe's"
       />
     </NoteSlide>
 
-    <NoteSlide title="最好的要用最高級 best" mark="latest">
+    <NoteSlide title="最高級後面不接 than，範圍用 in 或 of">
       <NoteFix
-        wrong="This is the good restaurant in town."
-        right="This is the best restaurant in town."
-        fix="best"
+        wrong="Yesterday was the hottest day than the other days this year."
+        right="Yesterday was the hottest day of the year."
+        fix="of"
       />
     </NoteSlide>
   </NoteDeck>

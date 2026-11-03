@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="undoubtedly 放在 be 後面，表示毫無疑問">
+    <NoteSlide title="undoubtedly 放在 be 後面，表示毫無疑問" mark="was undoubtedly">
       <NoteWords
         :size="28"
         :parts="[
@@ -25,24 +25,24 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">那無疑是一次難忘的經驗。</p>
     </NoteSlide>
 
-    <NoteSlide title="確定程度副詞也可以放在一般動詞前面或句首" mark="undoubtedly">
+    <NoteSlide title="確定程度副詞也可以放在一般動詞前面或句首">
       <div class="rows is-labeled">
         <div>
           <span class="term">一般動詞前面</span>
           <span
             ><NoteMark
-              sentence="I absolutely need new clothes for your party."
+              sentence="I absolutely need a new laptop for work."
               :marks="['absolutely need']"
-            /><span class="translation">我絕對需要為你的派對買新衣服。</span></span
+            /><span class="translation">我工作絕對需要一台新筆電。</span></span
           >
         </div>
         <div>
           <span class="term">句首</span>
           <span
             ><NoteMark
-              sentence="Presumably, they've cancelled the meeting."
+              sentence="Presumably, the cat got out through the window."
               :marks="['Presumably,']"
-            /><span class="translation">想必他們已經取消會議了。</span></span
+            /><span class="translation">想必貓是從窗戶跑出去的。</span></span
           >
         </div>
       </div>
@@ -83,13 +83,13 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="undoubtedly 不和 maybe 一起用" mark="undoubtedly">
       <NoteFix
-        wrong="Maybe he is undoubtedly the best player."
-        right="He is undoubtedly the best player."
-        fix="He is undoubtedly"
+        wrong="Maybe our goalkeeper is undoubtedly the best in the league."
+        right="Our goalkeeper is undoubtedly the best in the league."
+        fix="Our goalkeeper"
       />
     </NoteSlide>
 
-    <NoteSlide title="確定程度副詞放在助動詞和原形動詞中間" mark="undoubtedly">
+    <NoteSlide title="確定程度副詞放在助動詞和原形動詞中間">
       <NoteFix
         wrong="She will win undoubtedly the prize."
         right="She will undoubtedly win the prize."

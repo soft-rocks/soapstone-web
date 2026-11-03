@@ -17,7 +17,7 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="22"
         :parts="[
           { t: 'Ken is', kind: 'dim' },
-          { t: 'by far', role: 'by far', kind: 'key', ring: true },
+          { t: 'by far', role: '加強', kind: 'key', ring: true },
           { t: 'the tallest', role: 'the + 最高級', kind: 'key' },
           { t: 'in the class.', kind: 'dim' },
         ]"
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">Ken 是班上最高的，比其他人高很多。</p>
     </NoteSlide>
 
-    <NoteSlide title="by far 也可以放在名詞後面" mark="by far">
+    <NoteSlide title="by far 也可以放在名詞後面">
       <NoteMark sentence="She's the fastest runner by far." :marks="['by far']" />
       <p class="translation">她是跑得最快的，其他人差遠了。</p>
     </NoteSlide>
@@ -46,11 +46,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="by far 後面的最高級要加 the" mark="the most exciting">
+    <NoteSlide title="by far 加強最高級，不放在原級前面" mark="the most exciting">
       <NoteFix
-        wrong="Ken is by far tallest in the class."
-        right="Ken is by far the tallest in the class."
-        fix="the tallest"
+        wrong="The lake is by far beautiful."
+        right="The lake is by far the most beautiful place in the park."
+        fix="the most beautiful"
       />
     </NoteSlide>
   </NoteDeck>

@@ -22656,16 +22656,16 @@
     "name": "really really 加強語氣",
     "sentences": [
       "The view from our balcony was really really beautiful.",
-      "I'm really really tired today.",
+      "I didn't sleep last night. I'm really really tired now.",
       "Your cake is really really good!",
       "My maths homework is really really difficult this week.",
       "It's really really cold outside.",
       "That was a really really long day.",
       "I really really want to go to the concert.",
-      "She really really loves her new puppy.",
+      "My sister really really loves her new puppy.",
       "We really really need a holiday.",
-      "I really really hope you can come.",
-      "He really really hates getting up early.",
+      "I really really hope you like the present.",
+      "My brother really really hates getting up early.",
       "My kids really really enjoyed the water park.",
       "Thanks for the present. I really really like it!",
       "Sorry I'm late. The traffic was really really bad.",
@@ -22675,7 +22675,7 @@
       "You look really really happy in this photo.",
       "Do you really really think so?",
       "Are you really really sure?",
-      "Was it really really your idea?",
+      "Is your new phone really really waterproof?",
       "Do you really really need another pair of shoes?",
       "My grandmother is very very old.",
       "The film was very very sad.",
@@ -22695,8 +22695,8 @@
             "zh": "從我們陽台看出去的景色真的真的很美。"
           },
           {
-            "en": "I'm really really tired today.",
-            "zh": "我今天真的真的很累。"
+            "en": "I didn't sleep last night. I'm really really tired now.",
+            "zh": "我昨晚沒睡。我現在真的真的很累。"
           },
           {
             "en": "Your cake is really really good!",
@@ -22724,20 +22724,20 @@
             "zh": "我真的真的很想去那場演唱會。"
           },
           {
-            "en": "She really really loves her new puppy.",
-            "zh": "她真的真的很愛她的新小狗。"
+            "en": "My sister really really loves her new puppy.",
+            "zh": "我妹妹真的真的很愛她的新小狗。"
           },
           {
             "en": "We really really need a holiday.",
             "zh": "我們真的真的需要放個假。"
           },
           {
-            "en": "I really really hope you can come.",
-            "zh": "我真的真的希望你能來。"
+            "en": "I really really hope you like the present.",
+            "zh": "我真的真的希望你喜歡這份禮物。"
           },
           {
-            "en": "He really really hates getting up early.",
-            "zh": "他真的真的很討厭早起。"
+            "en": "My brother really really hates getting up early.",
+            "zh": "我哥哥真的真的很討厭早起。"
           },
           {
             "en": "My kids really really enjoyed the water park.",
@@ -22786,8 +22786,8 @@
             "zh": "你真的真的確定嗎？"
           },
           {
-            "en": "Was it really really your idea?",
-            "zh": "那真的真的是你的主意嗎？"
+            "en": "Is your new phone really really waterproof?",
+            "zh": "你的新手機真的真的防水嗎？"
           },
           {
             "en": "Do you really really need another pair of shoes?",

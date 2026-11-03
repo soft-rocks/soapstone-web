@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="really 重複一次，加強形容詞">
+    <NoteSlide title="really 重複一次，加強形容詞" mark="really really">
       <NoteWords
         :size="26"
         :parts="[
@@ -25,29 +25,29 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我不太喜歡足球，所以我覺得足球真的真的很無聊。</p>
     </NoteSlide>
 
-    <NoteSlide title="really really 也可以放在一般動詞前面" mark="really really">
+    <NoteSlide title="really really 也可以放在一般動詞前面">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'I', role: '主詞', kind: 'dim' },
+          { t: 'We', role: '主詞', kind: 'dim' },
           { t: 'really really', role: '程度副詞', kind: 'key' },
-          { t: 'like', role: '一般動詞' },
-          { t: 'her smile.', role: '受詞' },
+          { t: 'enjoyed', role: '一般動詞' },
+          { t: 'the trip to Scotland.', role: '受詞' },
         ]"
       />
-      <p class="translation">我真的真的很喜歡她的笑容。</p>
+      <p class="translation">我們真的真的很喜歡那趟蘇格蘭之旅。</p>
     </NoteSlide>
 
     <NoteSlide title="very 也可以重複">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'The water was', role: '主詞 + be', kind: 'dim' },
+          { t: 'This tea is', role: '主詞 + be', kind: 'dim' },
           { t: 'very very', role: '程度副詞', kind: 'key' },
-          { t: 'cold.', role: '形容詞' },
+          { t: 'strong.', role: '形容詞' },
         ]"
       />
-      <p class="translation">水非常非常冷。</p>
+      <p class="translation">這杯茶非常非常濃。</p>
     </NoteSlide>
 
     <NoteSlide title="重複的 really 中間不加 and" mark="really really">
@@ -58,7 +58,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="really really 不放在動詞和受詞中間" mark="really really">
+    <NoteSlide title="really really 不放在動詞和受詞中間">
       <NoteFix
         wrong="I want really really a new bike."
         right="I really really want a new bike."

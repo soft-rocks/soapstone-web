@@ -6670,9 +6670,9 @@
       "The hotel lift was broken, and our room was at the very top of the building.",
       "My grandmother told me a sad story about her father. He died on the very day his son was born.",
       "The questions aren't hard. The major problem with the exam is the time limit.",
-      "Sorry we're late. There was a major accident on the highway.",
+      "Sorry we're late. There was a major accident on the motorway.",
       "In my family, we eat rice twice a day. It's a major part of our diet.",
-      "Ten million people visit Kyoto every year. The city is a major center for tourism.",
+      "Ten million people visit Kyoto every year. The city is a major centre for tourism.",
       "The doctor told my uncle to stop smoking. Smoking is a major cause of illness.",
       "The other team was much better than us. We won by sheer luck.",
       "The idea that cats hate music is utter rubbish.",
@@ -6680,10 +6680,10 @@
       "We told the kids about the trip to Disneyland. They screamed with sheer joy.",
       "We lost our bags, and then I broke my leg. The trip was an utter disaster.",
       "A tree fell onto the bus stop. It was pure luck that nobody was hurt.",
-      "Can I get his autograph? I'm a huge fan of his music.",
-      "Buy my mum a black-and-white DVD. She's a big fan of old movies.",
+      "I've got all of Ed's albums. I'm a huge fan of his music.",
+      "Get my mum a DVD for her birthday. She's a big fan of old films.",
       "My little sister is a big talker at dinner.",
-      "She's a big reader. She finishes a book every week.",
+      "My grandmother is a big reader. She finishes a book every week.",
       "My dad never misses a match on TV. He's a huge football fan.",
       "We were lucky to wake up. The fire started in the very room where we slept.",
       "The streets in Venice all look the same. Getting lost was a major problem on our first day.",
@@ -6735,7 +6735,7 @@
             "zh": "題目不難。這個考試最大的問題是時間限制。"
           },
           {
-            "en": "Sorry we're late. There was a major accident on the highway.",
+            "en": "Sorry we're late. There was a major accident on the motorway.",
             "zh": "抱歉我們遲到了。高速公路上發生了重大車禍。"
           },
           {
@@ -6743,7 +6743,7 @@
             "zh": "我們家一天吃兩次米飯。它是我們飲食的主要部分。"
           },
           {
-            "en": "Ten million people visit Kyoto every year. The city is a major center for tourism.",
+            "en": "Ten million people visit Kyoto every year. The city is a major centre for tourism.",
             "zh": "每年有一千萬人去京都。這座城市是主要的觀光中心。"
           },
           {
@@ -6785,20 +6785,20 @@
         "heading": "④ huge / big + 名詞（說人）",
         "items": [
           {
-            "en": "Can I get his autograph? I'm a huge fan of his music.",
-            "zh": "我可以請他簽名嗎？我超喜歡他的音樂。"
+            "en": "I've got all of Ed's albums. I'm a huge fan of his music.",
+            "zh": "我有 Ed 所有的專輯。我超喜歡他的音樂。"
           },
           {
-            "en": "Buy my mum a black-and-white DVD. She's a big fan of old movies.",
-            "zh": "買一張黑白片的 DVD 給我媽。她很喜歡老電影。"
+            "en": "Get my mum a DVD for her birthday. She's a big fan of old films.",
+            "zh": "買一張 DVD 給我媽當生日禮物吧。她很喜歡老電影。"
           },
           {
             "en": "My little sister is a big talker at dinner.",
             "zh": "我妹妹吃晚餐時話很多。"
           },
           {
-            "en": "She's a big reader. She finishes a book every week.",
-            "zh": "她很愛看書，每個禮拜看完一本。"
+            "en": "My grandmother is a big reader. She finishes a book every week.",
+            "zh": "我奶奶很愛看書，每個禮拜看完一本。"
           },
           {
             "en": "My dad never misses a match on TV. He's a huge football fan.",

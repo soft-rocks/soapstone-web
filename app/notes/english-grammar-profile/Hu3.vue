@@ -16,8 +16,9 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'I hope', role: '主詞 + 動詞', kind: 'dim' },
-          { t: 'you get well', role: '子句' },
+          { t: 'I hope', role: '主句', kind: 'dim' },
+          { t: 'you', role: '主詞' },
+          { t: 'get well', role: '動詞' },
           { t: 'very', role: '程度副詞', kind: 'key' },
           { t: 'soon.', role: '時間副詞', kind: 'key' },
         ]"

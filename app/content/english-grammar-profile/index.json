@@ -21861,64 +21861,64 @@
     "translation": "我希望你很快就好起來。",
     "name": "very 修飾時間副詞",
     "sentences": [
-      "The bus will be here very soon.",
-      "We need an answer very soon.",
+      "Get your coat on. The taxi will be here very soon.",
+      "The landlord has another family interested in the flat. We need an answer very soon.",
       "Dinner's nearly ready. We'll eat very soon.",
-      "My cousin is getting married very soon.",
-      "Write back very soon!",
-      "The rain will stop very soon.",
-      "The sun comes up very early in summer.",
-      "My lessons start very early on Tuesdays.",
-      "The baby woke up very early today.",
-      "Do you always go to bed very early?",
-      "They left the party very early.",
-      "The plane arrived very late.",
-      "He often works very late.",
-      "We stayed up very late last night.",
-      "Don't come home very late, OK?",
-      "The shops are open very late on Thursdays.",
-      "I don't see my grandparents very often.",
-      "It rains very often here in spring.",
-      "Do you go swimming very often?",
-      "My sister very often borrows my clothes.",
-      "We don't eat meat very often.",
-      "I moved to this town very recently.",
-      "They opened a new café very recently.",
-      "She has very recently changed jobs.",
-      "The school has very recently bought new computers.",
-      "I've very recently started learning the guitar.",
-      "I have to get up really early tomorrow.",
-      "The film finished really late.",
-      "See you really soon!",
-      "My brother texts me really often."
+      "My cousin sent out her wedding invitations yesterday. She's getting married very soon.",
+      "I loved your long letter. Write back very soon!",
+      "Don't take the umbrella. The rain will stop very soon.",
+      "It's light at four in the morning. The sun comes up very early in summer.",
+      "I can't go out on Monday nights. My lessons start very early on Tuesdays.",
+      "We're all tired. The baby woke up very early today.",
+      "I called you at nine, and you were asleep. Do you always go to bed very early?",
+      "My parents were tired after the wedding. They left the party very early.",
+      "We waited at the airport until midnight. The plane arrived very late.",
+      "My husband is a chef. He often works very late.",
+      "We watched the election results. We stayed up very late last night.",
+      "You have school tomorrow. Don't come home very late, OK?",
+      "You can shop after work. The shops are open very late on Thursdays.",
+      "My grandparents live in Scotland, and I live in Spain. I don't see them very often.",
+      "Always bring an umbrella. It very often rains here in spring.",
+      "You have a swimming bag in your car. Do you go swimming very often?",
+      "We're the same size. My sister very often borrows my clothes.",
+      "My daughter is a vegetarian. We don't eat meat very often.",
+      "I don't know the area yet. I moved to this town very recently.",
+      "A new café opened on the corner very recently. Let's try it.",
+      "Anna works at a bank now. She has very recently changed jobs.",
+      "Every classroom has laptops now. The school has very recently bought new computers.",
+      "My fingers hurt. I've very recently started learning the guitar.",
+      "My flight leaves at six. I have to get up really early tomorrow.",
+      "We missed the last bus. The film finished really late.",
+      "Your flight lands on Friday morning. I'll see you really soon!",
+      "He's studying in Berlin, but he texts me really often."
     ],
     "examples": [
       {
         "heading": "① very soon",
         "items": [
           {
-            "en": "The bus will be here very soon.",
-            "zh": "公車很快就到了。"
+            "en": "Get your coat on. The taxi will be here very soon.",
+            "zh": "穿上外套。計程車很快就到了。"
           },
           {
-            "en": "We need an answer very soon.",
-            "zh": "我們很快就需要答覆。"
+            "en": "The landlord has another family interested in the flat. We need an answer very soon.",
+            "zh": "房東還有另一家人對這間公寓有興趣。我們很快就需要答覆。"
           },
           {
             "en": "Dinner's nearly ready. We'll eat very soon.",
             "zh": "晚餐快好了。我們很快就開飯。"
           },
           {
-            "en": "My cousin is getting married very soon.",
-            "zh": "我表姊很快就要結婚了。"
+            "en": "My cousin sent out her wedding invitations yesterday. She's getting married very soon.",
+            "zh": "我表姊昨天寄出了喜帖。她很快就要結婚了。"
           },
           {
-            "en": "Write back very soon!",
-            "zh": "早點回信喔！"
+            "en": "I loved your long letter. Write back very soon!",
+            "zh": "我很喜歡你的長信。早點回信喔！"
           },
           {
-            "en": "The rain will stop very soon.",
-            "zh": "雨很快就會停了。"
+            "en": "Don't take the umbrella. The rain will stop very soon.",
+            "zh": "別帶傘了。雨很快就會停了。"
           }
         ]
       },
@@ -21926,24 +21926,24 @@
         "heading": "② very early",
         "items": [
           {
-            "en": "The sun comes up very early in summer.",
-            "zh": "夏天太陽很早就出來了。"
+            "en": "It's light at four in the morning. The sun comes up very early in summer.",
+            "zh": "早上四點天就亮了。夏天太陽很早就出來了。"
           },
           {
-            "en": "My lessons start very early on Tuesdays.",
-            "zh": "我星期二的課很早就開始。"
+            "en": "I can't go out on Monday nights. My lessons start very early on Tuesdays.",
+            "zh": "我星期一晚上不能出門。我星期二的課很早就開始。"
           },
           {
-            "en": "The baby woke up very early today.",
-            "zh": "寶寶今天很早就醒了。"
+            "en": "We're all tired. The baby woke up very early today.",
+            "zh": "我們都很累。寶寶今天很早就醒了。"
           },
           {
-            "en": "Do you always go to bed very early?",
-            "zh": "你都很早就睡嗎？"
+            "en": "I called you at nine, and you were asleep. Do you always go to bed very early?",
+            "zh": "我九點打給你，你已經睡了。你都很早就睡嗎？"
           },
           {
-            "en": "They left the party very early.",
-            "zh": "他們很早就離開派對了。"
+            "en": "My parents were tired after the wedding. They left the party very early.",
+            "zh": "我爸媽參加完婚禮很累。他們很早就離開派對了。"
           }
         ]
       },
@@ -21951,24 +21951,24 @@
         "heading": "③ very late",
         "items": [
           {
-            "en": "The plane arrived very late.",
-            "zh": "飛機很晚才到。"
+            "en": "We waited at the airport until midnight. The plane arrived very late.",
+            "zh": "我們在機場等到半夜。飛機很晚才到。"
           },
           {
-            "en": "He often works very late.",
-            "zh": "他常常工作到很晚。"
+            "en": "My husband is a chef. He often works very late.",
+            "zh": "我先生是廚師。他常常工作到很晚。"
           },
           {
-            "en": "We stayed up very late last night.",
-            "zh": "我們昨晚熬夜到很晚。"
+            "en": "We watched the election results. We stayed up very late last night.",
+            "zh": "我們看了選舉結果。我們昨晚熬夜到很晚。"
           },
           {
-            "en": "Don't come home very late, OK?",
-            "zh": "別太晚回家，好嗎？"
+            "en": "You have school tomorrow. Don't come home very late, OK?",
+            "zh": "你明天要上學。別太晚回家，好嗎？"
           },
           {
-            "en": "The shops are open very late on Thursdays.",
-            "zh": "商店星期四開到很晚。"
+            "en": "You can shop after work. The shops are open very late on Thursdays.",
+            "zh": "你可以下班後去買東西。商店星期四開到很晚。"
           }
         ]
       },
@@ -21976,24 +21976,24 @@
         "heading": "④ very often",
         "items": [
           {
-            "en": "I don't see my grandparents very often.",
-            "zh": "我不常見到我祖父母。"
+            "en": "My grandparents live in Scotland, and I live in Spain. I don't see them very often.",
+            "zh": "我祖父母住在蘇格蘭，我住在西班牙。我不常見到他們。"
           },
           {
-            "en": "It rains very often here in spring.",
-            "zh": "這裡春天很常下雨。"
+            "en": "Always bring an umbrella. It very often rains here in spring.",
+            "zh": "一定要帶傘。這裡春天很常下雨。"
           },
           {
-            "en": "Do you go swimming very often?",
-            "zh": "你常去游泳嗎？"
+            "en": "You have a swimming bag in your car. Do you go swimming very often?",
+            "zh": "你車上有一個游泳包。你常去游泳嗎？"
           },
           {
-            "en": "My sister very often borrows my clothes.",
-            "zh": "我妹妹很常借我的衣服。"
+            "en": "We're the same size. My sister very often borrows my clothes.",
+            "zh": "我們穿一樣的尺寸。我妹妹很常借我的衣服。"
           },
           {
-            "en": "We don't eat meat very often.",
-            "zh": "我們不常吃肉。"
+            "en": "My daughter is a vegetarian. We don't eat meat very often.",
+            "zh": "我女兒吃素。我們不常吃肉。"
           }
         ]
       },
@@ -22001,24 +22001,24 @@
         "heading": "⑤ very recently",
         "items": [
           {
-            "en": "I moved to this town very recently.",
-            "zh": "我最近才搬到這個鎮上。"
+            "en": "I don't know the area yet. I moved to this town very recently.",
+            "zh": "我還不熟這一帶。我最近才搬到這個鎮上。"
           },
           {
-            "en": "They opened a new café very recently.",
-            "zh": "他們最近才開了一家新的咖啡館。"
+            "en": "A new café opened on the corner very recently. Let's try it.",
+            "zh": "轉角最近才開了一家新的咖啡館。我們去試試看。"
           },
           {
-            "en": "She has very recently changed jobs.",
-            "zh": "她最近才換了工作。"
+            "en": "Anna works at a bank now. She has very recently changed jobs.",
+            "zh": "Anna 現在在銀行上班。她最近才換了工作。"
           },
           {
-            "en": "The school has very recently bought new computers.",
-            "zh": "學校最近才買了新電腦。"
+            "en": "Every classroom has laptops now. The school has very recently bought new computers.",
+            "zh": "每間教室現在都有筆電。學校最近才買了新電腦。"
           },
           {
-            "en": "I've very recently started learning the guitar.",
-            "zh": "我最近才開始學吉他。"
+            "en": "My fingers hurt. I've very recently started learning the guitar.",
+            "zh": "我的手指好痛。我最近才開始學吉他。"
           }
         ]
       },
@@ -22026,20 +22026,20 @@
         "heading": "⑥ really + 時間副詞",
         "items": [
           {
-            "en": "I have to get up really early tomorrow.",
-            "zh": "我明天得很早起床。"
+            "en": "My flight leaves at six. I have to get up really early tomorrow.",
+            "zh": "我的班機六點起飛。我明天得很早起床。"
           },
           {
-            "en": "The film finished really late.",
-            "zh": "電影很晚才結束。"
+            "en": "We missed the last bus. The film finished really late.",
+            "zh": "我們錯過了最後一班公車。電影很晚才結束。"
           },
           {
-            "en": "See you really soon!",
-            "zh": "很快就會見到你！"
+            "en": "Your flight lands on Friday morning. I'll see you really soon!",
+            "zh": "你的班機星期五早上降落。我很快就會見到你了！"
           },
           {
-            "en": "My brother texts me really often.",
-            "zh": "我哥哥很常傳訊息給我。"
+            "en": "He's studying in Berlin, but he texts me really often.",
+            "zh": "他在柏林念書，不過他很常傳訊息給我。"
           }
         ]
       }

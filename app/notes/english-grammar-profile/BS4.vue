@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="a little 放在動詞後面，表示程度不高">
+    <NoteSlide title="a little 放在動詞後面，表示程度不高" mark="a little">
       <NoteWords
         :size="26"
         :parts="[
@@ -31,15 +31,15 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">動詞 + 受詞 + a little</span>
           <span
             ><NoteMark
-              sentence="I read my book a little before bed."
-              :marks="['my book a little']"
-            /><span class="translation">我睡前看一下書。</span></span
+              sentence="I practise the guitar a little every evening."
+              :marks="['the guitar a little']"
+            /><span class="translation">我每天晚上都練一下吉他。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="a little 和 a bit 也可以表示時間不長" mark="a little">
+    <NoteSlide title="a little 和 a bit 表示程度不高，也可以表示時間不長" mark="a little">
       <div class="rows is-labeled">
         <div>
           <span class="term">程度不高</span>
@@ -53,8 +53,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">時間不長</span>
           <span
-            ><NoteMark sentence="Can you wait a bit?" :marks="['a bit']" /><span class="translation"
-              >你可以等一下嗎？</span
+            ><NoteMark sentence="Wait here a bit. I'll get the car." :marks="['a bit.']" /><span
+              class="translation"
+              >在這裡等一下。我去開車過來。</span
             ></span
           >
         </div>
@@ -78,7 +79,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="a bit 的 bit 不加 s">
-      <NoteFix wrong="Can you wait a bits?" right="Can you wait a bit?" fix="bit?" />
+      <NoteFix
+        wrong="The old man stopped to rest a bits on the hill."
+        right="The old man stopped to rest a bit on the hill."
+        fix="bit"
+      />
     </NoteSlide>
 
     <NoteSlide title="a bit 不放在動詞和受詞中間">
@@ -94,10 +99,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">a little</span>
           <span
-            ><NoteMark sentence="I eat a little in the morning." :marks="['a little']" /><span
-              class="translation"
-              >我早上吃一點東西。</span
-            ></span
+            ><NoteMark
+              sentence="In the morning, I eat a little before work."
+              :marks="['a little']"
+            /><span class="translation">早上上班前我會吃一點東西。</span></span
           >
         </div>
         <div>

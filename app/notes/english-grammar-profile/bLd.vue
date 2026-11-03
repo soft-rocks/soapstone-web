@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="very 修飾有程度高低的形容詞">
+    <NoteSlide title="very 修飾有程度高低的形容詞" mark="very good">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我的老師很好。</p>
     </NoteSlide>
 
-    <NoteSlide title="very 加形容詞也可以放在名詞前面" mark="very good">
+    <NoteSlide title="very 加形容詞也可以放在名詞前面">
       <div class="rows is-labeled">
         <div>
           <span class="term">a + very + 形容詞 + 名詞</span>
@@ -76,7 +76,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="已經表示程度最高的形容詞，前面不加 very" mark="very">
+    <NoteSlide title="已經表示程度最高的形容詞，前面不加 very">
       <NoteFix
         wrong="The concert was very excellent."
         right="The concert was excellent."
@@ -93,8 +93,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="修飾形容詞用 very，不用 very much" mark="very">
       <NoteFix
-        wrong="The bed is very much comfortable."
-        right="The bed is very comfortable."
+        wrong="My new office chair is very much comfortable."
+        right="My new office chair is very comfortable."
         fix="very"
       />
     </NoteSlide>

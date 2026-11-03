@@ -21469,74 +21469,74 @@
     "translation": "我的老師很好。",
     "name": "very 當程度副詞修飾形容詞",
     "sentences": [
-      "My home is very warm in winter.",
-      "Our neighbours are very friendly.",
-      "The bread is very fresh.",
-      "This question is very difficult.",
-      "Her parents were very angry.",
-      "The weather was very bad yesterday.",
-      "Are you very busy this week?",
-      "The kitchen isn't very big.",
-      "Rome is a very beautiful city.",
-      "I have a very important question.",
-      "That was a very interesting lesson.",
-      "She wears very bright colours.",
-      "We had a very quick lunch.",
-      "He lives in a very quiet street.",
-      "They sell very cheap clothes.",
-      "The cake smells very good.",
+      "We have good heating and thick walls. My home is very warm in winter.",
+      "Our neighbours brought us flowers on our first day. They're very friendly.",
+      "I bought this bread at the bakery this morning. It's very fresh.",
+      "Nobody in the class knew the answer. The last question was very difficult.",
+      "Lily came home at two in the morning. Her parents were very angry.",
+      "We stayed inside all day. The weather was very bad yesterday.",
+      "I want to have lunch with you. Are you very busy this week?",
+      "We can't all cook at the same time. The kitchen isn't very big.",
+      "You should visit Rome in the spring. It's a very beautiful city.",
+      "Before you go, I have a very important question.",
+      "We learned about volcanoes today. That was a very interesting lesson.",
+      "You can always find Aunt Mary at a party. She wears very bright colours.",
+      "The meeting started at one. We had a very quick lunch.",
+      "My uncle doesn't like noise. He lives in a very quiet street.",
+      "Students love the shop on the corner. They sell very cheap clothes.",
+      "Mum is baking a chocolate cake. It smells very good.",
       "Your sister looks very pretty in that dress.",
-      "I felt very sad when he left.",
-      "The music sounds very loud from here.",
-      "It got very dark outside.",
-      "The view from the top was absolutely amazing.",
-      "Their new house is absolutely huge.",
-      "After the long walk, we were absolutely starving.",
-      "The hotel staff were absolutely brilliant.",
-      "His jokes are really funny.",
-      "I'm really sorry about your cat.",
-      "This soup is really delicious.",
-      "The shoes were really cheap.",
-      "Is your town very old?",
+      "My best friend moved to Canada. I felt very sad when he left.",
+      "The neighbours are having a party. The music sounds very loud from here.",
+      "We stayed in the park until seven. It got very dark outside.",
+      "We climbed the tower in Siena. The view from the top was absolutely amazing.",
+      "My cousins have eight bedrooms. Their new house is absolutely huge.",
+      "We didn't eat anything on the hike. After the long walk, we were absolutely starving.",
+      "The hotel staff found my lost bag and drove it to the airport. They were absolutely brilliant.",
+      "Everyone laughs at my uncle's stories. His jokes are really funny.",
+      "I heard about Tiger. I'm really sorry about your cat.",
+      "Can I have the recipe? This soup is really delicious.",
+      "I went to the market on Sunday. The shoes there were really cheap, so I bought two pairs.",
+      "I'm visiting your town next month. Is it very old?",
       "\"Was the exam difficult?\" \"Yes, very difficult.\"",
-      "\"Are you tired?\" \"Not very.\"",
-      "Do you live in a very big house?"
+      "\"You've been walking all day. Are you tired?\" \"Not very.\"",
+      "You have five children. Do you live in a very big house?"
     ],
     "examples": [
       {
         "heading": "① 主詞 + be + very + 形容詞",
         "items": [
           {
-            "en": "My home is very warm in winter.",
-            "zh": "我家冬天很暖和。"
+            "en": "We have good heating and thick walls. My home is very warm in winter.",
+            "zh": "我們家暖氣很好，牆也很厚。我家冬天很暖和。"
           },
           {
-            "en": "Our neighbours are very friendly.",
-            "zh": "我們的鄰居很友善。"
+            "en": "Our neighbours brought us flowers on our first day. They're very friendly.",
+            "zh": "我們搬來第一天，鄰居就送花來。他們很友善。"
           },
           {
-            "en": "The bread is very fresh.",
-            "zh": "這個麵包很新鮮。"
+            "en": "I bought this bread at the bakery this morning. It's very fresh.",
+            "zh": "這個麵包是我今天早上在麵包店買的。很新鮮。"
           },
           {
-            "en": "This question is very difficult.",
-            "zh": "這個問題很難。"
+            "en": "Nobody in the class knew the answer. The last question was very difficult.",
+            "zh": "班上沒有人知道答案。最後一題很難。"
           },
           {
-            "en": "Her parents were very angry.",
-            "zh": "她的爸媽很生氣。"
+            "en": "Lily came home at two in the morning. Her parents were very angry.",
+            "zh": "Lily 凌晨兩點才回家。她的爸媽很生氣。"
           },
           {
-            "en": "The weather was very bad yesterday.",
-            "zh": "昨天天氣很差。"
+            "en": "We stayed inside all day. The weather was very bad yesterday.",
+            "zh": "我們整天待在室內。昨天天氣很差。"
           },
           {
-            "en": "Are you very busy this week?",
-            "zh": "你這禮拜很忙嗎？"
+            "en": "I want to have lunch with you. Are you very busy this week?",
+            "zh": "我想跟你吃午餐。你這禮拜很忙嗎？"
           },
           {
-            "en": "The kitchen isn't very big.",
-            "zh": "廚房不太大。"
+            "en": "We can't all cook at the same time. The kitchen isn't very big.",
+            "zh": "我們沒辦法同時煮飯。廚房不太大。"
           }
         ]
       },
@@ -21544,32 +21544,32 @@
         "heading": "② very + 形容詞 + 名詞",
         "items": [
           {
-            "en": "Rome is a very beautiful city.",
-            "zh": "羅馬是個很美的城市。"
+            "en": "You should visit Rome in the spring. It's a very beautiful city.",
+            "zh": "你應該春天去羅馬。那是個很美的城市。"
           },
           {
-            "en": "I have a very important question.",
-            "zh": "我有一個很重要的問題。"
+            "en": "Before you go, I have a very important question.",
+            "zh": "你走之前，我有一個很重要的問題。"
           },
           {
-            "en": "That was a very interesting lesson.",
-            "zh": "那是一堂很有意思的課。"
+            "en": "We learned about volcanoes today. That was a very interesting lesson.",
+            "zh": "我們今天學了火山。那是一堂很有意思的課。"
           },
           {
-            "en": "She wears very bright colours.",
-            "zh": "她穿很鮮豔的顏色。"
+            "en": "You can always find Aunt Mary at a party. She wears very bright colours.",
+            "zh": "你在派對上總是找得到 Mary 阿姨。她穿很鮮豔的顏色。"
           },
           {
-            "en": "We had a very quick lunch.",
-            "zh": "我們很快地吃了午餐。"
+            "en": "The meeting started at one. We had a very quick lunch.",
+            "zh": "會議一點開始。我們很快地吃了午餐。"
           },
           {
-            "en": "He lives in a very quiet street.",
-            "zh": "他住在一條很安靜的街上。"
+            "en": "My uncle doesn't like noise. He lives in a very quiet street.",
+            "zh": "我叔叔不喜歡吵。他住在一條很安靜的街上。"
           },
           {
-            "en": "They sell very cheap clothes.",
-            "zh": "他們賣很便宜的衣服。"
+            "en": "Students love the shop on the corner. They sell very cheap clothes.",
+            "zh": "學生都很喜歡轉角那家店。他們賣很便宜的衣服。"
           }
         ]
       },
@@ -21577,24 +21577,24 @@
         "heading": "③ 連綴動詞 + very + 形容詞",
         "items": [
           {
-            "en": "The cake smells very good.",
-            "zh": "蛋糕聞起來很香。"
+            "en": "Mum is baking a chocolate cake. It smells very good.",
+            "zh": "媽媽在烤巧克力蛋糕。蛋糕聞起來很香。"
           },
           {
             "en": "Your sister looks very pretty in that dress.",
             "zh": "你姊姊穿那件洋裝很漂亮。"
           },
           {
-            "en": "I felt very sad when he left.",
-            "zh": "他離開的時候我很難過。"
+            "en": "My best friend moved to Canada. I felt very sad when he left.",
+            "zh": "我最好的朋友搬去加拿大了。他離開的時候我很難過。"
           },
           {
-            "en": "The music sounds very loud from here.",
-            "zh": "從這裡聽，音樂很大聲。"
+            "en": "The neighbours are having a party. The music sounds very loud from here.",
+            "zh": "鄰居在開派對。從這裡聽，音樂很大聲。"
           },
           {
-            "en": "It got very dark outside.",
-            "zh": "外面天色變得很暗。"
+            "en": "We stayed in the park until seven. It got very dark outside.",
+            "zh": "我們在公園待到七點。外面天色變得很暗。"
           }
         ]
       },
@@ -21602,20 +21602,20 @@
         "heading": "④ absolutely + 表示程度最高的形容詞",
         "items": [
           {
-            "en": "The view from the top was absolutely amazing.",
-            "zh": "從頂端看出去的景色美極了。"
+            "en": "We climbed the tower in Siena. The view from the top was absolutely amazing.",
+            "zh": "我們爬上了西恩納的塔。從頂端看出去的景色美極了。"
           },
           {
-            "en": "Their new house is absolutely huge.",
-            "zh": "他們的新房子大得不得了。"
+            "en": "My cousins have eight bedrooms. Their new house is absolutely huge.",
+            "zh": "我表哥一家有八間臥室。他們的新房子大得不得了。"
           },
           {
-            "en": "After the long walk, we were absolutely starving.",
-            "zh": "走了那麼久，我們都餓死了。"
+            "en": "We didn't eat anything on the hike. After the long walk, we were absolutely starving.",
+            "zh": "我們健行時什麼都沒吃。走了那麼久，我們都餓死了。"
           },
           {
-            "en": "The hotel staff were absolutely brilliant.",
-            "zh": "飯店的員工棒極了。"
+            "en": "The hotel staff found my lost bag and drove it to the airport. They were absolutely brilliant.",
+            "zh": "飯店的員工找到我弄丟的包包，還開車送到機場。他們棒極了。"
           }
         ]
       },
@@ -21623,20 +21623,20 @@
         "heading": "⑤ really + 形容詞",
         "items": [
           {
-            "en": "His jokes are really funny.",
-            "zh": "他的笑話真的很好笑。"
+            "en": "Everyone laughs at my uncle's stories. His jokes are really funny.",
+            "zh": "大家都被我叔叔的故事逗笑。他的笑話真的很好笑。"
           },
           {
-            "en": "I'm really sorry about your cat.",
-            "zh": "你的貓的事，我真的很遺憾。"
+            "en": "I heard about Tiger. I'm really sorry about your cat.",
+            "zh": "我聽說 Tiger 的事了。你的貓的事，我真的很遺憾。"
           },
           {
-            "en": "This soup is really delicious.",
-            "zh": "這碗湯真的很好喝。"
+            "en": "Can I have the recipe? This soup is really delicious.",
+            "zh": "可以給我食譜嗎？這碗湯真的很好喝。"
           },
           {
-            "en": "The shoes were really cheap.",
-            "zh": "那雙鞋真的很便宜。"
+            "en": "I went to the market on Sunday. The shoes there were really cheap, so I bought two pairs.",
+            "zh": "我星期天去了市場。那裡的鞋子真的很便宜，所以我買了兩雙。"
           }
         ]
       },
@@ -21644,20 +21644,20 @@
         "heading": "⑥ 疑問句和回答",
         "items": [
           {
-            "en": "Is your town very old?",
-            "zh": "你住的城鎮很古老嗎？"
+            "en": "I'm visiting your town next month. Is it very old?",
+            "zh": "我下個月要去你住的城鎮。那裡很古老嗎？"
           },
           {
             "en": "\"Was the exam difficult?\" \"Yes, very difficult.\"",
             "zh": "考試難嗎？難，很難。"
           },
           {
-            "en": "\"Are you tired?\" \"Not very.\"",
-            "zh": "你累嗎？不太累。"
+            "en": "\"You've been walking all day. Are you tired?\" \"Not very.\"",
+            "zh": "你走了一整天。你累嗎？不太累。"
           },
           {
-            "en": "Do you live in a very big house?",
-            "zh": "你住的房子很大嗎？"
+            "en": "You have five children. Do you live in a very big house?",
+            "zh": "你有五個孩子。你住的房子很大嗎？"
           }
         ]
       }

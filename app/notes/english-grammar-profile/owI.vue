@@ -23,7 +23,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們的新醫生心地很善良。</p>
     </NoteSlide>
 
-    <NoteSlide title="名詞 + 動詞-ing，說事情給人的感覺" mark="easy-going">
+    <NoteSlide title="名詞 + 動詞-ing，多半說事情給人的感覺">
       <NoteWords
         :size="26"
         :parts="[
@@ -35,7 +35,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">那是讓人看到下巴都掉下來的景色。</p>
     </NoteSlide>
 
-    <NoteSlide title="副詞 / 形容詞 + 過去分詞，說東西被怎麼樣了" mark="open-minded">
+    <NoteSlide title="副詞 / 名詞 + 過去分詞，有被動的意思">
       <NoteWords
         :size="24"
         :parts="[
@@ -47,10 +47,22 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們終於去了期待已久的旅行。</p>
     </NoteSlide>
 
-    <NoteSlide title="self- 和固定的片語" mark="easy-going and open-minded">
+    <NoteSlide title="形容詞 + 動詞-ing，說人的個性" mark="easy-going">
+      <NoteWords
+        :size="26"
+        :parts="[
+          { t: 'Are you', kind: 'dim' },
+          { t: 'easy-going', role: '形容詞 + 動詞-ing', kind: 'key', ring: true },
+          { t: 'about food?', kind: 'dim' },
+        ]"
+      />
+      <p class="translation">你對吃的東西很隨和嗎？</p>
+    </NoteSlide>
+
+    <NoteSlide title="self- 和固定的片語">
       <div class="rows is-labeled">
         <div>
-          <span class="term">self- + 形容詞</span>
+          <span class="term">self- + 形容詞或過去分詞</span>
           <span
             ><NoteMark
               sentence="She's a self-confident speaker."
@@ -78,7 +90,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="說東西給人的感覺，用動詞-ing" mark="easy-going">
+    <NoteSlide title="說東西給人的感覺，用動詞-ing">
       <NoteFix
         wrong="They made an eye-caught poster."
         right="They made an eye-catching poster."

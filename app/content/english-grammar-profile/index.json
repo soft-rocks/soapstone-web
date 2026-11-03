@@ -5367,29 +5367,29 @@
       "Ann's bike is new. She got it for her birthday.",
       "My grandfather is old, but he walks every day.",
       "Wait a minute. The pizza is very hot.",
-      "I'm hungry. What's for dinner, Mom?",
-      "My parents are happy with my new school.",
+      "I'm hungry. What's for dinner, Mum?",
+      "My new school has a big library and a pool. My parents are happy with it.",
       "The kids are quiet today. Are they sick?",
-      "We're ready. Let's go to the station.",
-      "Your hands are cold. Put on your gloves.",
+      "We've got our bags and tickets. We're ready. Let's go to the station.",
+      "You've been outside in the snow. Your hands are cold. Put on your gloves.",
       "These bananas are still green, so don't eat them yet.",
-      "The concert was loud, and my ears hurt.",
+      "We stood next to the speakers. The concert was loud, and my ears hurt.",
       "Our holiday was great. The weather was sunny every day.",
-      "The hotel rooms were small but clean.",
-      "I was tired after the long walk.",
-      "The questions on the test were easy for me.",
+      "We only paid forty euros a night. The hotel rooms were small but clean.",
+      "We walked fifteen kilometres on Saturday. I was tired after the long walk.",
+      "I finished the test in twenty minutes. The questions were easy for me.",
       "Don't worry. The dog isn't dangerous.",
       "My room isn't big, but it has a nice view.",
       "These shoes aren't new. They're my sister's old ones.",
       "I'm not sleepy yet. Can I watch TV?",
-      "The bus wasn't late today, for once.",
-      "The museum isn't open on Mondays.",
-      "Is your new room big?",
+      "We got to work on time. The bus wasn't late today, for once.",
+      "Let's go to the museum on Tuesday. It isn't open on Mondays.",
+      "You moved into the big house last week. Is your new room big?",
       "You didn't eat lunch. Are you hungry now?",
-      "Is the coffee still hot?",
-      "Was the party fun last night?",
-      "Are the people at your new job friendly?",
-      "Is the station far from your hotel?"
+      "I made the coffee an hour ago. Is it still hot?",
+      "You came home at two in the morning. Was the party fun last night?",
+      "You started your new job on Monday. Are the people there friendly?",
+      "We want to walk to the train. Is the station far from your hotel?"
     ],
     "examples": [
       {
@@ -5429,24 +5429,24 @@
         "heading": "② 主詞 + am / are + 形容詞",
         "items": [
           {
-            "en": "I'm hungry. What's for dinner, Mom?",
+            "en": "I'm hungry. What's for dinner, Mum?",
             "zh": "媽，我餓了，晚餐吃什麼？"
           },
           {
-            "en": "My parents are happy with my new school.",
-            "zh": "我爸媽很滿意我的新學校。"
+            "en": "My new school has a big library and a pool. My parents are happy with it.",
+            "zh": "我的新學校有大圖書館和游泳池。我爸媽很滿意。"
           },
           {
             "en": "The kids are quiet today. Are they sick?",
             "zh": "孩子們今天很安靜，他們生病了嗎？"
           },
           {
-            "en": "We're ready. Let's go to the station.",
-            "zh": "我們準備好了，去車站吧。"
+            "en": "We've got our bags and tickets. We're ready. Let's go to the station.",
+            "zh": "我們拿好行李和票了。我們準備好了，去車站吧。"
           },
           {
-            "en": "Your hands are cold. Put on your gloves.",
-            "zh": "你的手好冰，戴上手套吧。"
+            "en": "You've been outside in the snow. Your hands are cold. Put on your gloves.",
+            "zh": "你在外面的雪地裡待了好久。你的手好冰，戴上手套吧。"
           },
           {
             "en": "These bananas are still green, so don't eat them yet.",
@@ -5458,24 +5458,24 @@
         "heading": "③ 主詞 + was / were + 形容詞",
         "items": [
           {
-            "en": "The concert was loud, and my ears hurt.",
-            "zh": "演唱會很吵，我耳朵好痛。"
+            "en": "We stood next to the speakers. The concert was loud, and my ears hurt.",
+            "zh": "我們站在喇叭旁邊。演唱會很吵，我耳朵好痛。"
           },
           {
             "en": "Our holiday was great. The weather was sunny every day.",
             "zh": "我們的假期很棒，每天都出太陽。"
           },
           {
-            "en": "The hotel rooms were small but clean.",
-            "zh": "飯店的房間很小，但是很乾淨。"
+            "en": "We only paid forty euros a night. The hotel rooms were small but clean.",
+            "zh": "我們一晚只付了四十歐元。飯店的房間很小，但是很乾淨。"
           },
           {
-            "en": "I was tired after the long walk.",
-            "zh": "走了一大段路以後，我很累。"
+            "en": "We walked fifteen kilometres on Saturday. I was tired after the long walk.",
+            "zh": "我們星期六走了十五公里。走了一大段路以後，我很累。"
           },
           {
-            "en": "The questions on the test were easy for me.",
-            "zh": "考試的題目對我來說很簡單。"
+            "en": "I finished the test in twenty minutes. The questions were easy for me.",
+            "zh": "我二十分鐘就寫完考試。題目對我來說很簡單。"
           }
         ]
       },
@@ -5499,12 +5499,12 @@
             "zh": "我還不睏，可以看電視嗎？"
           },
           {
-            "en": "The bus wasn't late today, for once.",
-            "zh": "公車今天難得沒有誤點。"
+            "en": "We got to work on time. The bus wasn't late today, for once.",
+            "zh": "我們準時到公司。公車今天難得沒有誤點。"
           },
           {
-            "en": "The museum isn't open on Mondays.",
-            "zh": "博物館星期一不開放。"
+            "en": "Let's go to the museum on Tuesday. It isn't open on Mondays.",
+            "zh": "我們星期二去博物館吧。博物館星期一不開放。"
           }
         ]
       },
@@ -5512,28 +5512,28 @@
         "heading": "⑤ 問句",
         "items": [
           {
-            "en": "Is your new room big?",
-            "zh": "你的新房間大嗎？"
+            "en": "You moved into the big house last week. Is your new room big?",
+            "zh": "你上星期搬進那棟大房子。你的新房間大嗎？"
           },
           {
             "en": "You didn't eat lunch. Are you hungry now?",
             "zh": "你沒吃午餐，現在餓了嗎？"
           },
           {
-            "en": "Is the coffee still hot?",
-            "zh": "咖啡還是熱的嗎？"
+            "en": "I made the coffee an hour ago. Is it still hot?",
+            "zh": "咖啡是我一個小時前泡的。還是熱的嗎？"
           },
           {
-            "en": "Was the party fun last night?",
-            "zh": "昨晚的派對好玩嗎？"
+            "en": "You came home at two in the morning. Was the party fun last night?",
+            "zh": "你凌晨兩點才回家。昨晚的派對好玩嗎？"
           },
           {
-            "en": "Are the people at your new job friendly?",
-            "zh": "你新工作的同事友善嗎？"
+            "en": "You started your new job on Monday. Are the people there friendly?",
+            "zh": "你星期一開始新工作。那裡的同事友善嗎？"
           },
           {
-            "en": "Is the station far from your hotel?",
-            "zh": "車站離你的飯店遠嗎？"
+            "en": "We want to walk to the train. Is the station far from your hotel?",
+            "zh": "我們想走路去搭火車。車站離你的飯店遠嗎？"
           }
         ]
       }

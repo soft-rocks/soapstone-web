@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="英文的形容詞前面要有 be" mark="is lovely">
+    <NoteSlide title="形容詞放在 be 後面，說明主詞" mark="is lovely">
       <NoteWords
         :size="26"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">中文說「廚房很小」，英文要加 <code>is</code>。</p>
     </NoteSlide>
 
-    <NoteSlide title="否定加 not，問句把 be 放在前面" mark="is">
+    <NoteSlide title="否定在 be 後面加 not，問句把 be 放在主詞前面">
       <div class="rows is-labeled">
         <div>
           <span class="term">否定</span>
@@ -47,20 +47,38 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="過去用 was 和 were" mark="is">
-      <NoteMark sentence="The hotel rooms were small but clean." :marks="['were']" />
-      <p class="translation">飯店的房間很小，但是很乾淨。</p>
+    <NoteSlide title="過去用 was 和 were">
+      <div class="rows is-labeled">
+        <div>
+          <span class="term">was</span>
+          <span
+            ><NoteMark sentence="I was tired after the long walk." :marks="['was']" /><span
+              class="translation"
+              >走了一大段路以後，我很累。</span
+            ></span
+          >
+        </div>
+        <div>
+          <span class="term">were</span>
+          <span
+            ><NoteMark sentence="The hotel rooms were small but clean." :marks="['were']" /><span
+              class="translation"
+              >飯店的房間很小，但是很乾淨。</span
+            ></span
+          >
+        </div>
+      </div>
     </NoteSlide>
 
     <NoteSlide title="主詞和形容詞中間要有 be" mark="is">
-      <NoteFix wrong="My bedroom big." right="My bedroom is big." fix="is" />
+      <NoteFix wrong="Our new classroom big." right="Our new classroom is big." fix="is" />
     </NoteSlide>
 
-    <NoteSlide title="主詞是複數，用 are" mark="is">
+    <NoteSlide title="主詞是複數，用 are">
       <NoteFix wrong="My parents is happy." right="My parents are happy." fix="are" />
     </NoteSlide>
 
-    <NoteSlide title="主詞是複數時，形容詞也不加 -s" mark="lovely">
+    <NoteSlide title="主詞是複數時，形容詞也不加 -s">
       <NoteFix wrong="The rooms are bigs." right="The rooms are big." fix="big" />
     </NoteSlide>
   </NoteDeck>

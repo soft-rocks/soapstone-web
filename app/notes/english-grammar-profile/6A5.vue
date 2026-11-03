@@ -58,7 +58,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="長的形容詞重複 more" mark="smaller and smaller">
+    <NoteSlide title="長的形容詞重複 more">
       <NoteWords
         :size="24"
         :parts="[
@@ -70,7 +70,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">火車越來越擠。</p>
     </NoteSlide>
 
-    <NoteSlide title="不規則的比較級也重複" mark="smaller and smaller">
+    <NoteSlide title="不規則的比較級也重複">
       <NoteMark
         sentence="The view got better and better as we climbed."
         :marks="['better and better']"
@@ -78,7 +78,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們越爬，風景越好。</p>
     </NoteSlide>
 
-    <NoteSlide title="長的形容詞只重複 more" mark="smaller and smaller">
+    <NoteSlide title="長的形容詞只重複 more">
       <NoteFix
         wrong="Holidays abroad are becoming more expensive and more expensive."
         right="Holidays abroad are becoming more and more expensive."

@@ -757,7 +757,7 @@
       "He told us an amusing story about his first job.",
       "My grandmother wears traditional clothes at New Year.",
       "My uncle runs a small bakery in Tainan.",
-      "This market sells delicious fresh fruit.",
+      "This market sells fresh fruit from local farms.",
       "Busy people often skip breakfast.",
       "It's going to snow in the mountains. We need warm clothes for the trip.",
       "The town has narrow streets and old houses.",
@@ -775,11 +775,11 @@
       "Book a room at the Lake View. It's a quiet and comfortable hotel.",
       "I asked my manager about the meeting time. He wrote back a short and simple email.",
       "We all like the big flat by the park. The main problem is the cost.",
-      "My favorite singer is coming to Taipei.",
+      "My favourite singer is coming to Taipei.",
       "This old photo shows my parents at school.",
       "Start studying this weekend. The final exam is next Friday.",
       "Have you seen the new Italian restaurant on Park Street? There's a queue outside every night.",
-      "Our next-door neighbor is a famous writer."
+      "Our next-door neighbour is a famous writer."
     ],
     "examples": [
       {
@@ -819,8 +819,8 @@
         "heading": "② 形容詞 + 複數 / 不可數名詞",
         "items": [
           {
-            "en": "This market sells delicious fresh fruit.",
-            "zh": "這個市場賣好吃的新鮮水果。"
+            "en": "This market sells fresh fruit from local farms.",
+            "zh": "這個市場賣當地農場的新鮮水果。"
           },
           {
             "en": "Busy people often skip breakfast.",
@@ -906,7 +906,7 @@
             "zh": "我們都喜歡公園旁邊那間大公寓。最主要的問題是費用。"
           },
           {
-            "en": "My favorite singer is coming to Taipei.",
+            "en": "My favourite singer is coming to Taipei.",
             "zh": "我最喜歡的歌手要來台北了。"
           },
           {
@@ -922,7 +922,7 @@
             "zh": "你看過公園街那家新開的義大利餐廳嗎？每天晚上外面都在排隊。"
           },
           {
-            "en": "Our next-door neighbor is a famous writer.",
+            "en": "Our next-door neighbour is a famous writer.",
             "zh": "我們隔壁的鄰居是一位有名的作家。"
           }
         ]

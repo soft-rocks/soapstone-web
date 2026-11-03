@@ -12,7 +12,21 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="兩個以上的形容詞照順序排" mark="main character">
+    <NoteSlide title="限定詞 + 形容詞 + 名詞" mark="The main character">
+      <NoteWords
+        :size="26"
+        :parts="[
+          { t: 'We ate at', kind: 'dim' },
+          { t: 'a', role: '限定詞' },
+          { t: 'famous', role: '形容詞', kind: 'key', ring: true },
+          { t: 'restaurant', role: '名詞', kind: 'key' },
+          { t: 'by the river.', kind: 'dim' },
+        ]"
+      />
+      <p class="translation">我們在河邊一家有名的餐廳吃飯。</p>
+    </NoteSlide>
+
+    <NoteSlide title="兩個以上的形容詞照順序排">
       <NoteWords
         :size="24"
         :parts="[
@@ -20,14 +34,14 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'beautiful', role: '評價', kind: 'key' },
           { t: 'old', role: '年紀', kind: 'key' },
           { t: 'wooden', role: '材料', kind: 'key' },
-          { t: 'table.', role: '名詞', ring: true },
+          { t: 'table.', role: '名詞' },
         ]"
       />
       <p class="translation">我們買了一張漂亮的舊木桌。</p>
-      <p class="remark">順序：評價、大小、年紀、顏色、來源、材料。</p>
+      <p class="remark">順序：評價、大小、長短、年紀、顏色、來源、材料。</p>
     </NoteSlide>
 
-    <NoteSlide title="長短放在顏色前面" mark="main">
+    <NoteSlide title="長短放在顏色前面">
       <NoteWords
         :size="26"
         :parts="[
@@ -40,7 +54,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我姊姊有一頭漂亮的深色長髮。</p>
     </NoteSlide>
 
-    <NoteSlide title="兩個形容詞中間可以加 and" mark="main character">
+    <NoteSlide title="兩個形容詞中間可以加 and">
       <NoteMark
         sentence="Let's watch this one tonight. It's an amusing and exciting action film."
         :marks="['amusing and exciting']"
@@ -56,7 +70,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="顏色放在材料前面" mark="main">
+    <NoteSlide title="顏色放在材料前面">
       <NoteFix
         wrong="My aunt wears a cotton white shirt to work."
         right="My aunt wears a white cotton shirt to work."

@@ -27,18 +27,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">the only + 名詞</span>
           <span
             ><NoteMark
-              sentence="She was the only person at the bus stop."
+              sentence="My sister was the only person at the bus stop."
               :marks="['the only person']"
-            /><span class="translation">她是公車站唯一的人。</span></span
+            /><span class="translation">我姊姊是公車站唯一的人。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
     <NoteSlide title="main 和 only 只放在名詞前面" mark="only thing">
-      <NoteMark sentence="This is the main entrance." :marks="['main entrance']" />
-      <p class="translation">這是主要入口。</p>
-      <p class="remark">不寫 <code>This entrance is main</code>。</p>
+      <NoteMark sentence="That big door is the main entrance." :marks="['main entrance']" />
+      <p class="translation">那扇大門是主要入口。</p>
+      <p class="remark">不寫 <code>That entrance is main</code>。</p>
     </NoteSlide>
 
     <NoteSlide title="the only + 名詞後面常接子句" mark="that I didn't like">
@@ -61,15 +61,19 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="main 不放在 be 後面" mark="only thing">
-      <NoteFix wrong="This reason is main." right="This is the main reason." fix="main reason" />
+    <NoteSlide title="main 不放在 be 後面">
+      <NoteFix
+        wrong="Price is main for me."
+        right="Price is the main thing for me."
+        fix="main thing"
+      />
     </NoteSlide>
 
-    <NoteSlide title="main 後面要接名詞" mark="only thing">
+    <NoteSlide title="main 後面要接名詞">
       <NoteFix
-        wrong="Money is the main for me."
-        right="Money is the main problem for me."
-        fix="main problem"
+        wrong="Swimming is my main in summer."
+        right="Swimming is my main sport in summer."
+        fix="main sport"
       />
     </NoteSlide>
   </NoteDeck>

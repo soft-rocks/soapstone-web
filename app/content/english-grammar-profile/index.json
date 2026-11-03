@@ -6848,93 +6848,94 @@
     "translation": "我唯一不喜歡的就是天氣。",
     "name": "限制名詞的形容詞 main、only",
     "sentences": [
-      "The main reason I'm learning English is my job.",
-      "Turn left at the main road.",
-      "The main problem with this flat is the noise.",
-      "Meet me at the main entrance at six.",
-      "What's the main idea of this story?",
-      "The main dish was chicken with rice.",
-      "Rice is the main food in many Asian countries.",
-      "My main goal this year is to get fit.",
-      "Our main office is in Taipei.",
-      "Swimming is my main hobby.",
-      "His main worry is money.",
-      "Their main concern was the children's safety.",
-      "She was the only person at the bus stop.",
-      "This is the only key to the house.",
-      "Is this the only bus to the airport?",
-      "Ken was the only student in the class with a car.",
-      "The only way to the beach is down these stairs.",
-      "It was the only free table in the café.",
-      "The only thing I forgot was my toothbrush.",
-      "You're the only one who knows the password.",
-      "The only time I'm free is Sunday morning.",
-      "The only problem we had was the weather.",
-      "That's the only shop that sells fresh bread here.",
-      "The only word I understood was \"hello.\"",
-      "I'm an only child.",
-      "She's their only daughter.",
-      "This is my only coat, so I can't lose it.",
-      "My only question is the price.",
-      "His only brother is a doctor in Tainan.",
-      "Their only son lives in Canada."
+      "My company opened an office in London. The main reason I'm learning English is my job.",
+      "Go straight past the church. Turn left at the main road.",
+      "The flat is cheap, but it's above a bar. The main problem with this flat is the noise.",
+      "The museum has three doors. Meet me at the main entrance at six.",
+      "You've read the whole story now. What's the main idea of the story?",
+      "We had soup first. The main dish was chicken with rice.",
+      "People eat rice three times a day in Vietnam. Rice is the main food in many Asian countries.",
+      "I joined a gym in January. My main goal this year is to get fit.",
+      "We have small offices in three cities. Our main office is in Taipei.",
+      "I go to the pool four times a week. Swimming is my main hobby.",
+      "My brother lost his job last month. His main worry is money.",
+      "The parents asked the school about the new road. Their main concern was the children's safety.",
+      "It was midnight. My sister was the only person at the bus stop.",
+      "This is the only key to the house. Don't lose it.",
+      "We missed the 6:15. Is this the only bus to the airport?",
+      "Ken drove everyone home after parties. He was the only student in the class with a car.",
+      "The path along the cliff is closed. The only way to the beach is down these stairs.",
+      "We sat at the table by the window. It was the only free table in the café.",
+      "I packed in a hurry, but the only thing I forgot was my toothbrush.",
+      "I can't open the computer. You're the only one who knows the password.",
+      "I work six days a week. The only time I'm free is Sunday morning.",
+      "The hotel and the food were great. The only problem we had was the weather.",
+      "Buy your bread at Rosie's. That's the only shop that sells fresh bread here.",
+      "The bus driver spoke very fast in Greek. The only word I understood was \"hello\".",
+      "My parents only had me. I'm an only child.",
+      "Mr and Mrs Lin have three boys and a girl. Amy is their only daughter.",
+      "It's very cold this winter. This is my only coat, so I can't lose it.",
+      "I like the flat a lot. My only question is about the price.",
+      "Leo doesn't have much family. His only brother is a doctor in Tainan.",
+      "The old couple live alone now. Their only son lives in Canada.",
+      "Lucy grew up alone with her mum. She's an only child."
     ],
     "examples": [
       {
         "heading": "① the main + 名詞",
         "items": [
           {
-            "en": "The main reason I'm learning English is my job.",
-            "zh": "我學英文最主要的原因是工作。"
+            "en": "My company opened an office in London. The main reason I'm learning English is my job.",
+            "zh": "我的公司在倫敦開了辦公室。我學英文最主要的原因是工作。"
           },
           {
-            "en": "Turn left at the main road.",
-            "zh": "在大馬路左轉。"
+            "en": "Go straight past the church. Turn left at the main road.",
+            "zh": "經過教堂直走。在大馬路左轉。"
           },
           {
-            "en": "The main problem with this flat is the noise.",
-            "zh": "這間公寓最主要的問題是太吵。"
+            "en": "The flat is cheap, but it's above a bar. The main problem with this flat is the noise.",
+            "zh": "這間公寓很便宜，不過在一間酒吧樓上。這間公寓最主要的問題是太吵。"
           },
           {
-            "en": "Meet me at the main entrance at six.",
-            "zh": "六點在大門口跟我碰面。"
+            "en": "The museum has three doors. Meet me at the main entrance at six.",
+            "zh": "博物館有三個門。六點在大門口跟我碰面。"
           },
           {
-            "en": "What's the main idea of this story?",
-            "zh": "這個故事的主旨是什麼？"
+            "en": "You've read the whole story now. What's the main idea of the story?",
+            "zh": "你現在讀完整個故事了。這個故事的主旨是什麼？"
           },
           {
-            "en": "The main dish was chicken with rice.",
-            "zh": "主菜是雞肉飯。"
+            "en": "We had soup first. The main dish was chicken with rice.",
+            "zh": "我們先喝湯。主菜是雞肉飯。"
           },
           {
-            "en": "Rice is the main food in many Asian countries.",
-            "zh": "在很多亞洲國家，米飯是主食。"
+            "en": "People eat rice three times a day in Vietnam. Rice is the main food in many Asian countries.",
+            "zh": "越南人一天吃三次米飯。在很多亞洲國家，米飯是主食。"
           }
         ]
       },
       {
-        "heading": "② my / our + main + 名詞",
+        "heading": "② my / our / his / their + main + 名詞",
         "items": [
           {
-            "en": "My main goal this year is to get fit.",
-            "zh": "我今年最主要的目標是把身體練好。"
+            "en": "I joined a gym in January. My main goal this year is to get fit.",
+            "zh": "我一月加入了健身房。我今年最主要的目標是把身體練好。"
           },
           {
-            "en": "Our main office is in Taipei.",
-            "zh": "我們的總公司在台北。"
+            "en": "We have small offices in three cities. Our main office is in Taipei.",
+            "zh": "我們在三個城市有小辦公室。我們的總公司在台北。"
           },
           {
-            "en": "Swimming is my main hobby.",
-            "zh": "游泳是我最主要的嗜好。"
+            "en": "I go to the pool four times a week. Swimming is my main hobby.",
+            "zh": "我一個星期去游泳池四次。游泳是我最主要的嗜好。"
           },
           {
-            "en": "His main worry is money.",
-            "zh": "他最擔心的是錢。"
+            "en": "My brother lost his job last month. His main worry is money.",
+            "zh": "我哥哥上個月丟了工作。他最擔心的是錢。"
           },
           {
-            "en": "Their main concern was the children's safety.",
-            "zh": "他們最在意的是孩子們的安全。"
+            "en": "The parents asked the school about the new road. Their main concern was the children's safety.",
+            "zh": "家長問學校新馬路的事。他們最在意的是孩子們的安全。"
           }
         ]
       },
@@ -6942,28 +6943,28 @@
         "heading": "③ the only + 名詞",
         "items": [
           {
-            "en": "She was the only person at the bus stop.",
-            "zh": "她是公車站唯一的人。"
+            "en": "It was midnight. My sister was the only person at the bus stop.",
+            "zh": "那時是半夜。我姊姊是公車站唯一的人。"
           },
           {
-            "en": "This is the only key to the house.",
-            "zh": "這是房子唯一的鑰匙。"
+            "en": "This is the only key to the house. Don't lose it.",
+            "zh": "這是房子唯一的鑰匙。別弄丟了。"
           },
           {
-            "en": "Is this the only bus to the airport?",
-            "zh": "這是唯一一班到機場的公車嗎？"
+            "en": "We missed the 6:15. Is this the only bus to the airport?",
+            "zh": "我們錯過了六點十五分那班。這是唯一一班到機場的公車嗎？"
           },
           {
-            "en": "Ken was the only student in the class with a car.",
-            "zh": "Ken 是班上唯一有車的學生。"
+            "en": "Ken drove everyone home after parties. He was the only student in the class with a car.",
+            "zh": "Ken 在派對後開車載大家回家。他是班上唯一有車的學生。"
           },
           {
-            "en": "The only way to the beach is down these stairs.",
-            "zh": "到海邊唯一的路是走下這些樓梯。"
+            "en": "The path along the cliff is closed. The only way to the beach is down these stairs.",
+            "zh": "懸崖邊的小路封了。到海邊唯一的路是走下這些樓梯。"
           },
           {
-            "en": "It was the only free table in the café.",
-            "zh": "那是咖啡店裡唯一空著的桌子。"
+            "en": "We sat at the table by the window. It was the only free table in the café.",
+            "zh": "我們坐在窗邊那張桌子。那是咖啡店裡唯一空著的桌子。"
           }
         ]
       },
@@ -6971,57 +6972,61 @@
         "heading": "④ the only + 名詞 + 子句",
         "items": [
           {
-            "en": "The only thing I forgot was my toothbrush.",
-            "zh": "我唯一忘了帶的是牙刷。"
+            "en": "I packed in a hurry, but the only thing I forgot was my toothbrush.",
+            "zh": "我匆匆忙忙收行李，不過我唯一忘了帶的是牙刷。"
           },
           {
-            "en": "You're the only one who knows the password.",
-            "zh": "你是唯一知道密碼的人。"
+            "en": "I can't open the computer. You're the only one who knows the password.",
+            "zh": "我打不開電腦。你是唯一知道密碼的人。"
           },
           {
-            "en": "The only time I'm free is Sunday morning.",
-            "zh": "我唯一有空的時間是星期天早上。"
+            "en": "I work six days a week. The only time I'm free is Sunday morning.",
+            "zh": "我一個星期工作六天。我唯一有空的時間是星期天早上。"
           },
           {
-            "en": "The only problem we had was the weather.",
-            "zh": "我們唯一遇到的問題是天氣。"
+            "en": "The hotel and the food were great. The only problem we had was the weather.",
+            "zh": "飯店和食物都很棒。我們唯一遇到的問題是天氣。"
           },
           {
-            "en": "That's the only shop that sells fresh bread here.",
-            "zh": "那是這裡唯一賣新鮮麵包的店。"
+            "en": "Buy your bread at Rosie's. That's the only shop that sells fresh bread here.",
+            "zh": "麵包去 Rosie's 買。那是這裡唯一賣新鮮麵包的店。"
           },
           {
-            "en": "The only word I understood was \"hello.\"",
-            "zh": "我唯一聽得懂的字是 hello。"
+            "en": "The bus driver spoke very fast in Greek. The only word I understood was \"hello\".",
+            "zh": "公車司機用希臘文講得很快。我唯一聽得懂的字是 hello。"
           }
         ]
       },
       {
-        "heading": "⑤ my / their / an + only + 名詞",
+        "heading": "⑤ my / his / their / an + only + 名詞",
         "items": [
           {
-            "en": "I'm an only child.",
-            "zh": "我是獨生子女。"
+            "en": "My parents only had me. I'm an only child.",
+            "zh": "我爸媽只生了我。我是獨生子女。"
           },
           {
-            "en": "She's their only daughter.",
-            "zh": "她是他們唯一的女兒。"
+            "en": "Mr and Mrs Lin have three boys and a girl. Amy is their only daughter.",
+            "zh": "林先生和林太太有三個男孩和一個女孩。Amy 是他們唯一的女兒。"
           },
           {
-            "en": "This is my only coat, so I can't lose it.",
-            "zh": "這是我唯一的外套，所以我不能弄丟。"
+            "en": "It's very cold this winter. This is my only coat, so I can't lose it.",
+            "zh": "今年冬天很冷。這是我唯一的外套，所以我不能弄丟。"
           },
           {
-            "en": "My only question is the price.",
-            "zh": "我唯一的問題是價格。"
+            "en": "I like the flat a lot. My only question is about the price.",
+            "zh": "我很喜歡這間公寓。我唯一想問的是價格。"
           },
           {
-            "en": "His only brother is a doctor in Tainan.",
-            "zh": "他唯一的兄弟在台南當醫生。"
+            "en": "Leo doesn't have much family. His only brother is a doctor in Tainan.",
+            "zh": "Leo 沒什麼家人。他唯一的兄弟在台南當醫生。"
           },
           {
-            "en": "Their only son lives in Canada.",
-            "zh": "他們唯一的兒子住在加拿大。"
+            "en": "The old couple live alone now. Their only son lives in Canada.",
+            "zh": "那對老夫妻現在自己住。他們唯一的兒子住在加拿大。"
+          },
+          {
+            "en": "Lucy grew up alone with her mum. She's an only child.",
+            "zh": "Lucy 和媽媽兩個人一起長大。她是獨生女。"
           }
         ]
       }

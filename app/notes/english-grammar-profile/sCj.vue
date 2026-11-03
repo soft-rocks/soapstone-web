@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="逗號隔開名詞前的兩個形容詞" mark="old,">
+    <NoteSlide title="逗號隔開名詞前的兩個形容詞" mark="old, Victorian-style">
       <NoteWords
         :size="26"
         :parts="[
@@ -26,7 +26,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">兩個形容詞都形容房子。</p>
     </NoteSlide>
 
-    <NoteSlide title="中間可以加 and 的兩個形容詞，用逗號隔開" mark="old,">
+    <NoteSlide title="中間可以加 and 的兩個形容詞，用逗號隔開" mark="old, Victorian-style">
       <div class="rows is-labeled">
         <div>
           <span class="term">逗號</span>
@@ -45,7 +45,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">兩句的意思一樣。</p>
     </NoteSlide>
 
-    <NoteSlide title="種類不同的形容詞照順序排，通常不加逗號" mark="Victorian-style">
+    <NoteSlide title="種類不同的形容詞照順序排，通常不加逗號">
       <NoteWords
         :size="26"
         :parts="[
@@ -59,7 +59,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">看法 → 大小 → 新舊 → 顏色 → 來源 → 材料 + 名詞</p>
     </NoteSlide>
 
-    <NoteSlide title="最後一個形容詞和名詞中間不加逗號" mark="house">
+    <NoteSlide title="最後一個形容詞和名詞中間不加逗號" mark="Victorian-style house">
       <NoteFix
         wrong="It was a dark, quiet, night."
         right="It was a dark, quiet night."
@@ -67,7 +67,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="新舊放在材料前面" mark="old,">
+    <NoteSlide title="新舊放在材料前面">
       <NoteFix
         wrong="My dad has a leather old wallet."
         right="My dad has an old leather wallet."
@@ -75,7 +75,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="名詞是複數時，形容詞不加 -s" mark="old,">
+    <NoteSlide title="名詞是複數時，形容詞不加 -s">
       <NoteFix
         wrong="We met two nices, friendly waiters."
         right="We met two nice, friendly waiters."

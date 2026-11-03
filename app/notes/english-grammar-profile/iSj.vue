@@ -34,7 +34,9 @@ defineProps<{ note: (typeof notes)[number] }>();
             ><NoteMark
               sentence="I bought a skirt at a small shop in town. You should go to that shop."
               :marks="['a small shop', 'that shop.']"
-            /><span class="translation">我在鎮上一家小店買了一條裙子。你應該去那家店看看。</span></span
+            /><span class="translation"
+              >我在鎮上一家小店買了一條裙子。你應該去那家店看看。</span
+            ></span
           >
         </div>
         <div>
@@ -94,8 +96,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="that 後面不加 the" mark="that colour">
       <NoteFix
-        wrong="He told me about a café. I went to that the café yesterday."
-        right="He told me about a café. I went to that café yesterday."
+        wrong="My friend told me about a café. I went to that the café yesterday."
+        right="My friend told me about a café. I went to that café yesterday."
         fix="that café"
       />
     </NoteSlide>

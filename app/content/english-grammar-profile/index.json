@@ -5918,60 +5918,60 @@
     "translation": "夏天是去波蘭玩的最佳時節。",
     "name": "the best 加名詞加不定詞",
     "sentences": [
-      "Spring is the best time to visit Kyoto.",
-      "Early morning is the best time to go running.",
-      "When's the best time to call you?",
-      "Now is the best time to buy a new phone.",
-      "Winter is the best time to see the northern lights.",
-      "This is the best place to buy fresh fruit.",
-      "The roof is the best place to watch the fireworks.",
-      "Where's the best place to eat around here?",
-      "The library is the best place to study.",
-      "That beach is the best place to learn to surf.",
-      "Walking is the best way to see the city.",
-      "What's the best way to learn English?",
-      "The train is the best way to get to the airport.",
-      "The best way to make friends is to join a club.",
-      "Talking to her is the best way to solve the problem.",
-      "I'm not the best person to ask about cars.",
-      "Ann is the best person to help you with math.",
-      "Who's the best person to talk to about the trip?",
-      "He's the best person to lead the team.",
-      "Your doctor is the best person to give you advice.",
-      "The best thing to do is wait.",
-      "What's the best thing to eat for breakfast?",
-      "Is this the best road to take?",
-      "A scarf is the best present to give my mother.",
-      "Is Friday the best day to go shopping?",
-      "It's not the best moment to ask for a raise.",
-      "This is the best book to read on a long flight.",
-      "Saturday is the best day to visit the market.",
-      "Sunscreen is the best thing to take to the beach.",
-      "That's the best hotel to stay at near the station."
+      "The cherry trees have flowers in April. Spring is the best time to visit Kyoto.",
+      "It's too hot after nine in the summer. Early morning is the best time to go running.",
+      "I'm in meetings all day. When's the best time to call you?",
+      "All the phones are thirty percent off this week. Now is the best time to buy a new phone.",
+      "The nights are long and dark in Norway in January. Winter is the best time to see the northern lights.",
+      "The farmers bring their apples here every Saturday. This market is the best place to buy fresh fruit.",
+      "Let's go upstairs at midnight. The roof is the best place to watch the fireworks.",
+      "We just arrived, and we're hungry. Where's the best place to eat around here?",
+      "My brothers are always noisy at home. The library is the best place to study.",
+      "The waves are small and the water is warm. That beach is the best place to learn to surf.",
+      "Leave the car at the hotel. Walking is the best way to see the city.",
+      "I want to work in London one day. What's the best way to learn English?",
+      "The roads are very busy at eight. The train is the best way to get to the airport.",
+      "You're new in town. The best way to make friends is to join a club.",
+      "Your sister is angry with you. Talking to her is the best way to solve the problem.",
+      "You should ask my brother. I'm not the best person to ask about cars.",
+      "Ann got full marks in her maths exam. She's the best person to help you with maths.",
+      "We want to go to Peru in May. Who's the best person to talk to about the trip?",
+      "Tom knows every player's name. He's the best person to lead the team.",
+      "Don't believe everything on the internet. Your doctor is the best person to give you advice.",
+      "The road is closed because of the snow. The best thing to do is wait.",
+      "I always feel hungry at ten. What's the best thing to eat for breakfast?",
+      "There's a lot of traffic on the main road. Is this the best road to take?",
+      "My mother is always cold in winter. A scarf is the best present to give her.",
+      "The shops are very busy at weekends. Is Friday the best day to go shopping?",
+      "The boss is very angry this week. It's not the best moment to ask for a raise.",
+      "This book is short and very funny. It's the best book to read on a long flight.",
+      "All the farmers come on Saturday. Saturday is the best day to visit the market.",
+      "The sun is very strong in July. Sunscreen is the best thing to take to the beach.",
+      "The Park Inn is a two-minute walk from the platform. That's the best hotel to stay at near the station."
     ],
     "examples": [
       {
         "heading": "① the best time to",
         "items": [
           {
-            "en": "Spring is the best time to visit Kyoto.",
-            "zh": "春天是去京都最好的時節。"
+            "en": "The cherry trees have flowers in April. Spring is the best time to visit Kyoto.",
+            "zh": "櫻花樹四月開花。春天是去京都最好的時節。"
           },
           {
-            "en": "Early morning is the best time to go running.",
-            "zh": "清晨是去跑步最好的時間。"
+            "en": "It's too hot after nine in the summer. Early morning is the best time to go running.",
+            "zh": "夏天九點以後就太熱了。清晨是去跑步最好的時間。"
           },
           {
-            "en": "When's the best time to call you?",
-            "zh": "什麼時候打給你最好？"
+            "en": "I'm in meetings all day. When's the best time to call you?",
+            "zh": "我一整天都在開會。什麼時候打給你最好？"
           },
           {
-            "en": "Now is the best time to buy a new phone.",
-            "zh": "現在是買新手機最好的時機。"
+            "en": "All the phones are thirty percent off this week. Now is the best time to buy a new phone.",
+            "zh": "這星期所有手機都打七折。現在是買新手機最好的時機。"
           },
           {
-            "en": "Winter is the best time to see the northern lights.",
-            "zh": "冬天是看北極光最好的季節。"
+            "en": "The nights are long and dark in Norway in January. Winter is the best time to see the northern lights.",
+            "zh": "挪威一月的夜晚又長又暗。冬天是看北極光最好的季節。"
           }
         ]
       },
@@ -5979,24 +5979,24 @@
         "heading": "② the best place to",
         "items": [
           {
-            "en": "This is the best place to buy fresh fruit.",
-            "zh": "這是買新鮮水果最好的地方。"
+            "en": "The farmers bring their apples here every Saturday. This market is the best place to buy fresh fruit.",
+            "zh": "農夫每個星期六都把蘋果帶來這裡。這個市場是買新鮮水果最好的地方。"
           },
           {
-            "en": "The roof is the best place to watch the fireworks.",
-            "zh": "屋頂是看煙火最好的地方。"
+            "en": "Let's go upstairs at midnight. The roof is the best place to watch the fireworks.",
+            "zh": "我們半夜上樓去吧。屋頂是看煙火最好的地方。"
           },
           {
-            "en": "Where's the best place to eat around here?",
-            "zh": "這附近哪裡最適合吃飯？"
+            "en": "We just arrived, and we're hungry. Where's the best place to eat around here?",
+            "zh": "我們剛到，肚子很餓。這附近哪裡最適合吃飯？"
           },
           {
-            "en": "The library is the best place to study.",
-            "zh": "圖書館是讀書最好的地方。"
+            "en": "My brothers are always noisy at home. The library is the best place to study.",
+            "zh": "我弟弟們在家總是很吵。圖書館是讀書最好的地方。"
           },
           {
-            "en": "That beach is the best place to learn to surf.",
-            "zh": "那片海灘是學衝浪最好的地方。"
+            "en": "The waves are small and the water is warm. That beach is the best place to learn to surf.",
+            "zh": "那裡浪小，水也很暖。那片海灘是學衝浪最好的地方。"
           }
         ]
       },
@@ -6004,24 +6004,24 @@
         "heading": "③ the best way to",
         "items": [
           {
-            "en": "Walking is the best way to see the city.",
-            "zh": "走路是看這座城市最好的方式。"
+            "en": "Leave the car at the hotel. Walking is the best way to see the city.",
+            "zh": "把車留在飯店吧。走路是看這座城市最好的方式。"
           },
           {
-            "en": "What's the best way to learn English?",
-            "zh": "學英文最好的方法是什麼？"
+            "en": "I want to work in London one day. What's the best way to learn English?",
+            "zh": "我希望有一天能在倫敦工作。學英文最好的方法是什麼？"
           },
           {
-            "en": "The train is the best way to get to the airport.",
-            "zh": "搭火車是去機場最好的方法。"
+            "en": "The roads are very busy at eight. The train is the best way to get to the airport.",
+            "zh": "八點路上車很多。搭火車是去機場最好的方法。"
           },
           {
-            "en": "The best way to make friends is to join a club.",
-            "zh": "交朋友最好的方法是加入社團。"
+            "en": "You're new in town. The best way to make friends is to join a club.",
+            "zh": "你剛來這個鎮。交朋友最好的方法是加入社團。"
           },
           {
-            "en": "Talking to her is the best way to solve the problem.",
-            "zh": "跟她談是解決這個問題最好的方法。"
+            "en": "Your sister is angry with you. Talking to her is the best way to solve the problem.",
+            "zh": "你妹妹在生你的氣。跟她談是解決這個問題最好的方法。"
           }
         ]
       },
@@ -6029,24 +6029,24 @@
         "heading": "④ the best person to",
         "items": [
           {
-            "en": "I'm not the best person to ask about cars.",
-            "zh": "車子的事問我不太準。"
+            "en": "You should ask my brother. I'm not the best person to ask about cars.",
+            "zh": "你應該問我哥哥。車子的事問我不太準。"
           },
           {
-            "en": "Ann is the best person to help you with math.",
-            "zh": "Ann 是最適合教你數學的人。"
+            "en": "Ann got full marks in her maths exam. She's the best person to help you with maths.",
+            "zh": "Ann 數學考試拿了滿分。她是最適合教你數學的人。"
           },
           {
-            "en": "Who's the best person to talk to about the trip?",
-            "zh": "旅行的事找誰談最好？"
+            "en": "We want to go to Peru in May. Who's the best person to talk to about the trip?",
+            "zh": "我們五月想去祕魯。旅行的事找誰談最好？"
           },
           {
-            "en": "He's the best person to lead the team.",
-            "zh": "他是最適合帶領這個團隊的人。"
+            "en": "Tom knows every player's name. He's the best person to lead the team.",
+            "zh": "Tom 記得每個球員的名字。他是最適合帶領這個團隊的人。"
           },
           {
-            "en": "Your doctor is the best person to give you advice.",
-            "zh": "你的醫生是最適合給你建議的人。"
+            "en": "Don't believe everything on the internet. Your doctor is the best person to give you advice.",
+            "zh": "別相信網路上的每件事。你的醫生是最適合給你建議的人。"
           }
         ]
       },
@@ -6054,44 +6054,44 @@
         "heading": "⑤ the best thing to 和不同的句型",
         "items": [
           {
-            "en": "The best thing to do is wait.",
-            "zh": "最好的做法是等。"
+            "en": "The road is closed because of the snow. The best thing to do is wait.",
+            "zh": "路因為下雪封了。最好的做法是等。"
           },
           {
-            "en": "What's the best thing to eat for breakfast?",
-            "zh": "早餐吃什麼最好？"
+            "en": "I always feel hungry at ten. What's the best thing to eat for breakfast?",
+            "zh": "我十點總是覺得餓。早餐吃什麼最好？"
           },
           {
-            "en": "Is this the best road to take?",
-            "zh": "走這條路最好嗎？"
+            "en": "There's a lot of traffic on the main road. Is this the best road to take?",
+            "zh": "大馬路上車很多。走這條路最好嗎？"
           },
           {
-            "en": "A scarf is the best present to give my mother.",
-            "zh": "圍巾是送我媽媽最好的禮物。"
+            "en": "My mother is always cold in winter. A scarf is the best present to give her.",
+            "zh": "我媽媽冬天總是覺得冷。圍巾是送她最好的禮物。"
           },
           {
-            "en": "Is Friday the best day to go shopping?",
-            "zh": "星期五是去購物最好的日子嗎？"
+            "en": "The shops are very busy at weekends. Is Friday the best day to go shopping?",
+            "zh": "週末店裡人很多。星期五是去購物最好的日子嗎？"
           },
           {
-            "en": "It's not the best moment to ask for a raise.",
-            "zh": "現在不是要求加薪最好的時機。"
+            "en": "The boss is very angry this week. It's not the best moment to ask for a raise.",
+            "zh": "老闆這星期很生氣。現在不是要求加薪最好的時機。"
           },
           {
-            "en": "This is the best book to read on a long flight.",
-            "zh": "這是長途飛行時最適合看的書。"
+            "en": "This book is short and very funny. It's the best book to read on a long flight.",
+            "zh": "這本書很短，又很好笑。這是長途飛行時最適合看的書。"
           },
           {
-            "en": "Saturday is the best day to visit the market.",
-            "zh": "星期六是逛市集最好的日子。"
+            "en": "All the farmers come on Saturday. Saturday is the best day to visit the market.",
+            "zh": "所有的農夫都在星期六來。星期六是逛市集最好的日子。"
           },
           {
-            "en": "Sunscreen is the best thing to take to the beach.",
-            "zh": "防曬乳是去海邊最該帶的東西。"
+            "en": "The sun is very strong in July. Sunscreen is the best thing to take to the beach.",
+            "zh": "七月的太陽很大。防曬乳是去海邊最該帶的東西。"
           },
           {
-            "en": "That's the best hotel to stay at near the station.",
-            "zh": "那是車站附近最適合住的飯店。"
+            "en": "The Park Inn is a two-minute walk from the platform. That's the best hotel to stay at near the station.",
+            "zh": "Park Inn 離月台走路只要兩分鐘。那是車站附近最適合住的飯店。"
           }
         ]
       }

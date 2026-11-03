@@ -66,8 +66,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="名詞後面接動詞用 to，不用 for" mark="to visit">
       <NoteFix
-        wrong="Autumn is the best time for visit Japan."
-        right="Autumn is the best time to visit Japan."
+        wrong="Evening is the best time for walk the dog."
+        right="Evening is the best time to walk the dog."
         fix="to"
       />
     </NoteSlide>

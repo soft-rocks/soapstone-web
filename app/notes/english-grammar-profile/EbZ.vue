@@ -51,10 +51,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">there<br /><i>說話者不在的地方</i></span>
           <span
-            ><NoteMark sentence="Stay there. I'm coming." :marks="['there']" /><span
-              class="translation"
-              >待在那裡別動。我就來。</span
-            ></span
+            ><NoteMark
+              sentence="Get off at the next stop and stay there."
+              :marks="['there']"
+            /><span class="translation">在下一站下車，待在那裡別動。</span></span
           >
         </div>
         <div>
@@ -71,7 +71,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="here 和 there 前面不加 to 或 at" mark="here">
       <NoteFix wrong="Please come to here." right="Please come here." fix="come here">
-        <code>in there</code> 指一個空間的裡面，像 <code>Your keys are in there.</code>
+        <code>near</code>、<code>from</code>、<code>in</code> 可以放在前面，像
+        <code>near here</code>、<code>from here</code>、<code>in there</code>。
       </NoteFix>
     </NoteSlide>
 
@@ -87,7 +88,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFix wrong="I left here my coat." right="I left my coat here." fix="here" />
     </NoteSlide>
 
-    <NoteSlide title="there is 的 there 不指地點" mark="here">
+    <NoteSlide title="there is 的 there 不指地點">
       <div class="rows is-labeled">
         <div>
           <span class="term">there is<br /><i>某處有某個東西</i></span>
@@ -110,7 +111,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="over here 和 over there 說的地點比較明確" mark="here">
+    <NoteSlide title="over here 和 over there 指說話者指著的位置">
       <NoteWords
         :size="30"
         :parts="[
@@ -119,7 +120,6 @@ defineProps<{ note: (typeof notes)[number] }>();
         ]"
       />
       <p class="translation">過來坐這邊。</p>
-      <p class="remark">常配合手勢。</p>
     </NoteSlide>
   </NoteDeck>
 

@@ -25791,64 +25791,67 @@
     "translation": "我女朋友跟我一起在這裡。",
     "name": "here、there 表示地點",
     "sentences": [
-      "Your coffee is here on the table.",
-      "Is your brother here today?",
-      "We're here for the job interview.",
-      "The bus stop isn't here anymore.",
-      "I've been here since nine o'clock.",
-      "Come here and look at this.",
-      "My family has lived here for ten years.",
-      "Can I park here?",
-      "Wait here. I'll get the car.",
-      "Do you come here often?",
-      "I left my umbrella here yesterday.",
-      "Is Lisa there? Can I talk to her?",
-      "The museum was closed when we were there.",
-      "Don't worry. I'll be there at six.",
-      "The old cinema isn't there now.",
-      "My keys were there a minute ago.",
+      "Your coffee is here on the table. Don't look for it in the kitchen.",
+      "I need to ask your brother about the car. Is he here today?",
+      "The receptionist asked us our names. We're here for the job interview.",
+      "They moved the bus stop last month. It isn't here anymore.",
+      "Where are you? I've been here since nine o'clock.",
+      "I found something in the garden. Come here and look at this.",
+      "My family moved from Taipei. We've lived here for ten years.",
+      "I'm only going to be five minutes. Can I park here?",
+      "It's raining hard. Wait here. I'll get the car.",
+      "The waiter knows your name. Do you come here often?",
+      "I had lunch in this café yesterday. I think I left my umbrella here.",
+      "Hello, this is Mark. Is Lisa there? Can I talk to her?",
+      "We went on a Monday. The museum was closed when we were there.",
+      "The concert starts at seven. Don't worry, I'll be there at six.",
+      "The old cinema isn't there now. They knocked it down in 2010.",
+      "I put my keys on the shelf by the door. They were there a minute ago.",
       "I was born in Kyoto, and I lived there for twenty years.",
-      "We go there every summer.",
-      "Put the box there, please.",
+      "My grandparents have a house by the sea. We go there every summer.",
+      "That's the right corner for the books. Put the box there, please.",
       "My uncle works at the hospital, and he met my aunt there.",
       "Have you ever been to Paris? I want to go there.",
-      "Stay there. I'm coming.",
-      "We walked there because it was close.",
-      "Your shoes are over there by the door.",
-      "Can you see that tall building over there?",
-      "Bring the chairs over here.",
-      "We're over here, by the window!",
-      "It's cold here, but it's warm there.",
-      "I don't like it here. Let's go there instead.",
-      "Is it raining there? It's sunny here.",
-      "We're here now, but our bags are still there.",
-      "The food here is really good.",
-      "The shops there close at five.",
-      "My friends there don't speak English."
+      "You're on the wrong train. Get off at the next stop and stay there. I'm coming.",
+      "The restaurant was only five minutes away, so we walked there.",
+      "You're looking for your shoes? They're over there by the door.",
+      "My office is in that tall building over there. Can you see it?",
+      "We need more seats for the guests. Bring the chairs over here.",
+      "Mum, we're over here, by the window!",
+      "I'm in Oslo, and my sister is in Rome. It's cold here, but it's warm there.",
+      "This café is too noisy, and the new one on the corner is quiet. Let's go there instead.",
+      "I'm calling you from Taipei. Is it raining there? It's sunny here.",
+      "The airline left our bags in Paris. We're here now, but our bags are still there.",
+      "We eat at this market every night. The food here is really good.",
+      "Get to the village early. The shops there close at five.",
+      "I lived in Japan for a year. My friends there don't speak English.",
+      "Excuse me, is the post office near here?",
+      "My school is a long way from here, so I take the bus.",
+      "Look in the top drawer. Your keys are in there."
     ],
     "examples": [
       {
         "heading": "① 主詞 + be + here",
         "items": [
           {
-            "en": "Your coffee is here on the table.",
-            "zh": "你的咖啡在這裡，在桌上。"
+            "en": "Your coffee is here on the table. Don't look for it in the kitchen.",
+            "zh": "你的咖啡在這裡，在桌上。別去廚房找。"
           },
           {
-            "en": "Is your brother here today?",
-            "zh": "你哥哥今天在這裡嗎？"
+            "en": "I need to ask your brother about the car. Is he here today?",
+            "zh": "我要問你哥哥車子的事。他今天在這裡嗎？"
           },
           {
-            "en": "We're here for the job interview.",
-            "zh": "我們是來參加面試的。"
+            "en": "The receptionist asked us our names. We're here for the job interview.",
+            "zh": "櫃台人員問我們的名字。我們是來參加面試的。"
           },
           {
-            "en": "The bus stop isn't here anymore.",
-            "zh": "公車站已經不在這裡了。"
+            "en": "They moved the bus stop last month. It isn't here anymore.",
+            "zh": "他們上個月把公車站移走了。公車站已經不在這裡了。"
           },
           {
-            "en": "I've been here since nine o'clock.",
-            "zh": "我從九點就在這裡了。"
+            "en": "Where are you? I've been here since nine o'clock.",
+            "zh": "你在哪裡？我從九點就在這裡了。"
           }
         ]
       },
@@ -25856,28 +25859,28 @@
         "heading": "② 主詞 + 動詞 + here",
         "items": [
           {
-            "en": "Come here and look at this.",
-            "zh": "過來看一下這個。"
+            "en": "I found something in the garden. Come here and look at this.",
+            "zh": "我在花園裡發現一個東西。過來看一下這個。"
           },
           {
-            "en": "My family has lived here for ten years.",
-            "zh": "我們家在這裡住了十年。"
+            "en": "My family moved from Taipei. We've lived here for ten years.",
+            "zh": "我們家從台北搬來。我們在這裡住了十年。"
           },
           {
-            "en": "Can I park here?",
-            "zh": "我可以在這裡停車嗎？"
+            "en": "I'm only going to be five minutes. Can I park here?",
+            "zh": "我只要五分鐘。我可以在這裡停車嗎？"
           },
           {
-            "en": "Wait here. I'll get the car.",
-            "zh": "在這裡等。我去開車。"
+            "en": "It's raining hard. Wait here. I'll get the car.",
+            "zh": "雨下得好大。在這裡等。我去開車。"
           },
           {
-            "en": "Do you come here often?",
-            "zh": "你常來這裡嗎？"
+            "en": "The waiter knows your name. Do you come here often?",
+            "zh": "服務生知道你的名字。你常來這裡嗎？"
           },
           {
-            "en": "I left my umbrella here yesterday.",
-            "zh": "我昨天把雨傘忘在這裡了。"
+            "en": "I had lunch in this café yesterday. I think I left my umbrella here.",
+            "zh": "我昨天在這家咖啡館吃午餐。我好像把雨傘忘在這裡了。"
           }
         ]
       },
@@ -25885,24 +25888,24 @@
         "heading": "③ 主詞 + be + there",
         "items": [
           {
-            "en": "Is Lisa there? Can I talk to her?",
-            "zh": "Lisa 在嗎？我可以跟她說話嗎？"
+            "en": "Hello, this is Mark. Is Lisa there? Can I talk to her?",
+            "zh": "你好，我是 Mark。Lisa 在嗎？我可以跟她說話嗎？"
           },
           {
-            "en": "The museum was closed when we were there.",
-            "zh": "我們去的時候博物館沒開。"
+            "en": "We went on a Monday. The museum was closed when we were there.",
+            "zh": "我們星期一去的。我們去的時候博物館沒開。"
           },
           {
-            "en": "Don't worry. I'll be there at six.",
-            "zh": "別擔心。我六點會到。"
+            "en": "The concert starts at seven. Don't worry, I'll be there at six.",
+            "zh": "音樂會七點開始。別擔心，我六點會到。"
           },
           {
-            "en": "The old cinema isn't there now.",
-            "zh": "那家老戲院現在已經不在那裡了。"
+            "en": "The old cinema isn't there now. They knocked it down in 2010.",
+            "zh": "那家老戲院現在已經不在那裡了。他們 2010 年把它拆了。"
           },
           {
-            "en": "My keys were there a minute ago.",
-            "zh": "我的鑰匙一分鐘前還在那裡。"
+            "en": "I put my keys on the shelf by the door. They were there a minute ago.",
+            "zh": "我把鑰匙放在門邊的架子上。一分鐘前還在那裡。"
           }
         ]
       },
@@ -25914,12 +25917,12 @@
             "zh": "我在京都出生，在那裡住了二十年。"
           },
           {
-            "en": "We go there every summer.",
-            "zh": "我們每年夏天都去那裡。"
+            "en": "My grandparents have a house by the sea. We go there every summer.",
+            "zh": "我爺爺奶奶在海邊有一間房子。我們每年夏天都去那裡。"
           },
           {
-            "en": "Put the box there, please.",
-            "zh": "請把箱子放在那裡。"
+            "en": "That's the right corner for the books. Put the box there, please.",
+            "zh": "那個角落是放書的地方。請把箱子放在那裡。"
           },
           {
             "en": "My uncle works at the hospital, and he met my aunt there.",
@@ -25930,12 +25933,12 @@
             "zh": "你去過巴黎嗎？我想去那裡。"
           },
           {
-            "en": "Stay there. I'm coming.",
-            "zh": "待在那裡別動。我就來。"
+            "en": "You're on the wrong train. Get off at the next stop and stay there. I'm coming.",
+            "zh": "你搭錯火車了。在下一站下車，待在那裡別動。我馬上過去。"
           },
           {
-            "en": "We walked there because it was close.",
-            "zh": "那裡很近，所以我們走路過去。"
+            "en": "The restaurant was only five minutes away, so we walked there.",
+            "zh": "那家餐廳只要五分鐘路程，所以我們走路過去。"
           }
         ]
       },
@@ -25943,20 +25946,20 @@
         "heading": "⑤ over here / over there",
         "items": [
           {
-            "en": "Your shoes are over there by the door.",
-            "zh": "你的鞋子在那邊門旁邊。"
+            "en": "You're looking for your shoes? They're over there by the door.",
+            "zh": "你在找鞋子嗎？鞋子在那邊門旁邊。"
           },
           {
-            "en": "Can you see that tall building over there?",
-            "zh": "你看得到那邊那棟高樓嗎？"
+            "en": "My office is in that tall building over there. Can you see it?",
+            "zh": "我的辦公室在那邊那棟高樓裡。你看得到嗎？"
           },
           {
-            "en": "Bring the chairs over here.",
-            "zh": "把椅子搬到這邊來。"
+            "en": "We need more seats for the guests. Bring the chairs over here.",
+            "zh": "客人需要更多座位。把椅子搬到這邊來。"
           },
           {
-            "en": "We're over here, by the window!",
-            "zh": "我們在這邊，窗戶旁邊！"
+            "en": "Mum, we're over here, by the window!",
+            "zh": "媽，我們在這邊，窗戶旁邊！"
           }
         ]
       },
@@ -25964,20 +25967,20 @@
         "heading": "⑥ here 和 there 在同一句",
         "items": [
           {
-            "en": "It's cold here, but it's warm there.",
-            "zh": "這裡很冷，可是那裡很暖和。"
+            "en": "I'm in Oslo, and my sister is in Rome. It's cold here, but it's warm there.",
+            "zh": "我在奧斯陸，我姊姊在羅馬。這裡很冷，可是那裡很暖和。"
           },
           {
-            "en": "I don't like it here. Let's go there instead.",
-            "zh": "我不喜歡這裡。我們改去那裡吧。"
+            "en": "This café is too noisy, and the new one on the corner is quiet. Let's go there instead.",
+            "zh": "這家咖啡館太吵了，轉角那家新的很安靜。我們改去那裡吧。"
           },
           {
-            "en": "Is it raining there? It's sunny here.",
-            "zh": "你那邊在下雨嗎？這裡天氣很晴朗。"
+            "en": "I'm calling you from Taipei. Is it raining there? It's sunny here.",
+            "zh": "我在台北打給你。你那邊在下雨嗎？這裡天氣很晴朗。"
           },
           {
-            "en": "We're here now, but our bags are still there.",
-            "zh": "我們已經到這裡了，可是行李還在那裡。"
+            "en": "The airline left our bags in Paris. We're here now, but our bags are still there.",
+            "zh": "航空公司把我們的行李留在巴黎。我們已經到這裡了，可是行李還在那裡。"
           }
         ]
       },
@@ -25985,16 +25988,33 @@
         "heading": "⑦ 名詞 + here / there",
         "items": [
           {
-            "en": "The food here is really good.",
-            "zh": "這裡的東西很好吃。"
+            "en": "We eat at this market every night. The food here is really good.",
+            "zh": "我們每天晚上都在這個市場吃。這裡的東西很好吃。"
           },
           {
-            "en": "The shops there close at five.",
-            "zh": "那裡的商店五點就關門了。"
+            "en": "Get to the village early. The shops there close at five.",
+            "zh": "早點到村子裡。那裡的商店五點就關門了。"
           },
           {
-            "en": "My friends there don't speak English.",
-            "zh": "我在那裡的朋友不會說英文。"
+            "en": "I lived in Japan for a year. My friends there don't speak English.",
+            "zh": "我在日本住了一年。我在那裡的朋友不會說英文。"
+          }
+        ]
+      },
+      {
+        "heading": "⑧ 介系詞 + here / there",
+        "items": [
+          {
+            "en": "Excuse me, is the post office near here?",
+            "zh": "不好意思，郵局在這附近嗎？"
+          },
+          {
+            "en": "My school is a long way from here, so I take the bus.",
+            "zh": "我的學校離這裡很遠，所以我搭公車。"
+          },
+          {
+            "en": "Look in the top drawer. Your keys are in there.",
+            "zh": "看一下最上面的抽屜。你的鑰匙在那裡面。"
           }
         ]
       }

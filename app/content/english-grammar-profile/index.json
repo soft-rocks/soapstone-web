@@ -23050,26 +23050,26 @@
       "The instructions were extremely clear.",
       "Our new neighbours are extremely helpful.",
       "Flights to Rome were incredibly cheap last spring.",
-      "She's incredibly talented.",
-      "It's extremely unlikely that he'll agree.",
+      "The young pianist is incredibly talented.",
+      "It's extremely unlikely that my boss will agree.",
       "It's highly likely that prices will rise again.",
       "She's a highly qualified engineer.",
       "Our accountant is highly organised and never misses a deadline.",
       "The company has been highly successful.",
       "We are deeply grateful for your support.",
       "Her speech at the wedding was deeply moving.",
-      "His parents were deeply worried about him.",
+      "Tom's parents were deeply worried about him.",
       "I'm deeply sorry about what happened.",
       "The two sisters are completely different.",
-      "The map on the website is totally wrong about the bus times.",
-      "I'm not entirely sure what he meant.",
+      "The timetable on the website is totally wrong.",
+      "I'm not entirely sure what the teacher meant.",
       "The building looks completely new.",
       "That kind of behaviour is totally unacceptable.",
       "The decision is entirely yours.",
       "My grandmother's apple pie was absolutely delicious.",
       "The nurses were absolutely exhausted after the night shift.",
       "The weather on our holiday was absolutely terrible.",
-      "It's absolutely impossible to finish by Monday.",
+      "It's absolutely impossible to finish the report by Monday.",
       "Your garden looks absolutely gorgeous.",
       "The water in the lake was really cold.",
       "It's really freezing in here.",
@@ -23096,12 +23096,12 @@
             "zh": "去年春天飛羅馬的機票便宜得不得了。"
           },
           {
-            "en": "She's incredibly talented.",
-            "zh": "她非常有天分。"
+            "en": "The young pianist is incredibly talented.",
+            "zh": "那位年輕的鋼琴家非常有天分。"
           },
           {
-            "en": "It's extremely unlikely that he'll agree.",
-            "zh": "他極不可能同意。"
+            "en": "It's extremely unlikely that my boss will agree.",
+            "zh": "我老闆極不可能同意。"
           }
         ]
       },
@@ -23138,8 +23138,8 @@
             "zh": "她在婚禮上的致詞非常感人。"
           },
           {
-            "en": "His parents were deeply worried about him.",
-            "zh": "他的父母非常擔心他。"
+            "en": "Tom's parents were deeply worried about him.",
+            "zh": "Tom 的父母非常擔心他。"
           },
           {
             "en": "I'm deeply sorry about what happened.",
@@ -23155,16 +23155,16 @@
             "zh": "那兩姊妹完全不一樣。"
           },
           {
-            "en": "The map on the website is totally wrong about the bus times.",
-            "zh": "網站上的地圖把公車時間寫得完全錯了。"
+            "en": "The timetable on the website is totally wrong.",
+            "zh": "網站上的時刻表完全錯了。"
           },
           {
-            "en": "I'm not entirely sure what he meant.",
-            "zh": "我不完全確定他的意思。"
+            "en": "I'm not entirely sure what the teacher meant.",
+            "zh": "我不完全確定老師的意思。"
           },
           {
             "en": "The building looks completely new.",
-            "zh": "那棟建築看起來全新的。"
+            "zh": "那棟建築看起來完全是新的。"
           },
           {
             "en": "That kind of behaviour is totally unacceptable.",
@@ -23192,8 +23192,8 @@
             "zh": "我們度假時天氣糟透了。"
           },
           {
-            "en": "It's absolutely impossible to finish by Monday.",
-            "zh": "星期一前完成是絕對不可能的。"
+            "en": "It's absolutely impossible to finish the report by Monday.",
+            "zh": "星期一前完成報告是絕對不可能的。"
           },
           {
             "en": "Your garden looks absolutely gorgeous.",

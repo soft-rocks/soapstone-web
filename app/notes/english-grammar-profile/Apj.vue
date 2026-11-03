@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="extremely 修飾有程度高低的形容詞">
+    <NoteSlide title="extremely 修飾有程度高低的形容詞" mark="extremely">
       <NoteWords
         :size="26"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">這個專案一定要在九月之前完成，這非常重要。</p>
     </NoteSlide>
 
-    <NoteSlide title="highly 和 deeply 常和固定的形容詞一起用" mark="extremely important">
+    <NoteSlide title="highly 和 deeply 常和固定的形容詞一起用">
       <div class="rows is-labeled">
         <div>
           <span class="term">highly</span>
@@ -48,7 +48,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="表示全部或極端的形容詞用 completely、totally、absolutely" mark="extremely">
+    <NoteSlide title="表示全部或極端的形容詞用 completely、totally、absolutely">
       <div class="rows is-labeled">
         <div>
           <span class="term">completely</span>
@@ -72,9 +72,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">absolutely</span>
           <span
             ><NoteMark
-              sentence="The meal was absolutely delicious."
+              sentence="My grandmother's apple pie was absolutely delicious."
               :marks="['absolutely delicious']"
-            /><span class="translation">那頓飯好吃極了。</span></span
+            /><span class="translation">我奶奶做的蘋果派好吃極了。</span></span
           >
         </div>
       </div>

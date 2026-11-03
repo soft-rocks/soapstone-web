@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="but 連接意思相反的兩個形容詞" mark="but">
+    <NoteSlide title="but 連接意思相反的兩個形容詞" mark="cloudy but fine">
       <NoteWords
         :size="26"
         :parts="[
@@ -27,7 +27,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">兩個形容詞都形容主詞。</p>
     </NoteSlide>
 
-    <NoteSlide title="缺點和優點可以前後對調" mark="cloudy">
+    <NoteSlide title="缺點和優點可以前後對調" mark="cloudy but fine">
       <div class="rows is-labeled">
         <div>
           <span class="term">缺點 + but + 優點</span>
@@ -55,12 +55,17 @@ defineProps<{ note: (typeof notes)[number] }>();
         stem="The café was cosy"
         :branches="[
           { head: 'and', rest: 'friendly', meaning: '一樣是優點', zh: '咖啡館很溫馨，也很親切。' },
-          { head: 'but', rest: 'noisy', meaning: '意思相反', zh: '咖啡館很溫馨，但是很吵。' },
+          {
+            head: 'but',
+            rest: 'very noisy',
+            meaning: '意思相反',
+            zh: '咖啡館很溫馨，但是非常吵。',
+          },
         ]"
       />
     </NoteSlide>
 
-    <NoteSlide title="意思不相反的形容詞用 and 連接" mark="but">
+    <NoteSlide title="意思不相反的形容詞用 and 連接">
       <NoteFix
         wrong="My new neighbours are kind but helpful."
         right="My new neighbours are kind and helpful."
@@ -68,7 +73,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="but 後面接形容詞，不接副詞" mark="fine">
+    <NoteSlide title="but 後面接形容詞，不接副詞" mark="but fine">
       <NoteFix
         wrong="The bag was cheap but beautifully."
         right="The bag was cheap but beautiful."

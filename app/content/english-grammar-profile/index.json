@@ -2225,7 +2225,7 @@
     "sentences": [
       "We only paid thirty euros a night. The room was small but clean.",
       "I found this vase at a market. It was cheap but beautiful.",
-      "Did you enjoy the film last night? It was long but interesting.",
+      "I saw the new film last night. It was long but interesting.",
       "Don't sell your car yet. It's old but reliable.",
       "Ms Hill's history test was difficult but fair. Nobody failed it.",
       "We went swimming early in the morning. The lake was cold but calm.",
@@ -2245,7 +2245,7 @@
       "We looked at a flat on Main Street. The flat is bright but noisy.",
       "Don't worry about our hotel in Rome. It's cheap but very clean.",
       "Take a warm coat for the match. The weather will be cold but sunny tomorrow.",
-      "We lost the final by one point. The game was close but exciting.",
+      "We watched the final at Leo's house. The game was long but exciting.",
       "How was your hotel in Paris? Were the rooms small but comfortable?",
       "My grandfather grew up on a farm. He was poor but happy.",
       "Read every question carefully. The questions are short but tricky.",
@@ -2267,8 +2267,8 @@
             "zh": "我在市集找到這個花瓶。它很便宜，但是很漂亮。"
           },
           {
-            "en": "Did you enjoy the film last night? It was long but interesting.",
-            "zh": "你昨晚看電影看得開心嗎？那部電影很長，但是很好看。"
+            "en": "I saw the new film last night. It was long but interesting.",
+            "zh": "我昨晚看了那部新電影。電影很長，但是很好看。"
           },
           {
             "en": "Don't sell your car yet. It's old but reliable.",
@@ -2357,8 +2357,8 @@
             "zh": "去看比賽要帶一件暖和的外套。明天天氣會很冷，但是出太陽。"
           },
           {
-            "en": "We lost the final by one point. The game was close but exciting.",
-            "zh": "我們決賽輸了一分。比賽比數很接近，但是很刺激。"
+            "en": "We watched the final at Leo's house. The game was long but exciting.",
+            "zh": "我們在 Leo 家看決賽。比賽打了很久，但是很刺激。"
           },
           {
             "en": "How was your hotel in Paris? Were the rooms small but comfortable?",

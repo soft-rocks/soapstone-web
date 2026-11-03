@@ -2042,92 +2042,92 @@
     "translation": "老師們人都很好，也很友善。",
     "name": "and 連接兩個形容詞",
     "sentences": [
-      "My room is small and quiet.",
-      "The weather was sunny and warm.",
-      "Is the water clean and safe?",
-      "Our new car is fast and comfortable.",
-      "The test was long and difficult.",
-      "My grandmother is old, but she is strong and healthy.",
-      "The cake was soft and sweet.",
-      "These shoes are cheap and light.",
-      "Ken was very kind and patient with me.",
-      "The streets were dark and empty.",
-      "Our teacher is strict and fair.",
-      "The park is big and green.",
-      "Her answer was short and clear.",
-      "It was a long and difficult day.",
-      "She has a warm and friendly smile.",
-      "We stayed in a small and quiet hotel.",
-      "He gave a short and clear answer.",
-      "It's a cheap and easy dinner.",
-      "They live in a large and modern house.",
-      "You look tired and hungry.",
-      "I feel happy and relaxed today.",
-      "The room looks clean and bright.",
-      "After the run, I felt hot and thirsty.",
-      "The bread smells fresh and warm.",
-      "Ann looked surprised and pleased.",
-      "The people here are really kind and helpful.",
-      "The beach was very clean and beautiful.",
-      "My new phone is really small and fast.",
-      "The children were very quiet and polite.",
-      "The museum is really big and interesting."
+      "I like my new flat. My room is small and quiet.",
+      "We had a great day at the beach. The weather was sunny and warm.",
+      "We want to swim in the river. Is the water clean and safe?",
+      "Dad bought a new car last month. It's fast and comfortable.",
+      "I'm so glad the exam is over. It was long and difficult.",
+      "My grandmother is eighty, but she is strong and healthy.",
+      "Thank you for the birthday cake. It was soft and sweet.",
+      "I bought these running shoes online. They're cheap and light.",
+      "I was slow at maths, but my tutor, Ken, was very kind and patient with me.",
+      "We got home after midnight. The streets were dark and empty.",
+      "Mr Lee gives lots of homework, but he is strict and fair.",
+      "You should take the kids to Riverside Park. It's big and green.",
+      "I asked Maria about the trip. Her answer was short and clear: \"No.\"",
+      "I had three meetings and a broken printer. It was a long and difficult day.",
+      "Everyone likes our new receptionist. She has a warm and friendly smile.",
+      "We didn't want a busy city break, so we stayed in a small and quiet hotel by a lake.",
+      "The reporter asked the minister about the new tax, and he gave a short and clear answer.",
+      "Try this pasta with tomatoes and garlic. It's a cheap and easy dinner.",
+      "My cousins moved to the city last year. They live in a large and modern house now.",
+      "You've been at work since seven. You look tired and hungry.",
+      "My exams finished yesterday. I feel happy and relaxed today.",
+      "We painted the walls white. The room looks clean and bright now.",
+      "After the run, I felt hot and thirsty, so I drank two bottles of water.",
+      "Let's buy a loaf at this bakery. The bread smells fresh and warm.",
+      "We gave Ann flowers on her last day at work. She looked surprised and pleased.",
+      "I got lost on my first day in Tokyo. The people there were really kind and helpful.",
+      "We went to the island last summer. The beach was very clean and beautiful.",
+      "I love my new phone. It's really small and fast.",
+      "I took my nephews to a concert. The children were very quiet and polite.",
+      "You should visit the science museum. It's really big and interesting."
     ],
     "examples": [
       {
         "heading": "① 主詞 + be + 形容詞 + and + 形容詞",
         "items": [
           {
-            "en": "My room is small and quiet.",
-            "zh": "我的房間又小又安靜。"
+            "en": "I like my new flat. My room is small and quiet.",
+            "zh": "我喜歡我的新公寓。我的房間又小又安靜。"
           },
           {
-            "en": "The weather was sunny and warm.",
-            "zh": "天氣晴朗又溫暖。"
+            "en": "We had a great day at the beach. The weather was sunny and warm.",
+            "zh": "我們在海邊玩得很開心。天氣晴朗又溫暖。"
           },
           {
-            "en": "Is the water clean and safe?",
-            "zh": "這水乾淨又安全嗎？"
+            "en": "We want to swim in the river. Is the water clean and safe?",
+            "zh": "我們想在河裡游泳。這水乾淨又安全嗎？"
           },
           {
-            "en": "Our new car is fast and comfortable.",
-            "zh": "我們的新車又快又舒服。"
+            "en": "Dad bought a new car last month. It's fast and comfortable.",
+            "zh": "爸爸上個月買了新車。那輛車又快又舒服。"
           },
           {
-            "en": "The test was long and difficult.",
-            "zh": "那次考試又長又難。"
+            "en": "I'm so glad the exam is over. It was long and difficult.",
+            "zh": "考試結束了，我好高興。那次考試又長又難。"
           },
           {
-            "en": "My grandmother is old, but she is strong and healthy.",
-            "zh": "我奶奶年紀大了，可是身體強壯又健康。"
+            "en": "My grandmother is eighty, but she is strong and healthy.",
+            "zh": "我奶奶八十歲了，可是身體強壯又健康。"
           },
           {
-            "en": "The cake was soft and sweet.",
-            "zh": "那個蛋糕又軟又甜。"
+            "en": "Thank you for the birthday cake. It was soft and sweet.",
+            "zh": "謝謝你的生日蛋糕。蛋糕又軟又甜。"
           },
           {
-            "en": "These shoes are cheap and light.",
-            "zh": "這雙鞋又便宜又輕。"
+            "en": "I bought these running shoes online. They're cheap and light.",
+            "zh": "我在網路上買了這雙跑鞋。這雙鞋又便宜又輕。"
           },
           {
-            "en": "Ken was very kind and patient with me.",
-            "zh": "Ken 對我很好，也很有耐心。"
+            "en": "I was slow at maths, but my tutor, Ken, was very kind and patient with me.",
+            "zh": "我數學學得很慢，可是我的家教 Ken 對我很好，也很有耐心。"
           },
           {
-            "en": "The streets were dark and empty.",
-            "zh": "街上又暗又沒有人。"
+            "en": "We got home after midnight. The streets were dark and empty.",
+            "zh": "我們半夜過後才到家。街上又暗又沒有人。"
           },
           {
-            "en": "Our teacher is strict and fair.",
-            "zh": "我們老師很嚴格，也很公平。"
+            "en": "Mr Lee gives lots of homework, but he is strict and fair.",
+            "zh": "李老師出很多功課，不過他很嚴格，也很公平。"
           },
           {
-            "en": "The park is big and green.",
-            "zh": "那座公園又大又綠。"
+            "en": "You should take the kids to Riverside Park. It's big and green.",
+            "zh": "你應該帶孩子去河濱公園。那座公園又大又綠。"
           },
           {
-            "en": "Her answer was short and clear.",
-            "zh": "她的回答簡短又清楚。"
+            "en": "I asked Maria about the trip. Her answer was short and clear: \"No.\"",
+            "zh": "我問 Maria 旅行的事。她的回答簡短又清楚：不去。"
           }
         ]
       },
@@ -2135,57 +2135,57 @@
         "heading": "② 形容詞 + and + 形容詞 + 名詞",
         "items": [
           {
-            "en": "It was a long and difficult day.",
-            "zh": "那是漫長又辛苦的一天。"
+            "en": "I had three meetings and a broken printer. It was a long and difficult day.",
+            "zh": "我開了三個會，印表機還壞了。那是漫長又辛苦的一天。"
           },
           {
-            "en": "She has a warm and friendly smile.",
-            "zh": "她的笑容溫暖又親切。"
+            "en": "Everyone likes our new receptionist. She has a warm and friendly smile.",
+            "zh": "大家都喜歡我們新來的櫃台人員。她的笑容溫暖又親切。"
           },
           {
-            "en": "We stayed in a small and quiet hotel.",
-            "zh": "我們住在一間小而安靜的旅館。"
+            "en": "We didn't want a busy city break, so we stayed in a small and quiet hotel by a lake.",
+            "zh": "我們不想在熱鬧的城市度假，所以住在湖邊一間小而安靜的旅館。"
           },
           {
-            "en": "He gave a short and clear answer.",
-            "zh": "他給了一個簡短又清楚的回答。"
+            "en": "The reporter asked the minister about the new tax, and he gave a short and clear answer.",
+            "zh": "記者問部長新稅的事，部長給了一個簡短又清楚的回答。"
           },
           {
-            "en": "It's a cheap and easy dinner.",
-            "zh": "這是一道便宜又簡單的晚餐。"
+            "en": "Try this pasta with tomatoes and garlic. It's a cheap and easy dinner.",
+            "zh": "試試這道番茄大蒜義大利麵。這是一道便宜又簡單的晚餐。"
           },
           {
-            "en": "They live in a large and modern house.",
-            "zh": "他們住在一棟又大又現代的房子。"
+            "en": "My cousins moved to the city last year. They live in a large and modern house now.",
+            "zh": "我表哥一家去年搬到城裡。他們現在住在一棟又大又現代的房子。"
           }
         ]
       },
       {
-        "heading": "③ 主詞 + look / feel + 形容詞 + and + 形容詞",
+        "heading": "③ 主詞 + look / feel / smell + 形容詞 + and + 形容詞",
         "items": [
           {
-            "en": "You look tired and hungry.",
-            "zh": "你看起來又累又餓。"
+            "en": "You've been at work since seven. You look tired and hungry.",
+            "zh": "你從七點就在上班了。你看起來又累又餓。"
           },
           {
-            "en": "I feel happy and relaxed today.",
-            "zh": "我今天覺得開心又放鬆。"
+            "en": "My exams finished yesterday. I feel happy and relaxed today.",
+            "zh": "我的考試昨天考完了。我今天覺得開心又放鬆。"
           },
           {
-            "en": "The room looks clean and bright.",
-            "zh": "這個房間看起來乾淨又明亮。"
+            "en": "We painted the walls white. The room looks clean and bright now.",
+            "zh": "我們把牆漆成白色。現在這個房間看起來乾淨又明亮。"
           },
           {
-            "en": "After the run, I felt hot and thirsty.",
-            "zh": "跑完步以後，我覺得又熱又渴。"
+            "en": "After the run, I felt hot and thirsty, so I drank two bottles of water.",
+            "zh": "跑完步以後，我覺得又熱又渴，所以喝了兩瓶水。"
           },
           {
-            "en": "The bread smells fresh and warm.",
-            "zh": "這麵包聞起來很新鮮，還熱熱的。"
+            "en": "Let's buy a loaf at this bakery. The bread smells fresh and warm.",
+            "zh": "我們在這家麵包店買一條麵包吧。麵包聞起來很新鮮，還熱熱的。"
           },
           {
-            "en": "Ann looked surprised and pleased.",
-            "zh": "Ann 看起來又驚訝又開心。"
+            "en": "We gave Ann flowers on her last day at work. She looked surprised and pleased.",
+            "zh": "Ann 上班的最後一天，我們送她花。她看起來又驚訝又開心。"
           }
         ]
       },
@@ -2193,24 +2193,24 @@
         "heading": "④ very / really + 形容詞 + and + 形容詞",
         "items": [
           {
-            "en": "The people here are really kind and helpful.",
-            "zh": "這裡的人真的很好，也很樂於幫忙。"
+            "en": "I got lost on my first day in Tokyo. The people there were really kind and helpful.",
+            "zh": "我在東京的第一天迷路了。那裡的人真的很好，也很樂於幫忙。"
           },
           {
-            "en": "The beach was very clean and beautiful.",
-            "zh": "那片海灘非常乾淨又漂亮。"
+            "en": "We went to the island last summer. The beach was very clean and beautiful.",
+            "zh": "我們去年夏天去了那座島。那片海灘非常乾淨又漂亮。"
           },
           {
-            "en": "My new phone is really small and fast.",
-            "zh": "我的新手機真的又小又快。"
+            "en": "I love my new phone. It's really small and fast.",
+            "zh": "我很喜歡我的新手機。它真的又小又快。"
           },
           {
-            "en": "The children were very quiet and polite.",
-            "zh": "孩子們很安靜，也很有禮貌。"
+            "en": "I took my nephews to a concert. The children were very quiet and polite.",
+            "zh": "我帶我的姪子們去聽音樂會。孩子們很安靜，也很有禮貌。"
           },
           {
-            "en": "The museum is really big and interesting.",
-            "zh": "那間博物館真的很大，也很有趣。"
+            "en": "You should visit the science museum. It's really big and interesting.",
+            "zh": "你應該去參觀科學博物館。那間博物館真的很大，也很有趣。"
           }
         ]
       }

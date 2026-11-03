@@ -28,7 +28,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="remark">兩個形容詞都形容主詞。</p>
     </NoteSlide>
 
-    <NoteSlide title="兩個形容詞也可以放在名詞前面或 look 後面" mark="and">
+    <NoteSlide title="兩個形容詞也可以放在名詞前面或 look 後面">
       <div class="rows is-labeled">
         <div>
           <span class="term">be 後面</span>
@@ -74,15 +74,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">那片海灘非常乾淨又漂亮。</p>
     </NoteSlide>
 
-    <NoteSlide title="兩個形容詞中間要加 and" mark="and">
-      <NoteFix
-        wrong="The hotel was clean cheap."
-        right="The hotel was clean and cheap."
-        fix="and"
-      />
+    <NoteSlide title="兩個形容詞中間要加 and" mark="nice and friendly">
+      <NoteFix wrong="The beds were soft warm." right="The beds were soft and warm." fix="and" />
     </NoteSlide>
 
-    <NoteSlide title="and 後面要接形容詞，不接動詞" mark="friendly">
+    <NoteSlide title="and 後面要接形容詞，不接動詞" mark="and friendly">
       <NoteFix wrong="The soup is hot and taste." right="The soup is hot and tasty." fix="tasty">
         <code>taste</code> 是動詞，形容詞是 <code>tasty</code>。
       </NoteFix>

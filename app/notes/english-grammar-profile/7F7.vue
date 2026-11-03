@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="otherwise 說明不這樣做的結果">
+    <NoteSlide title="otherwise 說明不這樣做的結果" mark="Otherwise,">
       <NoteWords
         :size="26"
         :parts="[
@@ -24,7 +24,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">請跟我說你能不能來拿。不然我就去拜託我另一個朋友。</p>
     </NoteSlide>
 
-    <NoteSlide title="therefore 帶出結果，furthermore 補充同方向的事" mark="Otherwise,">
+    <NoteSlide title="therefore 帶出結果，furthermore 補充同方向的事">
       <div class="rows is-labeled">
         <div>
           <span class="term">therefore<br /><i>結果</i></span>
@@ -60,7 +60,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="說話時，otherwise 常接在祈使句的逗號後面" mark="Otherwise,">
+    <NoteSlide title="說話時，otherwise 常接在祈使句的逗號後面">
       <NoteWords
         :size="30"
         :parts="[
@@ -88,7 +88,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="otherwise 前面不再加 if 子句" mark="Otherwise,">
+    <NoteSlide title="otherwise 前面不再加 if 子句">
       <NoteFix
         wrong="If you don't hurry, otherwise we'll be late."
         right="Hurry, otherwise we'll be late."

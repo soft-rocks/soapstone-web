@@ -24811,25 +24811,25 @@
     "translation": "請跟我說你能不能來拿。不然我就去拜託我另一個朋友。",
     "name": "連接副詞（therefore、otherwise）",
     "sentences": [
-      "Write it down. Otherwise, you'll forget it.",
+      "Here's my new phone number. Write it down. Otherwise, you'll forget it.",
       "We need to leave now. Otherwise, we'll be late.",
       "Call me before you come. Otherwise, I might be out.",
       "Put the milk in the fridge, otherwise it'll go off.",
       "I'm glad you reminded me. Otherwise, I would have forgotten.",
       "Book the tickets soon. Otherwise, there won't be any left.",
       "The bridge is closed. Therefore, all traffic must use the main road.",
-      "He was ill. Therefore, he couldn't take the exam.",
+      "Tom had a high fever on Monday. Therefore, he couldn't take the exam.",
       "The airline cancelled our flight. Therefore, we stayed one more night.",
       "Many of our staff are ill. Therefore, the shop will close early today.",
-      "It is therefore important to arrive on time.",
-      "She had no experience. She therefore found the job difficult at first.",
+      "The doors close at seven. It is therefore important to arrive on time.",
+      "Our new assistant had no experience. She therefore found the job difficult at first.",
       "The flat is in a quiet street. Furthermore, it has a big garden.",
       "I enjoy my job. Furthermore, my colleagues are very kind.",
       "The museum is free. Furthermore, it's open every day.",
-      "You will improve your English. Furthermore, you will meet people from many countries.",
+      "Join our summer course in Oxford. You will improve your English. Furthermore, you will meet people from many countries.",
       "This phone is light. Furthermore, the battery lasts for two days.",
       "Our town needs a new library. Furthermore, it needs more parks.",
-      "Dear Sir, I am writing to complain about my order. Furthermore, I would like a refund.",
+      "My order arrived two weeks late. Furthermore, one of the plates was broken.",
       "Please reply by Friday. Otherwise, I will give the room to another guest.",
       "I have three years of experience. Therefore, I believe I am right for this job.",
       "The course starts in May. Furthermore, it includes a trip to London.",
@@ -24847,8 +24847,8 @@
         "heading": "① otherwise",
         "items": [
           {
-            "en": "Write it down. Otherwise, you'll forget it.",
-            "zh": "寫下來。不然你會忘記。"
+            "en": "Here's my new phone number. Write it down. Otherwise, you'll forget it.",
+            "zh": "這是我的新電話號碼。寫下來，不然你會忘記。"
           },
           {
             "en": "We need to leave now. Otherwise, we'll be late.",
@@ -24880,8 +24880,8 @@
             "zh": "橋封閉了。所以所有車輛都必須走主要道路。"
           },
           {
-            "en": "He was ill. Therefore, he couldn't take the exam.",
-            "zh": "他生病了。因此沒辦法參加考試。"
+            "en": "Tom had a high fever on Monday. Therefore, he couldn't take the exam.",
+            "zh": "Tom 星期一發高燒。因此他沒辦法參加考試。"
           },
           {
             "en": "The airline cancelled our flight. Therefore, we stayed one more night.",
@@ -24892,12 +24892,12 @@
             "zh": "我們很多員工生病了。因此店今天會提早關門。"
           },
           {
-            "en": "It is therefore important to arrive on time.",
-            "zh": "因此，準時抵達很重要。"
+            "en": "The doors close at seven. It is therefore important to arrive on time.",
+            "zh": "七點就關門。因此，準時抵達很重要。"
           },
           {
-            "en": "She had no experience. She therefore found the job difficult at first.",
-            "zh": "她沒有經驗。所以一開始覺得那份工作很難。"
+            "en": "Our new assistant had no experience. She therefore found the job difficult at first.",
+            "zh": "我們的新助理沒有經驗。所以她一開始覺得那份工作很難。"
           }
         ]
       },
@@ -24917,8 +24917,8 @@
             "zh": "博物館免費。而且每天開放。"
           },
           {
-            "en": "You will improve your English. Furthermore, you will meet people from many countries.",
-            "zh": "你的英文會進步。而且你會認識很多國家的人。"
+            "en": "Join our summer course in Oxford. You will improve your English. Furthermore, you will meet people from many countries.",
+            "zh": "來參加我們在牛津的暑期課程。你的英文會進步。而且你會認識很多國家的人。"
           },
           {
             "en": "This phone is light. Furthermore, the battery lasts for two days.",
@@ -24934,8 +24934,8 @@
         "heading": "④ 在書信裡",
         "items": [
           {
-            "en": "Dear Sir, I am writing to complain about my order. Furthermore, I would like a refund.",
-            "zh": "敬啟者，我寫信來投訴我的訂單。此外，我希望能退款。"
+            "en": "My order arrived two weeks late. Furthermore, one of the plates was broken.",
+            "zh": "我的訂單晚了兩個星期才到。此外，其中一個盤子破了。"
           },
           {
             "en": "Please reply by Friday. Otherwise, I will give the room to another guest.",

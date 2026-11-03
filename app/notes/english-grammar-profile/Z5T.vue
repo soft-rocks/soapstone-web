@@ -84,8 +84,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="be 後面接形容詞，不接副詞" mark="reliable">
       <NoteFix
-        wrong="The work was quick, easy and carefully."
-        right="The work was quick, easy and careful."
+        wrong="Our new driver is young, quiet and carefully."
+        right="Our new driver is young, quiet and careful."
         fix="careful"
       />
     </NoteSlide>

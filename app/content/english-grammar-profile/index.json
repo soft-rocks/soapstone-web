@@ -27444,60 +27444,60 @@
     "translation": "我馬上打給她，看看是不是一切都好。",
     "name": "時間副詞（較多種）",
     "sentences": [
-      "My sister got married recently.",
-      "I've recently started a new job.",
-      "Have you seen Peter recently?",
-      "The shop on the corner closed recently.",
-      "We recently moved to a quieter area.",
-      "I haven't slept well lately.",
-      "Have you been to the gym lately?",
-      "She's been very busy lately.",
-      "It's rained a lot lately.",
-      "The doctor came immediately.",
-      "Please reply to this email immediately.",
-      "When the alarm rang, we immediately left the building.",
-      "He recognised me immediately.",
-      "Call me immediately if you hear anything.",
+      "Did you hear the news? My sister got married recently.",
+      "I don't work at the bank any more. I've recently started a new job at a school.",
+      "Peter moved to Leeds last year. Have you seen him recently?",
+      "You can't buy bread on the corner any more. The bakery there closed recently.",
+      "Our old flat was next to a busy road. We recently moved to a quieter area.",
+      "My neighbours have a new baby. I haven't slept well lately.",
+      "You look really fit. Have you been to the gym lately?",
+      "Anna started her own business in May. She's been very busy lately.",
+      "Take an umbrella. It's rained a lot lately.",
+      "We called the doctor at midnight, and she came immediately.",
+      "The meeting is tomorrow morning. Please reply to this email immediately.",
+      "When the fire alarm rang, we immediately left the building.",
+      "I hadn't seen my old teacher for twenty years, but he recognised me immediately.",
+      "The hospital will phone with Grandma's test results. Call me immediately if you hear anything.",
       "I'm busy now. I'll read your report later this afternoon.",
-      "I'll finish the washing up later.",
-      "Two days later, the parcel arrived.",
-      "The rain stopped, and later the sun came out.",
-      "We went to the concert and had a drink afterwards.",
-      "Afterwards, I felt much better.",
-      "The film was long, and afterwards everyone was tired.",
+      "Leave the dishes in the sink. I'll do the washing-up later.",
+      "I ordered a new phone on Monday. Two days later, the parcel arrived.",
+      "We stayed in the tent all morning. The rain stopped, and later the sun came out.",
+      "It was Tom's birthday. We went to a concert and had a drink afterwards.",
+      "I had a headache, so I lay down for an hour. Afterwards, I felt much better.",
+      "The film was three hours long, and everyone was tired afterwards.",
       "I'm going to the dentist at three. I'll meet you afterwards.",
-      "We waited for an hour, and eventually the bus came.",
-      "He eventually found his keys in his coat pocket.",
-      "After many tries, she eventually passed her driving test.",
-      "The two countries eventually signed the agreement.",
-      "Nowadays, many people work from home.",
-      "Kids nowadays spend a lot of time online.",
-      "Nowadays I hardly ever watch TV.",
-      "Food is much more expensive nowadays."
+      "The taxi was stuck in traffic for forty minutes, but it eventually got us to the airport.",
+      "Dad looked for his keys all morning. He eventually found them in his coat pocket.",
+      "My aunt failed her driving test four times. She eventually passed it on her fifth try.",
+      "The talks went on for months. The two countries eventually signed the agreement.",
+      "My dad worked in an office for forty years. Nowadays, many people work from home.",
+      "I played outside every day as a child. Kids nowadays spend a lot of time online.",
+      "I used to love TV. Nowadays I hardly ever watch it.",
+      "A coffee was one pound when I was at school. Everything is much more expensive nowadays."
     ],
     "examples": [
       {
         "heading": "① recently",
         "items": [
           {
-            "en": "My sister got married recently.",
-            "zh": "我姊姊最近結婚了。"
+            "en": "Did you hear the news? My sister got married recently.",
+            "zh": "你聽說了嗎？我姊姊最近結婚了。"
           },
           {
-            "en": "I've recently started a new job.",
-            "zh": "我最近開始做新工作。"
+            "en": "I don't work at the bank any more. I've recently started a new job at a school.",
+            "zh": "我已經不在銀行上班了。我最近開始在一所學校做新工作。"
           },
           {
-            "en": "Have you seen Peter recently?",
-            "zh": "你最近有見到彼得嗎？"
+            "en": "Peter moved to Leeds last year. Have you seen him recently?",
+            "zh": "Peter 去年搬去里茲了。你最近有見到他嗎？"
           },
           {
-            "en": "The shop on the corner closed recently.",
-            "zh": "轉角那家店最近關了。"
+            "en": "You can't buy bread on the corner any more. The bakery there closed recently.",
+            "zh": "轉角已經買不到麵包了。那裡的麵包店最近關了。"
           },
           {
-            "en": "We recently moved to a quieter area.",
-            "zh": "我們最近搬到一個比較安靜的地方。"
+            "en": "Our old flat was next to a busy road. We recently moved to a quieter area.",
+            "zh": "我們以前的公寓在一條很吵的路旁邊。我們最近搬到一個比較安靜的地方。"
           }
         ]
       },
@@ -27505,20 +27505,20 @@
         "heading": "② lately",
         "items": [
           {
-            "en": "I haven't slept well lately.",
-            "zh": "我最近睡得不好。"
+            "en": "My neighbours have a new baby. I haven't slept well lately.",
+            "zh": "我的鄰居生了寶寶。我最近睡得不好。"
           },
           {
-            "en": "Have you been to the gym lately?",
-            "zh": "你最近有去健身房嗎？"
+            "en": "You look really fit. Have you been to the gym lately?",
+            "zh": "你看起來很健康。你最近有去健身房嗎？"
           },
           {
-            "en": "She's been very busy lately.",
-            "zh": "她最近很忙。"
+            "en": "Anna started her own business in May. She's been very busy lately.",
+            "zh": "Anna 五月開始自己創業。她最近很忙。"
           },
           {
-            "en": "It's rained a lot lately.",
-            "zh": "最近常下雨。"
+            "en": "Take an umbrella. It's rained a lot lately.",
+            "zh": "帶把傘吧。最近常下雨。"
           }
         ]
       },
@@ -27526,24 +27526,24 @@
         "heading": "③ immediately",
         "items": [
           {
-            "en": "The doctor came immediately.",
-            "zh": "醫生馬上就來了。"
+            "en": "We called the doctor at midnight, and she came immediately.",
+            "zh": "我們半夜打給醫生，她馬上就來了。"
           },
           {
-            "en": "Please reply to this email immediately.",
-            "zh": "請馬上回覆這封電子郵件。"
+            "en": "The meeting is tomorrow morning. Please reply to this email immediately.",
+            "zh": "會議是明天早上。請馬上回覆這封電子郵件。"
           },
           {
-            "en": "When the alarm rang, we immediately left the building.",
-            "zh": "警報一響，我們馬上就離開大樓。"
+            "en": "When the fire alarm rang, we immediately left the building.",
+            "zh": "火災警報一響，我們馬上就離開大樓。"
           },
           {
-            "en": "He recognised me immediately.",
-            "zh": "他一眼就認出我了。"
+            "en": "I hadn't seen my old teacher for twenty years, but he recognised me immediately.",
+            "zh": "我二十年沒見到我以前的老師了，不過他一眼就認出我。"
           },
           {
-            "en": "Call me immediately if you hear anything.",
-            "zh": "你一聽到消息就馬上打給我。"
+            "en": "The hospital will phone with Grandma's test results. Call me immediately if you hear anything.",
+            "zh": "醫院會打電話來說奶奶的檢查結果。你一聽到消息就馬上打給我。"
           }
         ]
       },
@@ -27555,16 +27555,16 @@
             "zh": "我現在很忙。今天下午晚一點再看你的報告。"
           },
           {
-            "en": "I'll finish the washing up later.",
-            "zh": "我晚一點再洗碗。"
+            "en": "Leave the dishes in the sink. I'll do the washing-up later.",
+            "zh": "碗盤放在水槽就好。我晚一點再洗碗。"
           },
           {
-            "en": "Two days later, the parcel arrived.",
-            "zh": "兩天後，包裹到了。"
+            "en": "I ordered a new phone on Monday. Two days later, the parcel arrived.",
+            "zh": "我星期一訂了新手機。兩天後，包裹到了。"
           },
           {
-            "en": "The rain stopped, and later the sun came out.",
-            "zh": "雨停了，後來太陽出來了。"
+            "en": "We stayed in the tent all morning. The rain stopped, and later the sun came out.",
+            "zh": "我們整個早上都待在帳篷裡。雨停了，後來太陽出來了。"
           }
         ]
       },
@@ -27572,16 +27572,16 @@
         "heading": "⑤ afterwards",
         "items": [
           {
-            "en": "We went to the concert and had a drink afterwards.",
-            "zh": "我們去聽演唱會，之後去喝了一杯。"
+            "en": "It was Tom's birthday. We went to a concert and had a drink afterwards.",
+            "zh": "那天是 Tom 的生日。我們去聽演唱會，之後去喝了一杯。"
           },
           {
-            "en": "Afterwards, I felt much better.",
-            "zh": "後來我覺得好多了。"
+            "en": "I had a headache, so I lay down for an hour. Afterwards, I felt much better.",
+            "zh": "我頭痛，所以躺了一個小時。後來我覺得好多了。"
           },
           {
-            "en": "The film was long, and afterwards everyone was tired.",
-            "zh": "電影很長，看完之後大家都累了。"
+            "en": "The film was three hours long, and everyone was tired afterwards.",
+            "zh": "那部電影有三個小時，看完之後大家都累了。"
           },
           {
             "en": "I'm going to the dentist at three. I'll meet you afterwards.",
@@ -27593,20 +27593,20 @@
         "heading": "⑥ eventually",
         "items": [
           {
-            "en": "We waited for an hour, and eventually the bus came.",
-            "zh": "我們等了一個小時，公車終於來了。"
+            "en": "The taxi was stuck in traffic for forty minutes, but it eventually got us to the airport.",
+            "zh": "計程車塞在路上四十分鐘，不過最後還是把我們送到了機場。"
           },
           {
-            "en": "He eventually found his keys in his coat pocket.",
-            "zh": "他最後在外套口袋裡找到了鑰匙。"
+            "en": "Dad looked for his keys all morning. He eventually found them in his coat pocket.",
+            "zh": "爸爸找鑰匙找了一整個早上。他最後在外套口袋裡找到了。"
           },
           {
-            "en": "After many tries, she eventually passed her driving test.",
-            "zh": "試了很多次之後，她終於考過駕照了。"
+            "en": "My aunt failed her driving test four times. She eventually passed it on her fifth try.",
+            "zh": "我阿姨駕照考了四次都沒過。她第五次終於考過了。"
           },
           {
-            "en": "The two countries eventually signed the agreement.",
-            "zh": "兩國最後簽了協議。"
+            "en": "The talks went on for months. The two countries eventually signed the agreement.",
+            "zh": "談判持續了好幾個月。兩國最後簽了協議。"
           }
         ]
       },
@@ -27614,20 +27614,20 @@
         "heading": "⑦ nowadays",
         "items": [
           {
-            "en": "Nowadays, many people work from home.",
-            "zh": "現在很多人在家工作。"
+            "en": "My dad worked in an office for forty years. Nowadays, many people work from home.",
+            "zh": "我爸爸在辦公室上班了四十年。現在很多人在家工作。"
           },
           {
-            "en": "Kids nowadays spend a lot of time online.",
-            "zh": "現在的小孩花很多時間上網。"
+            "en": "I played outside every day as a child. Kids nowadays spend a lot of time online.",
+            "zh": "我小時候每天都在外面玩。現在的小孩花很多時間上網。"
           },
           {
-            "en": "Nowadays I hardly ever watch TV.",
-            "zh": "現在我幾乎不看電視。"
+            "en": "I used to love TV. Nowadays I hardly ever watch it.",
+            "zh": "我以前很愛看電視。現在我幾乎不看了。"
           },
           {
-            "en": "Food is much more expensive nowadays.",
-            "zh": "現在的食物貴多了。"
+            "en": "A coffee was one pound when I was at school. Everything is much more expensive nowadays.",
+            "zh": "我讀書的時候一杯咖啡一英鎊。現在什麼都貴多了。"
           }
         ]
       }

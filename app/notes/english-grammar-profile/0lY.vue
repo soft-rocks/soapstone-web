@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="immediately 放在一般動詞前面，表示馬上">
+    <NoteSlide title="immediately 放在一般動詞前面，表示馬上" mark="immediately called">
       <NoteWords
         :size="28"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我馬上打給她，看看是不是一切都好。</p>
     </NoteSlide>
 
-    <NoteSlide title="大部分時間副詞放在句尾，nowadays 也常放在句首" mark="immediately">
+    <NoteSlide title="時間副詞多半放在句尾，nowadays 也可以放在句首">
       <div class="rows is-labeled">
         <div>
           <span class="term">句尾</span>
@@ -73,15 +73,15 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="lately 和現在完成式一起用">
+    <NoteSlide title="表示可能用 might，不用 eventually">
       <NoteFix
-        wrong="I saw a good film lately."
-        right="I've seen some good films lately."
-        fix="I've seen"
+        wrong="I'll eventually come to the party, but I'm not sure yet."
+        right="I might come to the party, but I'm not sure yet."
+        fix="might"
       />
     </NoteSlide>
 
-    <NoteSlide title="「晚一點」用 later，lately 是「最近」">
+    <NoteSlide title="表示晚一點用 later，lately 的意思是最近">
       <NoteFix
         wrong="I'm busy now. I'll call you back lately."
         right="I'm busy now. I'll call you back later."

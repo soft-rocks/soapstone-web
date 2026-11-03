@@ -26233,58 +26233,62 @@
     "translation": "我們先在一家很貴的餐廳吃晚餐，然後去了一家迪斯可舞廳。",
     "name": "first、then、after that 表示順序",
     "sentences": [
-      "First I had a shower, and then I got dressed.",
-      "First we'll go to the bank, and then we'll go to the post office.",
-      "First she called her mum, and then she called the police.",
-      "First you turn on the computer, and then you type your password.",
-      "We had a picnic in the park, then we went home.",
-      "He opened the letter and then smiled.",
-      "Let's eat first, then we can talk about the plan.",
-      "Wait for the green light, then cross the road.",
-      "Have a rest, and then we'll start again.",
-      "We visited the castle. After that, we went for a walk by the river.",
-      "I worked in a hotel for two years. After that, I moved to London.",
-      "The teacher checked our homework. After that, we played a game.",
-      "We'll have dinner at seven. After that, we can watch a film.",
-      "My dad didn't say anything. After that, he never mentioned it again.",
-      "Next, put the eggs in the bowl.",
-      "What should we do next?",
-      "First, fill in this form. Next, sign your name at the bottom.",
-      "Finally, close the lid and press the green button.",
-      "We went to three shops, and finally we found the right shoes.",
-      "First, they had a meeting. Then they had lunch. Finally, they went back to the office.",
-      "Finally, I want to thank my parents.",
-      "First, boil some water.",
-      "Then put the tea bag in the cup.",
-      "First, take the old battery out. Then put the new one in.",
-      "Turn left at the corner, then go straight on.",
-      "Mix the flour and the butter first. After that, add the milk.",
-      "In the morning we went to the beach. Then we had lunch at a little café.",
+      "I was late for work this morning. First I had a quick shower, and then I got dressed.",
+      "We have two things to do in town. First we'll go to the bank, and then we'll go to the post office.",
+      "Somebody broke into Ann's flat. First she called her mum, and then she called the police.",
+      "It's easy to log in. First you turn on the computer, and then you type your password.",
+      "It started to get cold at four. We had a picnic in the park, and then we went home.",
+      "Tom got a letter from the university. He opened it and then smiled.",
+      "I'm starving. Let's eat first, then we can talk about the plan.",
+      "This road is very busy. Wait for the green light, then cross the road.",
+      "You've been working for three hours. Have a rest, and then we'll start again.",
+      "We had a great day in York. We visited the castle. After that, we went for a walk by the river.",
+      "I left school at eighteen. I worked in a hotel for two years. After that, I moved to London.",
+      "It was the last day of term. The teacher checked our homework. After that, we played a game.",
+      "Grandma is coming tonight. We'll have dinner at seven. After that, we can watch a film.",
+      "I told my dad about the broken car. He didn't say anything. After that, he never mentioned it again.",
+      "We had a swim in the lake, and after that we lay in the sun.",
+      "You've mixed the flour and the sugar. Next, put the eggs in the bowl.",
+      "We've packed the car and locked the house. What should we do next?",
+      "I've cleaned the kitchen. Which room should I do next?",
+      "Welcome to the clinic. First, fill in this form. Next, sign your name at the bottom.",
+      "Put the rice and water in the rice cooker. Finally, close the lid and press the green button.",
+      "My son has very big feet. We went to three shops, and finally we found the right shoes.",
+      "The managers came to our office on Monday. First, they had a meeting. Then they had lunch. Finally, they went back to their hotel.",
+      "That's the end of my speech. Finally, I want to thank my parents.",
+      "Let me show you how to make tea. First, boil some water.",
+      "Put the tea bag in the cup. Then pour in the hot water.",
+      "The remote control doesn't work. First, take the old battery out. Then put the new one in.",
+      "The station is near here. Turn left at the corner, then go straight on.",
+      "We're making pancakes. Mix the flour and the eggs first. After that, add the milk.",
+      "We had a lovely day in Brighton. In the morning we went to the beach. Then we had lunch at a little café.",
       "We played football for an hour. After that, we were very tired.",
-      "First the lights went out, and then the music stopped.",
-      "She finished her exams, and then she went on holiday.",
-      "They got married in June, and after that they moved to Spain.",
-      "First we waited for an hour, then the doctor saw us."
+      "There was a storm during the concert. First the lights went out, and then the music stopped.",
+      "My sister had a busy June. She finished her exams, and then she went on holiday.",
+      "My cousin had a big year. She got married in June, and after that she moved to Spain.",
+      "My son had a fever, so we went to the clinic. First we waited for an hour, and then the doctor saw us.",
+      "The committee discussed the plan for an hour. The members then voted on it.",
+      "The police officer checked my licence and he then let me go."
     ],
     "examples": [
       {
         "heading": "① First ..., and then ...",
         "items": [
           {
-            "en": "First I had a shower, and then I got dressed.",
-            "zh": "我先洗了個澡，然後換好衣服。"
+            "en": "I was late for work this morning. First I had a quick shower, and then I got dressed.",
+            "zh": "我今天早上上班快遲到了。我先快速洗了個澡，然後換好衣服。"
           },
           {
-            "en": "First we'll go to the bank, and then we'll go to the post office.",
-            "zh": "我們先去銀行，再去郵局。"
+            "en": "We have two things to do in town. First we'll go to the bank, and then we'll go to the post office.",
+            "zh": "我們進城有兩件事要辦。我們先去銀行，再去郵局。"
           },
           {
-            "en": "First she called her mum, and then she called the police.",
-            "zh": "她先打電話給她媽媽，然後才報警。"
+            "en": "Somebody broke into Ann's flat. First she called her mum, and then she called the police.",
+            "zh": "有人闖進 Ann 的公寓。她先打電話給她媽媽，然後才報警。"
           },
           {
-            "en": "First you turn on the computer, and then you type your password.",
-            "zh": "你先開電腦，然後輸入密碼。"
+            "en": "It's easy to log in. First you turn on the computer, and then you type your password.",
+            "zh": "登入很簡單。你先開電腦，然後輸入密碼。"
           }
         ]
       },
@@ -26292,24 +26296,24 @@
         "heading": "② then 接下一件事",
         "items": [
           {
-            "en": "We had a picnic in the park, then we went home.",
-            "zh": "我們在公園野餐，然後就回家了。"
+            "en": "It started to get cold at four. We had a picnic in the park, and then we went home.",
+            "zh": "四點開始變冷。我們在公園野餐，然後就回家了。"
           },
           {
-            "en": "He opened the letter and then smiled.",
-            "zh": "他打開信，然後笑了。"
+            "en": "Tom got a letter from the university. He opened it and then smiled.",
+            "zh": "Tom 收到大學寄來的信。他打開信，然後笑了。"
           },
           {
-            "en": "Let's eat first, then we can talk about the plan.",
-            "zh": "我們先吃飯，然後再談計畫。"
+            "en": "I'm starving. Let's eat first, then we can talk about the plan.",
+            "zh": "我快餓死了。我們先吃飯，然後再談計畫。"
           },
           {
-            "en": "Wait for the green light, then cross the road.",
-            "zh": "等綠燈亮了再過馬路。"
+            "en": "This road is very busy. Wait for the green light, then cross the road.",
+            "zh": "這條路車很多。等綠燈亮了再過馬路。"
           },
           {
-            "en": "Have a rest, and then we'll start again.",
-            "zh": "休息一下，然後我們再開始。"
+            "en": "You've been working for three hours. Have a rest, and then we'll start again.",
+            "zh": "你已經做了三個小時。休息一下，然後我們再開始。"
           }
         ]
       },
@@ -26317,24 +26321,28 @@
         "heading": "③ After that, ...",
         "items": [
           {
-            "en": "We visited the castle. After that, we went for a walk by the river.",
-            "zh": "我們參觀了城堡。之後去河邊散步。"
+            "en": "We had a great day in York. We visited the castle. After that, we went for a walk by the river.",
+            "zh": "我們在約克玩得很開心。我們參觀了城堡。之後去河邊散步。"
           },
           {
-            "en": "I worked in a hotel for two years. After that, I moved to London.",
-            "zh": "我在一家飯店工作了兩年。之後搬到倫敦。"
+            "en": "I left school at eighteen. I worked in a hotel for two years. After that, I moved to London.",
+            "zh": "我十八歲離開學校。我在一家飯店工作了兩年。之後搬到倫敦。"
           },
           {
-            "en": "The teacher checked our homework. After that, we played a game.",
-            "zh": "老師檢查了我們的作業。之後我們玩了一個遊戲。"
+            "en": "It was the last day of term. The teacher checked our homework. After that, we played a game.",
+            "zh": "那天是學期的最後一天。老師檢查了我們的作業。之後我們玩了一個遊戲。"
           },
           {
-            "en": "We'll have dinner at seven. After that, we can watch a film.",
-            "zh": "我們七點吃晚餐。之後可以看部電影。"
+            "en": "Grandma is coming tonight. We'll have dinner at seven. After that, we can watch a film.",
+            "zh": "奶奶今晚要來。我們七點吃晚餐。之後可以看部電影。"
           },
           {
-            "en": "My dad didn't say anything. After that, he never mentioned it again.",
-            "zh": "我爸爸什麼都沒說。之後他再也沒提過這件事。"
+            "en": "I told my dad about the broken car. He didn't say anything. After that, he never mentioned it again.",
+            "zh": "我跟爸爸說了車子壞掉的事。他什麼都沒說。之後他再也沒提過這件事。"
+          },
+          {
+            "en": "We had a swim in the lake, and after that we lay in the sun.",
+            "zh": "我們在湖裡游了泳，之後躺著曬太陽。"
           }
         ]
       },
@@ -26342,16 +26350,20 @@
         "heading": "④ next 接下一步",
         "items": [
           {
-            "en": "Next, put the eggs in the bowl.",
-            "zh": "接下來把蛋放進碗裡。"
+            "en": "You've mixed the flour and the sugar. Next, put the eggs in the bowl.",
+            "zh": "你把麵粉和糖拌好了。接下來把蛋放進碗裡。"
           },
           {
-            "en": "What should we do next?",
-            "zh": "我們接下來要做什麼？"
+            "en": "We've packed the car and locked the house. What should we do next?",
+            "zh": "我們把車裝好了，也鎖了房子。我們接下來要做什麼？"
           },
           {
-            "en": "First, fill in this form. Next, sign your name at the bottom.",
-            "zh": "先填這張表。接下來在下面簽名。"
+            "en": "I've cleaned the kitchen. Which room should I do next?",
+            "zh": "我把廚房打掃好了。接下來我該打掃哪個房間？"
+          },
+          {
+            "en": "Welcome to the clinic. First, fill in this form. Next, sign your name at the bottom.",
+            "zh": "歡迎來到診所。先填這張表。接下來在下面簽名。"
           }
         ]
       },
@@ -26359,20 +26371,20 @@
         "heading": "⑤ finally 接最後一步",
         "items": [
           {
-            "en": "Finally, close the lid and press the green button.",
-            "zh": "最後蓋上蓋子，按下綠色的按鈕。"
+            "en": "Put the rice and water in the rice cooker. Finally, close the lid and press the green button.",
+            "zh": "把米和水放進電鍋。最後蓋上蓋子，按下綠色的按鈕。"
           },
           {
-            "en": "We went to three shops, and finally we found the right shoes.",
-            "zh": "我們去了三家店，最後找到了合適的鞋子。"
+            "en": "My son has very big feet. We went to three shops, and finally we found the right shoes.",
+            "zh": "我兒子的腳很大。我們去了三家店，最後找到了合適的鞋子。"
           },
           {
-            "en": "First, they had a meeting. Then they had lunch. Finally, they went back to the office.",
-            "zh": "他們先開了個會。然後吃午餐。最後回到辦公室。"
+            "en": "The managers came to our office on Monday. First, they had a meeting. Then they had lunch. Finally, they went back to their hotel.",
+            "zh": "經理們星期一來我們公司。他們先開了個會。然後吃午餐。最後回到他們的飯店。"
           },
           {
-            "en": "Finally, I want to thank my parents.",
-            "zh": "最後，我想謝謝我的父母。"
+            "en": "That's the end of my speech. Finally, I want to thank my parents.",
+            "zh": "我的致詞就到這裡。最後，我想謝謝我的父母。"
           }
         ]
       },
@@ -26380,24 +26392,24 @@
         "heading": "⑥ 排步驟的祈使句",
         "items": [
           {
-            "en": "First, boil some water.",
-            "zh": "先燒一些水。"
+            "en": "Let me show you how to make tea. First, boil some water.",
+            "zh": "我教你怎麼泡茶。先燒一些水。"
           },
           {
-            "en": "Then put the tea bag in the cup.",
-            "zh": "然後把茶包放進杯子裡。"
+            "en": "Put the tea bag in the cup. Then pour in the hot water.",
+            "zh": "把茶包放進杯子裡。然後倒入熱水。"
           },
           {
-            "en": "First, take the old battery out. Then put the new one in.",
-            "zh": "先把舊電池拿出來。然後把新的放進去。"
+            "en": "The remote control doesn't work. First, take the old battery out. Then put the new one in.",
+            "zh": "遙控器壞了。先把舊電池拿出來。然後把新的放進去。"
           },
           {
-            "en": "Turn left at the corner, then go straight on.",
-            "zh": "在轉角左轉，然後直走。"
+            "en": "The station is near here. Turn left at the corner, then go straight on.",
+            "zh": "車站就在這附近。在轉角左轉，然後直走。"
           },
           {
-            "en": "Mix the flour and the butter first. After that, add the milk.",
-            "zh": "先把麵粉和奶油拌在一起。之後加牛奶。"
+            "en": "We're making pancakes. Mix the flour and the eggs first. After that, add the milk.",
+            "zh": "我們在做鬆餅。先把麵粉和蛋拌在一起。之後加牛奶。"
           }
         ]
       },
@@ -26405,28 +26417,41 @@
         "heading": "⑦ 說一天裡發生的事",
         "items": [
           {
-            "en": "In the morning we went to the beach. Then we had lunch at a little café.",
-            "zh": "早上我們去了海邊。然後在一家小咖啡館吃午餐。"
+            "en": "We had a lovely day in Brighton. In the morning we went to the beach. Then we had lunch at a little café.",
+            "zh": "我們在布萊頓玩得很開心。早上我們去了海邊。然後在一家小咖啡館吃午餐。"
           },
           {
             "en": "We played football for an hour. After that, we were very tired.",
             "zh": "我們踢了一個小時的足球。之後大家都很累。"
           },
           {
-            "en": "First the lights went out, and then the music stopped.",
-            "zh": "先是燈熄了，然後音樂停了。"
+            "en": "There was a storm during the concert. First the lights went out, and then the music stopped.",
+            "zh": "音樂會的時候有暴風雨。先是燈熄了，然後音樂停了。"
           },
           {
-            "en": "She finished her exams, and then she went on holiday.",
-            "zh": "她考完試，然後就去度假了。"
+            "en": "My sister had a busy June. She finished her exams, and then she went on holiday.",
+            "zh": "我姊姊六月很忙。她考完試，然後就去度假了。"
           },
           {
-            "en": "They got married in June, and after that they moved to Spain.",
-            "zh": "他們在六月結婚，之後搬到西班牙。"
+            "en": "My cousin had a big year. She got married in June, and after that she moved to Spain.",
+            "zh": "我表姊今年有很多大事。她六月結婚，之後搬到西班牙。"
           },
           {
-            "en": "First we waited for an hour, then the doctor saw us.",
-            "zh": "我們先等了一個小時，然後醫生才幫我們看診。"
+            "en": "My son had a fever, so we went to the clinic. First we waited for an hour, and then the doctor saw us.",
+            "zh": "我兒子發燒，所以我們去了診所。我們先等了一個小時，然後醫生才幫我們看診。"
+          }
+        ]
+      },
+      {
+        "heading": "⑧ 主詞 + then",
+        "items": [
+          {
+            "en": "The committee discussed the plan for an hour. The members then voted on it.",
+            "zh": "委員會討論了這個計畫一個小時。委員接著投票表決。"
+          },
+          {
+            "en": "The police officer checked my licence and he then let me go.",
+            "zh": "警察檢查了我的駕照，接著就讓我走了。"
           }
         ]
       }

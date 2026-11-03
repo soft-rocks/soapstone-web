@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="first 放在第一件事前面，and then 接第二件事">
+    <NoteSlide title="first 放在第一件事前面，and then 接第二件事" :mark="['First', 'and then']">
       <NoteWords
         :size="26"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們先在一家很貴的餐廳吃晚餐，然後去了一家迪斯可舞廳。</p>
     </NoteSlide>
 
-    <NoteSlide title="after that 放在新的句子的句首，後面加逗號">
+    <NoteSlide title="after that 放在句首，指前面那件事之後">
       <NoteWords
         :size="28"
         :parts="[
@@ -49,6 +49,15 @@ defineProps<{ note: (typeof notes)[number] }>();
           >
         </div>
         <div>
+          <span class="term">句尾的 next</span>
+          <span
+            ><NoteMark sentence="What should we do next?" :marks="['next?']" /><span
+              class="translation"
+              >我們接下來要做什麼？</span
+            ></span
+          >
+        </div>
+        <div>
           <span class="term">finally</span>
           <span
             ><NoteMark sentence="Finally, add some salt." :marks="['Finally,']" /><span
@@ -60,7 +69,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="then 可以放在 and 後面，也可以放在主詞後面" mark="then">
+    <NoteSlide title="then 可以放在 and 後面、逗號後面或主詞後面" mark="and then">
       <div class="rows is-labeled">
         <div>
           <span class="term">and 後面</span>
@@ -72,12 +81,21 @@ defineProps<{ note: (typeof notes)[number] }>();
           >
         </div>
         <div>
+          <span class="term">逗號後面<br /><i>口語和指示</i></span>
+          <span
+            ><NoteMark sentence="Wait here, then follow me." :marks="['then']" /><span
+              class="translation"
+              >在這裡等，然後跟我來。</span
+            ></span
+          >
+        </div>
+        <div>
           <span class="term">主詞後面<br /><i>比較正式</i></span>
           <span
             ><NoteMark
-              sentence="We went to the museum and we then had lunch."
-              :marks="['we then']"
-            /><span class="translation">我們去了博物館，接著吃了午餐。</span></span
+              sentence="The minister read the report and she then signed it."
+              :marks="['she then']"
+            /><span class="translation">部長看了報告，接著簽了名。</span></span
           >
         </div>
       </div>
@@ -99,7 +117,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="and 後面接 then，不接 after" mark="and then">
+    <NoteSlide title="after 不單獨當順序副詞，and 後面接 then" mark="and then">
       <NoteFix
         wrong="I finished my work and after I went home."
         right="I finished my work and then I went home."
@@ -119,7 +137,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'At first', role: '一開始', kind: 'key' },
+          { t: 'At first', role: '時間片語', kind: 'key' },
           { t: 'I didn\'t like the city,', role: '以前的情況' },
           { t: 'but now I love it.', role: '後來的情況', kind: 'dim' },
         ]"
@@ -127,16 +145,27 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">一開始我不喜歡這個城市，可是現在我很愛。</p>
     </NoteSlide>
 
-    <NoteSlide title="at last 只表示終於">
-      <NoteWords
-        :size="30"
-        :parts="[
-          { t: 'The bus came', role: '等了很久的事', kind: 'dim' },
-          { t: 'at last.', role: '終於', kind: 'key' },
-        ]"
-      />
-      <p class="translation">公車終於來了。</p>
-      <p class="remark"><code>finally</code> 可以排最後一步，也可以表示終於。</p>
+    <NoteSlide title="finally 也可以表示終於，at last 只表示終於">
+      <div class="rows is-labeled">
+        <div>
+          <span class="term">at last</span>
+          <span
+            ><NoteMark sentence="The bus came at last." :marks="['at last.']" /><span
+              class="translation"
+              >公車終於來了。</span
+            ></span
+          >
+        </div>
+        <div>
+          <span class="term">finally</span>
+          <span
+            ><NoteMark
+              sentence="After three years of work, Sara finally finished her book."
+              :marks="['finally']"
+            /><span class="translation">Sara 花了三年，終於寫完了她的書。</span></span
+          >
+        </div>
+      </div>
     </NoteSlide>
   </NoteDeck>
 

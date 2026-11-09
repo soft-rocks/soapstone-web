@@ -19904,7 +19904,7 @@
       "First, wash your hands. Then you can help me with the salad.",
       "First we went to the beach, and then we had ice cream.",
       "We waited for two hours. Finally, the doctor called my name.",
-      "First, I want to thank my parents for their help.",
+      "Thank you all for coming to my graduation party. First, I want to thank my parents for their help.",
       "Fill in the form. Then give it to the woman at the desk.",
       "I looked for my keys everywhere. Finally, I found them in my coat.",
       "Thanks for the cake. Actually, I'm not very hungry right now.",
@@ -19913,19 +19913,19 @@
       "The test looked difficult. Actually, it was quite easy.",
       "You don't need to bring anything. Actually, we need a few more chairs.",
       "My aunt planned a big garden party. Unfortunately, only six people came.",
-      "Unfortunately, the concert tickets were too expensive for us.",
+      "We really wanted to go. Unfortunately, the concert tickets were too expensive for us.",
       "I'd love to help. Unfortunately, I'm working on Saturday.",
-      "Unfortunately, we missed the last bus home.",
+      "The film ended at midnight. Unfortunately, we missed the last bus home.",
       "The hotel was nice. Unfortunately, the beach was very dirty.",
       "I left my wallet in the taxi. Luckily, the driver brought it back.",
-      "Luckily, I had an umbrella in my bag.",
+      "It started to pour on the way home. Luckily, I had an umbrella in my bag.",
       "The car broke down. Luckily, we were near a garage.",
-      "Luckily, the shop still had my size.",
+      "The boots were on sale and almost gone. Luckily, the shop still had my size.",
       "You're my best friend. Of course I'll come to your wedding.",
-      "Of course, you can stay with us when you're in Rome.",
+      "Don't book a hotel. Of course, you can stay with us when you're in Rome.",
       "It's your birthday, so of course you can choose the restaurant.",
-      "Of course, the children were very excited about the snow.",
-      "My brother wanted to be a pilot. Actually, he's a teacher now.",
+      "It hadn't snowed for ten years. Of course, the children were very excited about it.",
+      "Everyone thinks my brother is a pilot. Actually, he's a teacher.",
       "I called you three times. Unfortunately, your phone was off.",
       "We got lost on the way. Finally, a farmer showed us the road.",
       "Our flight was late. Then we lost our suitcase.",
@@ -19949,8 +19949,8 @@
             "zh": "我們等了兩個小時，最後醫生終於叫到我的名字。"
           },
           {
-            "en": "First, I want to thank my parents for their help.",
-            "zh": "首先，我要謝謝我爸媽的幫忙。"
+            "en": "Thank you all for coming to my graduation party. First, I want to thank my parents for their help.",
+            "zh": "謝謝大家來參加我的畢業派對。首先，我要謝謝我爸媽的幫忙。"
           },
           {
             "en": "Fill in the form. Then give it to the woman at the desk.",
@@ -19995,16 +19995,16 @@
             "zh": "我阿姨辦了一場盛大的花園派對，可惜只來了六個人。"
           },
           {
-            "en": "Unfortunately, the concert tickets were too expensive for us.",
-            "zh": "可惜音樂會的票對我們來說太貴了。"
+            "en": "We really wanted to go. Unfortunately, the concert tickets were too expensive for us.",
+            "zh": "我們真的很想去。可惜音樂會的票對我們來說太貴了。"
           },
           {
             "en": "I'd love to help. Unfortunately, I'm working on Saturday.",
             "zh": "我很想幫忙。可惜我星期六要上班。"
           },
           {
-            "en": "Unfortunately, we missed the last bus home.",
-            "zh": "可惜我們錯過了回家的末班公車。"
+            "en": "The film ended at midnight. Unfortunately, we missed the last bus home.",
+            "zh": "電影半夜才結束。可惜我們錯過了回家的末班公車。"
           },
           {
             "en": "The hotel was nice. Unfortunately, the beach was very dirty.",
@@ -20020,16 +20020,16 @@
             "zh": "我把錢包忘在計程車上，幸好司機送回來了。"
           },
           {
-            "en": "Luckily, I had an umbrella in my bag.",
-            "zh": "幸好我包包裡有一把傘。"
+            "en": "It started to pour on the way home. Luckily, I had an umbrella in my bag.",
+            "zh": "回家路上下起了大雨。幸好我包包裡有一把傘。"
           },
           {
             "en": "The car broke down. Luckily, we were near a garage.",
             "zh": "車子拋錨了，幸好我們就在修車廠附近。"
           },
           {
-            "en": "Luckily, the shop still had my size.",
-            "zh": "幸好店裡還有我的尺寸。"
+            "en": "The boots were on sale and almost gone. Luckily, the shop still had my size.",
+            "zh": "那雙靴子在特價，快賣完了。幸好店裡還有我的尺寸。"
           }
         ]
       },
@@ -20041,16 +20041,16 @@
             "zh": "你是我最好的朋友，我當然會去你的婚禮。"
           },
           {
-            "en": "Of course, you can stay with us when you're in Rome.",
-            "zh": "你來羅馬的時候，當然可以住我們家。"
+            "en": "Don't book a hotel. Of course, you can stay with us when you're in Rome.",
+            "zh": "別訂旅館。你來羅馬的時候，當然可以住我們家。"
           },
           {
             "en": "It's your birthday, so of course you can choose the restaurant.",
             "zh": "今天是你生日，餐廳當然由你選。"
           },
           {
-            "en": "Of course, the children were very excited about the snow.",
-            "zh": "孩子們看到下雪當然很興奮。"
+            "en": "It hadn't snowed for ten years. Of course, the children were very excited about it.",
+            "zh": "已經十年沒下雪了。孩子們當然很興奮。"
           }
         ]
       },
@@ -20058,8 +20058,8 @@
         "heading": "⑥ 句子副詞連接前一句",
         "items": [
           {
-            "en": "My brother wanted to be a pilot. Actually, he's a teacher now.",
-            "zh": "我哥哥本來想當飛行員。其實他現在是老師。"
+            "en": "Everyone thinks my brother is a pilot. Actually, he's a teacher.",
+            "zh": "大家都以為我哥哥是飛行員。其實他是老師。"
           },
           {
             "en": "I called you three times. Unfortunately, your phone was off.",

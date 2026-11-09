@@ -17,14 +17,14 @@ defineProps<{ note: (typeof notes)[number] }>();
         :size="28"
         :parts="[
           { t: 'Unfortunately,', role: '句子副詞', kind: 'key' },
-          { t: 'my team', role: '主詞' },
+          { t: 'our team', role: '主詞' },
           { t: 'lost.', role: '動詞' },
         ]"
       />
       <p class="translation">可惜我們隊輸了。</p>
     </NoteSlide>
 
-    <NoteSlide title="句子副詞連接前一句" mark="First,">
+    <NoteSlide title="句子副詞連接前一句">
       <div class="rows is-labeled">
         <div>
           <span class="term">前一句 + Actually</span>
@@ -81,19 +81,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">其實</span>
           <span
-            ><NoteMark sentence="Actually, I live in Paris." :marks="['Actually,']" /><span
-              class="translation"
-              >其實我住在巴黎。</span
-            ></span
+            ><NoteMark
+              sentence="People think I'm French. Actually, I'm from Belgium."
+              :marks="['Actually,']"
+            /><span class="translation">大家都以為我是法國人。其實我是比利時人。</span></span
           >
         </div>
         <div>
           <span class="term">現在</span>
           <span
             ><NoteMark
-              sentence="At the moment, I live in Paris."
+              sentence="At the moment, I'm staying with my aunt."
               :marks="['At the moment,']"
-            /><span class="translation">我現在住在巴黎。</span></span
+            /><span class="translation">我現在住在我阿姨家。</span></span
           >
         </div>
       </div>
@@ -117,8 +117,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="first 前面不加介系詞" mark="First,">
       <NoteFix
-        wrong="In first, open the box carefully."
-        right="First, open the box carefully."
+        wrong="In first, switch off the power at the wall."
+        right="First, switch off the power at the wall."
         fix="First,"
       />
     </NoteSlide>

@@ -16,12 +16,12 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'My home is', role: '主詞 + be', kind: 'dim' },
+          { t: 'The kitchen in my new flat is', role: '主詞 + be', kind: 'dim' },
           { t: 'very', role: '程度副詞', kind: 'key' },
-          { t: 'light.', role: '形容詞' },
+          { t: 'modern.', role: '形容詞' },
         ]"
       />
-      <p class="translation">我家很明亮。</p>
+      <p class="translation">我新公寓的廚房很現代。</p>
     </NoteSlide>
 
     <NoteSlide title="名詞前面的形容詞也可以加 very、really" mark="a really good friend.">
@@ -56,19 +56,19 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">否定句</span>
           <span
-            ><NoteMark sentence="The hotel isn't very big." :marks="['isn\'t very big.']" /><span
+            ><NoteMark sentence="The hotel isn't very far." :marks="['isn\'t very far.']" /><span
               class="translation"
-              >那間飯店不太大。</span
+              >那間飯店不太遠。</span
             ></span
           >
         </div>
         <div>
           <span class="term">疑問句</span>
           <span
-            ><NoteMark sentence="Is your school very far from here?" :marks="['very far']" /><span
-              class="translation"
-              >你的學校離這裡很遠嗎？</span
-            ></span
+            ><NoteMark
+              sentence="Is the walk to your office very long?"
+              :marks="['very long?']"
+            /><span class="translation">你走路去辦公室要很久嗎？</span></span
           >
         </div>
       </div>
@@ -76,28 +76,32 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="a 放在程度副詞前面" mark="a really">
       <NoteFix
-        wrong="She is very a nice teacher."
-        right="She is a very nice teacher."
-        fix="a very nice"
+        wrong="Our coach gave us very a tough training session."
+        right="Our coach gave us a very tough training session."
+        fix="a very tough"
       />
     </NoteSlide>
 
     <NoteSlide title="程度副詞放在形容詞前面">
       <NoteFix
-        wrong="The test was difficult very."
-        right="The test was very difficult."
-        fix="very difficult."
+        wrong="The last chapter of the book was sad very."
+        right="The last chapter of the book was very sad."
+        fix="very sad."
       />
     </NoteSlide>
 
     <NoteSlide title="修飾形容詞用 really，不用 real" mark="really">
-      <NoteFix wrong="This soup is real hot." right="This soup is really hot." fix="really hot." />
+      <NoteFix
+        wrong="The new library is real popular with students."
+        right="The new library is really popular with students."
+        fix="really popular"
+      />
     </NoteSlide>
 
     <NoteSlide title="形容詞前面用 very，不用 very much">
       <NoteFix
-        wrong="The bag is very much expensive."
-        right="The bag is very expensive."
+        wrong="Their wedding was very much expensive."
+        right="Their wedding was very expensive."
         fix="very expensive."
       />
     </NoteSlide>

@@ -15665,61 +15665,61 @@
     "translation": "我有一個很要好的朋友。",
     "name": "程度副詞放在形容詞前（少數副詞）",
     "sentences": [
-      "The bedrooms in our new flat are very small.",
-      "The children were very tired after the long walk home.",
-      "Thank you for the flowers, that's very kind of you.",
-      "The roads are very icy this morning, so drive slowly.",
-      "Our neighbours on the third floor are very quiet.",
-      "The noodles at that little shop are really cheap.",
+      "The bedrooms in our new flat are very small. There's only room for a bed.",
+      "The children were very tired after the long walk. They fell asleep in the car on the way home.",
+      "Thank you for the roses. They're my favourite flowers. That's very kind of you.",
+      "It snowed in the night. The roads are very icy this morning, so drive slowly.",
+      "Our neighbours on the third floor are very quiet. We never hear them.",
+      "The noodles at that little shop are really cheap. A bowl costs two pounds.",
       "I skipped lunch, so I'm really hungry now.",
-      "My sister's new boyfriend is really funny.",
-      "Your little boy is really tall for his age.",
-      "The view from the top of the hill is really beautiful.",
-      "My uncle drives a very old red truck.",
-      "We had a very long meeting on Monday afternoon.",
-      "Dr Lee is a very patient dentist.",
-      "They booked a very nice room near the beach.",
-      "Taipei is a very crowded place at New Year.",
-      "I had a really strange dream about my old school.",
-      "Mum bought me a really warm coat for the winter.",
-      "My grandmother keeps a really big dog in her garden.",
-      "Thanks for a really lovely evening.",
-      "Lisa is a really clever student.",
-      "They sell very cheap shoes at the Sunday market.",
-      "We had really sunny weather on our trip to Rome.",
-      "My parents grow very sweet tomatoes.",
-      "Those shops only sell really expensive watches.",
-      "My dad drinks very strong black coffee every morning.",
-      "The bus station isn't very far from my house.",
-      "Is the lake very deep in the middle?",
-      "I'm not really sure about the answer to question five.",
-      "Were the questions in the test very hard?",
-      "The coffee in the office kitchen isn't very good.",
-      "Is your teacher really strict about homework?"
+      "My sister's new boyfriend is really funny. He made everyone laugh at dinner.",
+      "Your little boy is really tall for his age. He's only eight, but he looks eleven.",
+      "Take your camera. The view from the top of the hill is really beautiful.",
+      "My uncle drives a very old red truck. It's thirty years old.",
+      "Nobody had lunch. We had a very long meeting on Monday afternoon.",
+      "Dr Lee is a very patient dentist. My son is scared of dentists, but he likes her.",
+      "My parents booked a very nice room near the beach. They can see the sea from the bed.",
+      "The station is a very crowded place at New Year. Everyone is going home to see their families.",
+      "I had a really strange dream about my old school. I was back in Year 5 with my old teacher.",
+      "It's minus ten in January here. Mum bought me a really warm coat for the winter.",
+      "Be careful when you open the gate. My grandmother keeps a really big dog in her garden.",
+      "The food was wonderful. Thanks for a really lovely evening.",
+      "Lisa is a really clever student. She finishes her maths before everyone else.",
+      "They sell very cheap shoes at the Sunday market. I got these for five pounds.",
+      "We didn't need our umbrellas once. We had really sunny weather on our trip to Rome.",
+      "My parents grow very sweet tomatoes. Try one.",
+      "Those shops only sell really expensive watches. Don't go in there for a birthday present.",
+      "My dad drinks very strong black coffee every morning. He can't wake up without it.",
+      "The bus station isn't very far from my house. You can walk there in five minutes.",
+      "The kids want to swim across. Is the lake very deep in the middle?",
+      "Can you check my homework? I'm not really sure about the answer to question five.",
+      "You look worried. Were the questions in the test very hard?",
+      "The coffee in the office kitchen isn't very good. I bring my own.",
+      "You do your homework every day. Is your teacher really strict about it?"
     ],
     "examples": [
       {
         "heading": "① be + very + 形容詞",
         "items": [
           {
-            "en": "The bedrooms in our new flat are very small.",
-            "zh": "我們新公寓的臥室很小。"
+            "en": "The bedrooms in our new flat are very small. There's only room for a bed.",
+            "zh": "我們新公寓的臥室很小。只放得下一張床。"
           },
           {
-            "en": "The children were very tired after the long walk home.",
-            "zh": "孩子們走了一大段路回家，累壞了。"
+            "en": "The children were very tired after the long walk. They fell asleep in the car on the way home.",
+            "zh": "孩子們走了好長一段路，累壞了。他們在回家的車上就睡著了。"
           },
           {
-            "en": "Thank you for the flowers, that's very kind of you.",
-            "zh": "謝謝你送的花，你人真好。"
+            "en": "Thank you for the roses. They're my favourite flowers. That's very kind of you.",
+            "zh": "謝謝你送的玫瑰。那是我最喜歡的花。你人真好。"
           },
           {
-            "en": "The roads are very icy this morning, so drive slowly.",
-            "zh": "今天早上路面很滑，開慢一點。"
+            "en": "It snowed in the night. The roads are very icy this morning, so drive slowly.",
+            "zh": "夜裡下雪了。今天早上路面很滑，開慢一點。"
           },
           {
-            "en": "Our neighbours on the third floor are very quiet.",
-            "zh": "我們三樓的鄰居很安靜。"
+            "en": "Our neighbours on the third floor are very quiet. We never hear them.",
+            "zh": "我們三樓的鄰居很安靜。我們從來沒聽到他們的聲音。"
           }
         ]
       },
@@ -15727,24 +15727,24 @@
         "heading": "② be + really + 形容詞",
         "items": [
           {
-            "en": "The noodles at that little shop are really cheap.",
-            "zh": "那家小店的麵很便宜。"
+            "en": "The noodles at that little shop are really cheap. A bowl costs two pounds.",
+            "zh": "那家小店的麵很便宜。一碗只要兩英鎊。"
           },
           {
             "en": "I skipped lunch, so I'm really hungry now.",
             "zh": "我沒吃午餐，現在好餓。"
           },
           {
-            "en": "My sister's new boyfriend is really funny.",
-            "zh": "我姊姊的新男朋友很好笑。"
+            "en": "My sister's new boyfriend is really funny. He made everyone laugh at dinner.",
+            "zh": "我姊姊的新男朋友很好笑。他吃晚餐的時候把大家逗笑了。"
           },
           {
-            "en": "Your little boy is really tall for his age.",
-            "zh": "以他的年紀來說，你兒子長得很高。"
+            "en": "Your little boy is really tall for his age. He's only eight, but he looks eleven.",
+            "zh": "以他的年紀來說，你兒子長得很高。他才八歲，看起來卻像十一歲。"
           },
           {
-            "en": "The view from the top of the hill is really beautiful.",
-            "zh": "從山頂看出去的風景真的很美。"
+            "en": "Take your camera. The view from the top of the hill is really beautiful.",
+            "zh": "帶你的相機。從山頂看出去的風景真的很美。"
           }
         ]
       },
@@ -15752,24 +15752,24 @@
         "heading": "③ a + very + 形容詞 + 名詞",
         "items": [
           {
-            "en": "My uncle drives a very old red truck.",
-            "zh": "我叔叔開一台很舊的紅色卡車。"
+            "en": "My uncle drives a very old red truck. It's thirty years old.",
+            "zh": "我叔叔開一台很舊的紅色卡車。那台車三十年了。"
           },
           {
-            "en": "We had a very long meeting on Monday afternoon.",
-            "zh": "我們星期一下午開了一個很長的會。"
+            "en": "Nobody had lunch. We had a very long meeting on Monday afternoon.",
+            "zh": "大家都沒吃午餐。我們星期一下午開了一個很長的會。"
           },
           {
-            "en": "Dr Lee is a very patient dentist.",
-            "zh": "李醫師是一位很有耐心的牙醫。"
+            "en": "Dr Lee is a very patient dentist. My son is scared of dentists, but he likes her.",
+            "zh": "Lee 醫師是一位很有耐心的牙醫。我兒子怕牙醫，可是他喜歡她。"
           },
           {
-            "en": "They booked a very nice room near the beach.",
-            "zh": "他們訂了一間在海灘附近、很不錯的房間。"
+            "en": "My parents booked a very nice room near the beach. They can see the sea from the bed.",
+            "zh": "我爸媽訂了一間在海灘附近、很不錯的房間。他們躺在床上就看得到海。"
           },
           {
-            "en": "Taipei is a very crowded place at New Year.",
-            "zh": "台北過年的時候人很多。"
+            "en": "The station is a very crowded place at New Year. Everyone is going home to see their families.",
+            "zh": "過年的時候車站人很多。大家都要回家看家人。"
           }
         ]
       },
@@ -15777,24 +15777,24 @@
         "heading": "④ a + really + 形容詞 + 名詞",
         "items": [
           {
-            "en": "I had a really strange dream about my old school.",
-            "zh": "我做了一個很奇怪的夢，夢到我以前的學校。"
+            "en": "I had a really strange dream about my old school. I was back in Year 5 with my old teacher.",
+            "zh": "我做了一個很奇怪的夢，夢到我以前的學校。我回到五年級，跟以前的老師在一起。"
           },
           {
-            "en": "Mum bought me a really warm coat for the winter.",
-            "zh": "媽媽買了一件很保暖的外套給我過冬。"
+            "en": "It's minus ten in January here. Mum bought me a really warm coat for the winter.",
+            "zh": "這裡一月是零下十度。媽媽買了一件很保暖的外套給我過冬。"
           },
           {
-            "en": "My grandmother keeps a really big dog in her garden.",
-            "zh": "我奶奶在院子裡養了一隻很大的狗。"
+            "en": "Be careful when you open the gate. My grandmother keeps a really big dog in her garden.",
+            "zh": "開門的時候小心。我奶奶在院子裡養了一隻很大的狗。"
           },
           {
-            "en": "Thanks for a really lovely evening.",
-            "zh": "謝謝你讓我們度過一個很愉快的晚上。"
+            "en": "The food was wonderful. Thanks for a really lovely evening.",
+            "zh": "食物很棒。謝謝你讓我們度過一個很愉快的晚上。"
           },
           {
-            "en": "Lisa is a really clever student.",
-            "zh": "Lisa 是個很聰明的學生。"
+            "en": "Lisa is a really clever student. She finishes her maths before everyone else.",
+            "zh": "Lisa 是個很聰明的學生。她總是比其他人先做完數學。"
           }
         ]
       },
@@ -15802,24 +15802,24 @@
         "heading": "⑤ very / really + 形容詞 + 複數名詞或不可數名詞",
         "items": [
           {
-            "en": "They sell very cheap shoes at the Sunday market.",
-            "zh": "星期天的市集賣的鞋子很便宜。"
+            "en": "They sell very cheap shoes at the Sunday market. I got these for five pounds.",
+            "zh": "星期天的市集賣的鞋子很便宜。這雙我五英鎊買的。"
           },
           {
-            "en": "We had really sunny weather on our trip to Rome.",
-            "zh": "我們去羅馬玩的時候天氣很晴朗。"
+            "en": "We didn't need our umbrellas once. We had really sunny weather on our trip to Rome.",
+            "zh": "我們一次都沒用到雨傘。我們去羅馬玩的時候天氣很晴朗。"
           },
           {
-            "en": "My parents grow very sweet tomatoes.",
-            "zh": "我爸媽種的番茄很甜。"
+            "en": "My parents grow very sweet tomatoes. Try one.",
+            "zh": "我爸媽種的番茄很甜。吃一個看看。"
           },
           {
-            "en": "Those shops only sell really expensive watches.",
-            "zh": "那些店只賣很貴的手錶。"
+            "en": "Those shops only sell really expensive watches. Don't go in there for a birthday present.",
+            "zh": "那些店只賣很貴的手錶。別去那裡買生日禮物。"
           },
           {
-            "en": "My dad drinks very strong black coffee every morning.",
-            "zh": "我爸每天早上都喝很濃的黑咖啡。"
+            "en": "My dad drinks very strong black coffee every morning. He can't wake up without it.",
+            "zh": "我爸每天早上都喝很濃的黑咖啡。沒有它他醒不過來。"
           }
         ]
       },
@@ -15827,28 +15827,28 @@
         "heading": "⑥ 否定句和疑問句",
         "items": [
           {
-            "en": "The bus station isn't very far from my house.",
-            "zh": "公車站離我家不太遠。"
+            "en": "The bus station isn't very far from my house. You can walk there in five minutes.",
+            "zh": "公車站離我家不太遠。你走路五分鐘就到了。"
           },
           {
-            "en": "Is the lake very deep in the middle?",
-            "zh": "湖的中間很深嗎？"
+            "en": "The kids want to swim across. Is the lake very deep in the middle?",
+            "zh": "孩子們想游到對岸。湖的中間很深嗎？"
           },
           {
-            "en": "I'm not really sure about the answer to question five.",
-            "zh": "第五題的答案我不太確定。"
+            "en": "Can you check my homework? I'm not really sure about the answer to question five.",
+            "zh": "你可以幫我看功課嗎？第五題的答案我不太確定。"
           },
           {
-            "en": "Were the questions in the test very hard?",
-            "zh": "考試的題目很難嗎？"
+            "en": "You look worried. Were the questions in the test very hard?",
+            "zh": "你看起來很擔心。考試的題目很難嗎？"
           },
           {
-            "en": "The coffee in the office kitchen isn't very good.",
-            "zh": "辦公室茶水間的咖啡不太好喝。"
+            "en": "The coffee in the office kitchen isn't very good. I bring my own.",
+            "zh": "辦公室茶水間的咖啡不太好喝。我自己帶。"
           },
           {
-            "en": "Is your teacher really strict about homework?",
-            "zh": "你的老師對作業真的很嚴格嗎？"
+            "en": "You do your homework every day. Is your teacher really strict about it?",
+            "zh": "你每天都寫作業。你的老師對作業真的很嚴格嗎？"
           }
         ]
       }

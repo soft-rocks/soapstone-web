@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="副詞放在句首，後面照樣接主詞和動詞">
+    <NoteSlide title="副詞放在句首，後面照樣接主詞和動詞" mark="Sometimes I go">
       <NoteWords
         :size="30"
         :parts="[
@@ -50,20 +50,20 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="always 和 never 不放在句首">
+    <NoteSlide title="直述句的 always 和 never 不放在句首">
       <NoteWords
         :size="30"
         :parts="[
           { t: 'I', role: '主詞' },
           { t: 'always', role: '頻率副詞', kind: 'key' },
           { t: 'get up', role: '動詞' },
-          { t: 'at seven.', role: '時間', kind: 'dim' },
+          { t: 'before my parents.', role: '時間', kind: 'dim' },
         ]"
       />
-      <p class="translation">我都七點起床。</p>
+      <p class="translation">我都比我爸媽早起。</p>
     </NoteSlide>
 
-    <NoteSlide title="表示也許的 maybe 寫成一個字" mark="Sometimes">
+    <NoteSlide title="表示也許的 maybe 寫成一個字">
       <NoteFix
         wrong="May be we can go swimming on Sunday."
         right="Maybe we can go swimming on Sunday."
@@ -73,14 +73,18 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="always 放在主詞和動詞中間">
       <NoteFix
-        wrong="Always I get up at seven."
-        right="I always get up at seven."
-        fix="I always get up"
+        wrong="Always I take the same bus."
+        right="I always take the same bus."
+        fix="I always take"
       />
     </NoteSlide>
 
-    <NoteSlide title="句首的副詞後面，主詞放在動詞前面" mark="Sometimes I go">
-      <NoteFix wrong="Sometimes go I to the park." right="Sometimes I go to the park." fix="I go" />
+    <NoteSlide title="句首的副詞後面，主詞放在動詞前面" mark="Sometimes I">
+      <NoteFix
+        wrong="Sometimes visit we our cousins in Tainan."
+        right="Sometimes we visit our cousins in Tainan."
+        fix="we visit"
+      />
     </NoteSlide>
 
     <NoteSlide title="句首的副詞後面要有主詞">

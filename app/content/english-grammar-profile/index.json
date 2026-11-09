@@ -21268,74 +21268,74 @@
     "translation": "幸好我及時趕到了。",
     "name": "修飾整個句子的態度副詞",
     "sentences": [
-      "Fortunately, nobody was hurt in the accident.",
-      "Sadly, our neighbours are moving to Leeds.",
-      "Surprisingly, the exam was quite easy.",
-      "Honestly, I don't remember her name.",
-      "Hopefully, the swelling will go down by Monday.",
-      "Unfortunately, the museum is closed on Mondays.",
-      "Frankly, the film was too long.",
-      "Luckily, my phone was still in my bag.",
-      "The lift, unfortunately, was out of order.",
-      "My grandmother, surprisingly, loves video games.",
-      "The hotel, luckily, had one room left.",
-      "Our teacher, sadly, is leaving at the end of term.",
-      "I wanted to go, but, unfortunately, I had to work.",
-      "We got lost, and, surprisingly, we found a great café.",
-      "It rained all day, so, obviously, we stayed in.",
+      "The car was badly damaged. Fortunately, nobody was hurt in the accident.",
+      "Sadly, our neighbours are moving to Leeds. We'll really miss them.",
+      "I only studied for an hour. Surprisingly, the exam was quite easy.",
+      "Tom's friend says we met at a party. Honestly, I don't remember her name.",
+      "Keep your foot up and use ice. Hopefully, the swelling will go down by Monday.",
+      "Let's go on Tuesday. Unfortunately, the museum is closed on Mondays.",
+      "I liked the actors. Frankly, the film was too long.",
+      "I thought I'd left my phone on the train. Luckily, it was still in my bag.",
+      "We had to carry the boxes up five floors. The lift, unfortunately, was out of order.",
+      "My grandmother, surprisingly, loves video games. She plays every evening with my cousin.",
+      "It was the busiest weekend of the year. The hotel, luckily, had one room left.",
+      "Our teacher, sadly, is leaving at the end of term. Everyone loves her lessons.",
+      "It was my best friend's birthday. I wanted to go, but, unfortunately, I had to work.",
+      "The map on my phone stopped working. We got lost, and, surprisingly, we found a great café.",
+      "We wanted to go to the beach. It rained all day, so, obviously, we stayed in.",
       "The tickets were expensive, but, luckily, my uncle paid.",
-      "He clearly forgot about our meeting.",
-      "You're obviously tired. Go to bed.",
-      "The kids were clearly bored.",
-      "He unfortunately missed the start of the film.",
-      "Obviously, you can't park here.",
-      "Clearly, someone has been in my room.",
-      "Sadly, the dog didn't survive.",
-      "Frankly, your essay needs a lot more work.",
-      "Fortunately, the bank was still open.",
-      "Surprisingly, my cousin passed his driving test first time.",
-      "Hopefully, the heating engineer can come on Friday.",
-      "Honestly, the soup needs more salt.",
-      "Unfortunately, the printer doesn't work.",
-      "Luckily, the train wasn't full.",
-      "Honestly, do you like my new haircut?",
-      "Seriously, are you moving to Canada?"
+      "I waited at the café for an hour. Sam clearly forgot about our meeting.",
+      "You keep yawning. You're obviously tired. Go to bed.",
+      "The speech went on for an hour. The kids were clearly bored.",
+      "Dad's train was late. He unfortunately missed the start of the film.",
+      "There's a sign right there. Obviously, you can't park here.",
+      "My drawers are open and my books are on the floor. Clearly, someone has been in my room.",
+      "The vet tried for hours. Sadly, the dog didn't survive.",
+      "Your essay is due next week. Frankly, it needs a lot more work.",
+      "I needed cash for the taxi. Fortunately, the bank was still open.",
+      "My cousin only had five lessons. Surprisingly, he passed his driving test first time.",
+      "The house has been cold all week. Hopefully, the heating engineer can come on Friday.",
+      "Taste the soup again. Honestly, it needs more salt.",
+      "Unfortunately, the printer doesn't work. You'll have to write the letter by hand.",
+      "I had a seat all the way to London. Luckily, the train wasn't full.",
+      "Honestly, do you like my new haircut? I cut my hair myself this morning.",
+      "Mum just told me the news. Seriously, are you moving to Canada?"
     ],
     "examples": [
       {
         "heading": "① 態度副詞放在句首",
         "items": [
           {
-            "en": "Fortunately, nobody was hurt in the accident.",
-            "zh": "幸好那場車禍沒有人受傷。"
+            "en": "The car was badly damaged. Fortunately, nobody was hurt in the accident.",
+            "zh": "車子撞得很嚴重。幸好那場車禍沒有人受傷。"
           },
           {
-            "en": "Sadly, our neighbours are moving to Leeds.",
-            "zh": "可惜我們的鄰居要搬去里茲了。"
+            "en": "Sadly, our neighbours are moving to Leeds. We'll really miss them.",
+            "zh": "可惜我們的鄰居要搬去 Leeds 了。我們會很想念他們。"
           },
           {
-            "en": "Surprisingly, the exam was quite easy.",
-            "zh": "沒想到考試還滿簡單的。"
+            "en": "I only studied for an hour. Surprisingly, the exam was quite easy.",
+            "zh": "我只讀了一個小時。沒想到考試還滿簡單的。"
           },
           {
-            "en": "Honestly, I don't remember her name.",
-            "zh": "老實說，我不記得她的名字。"
+            "en": "Tom's friend says we met at a party. Honestly, I don't remember her name.",
+            "zh": "Tom 的朋友說我們在一個派對上見過。老實說，我不記得她的名字。"
           },
           {
-            "en": "Hopefully, the swelling will go down by Monday.",
-            "zh": "希望星期一前能消腫。"
+            "en": "Keep your foot up and use ice. Hopefully, the swelling will go down by Monday.",
+            "zh": "把腳抬高，冰敷。希望星期一前能消腫。"
           },
           {
-            "en": "Unfortunately, the museum is closed on Mondays.",
-            "zh": "可惜博物館星期一休館。"
+            "en": "Let's go on Tuesday. Unfortunately, the museum is closed on Mondays.",
+            "zh": "我們星期二去吧。可惜博物館星期一休館。"
           },
           {
-            "en": "Frankly, the film was too long.",
-            "zh": "坦白說，那部電影太長了。"
+            "en": "I liked the actors. Frankly, the film was too long.",
+            "zh": "我喜歡那些演員。坦白說，那部電影太長了。"
           },
           {
-            "en": "Luckily, my phone was still in my bag.",
-            "zh": "幸好我的手機還在包包裡。"
+            "en": "I thought I'd left my phone on the train. Luckily, it was still in my bag.",
+            "zh": "我以為我把手機忘在火車上了。幸好它還在包包裡。"
           }
         ]
       },
@@ -21343,20 +21343,20 @@
         "heading": "② 態度副詞放在主詞後面",
         "items": [
           {
-            "en": "The lift, unfortunately, was out of order.",
-            "zh": "不巧電梯故障了。"
+            "en": "We had to carry the boxes up five floors. The lift, unfortunately, was out of order.",
+            "zh": "我們得把箱子搬上五樓。不巧電梯故障了。"
           },
           {
-            "en": "My grandmother, surprisingly, loves video games.",
-            "zh": "沒想到我奶奶很愛打電玩。"
+            "en": "My grandmother, surprisingly, loves video games. She plays every evening with my cousin.",
+            "zh": "沒想到我奶奶很愛打電玩。她每天晚上都跟我表弟一起玩。"
           },
           {
-            "en": "The hotel, luckily, had one room left.",
-            "zh": "幸好那家飯店還剩一間房。"
+            "en": "It was the busiest weekend of the year. The hotel, luckily, had one room left.",
+            "zh": "那是一年中最忙的週末。幸好那家飯店還剩一間房。"
           },
           {
-            "en": "Our teacher, sadly, is leaving at the end of term.",
-            "zh": "可惜我們老師這學期結束就要走了。"
+            "en": "Our teacher, sadly, is leaving at the end of term. Everyone loves her lessons.",
+            "zh": "可惜我們老師這學期結束就要走了。大家都很愛她的課。"
           }
         ]
       },
@@ -21364,16 +21364,16 @@
         "heading": "③ 態度副詞放在連接詞後面",
         "items": [
           {
-            "en": "I wanted to go, but, unfortunately, I had to work.",
-            "zh": "我很想去，可是不巧我得上班。"
+            "en": "It was my best friend's birthday. I wanted to go, but, unfortunately, I had to work.",
+            "zh": "那天是我好朋友的生日。我很想去，可是不巧我得上班。"
           },
           {
-            "en": "We got lost, and, surprisingly, we found a great café.",
-            "zh": "我們迷路了，結果沒想到找到一間很棒的咖啡館。"
+            "en": "The map on my phone stopped working. We got lost, and, surprisingly, we found a great café.",
+            "zh": "我手機上的地圖不能用了。我們迷路了，結果沒想到找到一間很棒的咖啡館。"
           },
           {
-            "en": "It rained all day, so, obviously, we stayed in.",
-            "zh": "下了一整天雨，所以我們當然待在家裡。"
+            "en": "We wanted to go to the beach. It rained all day, so, obviously, we stayed in.",
+            "zh": "我們本來想去海邊。下了一整天雨，所以我們當然待在家裡。"
           },
           {
             "en": "The tickets were expensive, but, luckily, my uncle paid.",
@@ -21385,20 +21385,20 @@
         "heading": "④ 態度副詞放在動詞前面或 be 後面",
         "items": [
           {
-            "en": "He clearly forgot about our meeting.",
-            "zh": "他顯然忘了我們有約。"
+            "en": "I waited at the café for an hour. Sam clearly forgot about our meeting.",
+            "zh": "我在咖啡館等了一個小時。Sam 顯然忘了我們有約。"
           },
           {
-            "en": "You're obviously tired. Go to bed.",
-            "zh": "你顯然累了，去睡吧。"
+            "en": "You keep yawning. You're obviously tired. Go to bed.",
+            "zh": "你一直打哈欠。你顯然累了，去睡吧。"
           },
           {
-            "en": "The kids were clearly bored.",
-            "zh": "孩子們顯然很無聊。"
+            "en": "The speech went on for an hour. The kids were clearly bored.",
+            "zh": "演講講了一個小時。孩子們顯然很無聊。"
           },
           {
-            "en": "He unfortunately missed the start of the film.",
-            "zh": "他不巧錯過了電影的開頭。"
+            "en": "Dad's train was late. He unfortunately missed the start of the film.",
+            "zh": "爸爸的火車誤點了。他不巧錯過了電影的開頭。"
           }
         ]
       },
@@ -21406,36 +21406,36 @@
         "heading": "⑤ 不同的看法",
         "items": [
           {
-            "en": "Obviously, you can't park here.",
-            "zh": "這裡當然不能停車。"
+            "en": "There's a sign right there. Obviously, you can't park here.",
+            "zh": "那裡就有一個告示。這裡當然不能停車。"
           },
           {
-            "en": "Clearly, someone has been in my room.",
-            "zh": "顯然有人進過我的房間。"
+            "en": "My drawers are open and my books are on the floor. Clearly, someone has been in my room.",
+            "zh": "我的抽屜開著，書掉在地上。顯然有人進過我的房間。"
           },
           {
-            "en": "Sadly, the dog didn't survive.",
-            "zh": "可惜那隻狗沒活下來。"
+            "en": "The vet tried for hours. Sadly, the dog didn't survive.",
+            "zh": "獸醫搶救了好幾個小時。可惜那隻狗沒活下來。"
           },
           {
-            "en": "Frankly, your essay needs a lot more work.",
-            "zh": "坦白說，你的報告還要大改。"
+            "en": "Your essay is due next week. Frankly, it needs a lot more work.",
+            "zh": "你的報告下星期就要交了。坦白說，它還要大改。"
           },
           {
-            "en": "Fortunately, the bank was still open.",
-            "zh": "幸好銀行還開著。"
+            "en": "I needed cash for the taxi. Fortunately, the bank was still open.",
+            "zh": "我需要現金付計程車錢。幸好銀行還開著。"
           },
           {
-            "en": "Surprisingly, my cousin passed his driving test first time.",
-            "zh": "沒想到我表哥第一次考駕照就過了。"
+            "en": "My cousin only had five lessons. Surprisingly, he passed his driving test first time.",
+            "zh": "我表哥只上了五堂課。沒想到他第一次考駕照就過了。"
           },
           {
-            "en": "Hopefully, the heating engineer can come on Friday.",
-            "zh": "希望修暖氣的師傅星期五能來。"
+            "en": "The house has been cold all week. Hopefully, the heating engineer can come on Friday.",
+            "zh": "房子冷了一整個星期。希望修暖氣的師傅星期五能來。"
           },
           {
-            "en": "Honestly, the soup needs more salt.",
-            "zh": "老實說，這湯要再加點鹽。"
+            "en": "Taste the soup again. Honestly, it needs more salt.",
+            "zh": "再嚐一次這湯。老實說，要再加點鹽。"
           }
         ]
       },
@@ -21443,20 +21443,20 @@
         "heading": "⑥ 疑問句和否定句",
         "items": [
           {
-            "en": "Unfortunately, the printer doesn't work.",
-            "zh": "不巧印表機壞了。"
+            "en": "Unfortunately, the printer doesn't work. You'll have to write the letter by hand.",
+            "zh": "不巧印表機壞了。你得用手寫這封信了。"
           },
           {
-            "en": "Luckily, the train wasn't full.",
-            "zh": "幸好火車上人不多。"
+            "en": "I had a seat all the way to London. Luckily, the train wasn't full.",
+            "zh": "我到倫敦一路都有位子坐。幸好火車上人不多。"
           },
           {
-            "en": "Honestly, do you like my new haircut?",
-            "zh": "說真的，你喜歡我的新髮型嗎？"
+            "en": "Honestly, do you like my new haircut? I cut my hair myself this morning.",
+            "zh": "說真的，你喜歡我的新髮型嗎？我今天早上自己剪的。"
           },
           {
-            "en": "Seriously, are you moving to Canada?",
-            "zh": "說真的，你要搬去加拿大？"
+            "en": "Mum just told me the news. Seriously, are you moving to Canada?",
+            "zh": "媽媽剛跟我說這個消息。說真的，你要搬去加拿大？"
           }
         ]
       }

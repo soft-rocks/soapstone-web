@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="態度副詞放在句首，修飾整個句子">
+    <NoteSlide title="態度副詞放在句首，修飾整個句子" mark="Luckily,">
       <NoteWords
         :size="30"
         :parts="[
@@ -23,7 +23,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">幸好我及時趕到了。</p>
     </NoteSlide>
 
-    <NoteSlide title="態度副詞也可以放在主詞或連接詞後面，前後加逗號" mark="Luckily,">
+    <NoteSlide title="態度副詞也可以放在主詞或連接詞後面，前後加逗號">
       <div class="rows is-labeled">
         <div>
           <span class="term">主詞後面</span>
@@ -51,9 +51,9 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">動詞前面</span>
           <span
-            ><NoteMark sentence="She obviously didn't like the food." :marks="['obviously']" /><span
+            ><NoteMark sentence="He obviously didn't like the food." :marks="['obviously']" /><span
               class="translation"
-              >她顯然不喜歡那些菜。</span
+              >他顯然不喜歡那些菜。</span
             ></span
           >
         </div>
@@ -104,13 +104,13 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="unfortunate 保留 e 再加 -ly">
       <NoteFix
-        wrong="Unfortunatly, the shop was closed."
-        right="Unfortunately, the shop was closed."
+        wrong="Unfortunatly, our flight leaves at five in the morning."
+        right="Unfortunately, our flight leaves at five in the morning."
         fix="Unfortunately,"
       />
     </NoteSlide>
 
-    <NoteSlide title="態度副詞和主詞用逗號隔開時，後面也加逗號">
+    <NoteSlide title="態度副詞放在主詞後面時，前後各加一個逗號">
       <NoteFix
         wrong="My boss unfortunately, was ill."
         right="My boss, unfortunately, was ill."
@@ -120,8 +120,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="態度副詞後面直接接句子，不加 that">
       <NoteFix
-        wrong="Hopefully that the rain will stop soon."
-        right="Hopefully, the rain will stop soon."
+        wrong="Hopefully that the doctor can see me today."
+        right="Hopefully, the doctor can see me today."
         fix="Hopefully,"
       />
     </NoteSlide>

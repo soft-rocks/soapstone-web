@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="頻率副詞放在主詞和動詞中間">
+    <NoteSlide title="頻率副詞放在主詞和動詞中間" mark="She sometimes goes">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">她有時候會去看電影。</p>
     </NoteSlide>
 
-    <NoteSlide title="be 和助動詞放在頻率副詞前面" mark="sometimes">
+    <NoteSlide title="be 和助動詞放在頻率副詞前面">
       <div class="rows is-labeled">
         <div>
           <span class="term">be 後面</span>
@@ -39,10 +39,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">助動詞後面</span>
           <span
-            ><NoteMark sentence="I can never find my keys." :marks="['can never find']" /><span
-              class="translation"
-              >我老是找不到鑰匙。</span
-            ></span
+            ><NoteMark
+              sentence="I can never find my keys in the morning."
+              :marks="['can never find']"
+            /><span class="translation">我早上老是找不到鑰匙。</span></span
           >
         </div>
       </div>
@@ -77,7 +77,8 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="24"
         :parts="[
-          { t: 'In my free time I', role: '主詞', kind: 'dim' },
+          { t: 'In my free time', role: '時間', kind: 'dim' },
+          { t: 'I', role: '主詞' },
           { t: 'always', role: '頻率副詞', kind: 'key' },
           { t: 'listen to music,', role: '動詞' },
           { t: 'watch TV', role: '動詞' },
@@ -136,9 +137,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="表示從來不用 never">
       <NoteFix
-        wrong="I always don't eat breakfast."
-        right="I never eat breakfast."
-        fix="never eat"
+        wrong="My dad always doesn't drink coffee after six."
+        right="My dad never drinks coffee after six."
+        fix="never drinks"
       />
     </NoteSlide>
   </NoteDeck>

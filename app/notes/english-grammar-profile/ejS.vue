@@ -52,18 +52,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">very</span>
           <span
             ><NoteMark
-              sentence="This box is very heavy, but I can carry it."
-              :marks="['very heavy']"
-            /><span class="translation">這個箱子很重，不過我搬得動。</span></span
+              sentence="The climb is very steep, but my grandpa can manage it."
+              :marks="['very steep']"
+            /><span class="translation">那段坡很陡，不過我爺爺爬得上去。</span></span
           >
         </div>
         <div>
           <span class="term">too</span>
           <span
             ><NoteMark
-              sentence="This box is too heavy. I can't carry it."
-              :marks="['too heavy']"
-            /><span class="translation">這個箱子太重了，我搬不動。</span></span
+              sentence="The ladder is too short. We can't reach the roof."
+              :marks="['too short.']"
+            /><span class="translation">梯子太短了。我們搆不到屋頂。</span></span
           >
         </div>
       </div>
@@ -77,11 +77,11 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'quite', role: '程度副詞', kind: 'key' },
           { t: 'a', role: '冠詞' },
           { t: 'long', role: '形容詞' },
-          { t: 'way', role: '名詞' },
-          { t: 'to the station.', role: '地點', kind: 'dim' },
+          { t: 'drive', role: '名詞' },
+          { t: 'to the coast.', role: '地點', kind: 'dim' },
         ]"
       />
-      <p class="translation">到車站滿遠的。</p>
+      <p class="translation">開車到海邊滿遠的。</p>
     </NoteSlide>
 
     <NoteSlide title="so 和 too 後面接的成分">
@@ -90,9 +90,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">so + 形容詞 + that 子句</span>
           <span
             ><NoteMark
-              sentence="I was so tired that I fell asleep on the bus."
-              :marks="['so tired that']"
-            /><span class="translation">我累到在公車上睡著了。</span></span
+              sentence="The queue was so long that we gave up."
+              :marks="['so long that']"
+            /><span class="translation">隊伍長到我們放棄了。</span></span
           >
         </div>
         <div>
@@ -126,9 +126,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="too 直接接形容詞">
       <NoteFix
-        wrong="This phone is too much expensive."
-        right="This phone is too expensive."
-        fix="too expensive"
+        wrong="The rent in the city centre is too much high."
+        right="The rent in the city centre is too high."
+        fix="too high."
       />
     </NoteSlide>
 
@@ -136,7 +136,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteFix wrong="It was a bit cold day." right="It was a bit cold." fix="a bit cold" />
     </NoteSlide>
 
-    <NoteSlide title="接 that 子句用 so，不用 very" mark="so glad">
+    <NoteSlide title="接 that 子句用 so，不用 very">
       <NoteFix
         wrong="I was very hungry that I ate two pizzas."
         right="I was so hungry that I ate two pizzas."

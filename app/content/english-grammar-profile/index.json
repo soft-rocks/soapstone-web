@@ -15862,37 +15862,37 @@
     "name": "程度副詞放在形容詞前（較多種副詞）",
     "sentences": [
       "I love your garden in spring. The roses are so beautiful!",
-      "The baby is so cute when she laughs.",
-      "I'm so sorry I'm late. The traffic was terrible.",
-      "My feet are so cold after walking in the snow.",
+      "Look at the baby's little hands. She's so cute when she laughs.",
+      "I missed the bus by one minute. I'm so annoyed!",
+      "We walked in the snow for an hour. My feet are so cold.",
       "You're so kind to help me with my bags.",
-      "The film was so boring that I left early.",
-      "The soup was so hot that I burnt my tongue.",
-      "She was so nervous she couldn't eat breakfast.",
-      "The music next door was so loud that we couldn't sleep.",
-      "The swimming pool near my office is quite big.",
+      "Nothing happened for an hour. The film was so boring that I left early.",
+      "I didn't wait for the soup to cool. It was so hot that I burnt my tongue.",
+      "It was my sister's first day at her new job. She was so nervous she couldn't eat breakfast.",
+      "The neighbours had a party until three. The music was so loud that we couldn't sleep.",
+      "There's a swimming pool near my office. It's quite big, so I swim there at lunch.",
       "The exam was quite difficult, but I think I passed.",
       "It's quite warm today, so you don't need a coat.",
-      "My son's cooking is quite good for a ten-year-old.",
-      "We had quite a nice holiday in spite of the weather.",
-      "It's quite an old house, so it needs a lot of work.",
+      "My son made us pasta last night. His cooking is quite good for a ten-year-old.",
+      "It rained twice, but we didn't mind. We had quite a nice holiday.",
+      "The roof leaks and the windows are old. It's quite an old house, so it needs a lot of work.",
       "Can you open the window? The classroom is too hot.",
-      "That restaurant is too expensive for students.",
-      "The bed in the hotel was too soft.",
+      "Let's find somewhere cheaper. That restaurant is too expensive for students.",
+      "My back hurts this morning. The bed in the hotel was too soft.",
       "Turn the TV down. It's too loud!",
       "You're too late. The shop has just closed.",
-      "My little sister is too short to reach the light switch.",
-      "I was too tired to finish my homework last night.",
-      "The river is too dangerous to swim in.",
-      "It's too early to call Grandma.",
+      "My little sister is too short to reach the light switch. She has to stand on a chair.",
+      "I worked until nine. I was too tired to finish my homework last night.",
+      "The current is very strong. The river is too dangerous to swim in.",
+      "It's only half past six. It's too early to call Grandma.",
       "I'm a bit tired. Can we stop for a coffee?",
       "The jeans are a little long, but I like them.",
       "It's a bit cold in here. Can I close the window?",
-      "The first lesson was a little confusing.",
-      "Dad was a bit angry when I came home late.",
+      "The teacher spoke very fast. The first lesson was a little confusing.",
+      "I came home late and didn't text Dad. He was a bit angry.",
       "The hotel room wasn't too small, and it was clean.",
-      "Is the water too cold for swimming?",
-      "My grandmother's village isn't so far from here by train.",
+      "You're shaking. Is the water too cold for swimming?",
+      "It's only forty minutes by train. My grandmother's village isn't so far from here.",
       "Are you a bit hungry? I can make you a sandwich."
     ],
     "examples": [
@@ -15904,16 +15904,16 @@
             "zh": "我好喜歡你家春天的花園，玫瑰好漂亮！"
           },
           {
-            "en": "The baby is so cute when she laughs.",
-            "zh": "那個小寶寶笑起來好可愛。"
+            "en": "Look at the baby's little hands. She's so cute when she laughs.",
+            "zh": "你看那個小寶寶的小手。她笑起來好可愛。"
           },
           {
-            "en": "I'm so sorry I'm late. The traffic was terrible.",
-            "zh": "真的很抱歉我遲到了，路上塞得好嚴重。"
+            "en": "I missed the bus by one minute. I'm so annoyed!",
+            "zh": "我差一分鐘沒趕上公車。我好火大！"
           },
           {
-            "en": "My feet are so cold after walking in the snow.",
-            "zh": "在雪地裡走完路，我的腳好冰。"
+            "en": "We walked in the snow for an hour. My feet are so cold.",
+            "zh": "我們在雪地裡走了一個小時。我的腳好冰。"
           },
           {
             "en": "You're so kind to help me with my bags.",
@@ -15925,20 +15925,20 @@
         "heading": "② so + 形容詞 + that 子句",
         "items": [
           {
-            "en": "The film was so boring that I left early.",
-            "zh": "那部電影無聊到我提早離場。"
+            "en": "Nothing happened for an hour. The film was so boring that I left early.",
+            "zh": "一個小時都沒什麼劇情。那部電影無聊到我提早離場。"
           },
           {
-            "en": "The soup was so hot that I burnt my tongue.",
-            "zh": "湯燙到我舌頭都燙傷了。"
+            "en": "I didn't wait for the soup to cool. It was so hot that I burnt my tongue.",
+            "zh": "我沒等湯涼就喝了。湯燙到我舌頭都燙傷了。"
           },
           {
-            "en": "She was so nervous she couldn't eat breakfast.",
-            "zh": "她緊張到吃不下早餐。"
+            "en": "It was my sister's first day at her new job. She was so nervous she couldn't eat breakfast.",
+            "zh": "那天是我姊姊新工作的第一天。她緊張到吃不下早餐。"
           },
           {
-            "en": "The music next door was so loud that we couldn't sleep.",
-            "zh": "隔壁的音樂吵到我們睡不著。"
+            "en": "The neighbours had a party until three. The music was so loud that we couldn't sleep.",
+            "zh": "鄰居的派對開到三點。音樂吵到我們睡不著。"
           }
         ]
       },
@@ -15946,8 +15946,8 @@
         "heading": "③ quite + 形容詞",
         "items": [
           {
-            "en": "The swimming pool near my office is quite big.",
-            "zh": "我辦公室附近的游泳池滿大的。"
+            "en": "There's a swimming pool near my office. It's quite big, so I swim there at lunch.",
+            "zh": "我辦公室附近有一座游泳池。那座游泳池滿大的，所以我午餐時間去那裡游泳。"
           },
           {
             "en": "The exam was quite difficult, but I think I passed.",
@@ -15958,16 +15958,16 @@
             "zh": "今天滿暖的，你不用穿外套。"
           },
           {
-            "en": "My son's cooking is quite good for a ten-year-old.",
-            "zh": "以十歲的孩子來說，我兒子的廚藝滿好的。"
+            "en": "My son made us pasta last night. His cooking is quite good for a ten-year-old.",
+            "zh": "我兒子昨晚煮義大利麵給我們吃。以十歲的孩子來說，他的廚藝滿好的。"
           },
           {
-            "en": "We had quite a nice holiday in spite of the weather.",
-            "zh": "雖然天氣不好，我們的假期還算不錯。"
+            "en": "It rained twice, but we didn't mind. We had quite a nice holiday.",
+            "zh": "下了兩次雨，不過我們不在意。我們的假期還算不錯。"
           },
           {
-            "en": "It's quite an old house, so it needs a lot of work.",
-            "zh": "那是一間滿舊的房子，所以要修的地方很多。"
+            "en": "The roof leaks and the windows are old. It's quite an old house, so it needs a lot of work.",
+            "zh": "屋頂漏水，窗戶也很舊。那是一間滿舊的房子，所以要修的地方很多。"
           }
         ]
       },
@@ -15979,12 +15979,12 @@
             "zh": "你可以開窗嗎？教室太熱了。"
           },
           {
-            "en": "That restaurant is too expensive for students.",
-            "zh": "那家餐廳對學生來說太貴了。"
+            "en": "Let's find somewhere cheaper. That restaurant is too expensive for students.",
+            "zh": "我們找便宜一點的地方吧。那家餐廳對學生來說太貴了。"
           },
           {
-            "en": "The bed in the hotel was too soft.",
-            "zh": "飯店的床太軟了。"
+            "en": "My back hurts this morning. The bed in the hotel was too soft.",
+            "zh": "我今天早上背好痛。飯店的床太軟了。"
           },
           {
             "en": "Turn the TV down. It's too loud!",
@@ -16000,20 +16000,20 @@
         "heading": "⑤ too + 形容詞 + to + 動詞原形",
         "items": [
           {
-            "en": "My little sister is too short to reach the light switch.",
-            "zh": "我妹妹太矮了，搆不到電燈開關。"
+            "en": "My little sister is too short to reach the light switch. She has to stand on a chair.",
+            "zh": "我妹妹太矮了，搆不到電燈開關。她得站在椅子上。"
           },
           {
-            "en": "I was too tired to finish my homework last night.",
-            "zh": "我昨晚太累了，作業寫不完。"
+            "en": "I worked until nine. I was too tired to finish my homework last night.",
+            "zh": "我工作到九點。我昨晚太累了，作業寫不完。"
           },
           {
-            "en": "The river is too dangerous to swim in.",
-            "zh": "那條河太危險了，不能下去游泳。"
+            "en": "The current is very strong. The river is too dangerous to swim in.",
+            "zh": "水流很急。那條河太危險了，不能下去游泳。"
           },
           {
-            "en": "It's too early to call Grandma.",
-            "zh": "現在打給奶奶太早了。"
+            "en": "It's only half past six. It's too early to call Grandma.",
+            "zh": "現在才六點半。現在打給奶奶太早了。"
           }
         ]
       },
@@ -16033,12 +16033,12 @@
             "zh": "這裡有點冷，我可以把窗戶關起來嗎？"
           },
           {
-            "en": "The first lesson was a little confusing.",
-            "zh": "第一堂課有點讓人搞不清楚。"
+            "en": "The teacher spoke very fast. The first lesson was a little confusing.",
+            "zh": "老師講得很快。第一堂課有點讓人搞不清楚。"
           },
           {
-            "en": "Dad was a bit angry when I came home late.",
-            "zh": "我晚回家，爸爸有點生氣。"
+            "en": "I came home late and didn't text Dad. He was a bit angry.",
+            "zh": "我晚回家，又沒傳訊息給爸爸。他有點生氣。"
           }
         ]
       },
@@ -16050,12 +16050,12 @@
             "zh": "飯店房間沒有太小，而且很乾淨。"
           },
           {
-            "en": "Is the water too cold for swimming?",
-            "zh": "水太冷不能游泳嗎？"
+            "en": "You're shaking. Is the water too cold for swimming?",
+            "zh": "你在發抖。水太冷不能游泳嗎？"
           },
           {
-            "en": "My grandmother's village isn't so far from here by train.",
-            "zh": "搭火車的話，我奶奶住的村子離這裡沒有那麼遠。"
+            "en": "It's only forty minutes by train. My grandmother's village isn't so far from here.",
+            "zh": "搭火車只要四十分鐘。我奶奶住的村子離這裡沒有那麼遠。"
           },
           {
             "en": "Are you a bit hungry? I can make you a sandwich.",

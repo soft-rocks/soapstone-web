@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="程度副詞放在比較級前面，說明差多少">
+    <NoteSlide title="程度副詞放在比較級前面，說明差多少" mark="a bit more expensive">
       <NoteWords
         :size="26"
         :parts="[
@@ -65,15 +65,15 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">much</span>
           <span
             ><NoteMark
-              sentence="Tom is short, but his brother is much taller."
+              sentence="Lucy is short, but her sister is much taller."
               :marks="['much taller.']"
-            /><span class="translation">Tom 很矮，可是他哥哥高得多。</span></span
+            /><span class="translation">Lucy 很矮，可是她姊姊高得多。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="程度副詞也修飾比較級副詞" mark="a bit more expensive">
+    <NoteSlide title="程度副詞也修飾比較級副詞">
       <NoteWords
         :size="28"
         :parts="[
@@ -86,7 +86,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我在西班牙住的時間比在英國長得多。</p>
     </NoteSlide>
 
-    <NoteSlide title="比較級前面不用 very" mark="a bit">
+    <NoteSlide title="比較級前面不用 very">
       <NoteFix
         wrong="This flat is very cheaper than the last one."
         right="This flat is much cheaper than the last one."
@@ -96,24 +96,24 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="-er 已經是比較級，不再加 more">
       <NoteFix
-        wrong="The new road is much more safer."
-        right="The new road is much safer."
-        fix="much safer."
+        wrong="This winter is much more colder than last year."
+        right="This winter is much colder than last year."
+        fix="much colder"
       />
     </NoteSlide>
 
     <NoteSlide title="修飾比較級用 a lot，不加 of">
       <NoteFix
-        wrong="The train is a lot of faster than the bus."
-        right="The train is a lot faster than the bus."
+        wrong="The train is a lot of faster than the coach."
+        right="The train is a lot faster than the coach."
         fix="a lot faster"
       />
     </NoteSlide>
 
     <NoteSlide title="so 要加 much 才修飾比較級">
       <NoteFix
-        wrong="I feel so better today."
-        right="I feel so much better today."
+        wrong="My knee feels so better today."
+        right="My knee feels so much better today."
         fix="so much better"
       />
     </NoteSlide>

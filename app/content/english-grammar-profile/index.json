@@ -19710,60 +19710,60 @@
     "translation": "我真的很愛散步。",
     "name": "really 放在主詞和動詞之間",
     "sentences": [
-      "My little brother really loves dinosaurs.",
-      "We really enjoyed our walk along the river.",
-      "I really hate getting up early on Mondays.",
-      "Our students really like the new library.",
-      "Grandpa really enjoys his garden in spring.",
-      "I really need a new phone.",
-      "The kids really want a puppy for Christmas.",
-      "We really hope you can come to the wedding.",
-      "My dad really needs a holiday.",
-      "I really want to learn to swim this summer.",
-      "I would really like to visit Japan one day.",
-      "You should really try the fish here.",
-      "I can really see the difference now.",
-      "Everyone at the office will really miss Helen.",
-      "She has really changed since last year.",
-      "I don't really care about football.",
-      "My parents don't really understand computers.",
-      "He doesn't really talk much in class.",
-      "We didn't really enjoy the trip because of the rain.",
-      "I don't really know your cousin.",
-      "I really don't feel like going out tonight.",
-      "She really doesn't like waiting in queues.",
-      "You really don't need to bring anything.",
-      "We really don't have time for lunch today.",
-      "My cat really doesn't like the vet.",
-      "Do you really live next to the station?",
-      "Does Tom really speak four languages?",
-      "Did she really eat the whole pizza?",
-      "Do you really think it will snow tomorrow?",
-      "Do they really want to move to the countryside?"
+      "My little brother really loves dinosaurs. He has twenty toy ones.",
+      "The weather was perfect. We really enjoyed our walk along the river.",
+      "The weekend always ends too soon. I really hate getting up early on Mondays.",
+      "Our students really like the new library. It has comfortable chairs and big windows.",
+      "Grandpa really enjoys his garden in spring. He plants new flowers every year.",
+      "The screen is broken again. I really need a new phone.",
+      "The kids really want a puppy for Christmas. They've asked every day since summer.",
+      "You're my oldest friend. We really hope you can come to the wedding.",
+      "My dad hasn't had a day off for months. He really needs a holiday.",
+      "All my friends can swim. I really want to learn to swim this summer.",
+      "I love Japanese food. I would really like to visit Japan one day.",
+      "You should really try the fish here. It comes straight from the harbour.",
+      "I've cleaned one window. I can really see the difference now.",
+      "Helen is retiring after twenty years. Everyone at the office will really miss her.",
+      "My sister is much more confident now. She has really changed since last year.",
+      "Turn the TV off if you like. I don't really care about the match.",
+      "My parents don't really understand computers. I set up their email for them.",
+      "Ken is a bit shy. He doesn't really talk much in class.",
+      "It rained every day. We didn't really enjoy the trip.",
+      "We've only met once. I don't really know your cousin.",
+      "I'm so tired after work. I really don't feel like going out tonight.",
+      "My mum left the supermarket without buying anything. She really doesn't like waiting in queues.",
+      "We have plenty of food. You really don't need to bring anything.",
+      "We have three meetings this afternoon. We really don't have time for lunch today.",
+      "Our cat really doesn't like car journeys. He hides under the bed when we take out his box.",
+      "You can hear the trains from your bedroom? Do you really live next to the station?",
+      "Tom is only twenty. Does he really speak four languages?",
+      "The pizza box is empty. Did Amy really eat the whole pizza?",
+      "The sky is clear tonight. Do you really think it will snow tomorrow?",
+      "Your parents love the city. Do they really want to move to the countryside?"
     ],
     "examples": [
       {
         "heading": "① really + like、love、enjoy、hate",
         "items": [
           {
-            "en": "My little brother really loves dinosaurs.",
-            "zh": "我弟弟超愛恐龍。"
+            "en": "My little brother really loves dinosaurs. He has twenty toy ones.",
+            "zh": "我弟弟超愛恐龍。他有二十隻玩具恐龍。"
           },
           {
-            "en": "We really enjoyed our walk along the river.",
-            "zh": "我們沿著河邊散步，走得很開心。"
+            "en": "The weather was perfect. We really enjoyed our walk along the river.",
+            "zh": "天氣好極了。我們沿著河邊散步，走得很開心。"
           },
           {
-            "en": "I really hate getting up early on Mondays.",
-            "zh": "我真的很討厭星期一早起。"
+            "en": "The weekend always ends too soon. I really hate getting up early on Mondays.",
+            "zh": "週末總是結束得太快。我真的很討厭星期一早起。"
           },
           {
-            "en": "Our students really like the new library.",
-            "zh": "我們的學生很喜歡新的圖書館。"
+            "en": "Our students really like the new library. It has comfortable chairs and big windows.",
+            "zh": "我們的學生很喜歡新的圖書館。那裡有舒服的椅子和大窗戶。"
           },
           {
-            "en": "Grandpa really enjoys his garden in spring.",
-            "zh": "爺爺春天很喜歡待在他的花園裡。"
+            "en": "Grandpa really enjoys his garden in spring. He plants new flowers every year.",
+            "zh": "爺爺春天很喜歡待在他的花園裡。他每年都種新的花。"
           }
         ]
       },
@@ -19771,24 +19771,24 @@
         "heading": "② really + want、need、hope",
         "items": [
           {
-            "en": "I really need a new phone.",
-            "zh": "我真的需要一支新手機。"
+            "en": "The screen is broken again. I really need a new phone.",
+            "zh": "螢幕又破了。我真的需要一支新手機。"
           },
           {
-            "en": "The kids really want a puppy for Christmas.",
-            "zh": "孩子們很想要一隻小狗當聖誕禮物。"
+            "en": "The kids really want a puppy for Christmas. They've asked every day since summer.",
+            "zh": "孩子們很想要一隻小狗當聖誕禮物。他們從夏天開始每天都在問。"
           },
           {
-            "en": "We really hope you can come to the wedding.",
-            "zh": "我們很希望你能來參加婚禮。"
+            "en": "You're my oldest friend. We really hope you can come to the wedding.",
+            "zh": "你是我最老的朋友。我們很希望你能來參加婚禮。"
           },
           {
-            "en": "My dad really needs a holiday.",
-            "zh": "我爸真的需要放個假。"
+            "en": "My dad hasn't had a day off for months. He really needs a holiday.",
+            "zh": "我爸好幾個月沒休假了。他真的需要放個假。"
           },
           {
-            "en": "I really want to learn to swim this summer.",
-            "zh": "我今年夏天很想學游泳。"
+            "en": "All my friends can swim. I really want to learn to swim this summer.",
+            "zh": "我的朋友都會游泳。我今年夏天很想學游泳。"
           }
         ]
       },
@@ -19796,24 +19796,24 @@
         "heading": "③ 助動詞 + really + 動詞",
         "items": [
           {
-            "en": "I would really like to visit Japan one day.",
-            "zh": "我很想有一天去日本玩。"
+            "en": "I love Japanese food. I would really like to visit Japan one day.",
+            "zh": "我很愛日本菜。我很想有一天去日本玩。"
           },
           {
-            "en": "You should really try the fish here.",
-            "zh": "你真的該試試這裡的魚。"
+            "en": "You should really try the fish here. It comes straight from the harbour.",
+            "zh": "你真的該試試這裡的魚。魚是從港口直接送來的。"
           },
           {
-            "en": "I can really see the difference now.",
-            "zh": "我現在真的看得出差別了。"
+            "en": "I've cleaned one window. I can really see the difference now.",
+            "zh": "我擦了一扇窗戶。我現在真的看得出差別了。"
           },
           {
-            "en": "Everyone at the office will really miss Helen.",
-            "zh": "辦公室的大家都會很想念 Helen。"
+            "en": "Helen is retiring after twenty years. Everyone at the office will really miss her.",
+            "zh": "Helen 做了二十年要退休了。辦公室的大家都會很想念她。"
           },
           {
-            "en": "She has really changed since last year.",
-            "zh": "她從去年到現在變了很多。"
+            "en": "My sister is much more confident now. She has really changed since last year.",
+            "zh": "我妹妹現在自信多了。她從去年到現在變了很多。"
           }
         ]
       },
@@ -19821,24 +19821,24 @@
         "heading": "④ don't really + 動詞",
         "items": [
           {
-            "en": "I don't really care about football.",
-            "zh": "我不太在乎足球。"
+            "en": "Turn the TV off if you like. I don't really care about the match.",
+            "zh": "想關電視就關吧。我不太在乎那場比賽。"
           },
           {
-            "en": "My parents don't really understand computers.",
-            "zh": "我爸媽不太懂電腦。"
+            "en": "My parents don't really understand computers. I set up their email for them.",
+            "zh": "我爸媽不太懂電腦。我幫他們設定了 email。"
           },
           {
-            "en": "He doesn't really talk much in class.",
-            "zh": "他上課不太說話。"
+            "en": "Ken is a bit shy. He doesn't really talk much in class.",
+            "zh": "Ken 有點害羞。他上課不太說話。"
           },
           {
-            "en": "We didn't really enjoy the trip because of the rain.",
-            "zh": "因為下雨，那趟旅行我們玩得不太開心。"
+            "en": "It rained every day. We didn't really enjoy the trip.",
+            "zh": "每天都下雨。那趟旅行我們玩得不太開心。"
           },
           {
-            "en": "I don't really know your cousin.",
-            "zh": "我跟你表哥不太熟。"
+            "en": "We've only met once. I don't really know your cousin.",
+            "zh": "我們只見過一次。我跟你表哥不太熟。"
           }
         ]
       },
@@ -19846,24 +19846,24 @@
         "heading": "⑤ really don't + 動詞",
         "items": [
           {
-            "en": "I really don't feel like going out tonight.",
-            "zh": "我今晚真的很不想出門。"
+            "en": "I'm so tired after work. I really don't feel like going out tonight.",
+            "zh": "下班後我好累。我今晚真的很不想出門。"
           },
           {
-            "en": "She really doesn't like waiting in queues.",
-            "zh": "她真的很不喜歡排隊。"
+            "en": "My mum left the supermarket without buying anything. She really doesn't like waiting in queues.",
+            "zh": "我媽什麼都沒買就離開超市了。她真的很不喜歡排隊。"
           },
           {
-            "en": "You really don't need to bring anything.",
-            "zh": "你真的什麼都不用帶。"
+            "en": "We have plenty of food. You really don't need to bring anything.",
+            "zh": "我們的食物很多。你真的什麼都不用帶。"
           },
           {
-            "en": "We really don't have time for lunch today.",
-            "zh": "我們今天真的沒時間吃午餐。"
+            "en": "We have three meetings this afternoon. We really don't have time for lunch today.",
+            "zh": "我們今天下午有三個會。我們今天真的沒時間吃午餐。"
           },
           {
-            "en": "My cat really doesn't like the vet.",
-            "zh": "我的貓真的很討厭獸醫。"
+            "en": "Our cat really doesn't like car journeys. He hides under the bed when we take out his box.",
+            "zh": "我們的貓真的很討厭坐車。我們拿出牠的籠子，牠就躲到床底下。"
           }
         ]
       },
@@ -19871,24 +19871,24 @@
         "heading": "⑥ 疑問句",
         "items": [
           {
-            "en": "Do you really live next to the station?",
-            "zh": "你真的住在車站旁邊嗎？"
+            "en": "You can hear the trains from your bedroom? Do you really live next to the station?",
+            "zh": "你在臥室聽得到火車？你真的住在車站旁邊嗎？"
           },
           {
-            "en": "Does Tom really speak four languages?",
-            "zh": "Tom 真的會說四種語言嗎？"
+            "en": "Tom is only twenty. Does he really speak four languages?",
+            "zh": "Tom 才二十歲。他真的會說四種語言嗎？"
           },
           {
-            "en": "Did she really eat the whole pizza?",
-            "zh": "她真的把整個披薩吃完了嗎？"
+            "en": "The pizza box is empty. Did Amy really eat the whole pizza?",
+            "zh": "披薩盒空了。Amy 真的把整個披薩吃完了嗎？"
           },
           {
-            "en": "Do you really think it will snow tomorrow?",
-            "zh": "你真的覺得明天會下雪嗎？"
+            "en": "The sky is clear tonight. Do you really think it will snow tomorrow?",
+            "zh": "今晚天空很晴朗。你真的覺得明天會下雪嗎？"
           },
           {
-            "en": "Do they really want to move to the countryside?",
-            "zh": "他們真的想搬到鄉下嗎？"
+            "en": "Your parents love the city. Do they really want to move to the countryside?",
+            "zh": "你爸媽很愛城市。他們真的想搬到鄉下嗎？"
           }
         ]
       }

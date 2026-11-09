@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="really 放在主詞和動詞中間">
+    <NoteSlide title="really 放在主詞和動詞中間" mark="really love">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我真的很愛散步。</p>
     </NoteSlide>
 
-    <NoteSlide title="有助動詞時，really 放在助動詞後面" mark="really love">
+    <NoteSlide title="有助動詞時，really 放在助動詞後面">
       <NoteWords
         :size="30"
         :parts="[
@@ -33,10 +33,10 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'would', role: '助動詞' },
           { t: 'really', role: '程度副詞', kind: 'key' },
           { t: 'like', role: '動詞' },
-          { t: 'a cup of tea.', role: '受詞', kind: 'dim' },
+          { t: 'a hot bath.', role: '受詞', kind: 'dim' },
         ]"
       />
-      <p class="translation">我真的很想喝杯茶。</p>
+      <p class="translation">我真的很想泡個熱水澡。</p>
     </NoteSlide>
 
     <NoteSlide title="疑問句的 really 放在主詞後面">
@@ -58,53 +58,53 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">don't really</span>
           <span
-            ><NoteMark sentence="I don't really like coffee." :marks="['don\'t really']" /><span
-              class="translation"
-              >我不太喜歡咖啡。</span
-            ></span
+            ><NoteMark
+              sentence="I don't really read the local paper."
+              :marks="['don\'t really']"
+            /><span class="translation">我不太看地方報紙。</span></span
           >
         </div>
         <div>
           <span class="term">really don't</span>
           <span
-            ><NoteMark sentence="I really don't like coffee." :marks="['really don\'t']" /><span
+            ><NoteMark sentence="I really don't eat spicy food." :marks="['really don\'t']" /><span
               class="translation"
-              >我真的很不喜歡咖啡。</span
+              >我真的不吃辣。</span
             ></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="really 不放在動詞和受詞中間" mark="really love">
+    <NoteSlide title="really 不放在動詞和受詞中間">
       <NoteFix
-        wrong="I like really my new bike."
-        right="I really like my new bike."
-        fix="really like"
+        wrong="She misses really her friends in Spain."
+        right="She really misses her friends in Spain."
+        fix="really misses"
       />
     </NoteSlide>
 
     <NoteSlide title="修飾動詞用 really，不用 real">
       <NoteFix
-        wrong="I real want to see that film."
-        right="I really want to see that film."
-        fix="really want"
+        wrong="I real need a break from work."
+        right="I really need a break from work."
+        fix="really need"
       />
     </NoteSlide>
 
     <NoteSlide title="very 不修飾動詞">
       <NoteFix
-        wrong="I very like your new haircut."
-        right="I really like your new haircut."
-        fix="really like"
+        wrong="My parents very miss the old neighbourhood."
+        right="My parents really miss the old neighbourhood."
+        fix="really miss"
       />
     </NoteSlide>
 
     <NoteSlide title="第三人稱單數的動詞照樣加 -s">
       <NoteFix
-        wrong="My sister really love cats."
-        right="My sister really loves cats."
-        fix="really loves"
+        wrong="My cousin really hate crowded trains."
+        right="My cousin really hates crowded trains."
+        fix="really hates"
       />
     </NoteSlide>
   </NoteDeck>

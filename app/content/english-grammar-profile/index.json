@@ -20283,65 +20283,65 @@
     "translation": "我們可以明天見面。",
     "name": "時間副詞放在句尾",
     "sentences": [
-      "My cousin is flying back to Canada tomorrow.",
-      "There's a football match on TV tonight.",
-      "I finished the whole book yesterday.",
-      "Can you pick up the kids from school today?",
-      "The new supermarket opens tomorrow.",
-      "Mum is making lasagne tonight.",
+      "Let's have dinner together. My cousin is flying back to Canada tomorrow.",
+      "There's a football match on TV tonight. Come over and watch it with us.",
+      "I couldn't stop reading. I finished the whole book yesterday.",
+      "I have a meeting until five. Can you pick up the kids from school today?",
+      "We won't have to drive to town any more. The new supermarket opens tomorrow.",
+      "Don't eat too much at lunch. Mum is making lasagne tonight.",
       "I'm busy at the moment, so I'll text you later.",
-      "The plumber said he would be here soon.",
-      "Please turn off your phones now.",
-      "Dinner will be ready soon.",
-      "We can talk about the holiday later.",
-      "My sister lives in Manchester now.",
-      "The train arrived ten minutes late.",
-      "I want to go to bed early tonight.",
-      "Sorry, I'm going to be a bit late.",
-      "Our neighbours always get up early.",
-      "He worked late every night last week.",
+      "Don't worry about the leak. The plumber said he would be here soon.",
+      "The film is about to start. Please turn off your phones now.",
+      "Wash your hands, kids. Dinner will be ready soon.",
+      "You're too tired tonight. We can talk about the holiday later.",
+      "My sister lives in Manchester now. She moved for her new job.",
+      "I nearly missed my meeting. The train arrived ten minutes late.",
+      "I have an exam at eight. I want to go to bed early tonight.",
+      "The traffic is terrible. Sorry, I'm going to be a bit late.",
+      "Our neighbours always get up early. We hear their car at six every morning.",
+      "My dad's team had a big project to finish. He worked late every night last week.",
       "I failed my driving test, but I'm taking it again in May.",
-      "I lost my umbrella again.",
-      "We'd love to visit your town again.",
-      "Let's try the new Thai restaurant again next month.",
-      "The printer isn't working again.",
-      "I'll send you the photos tomorrow.",
-      "She cleaned her bedroom yesterday.",
-      "Don't forget to water the plants tonight.",
-      "We watched a scary film yesterday.",
-      "My parents are coming to my school tomorrow.",
-      "I was at the dentist's yesterday.",
-      "Let's meet at the café later.",
-      "My brother got home from the party really late.",
-      "We're going to the cinema tonight."
+      "I lost my umbrella again. This time I left it on the bus.",
+      "Thank you for showing us around. We'd love to visit your town again.",
+      "Let's go to the new Thai restaurant again next month. The curry was amazing.",
+      "I need to print my ticket. The printer isn't working again.",
+      "My phone is nearly dead. I'll send you the photos tomorrow.",
+      "Emma's friends came over today. She cleaned her bedroom yesterday.",
+      "It's going to be hot all week. Don't forget to water the plants tonight.",
+      "We watched a scary film yesterday. I couldn't sleep all night.",
+      "My parents are coming to my school tomorrow. It's the end-of-year concert.",
+      "My mouth still hurts. I was at the dentist's yesterday.",
+      "I need to finish this email first. Let's meet at the café later.",
+      "My brother got home from the party really late. Mum was waiting up for him.",
+      "I've already bought the tickets. We're going to the cinema tonight."
     ],
     "examples": [
       {
         "heading": "① today、tomorrow、yesterday、tonight",
         "items": [
           {
-            "en": "My cousin is flying back to Canada tomorrow.",
-            "zh": "我表哥明天要飛回加拿大。"
+            "en": "Let's have dinner together. My cousin is flying back to Canada tomorrow.",
+            "zh": "我們一起吃晚餐吧。我表哥明天要飛回加拿大。"
           },
           {
-            "en": "There's a football match on TV tonight.",
-            "zh": "今晚電視上有足球比賽。"
+            "en": "There's a football match on TV tonight. Come over and watch it with us.",
+            "zh": "今晚電視上有足球比賽。過來跟我們一起看吧。"
           },
           {
-            "en": "I finished the whole book yesterday.",
-            "zh": "我昨天把整本書看完了。"
+            "en": "I couldn't stop reading. I finished the whole book yesterday.",
+            "zh": "我停不下來。我昨天把整本書看完了。"
           },
           {
-            "en": "Can you pick up the kids from school today?",
-            "zh": "你今天可以去學校接孩子嗎？"
+            "en": "I have a meeting until five. Can you pick up the kids from school today?",
+            "zh": "我開會開到五點。你今天可以去學校接孩子嗎？"
           },
           {
-            "en": "The new supermarket opens tomorrow.",
-            "zh": "新的超市明天開幕。"
+            "en": "We won't have to drive to town any more. The new supermarket opens tomorrow.",
+            "zh": "我們不用再開車進城了。新的超市明天開幕。"
           },
           {
-            "en": "Mum is making lasagne tonight.",
-            "zh": "媽媽今晚要做千層麵。"
+            "en": "Don't eat too much at lunch. Mum is making lasagne tonight.",
+            "zh": "午餐別吃太多。媽媽今晚要做千層麵。"
           }
         ]
       },
@@ -20353,24 +20353,24 @@
             "zh": "我現在在忙，晚點再傳訊息給你。"
           },
           {
-            "en": "The plumber said he would be here soon.",
-            "zh": "水電工說他很快就會到。"
+            "en": "Don't worry about the leak. The plumber said he would be here soon.",
+            "zh": "別擔心漏水。水電工說他很快就會到。"
           },
           {
-            "en": "Please turn off your phones now.",
-            "zh": "現在請把手機關機。"
+            "en": "The film is about to start. Please turn off your phones now.",
+            "zh": "電影要開始了。現在請把手機關機。"
           },
           {
-            "en": "Dinner will be ready soon.",
-            "zh": "晚餐快好了。"
+            "en": "Wash your hands, kids. Dinner will be ready soon.",
+            "zh": "孩子們，去洗手。晚餐快好了。"
           },
           {
-            "en": "We can talk about the holiday later.",
-            "zh": "我們晚點再討論假期的事。"
+            "en": "You're too tired tonight. We can talk about the holiday later.",
+            "zh": "你今晚太累了。我們晚點再討論假期的事。"
           },
           {
-            "en": "My sister lives in Manchester now.",
-            "zh": "我姊姊現在住在曼徹斯特。"
+            "en": "My sister lives in Manchester now. She moved for her new job.",
+            "zh": "我姊姊現在住在曼徹斯特。她為了新工作搬家了。"
           }
         ]
       },
@@ -20378,24 +20378,24 @@
         "heading": "③ early、late",
         "items": [
           {
-            "en": "The train arrived ten minutes late.",
-            "zh": "火車晚了十分鐘到。"
+            "en": "I nearly missed my meeting. The train arrived ten minutes late.",
+            "zh": "我差點沒趕上開會。火車晚了十分鐘到。"
           },
           {
-            "en": "I want to go to bed early tonight.",
-            "zh": "我今晚想早點睡。"
+            "en": "I have an exam at eight. I want to go to bed early tonight.",
+            "zh": "我八點有考試。我今晚想早點睡。"
           },
           {
-            "en": "Sorry, I'm going to be a bit late.",
-            "zh": "抱歉，我會晚一點到。"
+            "en": "The traffic is terrible. Sorry, I'm going to be a bit late.",
+            "zh": "交通好糟。抱歉，我會晚一點到。"
           },
           {
-            "en": "Our neighbours always get up early.",
-            "zh": "我們的鄰居都很早起床。"
+            "en": "Our neighbours always get up early. We hear their car at six every morning.",
+            "zh": "我們的鄰居都很早起床。我們每天早上六點都聽到他們的車。"
           },
           {
-            "en": "He worked late every night last week.",
-            "zh": "他上禮拜每天晚上都工作到很晚。"
+            "en": "My dad's team had a big project to finish. He worked late every night last week.",
+            "zh": "我爸爸的團隊有一個大案子要完成。他上禮拜每天晚上都工作到很晚。"
           }
         ]
       },
@@ -20407,20 +20407,20 @@
             "zh": "我駕照考試沒過，不過五月要再考一次。"
           },
           {
-            "en": "I lost my umbrella again.",
-            "zh": "我又把雨傘弄丟了。"
+            "en": "I lost my umbrella again. This time I left it on the bus.",
+            "zh": "我又把雨傘弄丟了。這次是忘在公車上。"
           },
           {
-            "en": "We'd love to visit your town again.",
-            "zh": "我們很想再去你們那裡玩。"
+            "en": "Thank you for showing us around. We'd love to visit your town again.",
+            "zh": "謝謝你帶我們參觀。我們很想再去你們那裡玩。"
           },
           {
-            "en": "Let's try the new Thai restaurant again next month.",
-            "zh": "我們下個月再去那家新的泰式餐廳吧。"
+            "en": "Let's go to the new Thai restaurant again next month. The curry was amazing.",
+            "zh": "我們下個月再去那家新的泰式餐廳吧。那裡的咖哩好好吃。"
           },
           {
-            "en": "The printer isn't working again.",
-            "zh": "印表機又壞了。"
+            "en": "I need to print my ticket. The printer isn't working again.",
+            "zh": "我得把票印出來。印表機又壞了。"
           }
         ]
       },
@@ -20428,20 +20428,20 @@
         "heading": "⑤ 受詞 + 時間副詞",
         "items": [
           {
-            "en": "I'll send you the photos tomorrow.",
-            "zh": "我明天把照片傳給你。"
+            "en": "My phone is nearly dead. I'll send you the photos tomorrow.",
+            "zh": "我的手機快沒電了。我明天把照片傳給你。"
           },
           {
-            "en": "She cleaned her bedroom yesterday.",
-            "zh": "她昨天打掃了她的房間。"
+            "en": "Emma's friends came over today. She cleaned her bedroom yesterday.",
+            "zh": "Emma 的朋友今天來家裡。她昨天打掃了她的房間。"
           },
           {
-            "en": "Don't forget to water the plants tonight.",
-            "zh": "今晚別忘了給植物澆水。"
+            "en": "It's going to be hot all week. Don't forget to water the plants tonight.",
+            "zh": "這整個星期都會很熱。今晚別忘了給植物澆水。"
           },
           {
-            "en": "We watched a scary film yesterday.",
-            "zh": "我們昨天看了一部恐怖片。"
+            "en": "We watched a scary film yesterday. I couldn't sleep all night.",
+            "zh": "我們昨天看了一部恐怖片。我整晚都睡不著。"
           }
         ]
       },
@@ -20449,24 +20449,24 @@
         "heading": "⑥ 地點 + 時間副詞",
         "items": [
           {
-            "en": "My parents are coming to my school tomorrow.",
-            "zh": "我爸媽明天要來我學校。"
+            "en": "My parents are coming to my school tomorrow. It's the end-of-year concert.",
+            "zh": "我爸媽明天要來我學校。那天是年終音樂會。"
           },
           {
-            "en": "I was at the dentist's yesterday.",
-            "zh": "我昨天去看牙醫了。"
+            "en": "My mouth still hurts. I was at the dentist's yesterday.",
+            "zh": "我的嘴巴還在痛。我昨天去看牙醫了。"
           },
           {
-            "en": "Let's meet at the café later.",
-            "zh": "我們晚點在咖啡店碰面吧。"
+            "en": "I need to finish this email first. Let's meet at the café later.",
+            "zh": "我得先寫完這封 email。我們晚點在咖啡店碰面吧。"
           },
           {
-            "en": "My brother got home from the party really late.",
-            "zh": "我哥哥參加完派對，很晚才回到家。"
+            "en": "My brother got home from the party really late. Mum was waiting up for him.",
+            "zh": "我哥哥參加完派對，很晚才回到家。媽媽一直等他。"
           },
           {
-            "en": "We're going to the cinema tonight.",
-            "zh": "我們今晚要去看電影。"
+            "en": "I've already bought the tickets. We're going to the cinema tonight.",
+            "zh": "我已經買好票了。我們今晚要去看電影。"
           }
         ]
       }

@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="時間副詞放在句尾">
+    <NoteSlide title="時間副詞放在句尾" mark="tomorrow.">
       <NoteWords
         :size="30"
         :parts="[
@@ -25,20 +25,20 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們可以明天見面。</p>
     </NoteSlide>
 
-    <NoteSlide title="受詞放在動詞後面、時間副詞前面" mark="tomorrow">
+    <NoteSlide title="受詞放在動詞後面、時間副詞前面">
       <NoteWords
         :size="30"
         :parts="[
-          { t: 'I\'ll', role: '主詞', kind: 'dim' },
-          { t: 'call', role: '動詞' },
-          { t: 'you', role: '受詞' },
+          { t: 'I\'ll', role: '主詞 + 助動詞', kind: 'dim' },
+          { t: 'return', role: '動詞' },
+          { t: 'your drill', role: '受詞' },
           { t: 'tonight.', role: '時間副詞', kind: 'key' },
         ]"
       />
-      <p class="translation">我今晚打電話給你。</p>
+      <p class="translation">我今晚把電鑽還你。</p>
     </NoteSlide>
 
-    <NoteSlide title="地點在前面，時間在後面" mark="tomorrow">
+    <NoteSlide title="地點在前面，時間在後面">
       <NoteWords
         :size="30"
         :parts="[
@@ -51,7 +51,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們昨天去了動物園。</p>
     </NoteSlide>
 
-    <NoteSlide title="句尾的時間副詞" mark="tomorrow">
+    <NoteSlide title="句尾的時間副詞">
       <div class="rows is-labeled">
         <div>
           <span class="term">today、tomorrow、yesterday、tonight</span>
@@ -111,14 +111,18 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="tomorrow 前面不加介系詞" mark="tomorrow">
-      <NoteFix wrong="See you at tomorrow." right="See you tomorrow." fix="you tomorrow" />
+      <NoteFix
+        wrong="The shop opens at tomorrow."
+        right="The shop opens tomorrow."
+        fix="opens tomorrow"
+      />
     </NoteSlide>
 
     <NoteSlide title="地點放在時間前面">
       <NoteFix
-        wrong="We went yesterday to the beach."
-        right="We went to the beach yesterday."
-        fix="to the beach yesterday"
+        wrong="We drove yesterday to the airport."
+        right="We drove to the airport yesterday."
+        fix="to the airport yesterday"
       />
     </NoteSlide>
 

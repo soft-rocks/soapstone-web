@@ -17283,58 +17283,58 @@
     "translation": "那會是一場相當正式的會議。",
     "name": "程度副詞修飾名詞片語",
     "sentences": [
-      "That was quite a difficult exam.",
-      "My aunt runs quite a successful bakery.",
-      "We had quite a long wait at the airport.",
-      "It's quite a big house for two people.",
-      "Winning the prize was quite a surprise.",
-      "Your little boy is quite a character.",
-      "Moving abroad was quite a challenge for us.",
-      "There was quite a crowd outside the shop.",
-      "It was rather a strange question.",
-      "The plumber left rather a big mess in the kitchen.",
-      "We had rather a cold summer this year.",
-      "That's rather an expensive restaurant.",
-      "She gave a rather short speech.",
-      "It was a rather boring party.",
-      "My uncle drives a rather old car.",
-      "The bride wore a rather simple dress.",
-      "I waited almost an hour for the bus.",
-      "The baby is nearly a year old now.",
-      "My grandad was almost a professional footballer.",
-      "We've been friends for nearly a decade.",
-      "He drank almost a whole bottle of wine.",
-      "The flight was nearly an hour late.",
-      "Our dog is almost a member of the family.",
-      "The repairs cost nearly a month's salary.",
-      "Isn't it rather a long way to walk?",
-      "Wasn't that quite a risk?",
-      "Has it been almost a year since we last met?",
-      "Isn't that rather a high price for a used bike?",
-      "Was it quite a big wedding?",
-      "Did the job take almost a week?",
-      "Wasn't it quite a shock to see him again?",
-      "Isn't your son almost a teenager now?"
+      "Half the class failed. That was quite a difficult exam.",
+      "My aunt runs quite a successful bakery. People queue every morning for her bread.",
+      "Our flight was delayed. We had quite a long wait at the airport.",
+      "Our neighbours' house has five bedrooms. It's quite a big house for two people.",
+      "I didn't expect to win. Winning the prize was quite a surprise.",
+      "Your little boy is quite a character. He told the waiter a joke.",
+      "We didn't speak any German. Moving abroad was quite a challenge for us.",
+      "The new phone came out today. There was quite a crowd outside the shop.",
+      "The interviewer asked about my favourite animal. It was rather a strange question.",
+      "There was dust everywhere. The plumber left rather a big mess in the kitchen.",
+      "We wore jumpers in August. We had rather a cold summer this year.",
+      "A coffee costs eight pounds there. That's rather an expensive restaurant.",
+      "The head teacher only spoke for two minutes. She gave a rather short speech.",
+      "Nobody danced. It was a rather boring party.",
+      "My uncle drives a rather old car. It's twenty years old.",
+      "There was no lace or long train. The bride wore a rather simple dress.",
+      "I waited almost an hour for the bus. It finally came at ten.",
+      "The baby is nearly a year old now. She's starting to walk.",
+      "My grandad was almost a professional footballer. A big club wanted him, but he hurt his knee.",
+      "We met at university. We've been friends for nearly a decade.",
+      "Tom drank almost a whole bottle of wine at dinner. Afterwards, he couldn't stand up.",
+      "We missed our connection. The flight was nearly an hour late.",
+      "Our dog is almost a member of the family. He sleeps on the sofa with us.",
+      "The car needed a new engine. The repairs cost nearly a month's salary.",
+      "The station is three miles away. Isn't it rather a long way to walk?",
+      "You left a good job to start a business. Wasn't that quite a risk?",
+      "It was last Christmas, wasn't it? Has it been almost a year since we last met?",
+      "The seller wants three hundred pounds. Isn't that rather a high price for a used bike?",
+      "I saw the photos online. Was it quite a big wedding?",
+      "The builders were here every day. Did the job take almost a week?",
+      "You hadn't seen your brother for twenty years. Wasn't it quite a shock to see him again?",
+      "Your son is twelve already? Isn't he almost a teenager now?"
     ],
     "examples": [
       {
         "heading": "① quite + a + 形容詞 + 名詞",
         "items": [
           {
-            "en": "That was quite a difficult exam.",
-            "zh": "那次考試相當難。"
+            "en": "Half the class failed. That was quite a difficult exam.",
+            "zh": "班上一半的人沒過。那次考試相當難。"
           },
           {
-            "en": "My aunt runs quite a successful bakery.",
-            "zh": "我阿姨開了一家相當成功的麵包店。"
+            "en": "My aunt runs quite a successful bakery. People queue every morning for her bread.",
+            "zh": "我阿姨開了一家相當成功的麵包店。每天早上都有人排隊買她的麵包。"
           },
           {
-            "en": "We had quite a long wait at the airport.",
-            "zh": "我們在機場等了滿久。"
+            "en": "Our flight was delayed. We had quite a long wait at the airport.",
+            "zh": "我們的班機延誤了。我們在機場等了滿久。"
           },
           {
-            "en": "It's quite a big house for two people.",
-            "zh": "兩個人住，那間房子算滿大的。"
+            "en": "Our neighbours' house has five bedrooms. It's quite a big house for two people.",
+            "zh": "我們鄰居的房子有五間臥室。兩個人住，那間房子算滿大的。"
           }
         ]
       },
@@ -17342,20 +17342,20 @@
         "heading": "② quite + a + 名詞",
         "items": [
           {
-            "en": "Winning the prize was quite a surprise.",
-            "zh": "得獎真是一大驚喜。"
+            "en": "I didn't expect to win. Winning the prize was quite a surprise.",
+            "zh": "我沒想到會贏。得獎真是一大驚喜。"
           },
           {
-            "en": "Your little boy is quite a character.",
-            "zh": "你家小男孩真是個有個性的孩子。"
+            "en": "Your little boy is quite a character. He told the waiter a joke.",
+            "zh": "你家小男孩真是個有個性的孩子。他跟服務生講了個笑話。"
           },
           {
-            "en": "Moving abroad was quite a challenge for us.",
-            "zh": "搬到國外對我們來說是不小的挑戰。"
+            "en": "We didn't speak any German. Moving abroad was quite a challenge for us.",
+            "zh": "我們一句德文都不會說。搬到國外對我們來說是不小的挑戰。"
           },
           {
-            "en": "There was quite a crowd outside the shop.",
-            "zh": "那家店外面圍了一大群人。"
+            "en": "The new phone came out today. There was quite a crowd outside the shop.",
+            "zh": "新手機今天上市。那家店外面圍了一大群人。"
           }
         ]
       },
@@ -17363,20 +17363,20 @@
         "heading": "③ rather + a + 形容詞 + 名詞",
         "items": [
           {
-            "en": "It was rather a strange question.",
-            "zh": "那是個滿奇怪的問題。"
+            "en": "The interviewer asked about my favourite animal. It was rather a strange question.",
+            "zh": "面試官問我最喜歡什麼動物。那是個滿奇怪的問題。"
           },
           {
-            "en": "The plumber left rather a big mess in the kitchen.",
-            "zh": "水電工在廚房留下一大堆髒亂。"
+            "en": "There was dust everywhere. The plumber left rather a big mess in the kitchen.",
+            "zh": "到處都是灰塵。水電工在廚房留下一大堆髒亂。"
           },
           {
-            "en": "We had rather a cold summer this year.",
-            "zh": "今年夏天滿冷的。"
+            "en": "We wore jumpers in August. We had rather a cold summer this year.",
+            "zh": "我們八月還穿毛衣。今年夏天滿冷的。"
           },
           {
-            "en": "That's rather an expensive restaurant.",
-            "zh": "那家餐廳滿貴的。"
+            "en": "A coffee costs eight pounds there. That's rather an expensive restaurant.",
+            "zh": "那裡一杯咖啡要八英鎊。那家餐廳滿貴的。"
           }
         ]
       },
@@ -17384,20 +17384,20 @@
         "heading": "④ a + rather + 形容詞 + 名詞",
         "items": [
           {
-            "en": "She gave a rather short speech.",
-            "zh": "她的致詞滿短的。"
+            "en": "The head teacher only spoke for two minutes. She gave a rather short speech.",
+            "zh": "校長只講了兩分鐘。她的致詞滿短的。"
           },
           {
-            "en": "It was a rather boring party.",
-            "zh": "那個派對滿無聊的。"
+            "en": "Nobody danced. It was a rather boring party.",
+            "zh": "沒有人跳舞。那個派對滿無聊的。"
           },
           {
-            "en": "My uncle drives a rather old car.",
-            "zh": "我叔叔開一輛滿舊的車。"
+            "en": "My uncle drives a rather old car. It's twenty years old.",
+            "zh": "我叔叔開一輛滿舊的車。那輛車二十年了。"
           },
           {
-            "en": "The bride wore a rather simple dress.",
-            "zh": "新娘穿了一件滿簡單的禮服。"
+            "en": "There was no lace or long train. The bride wore a rather simple dress.",
+            "zh": "沒有蕾絲，也沒有長拖尾。新娘穿了一件滿簡單的禮服。"
           }
         ]
       },
@@ -17405,36 +17405,36 @@
         "heading": "⑤ almost、nearly + 名詞片語",
         "items": [
           {
-            "en": "I waited almost an hour for the bus.",
-            "zh": "我等公車等了快一個小時。"
+            "en": "I waited almost an hour for the bus. It finally came at ten.",
+            "zh": "我等公車等了快一個小時。公車終於在十點來了。"
           },
           {
-            "en": "The baby is nearly a year old now.",
-            "zh": "寶寶現在快一歲了。"
+            "en": "The baby is nearly a year old now. She's starting to walk.",
+            "zh": "寶寶現在快一歲了。她開始學走路了。"
           },
           {
-            "en": "My grandad was almost a professional footballer.",
-            "zh": "我爺爺差一點就成了職業足球員。"
+            "en": "My grandad was almost a professional footballer. A big club wanted him, but he hurt his knee.",
+            "zh": "我爺爺差一點就成了職業足球員。有一家大球隊想要他，可是他膝蓋受傷了。"
           },
           {
-            "en": "We've been friends for nearly a decade.",
-            "zh": "我們當朋友快十年了。"
+            "en": "We met at university. We've been friends for nearly a decade.",
+            "zh": "我們在大學認識。我們當朋友快十年了。"
           },
           {
-            "en": "He drank almost a whole bottle of wine.",
-            "zh": "他差不多喝了一整瓶紅酒。"
+            "en": "Tom drank almost a whole bottle of wine at dinner. Afterwards, he couldn't stand up.",
+            "zh": "Tom 晚餐時差不多喝了一整瓶紅酒。之後他站不起來。"
           },
           {
-            "en": "The flight was nearly an hour late.",
-            "zh": "班機晚了快一個小時。"
+            "en": "We missed our connection. The flight was nearly an hour late.",
+            "zh": "我們錯過了轉機。班機晚了快一個小時。"
           },
           {
-            "en": "Our dog is almost a member of the family.",
-            "zh": "我們的狗差不多就是家裡的一份子。"
+            "en": "Our dog is almost a member of the family. He sleeps on the sofa with us.",
+            "zh": "我們的狗差不多就是家裡的一份子。牠跟我們一起睡在沙發上。"
           },
           {
-            "en": "The repairs cost nearly a month's salary.",
-            "zh": "修理費差不多是一個月的薪水。"
+            "en": "The car needed a new engine. The repairs cost nearly a month's salary.",
+            "zh": "那輛車要換新引擎。修理費差不多是一個月的薪水。"
           }
         ]
       },
@@ -17442,36 +17442,36 @@
         "heading": "⑥ 疑問句",
         "items": [
           {
-            "en": "Isn't it rather a long way to walk?",
-            "zh": "走路去不會滿遠的嗎？"
+            "en": "The station is three miles away. Isn't it rather a long way to walk?",
+            "zh": "車站在三英里外。走路去不會滿遠的嗎？"
           },
           {
-            "en": "Wasn't that quite a risk?",
-            "zh": "那樣不是滿冒險的嗎？"
+            "en": "You left a good job to start a business. Wasn't that quite a risk?",
+            "zh": "你辭掉好工作去創業。那樣不是滿冒險的嗎？"
           },
           {
-            "en": "Has it been almost a year since we last met?",
-            "zh": "我們上次見面已經快一年了嗎？"
+            "en": "It was last Christmas, wasn't it? Has it been almost a year since we last met?",
+            "zh": "那是去年聖誕節，對吧？我們上次見面已經快一年了嗎？"
           },
           {
-            "en": "Isn't that rather a high price for a used bike?",
-            "zh": "一台二手腳踏車賣這個價錢不會太高嗎？"
+            "en": "The seller wants three hundred pounds. Isn't that rather a high price for a used bike?",
+            "zh": "賣家要三百英鎊。一台二手腳踏車賣這個價錢不會太高嗎？"
           },
           {
-            "en": "Was it quite a big wedding?",
-            "zh": "婚禮辦得滿盛大的嗎？"
+            "en": "I saw the photos online. Was it quite a big wedding?",
+            "zh": "我在網路上看到照片了。婚禮辦得滿盛大的嗎？"
           },
           {
-            "en": "Did the job take almost a week?",
-            "zh": "那份工作花了快一個星期嗎？"
+            "en": "The builders were here every day. Did the job take almost a week?",
+            "zh": "工人每天都來。那份工作花了快一個星期嗎？"
           },
           {
-            "en": "Wasn't it quite a shock to see him again?",
-            "zh": "再見到他不是滿震驚的嗎？"
+            "en": "You hadn't seen your brother for twenty years. Wasn't it quite a shock to see him again?",
+            "zh": "你二十年沒見過你哥哥了。再見到他不是滿震驚的嗎？"
           },
           {
-            "en": "Isn't your son almost a teenager now?",
-            "zh": "你兒子不是快十三歲了嗎？"
+            "en": "Your son is twelve already? Isn't he almost a teenager now?",
+            "zh": "你兒子已經十二歲了？他不是快十三歲了嗎？"
           }
         ]
       }

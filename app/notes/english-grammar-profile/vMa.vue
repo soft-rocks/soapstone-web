@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="quite 放在 a 前面，修飾整個名詞片語">
+    <NoteSlide title="quite 放在 a 前面，修飾整個名詞片語" mark="quite a">
       <NoteWords
         :size="28"
         :parts="[
@@ -51,9 +51,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">a 後面</span>
           <span
             ><NoteMark
-              sentence="She gave a rather short speech."
+              sentence="The head teacher gave a rather short speech."
               :marks="['a rather short speech.']"
-            /><span class="translation">她的致詞滿短的。</span></span
+            /><span class="translation">校長的致詞滿短的。</span></span
           >
         </div>
       </div>
@@ -65,9 +65,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">almost</span>
           <span
             ><NoteMark
-              sentence="After all, he is almost a human."
-              :marks="['almost a human.']"
-            /><span class="translation">畢竟牠幾乎就是個人了。</span></span
+              sentence="Our dog is almost a member of the family."
+              :marks="['almost a member']"
+            /><span class="translation">我們的狗差不多就是家裡的一份子。</span></span
           >
         </div>
         <div>
@@ -83,23 +83,35 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="quite 放在 a 前面，不放在 a 後面" mark="quite a">
-      <NoteFix wrong="It was a quite good film." right="It was quite a good film." fix="quite a" />
+      <NoteFix
+        wrong="We had a quite busy morning at the shop."
+        right="We had quite a busy morning at the shop."
+        fix="quite a"
+      />
     </NoteSlide>
 
     <NoteSlide title="very 放在 a 後面，修飾形容詞">
-      <NoteFix wrong="It was very a hot day." right="It was a very hot day." fix="a very hot" />
+      <NoteFix
+        wrong="My aunt bakes very a good cheesecake."
+        right="My aunt bakes a very good cheesecake."
+        fix="a very good"
+      />
     </NoteSlide>
 
     <NoteSlide title="單數可數名詞前面要有 a">
       <NoteFix
-        wrong="We live rather long way from the station."
-        right="We live rather a long way from the station."
-        fix="rather a long way"
+        wrong="The hotel is rather long walk from the beach."
+        right="The hotel is rather a long walk from the beach."
+        fix="rather a long walk"
       />
     </NoteSlide>
 
     <NoteSlide title="表示差一點用 almost，不用 most">
-      <NoteFix wrong="It took most an hour." right="It took almost an hour." fix="almost" />
+      <NoteFix
+        wrong="The drive took most an hour."
+        right="The drive took almost an hour."
+        fix="almost"
+      />
     </NoteSlide>
   </NoteDeck>
 

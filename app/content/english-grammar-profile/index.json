@@ -18298,61 +18298,61 @@
     "translation": "也許我把它忘在你家客廳了。",
     "name": "副詞放在句首（較多種副詞）",
     "sentences": [
-      "Perhaps the bakery on the corner sells birthday cakes.",
-      "Perhaps we should take a taxi. It's getting late.",
-      "Perhaps you can ask your teacher for help.",
-      "Perhaps the train is late because of the snow.",
-      "Perhaps, your sister would like to come with us to the lake.",
+      "The supermarket doesn't sell birthday cakes. Perhaps the bakery on the corner sells them.",
+      "The last bus left ten minutes ago. Perhaps we should take a taxi.",
+      "You've been stuck on this maths problem for an hour. Perhaps you can ask your teacher for help.",
+      "The board says \"delayed\". Perhaps the train is late because of the snow.",
+      "There's a spare seat in the car. Perhaps your sister would like to come with us to the lake.",
       "The flat is very small. However, it's close to the city centre.",
       "I wanted to go to the concert. However, all the tickets were sold.",
       "My brother is good at maths. However, he hates science.",
       "The food at the hotel was great. However, the rooms were dirty.",
       "We planned to have a picnic. However, it rained all day.",
-      "Suddenly someone knocked on the door.",
+      "We were all asleep. Suddenly someone knocked on the door.",
       "We were watching TV. Suddenly the screen went black.",
-      "Suddenly I remembered my keys were in the car.",
+      "I was already at the station. Suddenly I remembered my keys were in the car.",
       "I was walking home. Suddenly it started to rain very hard.",
-      "Suddenly, a cat jumped onto the table.",
+      "We were having lunch in the garden. Suddenly, a cat jumped onto the table.",
       "I missed the bus. Luckily, my friend gave me a lift.",
-      "Luckily, the weather was perfect for the wedding.",
-      "I dropped my phone. Luckily it didn't break.",
-      "Luckily, there was a chemist's near the hotel.",
-      "Luckily, my mum found my passport in the kitchen.",
+      "It had rained all week. Luckily, the weather was perfect on the day of the wedding.",
+      "I dropped my phone on the stairs. Luckily it didn't break.",
+      "My son got a fever on holiday. Luckily, there was a chemist's near the hotel.",
+      "We were leaving for the airport. Luckily, my mum found my passport in the kitchen.",
       "Usually I walk to work, but today I drove.",
-      "Often we eat dinner in front of the TV.",
-      "Usually, the library is quiet in the mornings.",
-      "Often my grandad tells us stories about the war.",
-      "Usually the post arrives before lunch.",
-      "Perhaps they don't know about the party.",
-      "Luckily, we didn't miss the start of the film.",
+      "Our dining table is covered in books. Often we eat dinner in front of the TV.",
+      "Come early if you want a desk. Usually, the library is full by ten.",
+      "My grandad was a soldier when he was young. Often he tells us stories about the war.",
+      "Check the mailbox at one. Usually the post arrives before lunch.",
+      "Nobody has replied to the invitation. Perhaps our friends don't know about the party.",
+      "The traffic was terrible. Luckily, we didn't miss the start of the film.",
       "The car is old. However, it doesn't use much petrol.",
-      "Usually my cat doesn't go outside at night.",
-      "Suddenly I couldn't remember the name of my own street.",
-      "Often I don't have time for breakfast."
+      "Don't worry about the foxes. Usually my cat doesn't go outside at night.",
+      "The taxi driver asked for my address. Suddenly I couldn't remember the name of my own street.",
+      "I leave home at seven. Often I don't have time for breakfast."
     ],
     "examples": [
       {
         "heading": "① perhaps",
         "items": [
           {
-            "en": "Perhaps the bakery on the corner sells birthday cakes.",
-            "zh": "轉角那家麵包店也許有賣生日蛋糕。"
+            "en": "The supermarket doesn't sell birthday cakes. Perhaps the bakery on the corner sells them.",
+            "zh": "超市沒有賣生日蛋糕。轉角那家麵包店也許有賣。"
           },
           {
-            "en": "Perhaps we should take a taxi. It's getting late.",
-            "zh": "也許我們該搭計程車，時間不早了。"
+            "en": "The last bus left ten minutes ago. Perhaps we should take a taxi.",
+            "zh": "最後一班公車十分鐘前開走了。也許我們該搭計程車。"
           },
           {
-            "en": "Perhaps you can ask your teacher for help.",
-            "zh": "也許你可以請老師幫忙。"
+            "en": "You've been stuck on this maths problem for an hour. Perhaps you can ask your teacher for help.",
+            "zh": "你卡在這道數學題一個小時了。也許你可以請老師幫忙。"
           },
           {
-            "en": "Perhaps the train is late because of the snow.",
-            "zh": "火車也許是因為下雪才誤點。"
+            "en": "The board says \"delayed\". Perhaps the train is late because of the snow.",
+            "zh": "看板上寫著延誤。火車也許是因為下雪才誤點。"
           },
           {
-            "en": "Perhaps, your sister would like to come with us to the lake.",
-            "zh": "也許你妹妹會想跟我們一起去湖邊。"
+            "en": "There's a spare seat in the car. Perhaps your sister would like to come with us to the lake.",
+            "zh": "車上還有一個空位。也許你妹妹會想跟我們一起去湖邊。"
           }
         ]
       },
@@ -18385,24 +18385,24 @@
         "heading": "③ suddenly",
         "items": [
           {
-            "en": "Suddenly someone knocked on the door.",
-            "zh": "突然有人敲門。"
+            "en": "We were all asleep. Suddenly someone knocked on the door.",
+            "zh": "我們都睡著了。突然有人敲門。"
           },
           {
             "en": "We were watching TV. Suddenly the screen went black.",
             "zh": "我們正在看電視，螢幕突然黑掉了。"
           },
           {
-            "en": "Suddenly I remembered my keys were in the car.",
-            "zh": "我突然想起鑰匙在車上。"
+            "en": "I was already at the station. Suddenly I remembered my keys were in the car.",
+            "zh": "我已經到車站了。我突然想起鑰匙在車上。"
           },
           {
             "en": "I was walking home. Suddenly it started to rain very hard.",
             "zh": "我在走路回家，突然下起了大雨。"
           },
           {
-            "en": "Suddenly, a cat jumped onto the table.",
-            "zh": "一隻貓突然跳上了桌子。"
+            "en": "We were having lunch in the garden. Suddenly, a cat jumped onto the table.",
+            "zh": "我們在花園吃午餐。一隻貓突然跳上了桌子。"
           }
         ]
       },
@@ -18414,20 +18414,20 @@
             "zh": "我錯過了公車，幸好我朋友載了我一程。"
           },
           {
-            "en": "Luckily, the weather was perfect for the wedding.",
-            "zh": "幸好婚禮那天天氣好極了。"
+            "en": "It had rained all week. Luckily, the weather was perfect on the day of the wedding.",
+            "zh": "之前下了一整個星期的雨。幸好婚禮當天天氣好極了。"
           },
           {
-            "en": "I dropped my phone. Luckily it didn't break.",
-            "zh": "我把手機摔到地上，幸好沒摔壞。"
+            "en": "I dropped my phone on the stairs. Luckily it didn't break.",
+            "zh": "我把手機摔在樓梯上，幸好沒摔壞。"
           },
           {
-            "en": "Luckily, there was a chemist's near the hotel.",
-            "zh": "幸好旅館附近有一家藥局。"
+            "en": "My son got a fever on holiday. Luckily, there was a chemist's near the hotel.",
+            "zh": "我兒子度假時發燒了。幸好旅館附近有一家藥局。"
           },
           {
-            "en": "Luckily, my mum found my passport in the kitchen.",
-            "zh": "幸好我媽在廚房找到了我的護照。"
+            "en": "We were leaving for the airport. Luckily, my mum found my passport in the kitchen.",
+            "zh": "我們正要去機場。幸好我媽在廚房找到了我的護照。"
           }
         ]
       },
@@ -18439,20 +18439,20 @@
             "zh": "我通常走路上班，不過今天開車。"
           },
           {
-            "en": "Often we eat dinner in front of the TV.",
-            "zh": "我們常常邊看電視邊吃晚餐。"
+            "en": "Our dining table is covered in books. Often we eat dinner in front of the TV.",
+            "zh": "我們的餐桌上堆滿了書。我們常常邊看電視邊吃晚餐。"
           },
           {
-            "en": "Usually, the library is quiet in the mornings.",
-            "zh": "圖書館早上通常很安靜。"
+            "en": "Come early if you want a desk. Usually, the library is full by ten.",
+            "zh": "想要有位子就早點來。圖書館通常十點就滿了。"
           },
           {
-            "en": "Often my grandad tells us stories about the war.",
-            "zh": "我爺爺常常跟我們講戰爭時的故事。"
+            "en": "My grandad was a soldier when he was young. Often he tells us stories about the war.",
+            "zh": "我爺爺年輕時當過兵。他常常跟我們講戰爭時的故事。"
           },
           {
-            "en": "Usually the post arrives before lunch.",
-            "zh": "郵件通常午餐前就送到了。"
+            "en": "Check the mailbox at one. Usually the post arrives before lunch.",
+            "zh": "一點去看信箱。郵件通常午餐前就送到了。"
           }
         ]
       },
@@ -18460,28 +18460,28 @@
         "heading": "⑥ 句首的副詞 + 否定句",
         "items": [
           {
-            "en": "Perhaps they don't know about the party.",
-            "zh": "也許他們不知道有派對。"
+            "en": "Nobody has replied to the invitation. Perhaps our friends don't know about the party.",
+            "zh": "沒有人回覆邀請。也許我們的朋友不知道有派對。"
           },
           {
-            "en": "Luckily, we didn't miss the start of the film.",
-            "zh": "幸好我們沒錯過電影的開頭。"
+            "en": "The traffic was terrible. Luckily, we didn't miss the start of the film.",
+            "zh": "交通好糟。幸好我們沒錯過電影的開頭。"
           },
           {
             "en": "The car is old. However, it doesn't use much petrol.",
             "zh": "那輛車很舊，不過不太耗油。"
           },
           {
-            "en": "Usually my cat doesn't go outside at night.",
-            "zh": "我的貓晚上通常不出門。"
+            "en": "Don't worry about the foxes. Usually my cat doesn't go outside at night.",
+            "zh": "別擔心狐狸。我的貓晚上通常不出門。"
           },
           {
-            "en": "Suddenly I couldn't remember the name of my own street.",
-            "zh": "我突然想不起自己住的那條街叫什麼。"
+            "en": "The taxi driver asked for my address. Suddenly I couldn't remember the name of my own street.",
+            "zh": "計程車司機問我地址。我突然想不起自己住的那條街叫什麼。"
           },
           {
-            "en": "Often I don't have time for breakfast.",
-            "zh": "我常常沒時間吃早餐。"
+            "en": "I leave home at seven. Often I don't have time for breakfast.",
+            "zh": "我七點出門。我常常沒時間吃早餐。"
           }
         ]
       }

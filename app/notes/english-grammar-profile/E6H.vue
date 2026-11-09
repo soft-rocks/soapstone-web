@@ -26,18 +26,18 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">也許我把它忘在你家客廳了。</p>
     </NoteSlide>
 
-    <NoteSlide title="However 連接前一句" mark="Perhaps">
+    <NoteSlide title="However 連接前一句">
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'I\'d love to come.', role: '前一句', kind: 'dim' },
+          { t: 'I\'d love to join the class.', role: '前一句', kind: 'dim' },
           { t: 'However,', role: '副詞', kind: 'key' },
           { t: 'I', role: '主詞' },
           { t: 'can only study', role: '動詞' },
           { t: 'on Mondays.', role: '時間', kind: 'dim' },
         ]"
       />
-      <p class="translation">我很想來。不過我只有星期一能上課。</p>
+      <p class="translation">我很想參加這門課。不過我只有星期一能上課。</p>
     </NoteSlide>
 
     <NoteSlide title="各個副詞的意思" mark="Perhaps">
@@ -80,9 +80,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">However</span>
           <span
             ><NoteMark
-              sentence="It was a lovely hotel. However, it was too expensive."
+              sentence="The beach was beautiful. However, the water was too cold."
               :marks="['However,']"
-            /><span class="translation">那是一間很棒的旅館。不過，太貴了。</span></span
+            /><span class="translation">海灘很漂亮。不過，水太冷了。</span></span
           >
         </div>
       </div>
@@ -113,7 +113,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="lucky 把 y 改成 i 再加 -ly">
-      <NoteFix wrong="Luckyly, nobody was hurt." right="Luckily, nobody was hurt." fix="Luckily," />
+      <NoteFix
+        wrong="Luckyly, the vet was still open."
+        right="Luckily, the vet was still open."
+        fix="Luckily,"
+      />
     </NoteSlide>
   </NoteDeck>
 

@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="程度副詞放在不定代名詞前面">
+    <NoteSlide title="程度副詞放在不定代名詞前面" mark="almost nothing.">
       <NoteWords
         :size="28"
         :parts="[
@@ -55,9 +55,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">absolutely</span>
           <span
             ><NoteMark
-              sentence="You can buy absolutely anything you like."
+              sentence="At the night market you can buy absolutely anything you like."
               :marks="['absolutely anything']"
-            /><span class="translation">你想買什麼都買得到。</span></span
+            /><span class="translation">在夜市你想買什麼都買得到。</span></span
           >
         </div>
         <div>
@@ -72,7 +72,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="程度副詞後面直接接不定代名詞，不加 of" mark="almost nothing.">
+    <NoteSlide title="程度副詞後面直接接不定代名詞，不加 of">
       <NoteFix
         wrong="Almost of everyone came to the party."
         right="Almost everyone came to the party."

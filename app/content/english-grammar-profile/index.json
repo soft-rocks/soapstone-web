@@ -18913,35 +18913,35 @@
     "sentences": [
       "My brother plays the guitar. He also sings in a band.",
       "The hotel has a pool. It also has a small gym.",
-      "I also need some milk from the shop.",
-      "Our teacher also gave us a reading test.",
+      "Can you get some bread? I also need some milk from the shop.",
+      "It was a busy morning. Our teacher also gave us a reading test.",
       "Lisa is my classmate. She's also my neighbour.",
       "The museum is free, and it's also open on Mondays.",
       "The weather was cold. It was also very windy.",
-      "You can also pay by card.",
-      "We should also buy some water for the trip.",
-      "My parents will also be at the party.",
-      "I only have five euros in my wallet.",
-      "The bakery only opens in the morning.",
-      "We can only stay for one night.",
-      "My son only eats pasta with cheese.",
-      "The swimming lesson was only half an hour long.",
-      "The bus finally arrived after forty minutes.",
-      "We have finally found a flat near the park.",
-      "My little brother can finally ride a bike.",
-      "She finally passed her driving test.",
-      "After three hours, the rain finally stopped.",
-      "My grandparents still live in the same village.",
-      "Are you still hungry?",
+      "Don't worry if you don't have cash. You can also pay by card.",
+      "We've got the sandwiches. We should also buy some water for the trip.",
+      "You'll meet my whole family. My parents will also be at the party.",
+      "Can I pay you back tomorrow? I only have five euros in my wallet.",
+      "Go early if you want fresh bread. The bakery only opens in the morning.",
+      "We have to be back at work on Monday. We can only stay for one night.",
+      "My son only eats pasta with cheese. He won't try anything new.",
+      "The kids were still full of energy. The swimming lesson was only half an hour long.",
+      "We were freezing at the stop. The bus finally arrived after forty minutes.",
+      "We looked for six months. We have finally found a flat near the park.",
+      "My little brother practised all summer. Now he can finally ride a bike.",
+      "Emma finally passed her driving test. It was her fourth try.",
+      "We stayed in the tent all morning. After three hours, the rain finally stopped.",
+      "My grandparents still live in the same village. They've never moved.",
+      "You've had two plates of pasta. Are you still hungry?",
       "It's ten o'clock and Tom is still in bed.",
       "My old laptop still works, so I don't need a new one.",
-      "I've already sent the invitations for the barbecue.",
-      "The children are already asleep.",
-      "My daughter already speaks a little Spanish.",
-      "We have already booked the hotel for July.",
-      "Ben can't swim, and his sister can't swim either.",
+      "Don't worry about that. I've already sent the invitations for the barbecue.",
+      "Speak quietly. The children are already asleep.",
+      "My daughter is only four, but she already speaks a little Spanish.",
+      "It gets busy in summer. We have already booked the hotel for July.",
+      "Ben can't swim, and his sister can't swim either. They'll need life jackets.",
       "I didn't go to the party. My friends didn't go either.",
-      "The first hotel wasn't cheap, and the second one wasn't cheap either."
+      "The first hotel wasn't cheap, and the second one wasn't cheap either. We kept looking."
     ],
     "examples": [
       {
@@ -18956,12 +18956,12 @@
             "zh": "那間旅館有游泳池，也有一間小健身房。"
           },
           {
-            "en": "I also need some milk from the shop.",
-            "zh": "我也需要從店裡買點牛奶。"
+            "en": "Can you get some bread? I also need some milk from the shop.",
+            "zh": "你可以買些麵包嗎？我也需要從店裡買點牛奶。"
           },
           {
-            "en": "Our teacher also gave us a reading test.",
-            "zh": "我們老師也給我們考了閱讀測驗。"
+            "en": "It was a busy morning. Our teacher also gave us a reading test.",
+            "zh": "那是個忙碌的早上。我們老師也給我們考了閱讀測驗。"
           }
         ]
       },
@@ -18986,16 +18986,16 @@
         "heading": "③ 助動詞 + also",
         "items": [
           {
-            "en": "You can also pay by card.",
-            "zh": "你也可以刷卡。"
+            "en": "Don't worry if you don't have cash. You can also pay by card.",
+            "zh": "沒帶現金也別擔心。你也可以刷卡。"
           },
           {
-            "en": "We should also buy some water for the trip.",
-            "zh": "我們也該買些水帶去旅行。"
+            "en": "We've got the sandwiches. We should also buy some water for the trip.",
+            "zh": "我們買好三明治了。我們也該買些水帶去旅行。"
           },
           {
-            "en": "My parents will also be at the party.",
-            "zh": "我爸媽也會去派對。"
+            "en": "You'll meet my whole family. My parents will also be at the party.",
+            "zh": "你會見到我全家人。我爸媽也會去派對。"
           }
         ]
       },
@@ -19003,24 +19003,24 @@
         "heading": "④ only",
         "items": [
           {
-            "en": "I only have five euros in my wallet.",
-            "zh": "我錢包裡只有五歐元。"
+            "en": "Can I pay you back tomorrow? I only have five euros in my wallet.",
+            "zh": "我可以明天還你嗎？我錢包裡只有五歐元。"
           },
           {
-            "en": "The bakery only opens in the morning.",
-            "zh": "那家麵包店只有早上開。"
+            "en": "Go early if you want fresh bread. The bakery only opens in the morning.",
+            "zh": "想買新鮮麵包就早點去。那家麵包店只有早上開。"
           },
           {
-            "en": "We can only stay for one night.",
-            "zh": "我們只能住一個晚上。"
+            "en": "We have to be back at work on Monday. We can only stay for one night.",
+            "zh": "我們星期一要回去上班。我們只能住一個晚上。"
           },
           {
-            "en": "My son only eats pasta with cheese.",
-            "zh": "我兒子只吃加起司的義大利麵。"
+            "en": "My son only eats pasta with cheese. He won't try anything new.",
+            "zh": "我兒子只吃加起司的義大利麵。他什麼新東西都不肯試。"
           },
           {
-            "en": "The swimming lesson was only half an hour long.",
-            "zh": "游泳課只有半小時。"
+            "en": "The kids were still full of energy. The swimming lesson was only half an hour long.",
+            "zh": "孩子們還精力充沛。游泳課只有半小時。"
           }
         ]
       },
@@ -19028,24 +19028,24 @@
         "heading": "⑤ finally",
         "items": [
           {
-            "en": "The bus finally arrived after forty minutes.",
-            "zh": "公車等了四十分鐘終於來了。"
+            "en": "We were freezing at the stop. The bus finally arrived after forty minutes.",
+            "zh": "我們在站牌凍得要命。公車等了四十分鐘終於來了。"
           },
           {
-            "en": "We have finally found a flat near the park.",
-            "zh": "我們終於在公園附近找到一間公寓。"
+            "en": "We looked for six months. We have finally found a flat near the park.",
+            "zh": "我們找了六個月。我們終於在公園附近找到一間公寓。"
           },
           {
-            "en": "My little brother can finally ride a bike.",
-            "zh": "我弟弟終於會騎腳踏車了。"
+            "en": "My little brother practised all summer. Now he can finally ride a bike.",
+            "zh": "我弟弟練了一整個夏天。現在他終於會騎腳踏車了。"
           },
           {
-            "en": "She finally passed her driving test.",
-            "zh": "她終於考過駕照了。"
+            "en": "Emma finally passed her driving test. It was her fourth try.",
+            "zh": "Emma 終於考過駕照了。那是她第四次考。"
           },
           {
-            "en": "After three hours, the rain finally stopped.",
-            "zh": "三個小時後，雨終於停了。"
+            "en": "We stayed in the tent all morning. After three hours, the rain finally stopped.",
+            "zh": "我們整個早上都待在帳篷裡。三個小時後，雨終於停了。"
           }
         ]
       },
@@ -19053,12 +19053,12 @@
         "heading": "⑥ still",
         "items": [
           {
-            "en": "My grandparents still live in the same village.",
-            "zh": "我爺爺奶奶還住在同一個村子。"
+            "en": "My grandparents still live in the same village. They've never moved.",
+            "zh": "我爺爺奶奶還住在同一個村子。他們從來沒搬過家。"
           },
           {
-            "en": "Are you still hungry?",
-            "zh": "你還會餓嗎？"
+            "en": "You've had two plates of pasta. Are you still hungry?",
+            "zh": "你吃了兩盤義大利麵了。你還會餓嗎？"
           },
           {
             "en": "It's ten o'clock and Tom is still in bed.",
@@ -19074,20 +19074,20 @@
         "heading": "⑦ already",
         "items": [
           {
-            "en": "I've already sent the invitations for the barbecue.",
-            "zh": "烤肉的邀請我已經寄出去了。"
+            "en": "Don't worry about that. I've already sent the invitations for the barbecue.",
+            "zh": "那件事別擔心。烤肉的邀請我已經寄出去了。"
           },
           {
-            "en": "The children are already asleep.",
-            "zh": "孩子們已經睡著了。"
+            "en": "Speak quietly. The children are already asleep.",
+            "zh": "小聲一點。孩子們已經睡著了。"
           },
           {
-            "en": "My daughter already speaks a little Spanish.",
-            "zh": "我女兒已經會說一點西班牙文了。"
+            "en": "My daughter is only four, but she already speaks a little Spanish.",
+            "zh": "我女兒才四歲，可是已經會說一點西班牙文了。"
           },
           {
-            "en": "We have already booked the hotel for July.",
-            "zh": "我們已經訂好七月的旅館了。"
+            "en": "It gets busy in summer. We have already booked the hotel for July.",
+            "zh": "夏天會很多人。我們已經訂好七月的旅館了。"
           }
         ]
       },
@@ -19095,16 +19095,16 @@
         "heading": "⑧ 否定句的 either",
         "items": [
           {
-            "en": "Ben can't swim, and his sister can't swim either.",
-            "zh": "Ben 不會游泳，他妹妹也不會。"
+            "en": "Ben can't swim, and his sister can't swim either. They'll need life jackets.",
+            "zh": "Ben 不會游泳，他妹妹也不會。他們需要救生衣。"
           },
           {
             "en": "I didn't go to the party. My friends didn't go either.",
             "zh": "我沒去派對，我朋友也沒去。"
           },
           {
-            "en": "The first hotel wasn't cheap, and the second one wasn't cheap either.",
-            "zh": "第一間旅館不便宜，第二間也不便宜。"
+            "en": "The first hotel wasn't cheap, and the second one wasn't cheap either. We kept looking.",
+            "zh": "第一間旅館不便宜，第二間也不便宜。我們繼續找。"
           }
         ]
       }

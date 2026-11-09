@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="副詞放在主要動詞前面">
+    <NoteSlide title="副詞放在主要動詞前面" mark="finally bought">
       <NoteWords
         :size="30"
         :parts="[
@@ -91,7 +91,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="副詞不放在主要動詞後面">
-      <NoteFix wrong="I like also pizza." right="I also like pizza." fix="also like" />
+      <NoteFix
+        wrong="My cousin speaks also Italian."
+        right="My cousin also speaks Italian."
+        fix="also speaks"
+      />
     </NoteSlide>
 
     <NoteSlide title="副詞放在 be 後面">
@@ -107,7 +111,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="否定句不用 also">
-      <NoteFix wrong="I don't also eat meat." right="I don't eat meat either." fix="either" />
+      <NoteFix
+        wrong="My dad doesn't also like jazz."
+        right="My dad doesn't like jazz either."
+        fix="either"
+      />
     </NoteSlide>
   </NoteDeck>
 

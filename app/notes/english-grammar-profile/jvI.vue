@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="程度副詞放在另一個副詞前面">
+    <NoteSlide title="程度副詞放在另一個副詞前面" mark="really early">
       <NoteWords
         :size="28"
         :parts="[
@@ -25,7 +25,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我們在一個星期五的早上很早就出發了。</p>
     </NoteSlide>
 
-    <NoteSlide title="程度副詞也可以修飾情狀副詞" mark="really early">
+    <NoteSlide title="程度副詞也可以修飾情狀副詞">
       <NoteWords
         :size="30"
         :parts="[
@@ -38,7 +38,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我很小心地打開箱子。</p>
     </NoteSlide>
 
-    <NoteSlide title="extremely 程度最高，a bit 程度最低" mark="really">
+    <NoteSlide title="extremely 程度最高，a bit 程度最低">
       <div class="rows is-labeled">
         <div>
           <span class="term">extremely</span>
@@ -99,7 +99,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="really 後面用副詞 carefully，不用形容詞" mark="really">
+    <NoteSlide title="really 後面用副詞 carefully，不用形容詞">
       <NoteFix
         wrong="He drove really careful."
         right="He drove really carefully."
@@ -108,7 +108,11 @@ defineProps<{ note: (typeof notes)[number] }>();
     </NoteSlide>
 
     <NoteSlide title="原級的副詞前面用 very，不用 much">
-      <NoteFix wrong="The car went much fast." right="The car went very fast." fix="very" />
+      <NoteFix
+        wrong="My grandpa walks much slowly these days."
+        right="My grandpa walks very slowly these days."
+        fix="very"
+      />
     </NoteSlide>
 
     <NoteSlide title="表示太過的副詞拼成 too">

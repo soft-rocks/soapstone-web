@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="程度副詞放在被修飾的副詞前面">
+    <NoteSlide title="程度副詞放在被修飾的副詞前面" mark="incredibly fast">
       <NoteWords
         :size="26"
         :parts="[
@@ -38,7 +38,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">你說話不夠大聲。</p>
     </NoteSlide>
 
-    <NoteSlide title="各個程度副詞的意思" mark="incredibly">
+    <NoteSlide title="各個程度副詞的意思">
       <div class="rows is-labeled">
         <div>
           <span class="term">incredibly、remarkably、extraordinarily</span>
@@ -115,8 +115,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="修飾副詞的字也要用副詞" mark="incredibly fast">
       <NoteFix
-        wrong="The market is growing incredible fast."
-        right="The market is growing incredibly fast."
+        wrong="House prices are rising incredible fast."
+        right="House prices are rising incredibly fast."
         fix="incredibly fast."
       />
     </NoteSlide>

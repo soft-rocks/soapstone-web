@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="程度副詞放在限定詞前面，限定詞可以接 of 加代名詞">
+    <NoteSlide title="程度副詞放在限定詞前面，限定詞可以接 of 加代名詞" mark="very few">
       <NoteWords
         :size="24"
         :parts="[
@@ -99,9 +99,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="every 後面接單數名詞">
       <NoteFix
-        wrong="Nearly every houses has a garden."
-        right="Nearly every house has a garden."
-        fix="every house"
+        wrong="Almost every flats on this floor has two bedrooms."
+        right="Almost every flat on this floor has two bedrooms."
+        fix="every flat"
       />
     </NoteSlide>
 

@@ -19308,62 +19308,62 @@
     "translation": "我喜歡這個地方，因為我爸媽住在那裡。",
     "name": "地點副詞放在句尾",
     "sentences": [
-      "My best friend from primary school still lives there.",
-      "The bus stops here every twenty minutes.",
-      "We stayed there for two weeks last summer.",
-      "Put your coat here, next to mine.",
-      "Our class had a picnic there in June.",
+      "I went back to my old village last week. My best friend from primary school still lives there.",
+      "You don't need to run. The bus stops here every twenty minutes.",
+      "We loved the island. We stayed there for two weeks last summer.",
+      "The hooks are full. Put your coat here, next to mine.",
+      "You can see the lake from the park. Our class had a picnic there in June.",
       "You look tired. Why don't you stay home this evening?",
-      "Dad usually walks home from the station.",
-      "I'm tired. I'm going home.",
-      "My mum always phones me when she gets home from work.",
-      "The kids ran home in the rain.",
+      "It's only ten minutes. Dad usually walks home from the station.",
+      "The party is getting loud. I'm tired. I'm going home.",
+      "My mum always phones me when she gets home from work. She worries about me.",
+      "Nobody had an umbrella. The kids ran home in the rain.",
       "It's sunny, so the children are playing outside.",
-      "Please leave your wet shoes outside.",
-      "It started to rain, so we went inside.",
-      "Your umbrella is inside, by the door.",
-      "Our dog sleeps outside in summer.",
-      "My bedroom is upstairs.",
-      "Grandma can't walk upstairs anymore.",
-      "Someone is knocking on the door downstairs.",
-      "Can you take these towels upstairs?",
+      "I've just cleaned the floor. Please leave your wet shoes outside.",
+      "We were having a barbecue in the garden. It started to rain, so we went inside.",
+      "Don't look in the car. Your umbrella is inside, by the door.",
+      "Our dog sleeps outside in summer. He has a little wooden house in the garden.",
+      "The living room is on the ground floor. My bedroom is upstairs.",
+      "Grandma can't walk upstairs anymore. She sleeps in the room next to the kitchen now.",
+      "Can you go and see? Someone is knocking on the door downstairs.",
+      "These towels are still warm from the dryer. Can you take them upstairs?",
       "Breakfast is ready, so come downstairs.",
-      "My uncle spent ten years teaching English abroad.",
+      "My uncle spent ten years teaching English abroad. He worked in Japan and Brazil.",
       "My grandparents live nearby, so they visit us every weekend.",
-      "I looked for my glasses everywhere.",
-      "My parents have never travelled abroad.",
-      "We found a nice little hotel nearby.",
-      "I met my husband there.",
-      "Can you bring your guitar here on Saturday?",
-      "Could you carry the shopping bags upstairs for me?",
-      "I'll see you there at half past seven.",
-      "We're going abroad next month.",
-      "My brother came home late last night.",
-      "Let's have lunch outside today."
+      "I looked for my glasses everywhere. They were on my head the whole time.",
+      "My parents have never travelled abroad. They don't have passports.",
+      "The campsite was full. We found a nice little hotel nearby.",
+      "That café is special to me. I met my husband there.",
+      "We're having a party in the garden. Can you bring your guitar here on Saturday?",
+      "My back hurts today. Could you carry the shopping bags upstairs for me?",
+      "The film starts at eight. I'll see you there at half past seven.",
+      "We've booked a week in Greece. We're going abroad next month.",
+      "I heard the door at two. My brother came home late last night.",
+      "The sun is finally out. Let's have lunch outside today."
     ],
     "examples": [
       {
         "heading": "① here、there",
         "items": [
           {
-            "en": "My best friend from primary school still lives there.",
-            "zh": "我小學最好的朋友還住在那裡。"
+            "en": "I went back to my old village last week. My best friend from primary school still lives there.",
+            "zh": "我上星期回到以前住的村子。我小學最好的朋友還住在那裡。"
           },
           {
-            "en": "The bus stops here every twenty minutes.",
-            "zh": "公車每二十分鐘在這裡停一班。"
+            "en": "You don't need to run. The bus stops here every twenty minutes.",
+            "zh": "你不用跑。公車每二十分鐘在這裡停一班。"
           },
           {
-            "en": "We stayed there for two weeks last summer.",
-            "zh": "我們去年夏天在那裡待了兩個禮拜。"
+            "en": "We loved the island. We stayed there for two weeks last summer.",
+            "zh": "我們很愛那座島。我們去年夏天在那裡待了兩個禮拜。"
           },
           {
-            "en": "Put your coat here, next to mine.",
-            "zh": "把你的外套放這裡，我的旁邊。"
+            "en": "The hooks are full. Put your coat here, next to mine.",
+            "zh": "掛鉤都滿了。把你的外套放這裡，我的旁邊。"
           },
           {
-            "en": "Our class had a picnic there in June.",
-            "zh": "我們班六月在那裡野餐。"
+            "en": "You can see the lake from the park. Our class had a picnic there in June.",
+            "zh": "從公園看得到湖。我們班六月在那裡野餐。"
           }
         ]
       },
@@ -19375,20 +19375,20 @@
             "zh": "你看起來很累。今晚何不待在家裡？"
           },
           {
-            "en": "Dad usually walks home from the station.",
-            "zh": "爸爸通常從車站走路回家。"
+            "en": "It's only ten minutes. Dad usually walks home from the station.",
+            "zh": "只要十分鐘。爸爸通常從車站走路回家。"
           },
           {
-            "en": "I'm tired. I'm going home.",
-            "zh": "我累了，我要回家了。"
+            "en": "The party is getting loud. I'm tired. I'm going home.",
+            "zh": "派對越來越吵了。我累了，我要回家了。"
           },
           {
-            "en": "My mum always phones me when she gets home from work.",
-            "zh": "我媽下班到家都會打電話給我。"
+            "en": "My mum always phones me when she gets home from work. She worries about me.",
+            "zh": "我媽下班到家都會打電話給我。她會擔心我。"
           },
           {
-            "en": "The kids ran home in the rain.",
-            "zh": "孩子們冒著雨跑回家。"
+            "en": "Nobody had an umbrella. The kids ran home in the rain.",
+            "zh": "沒有人帶傘。孩子們冒著雨跑回家。"
           }
         ]
       },
@@ -19400,20 +19400,20 @@
             "zh": "天氣很好，所以孩子們在外面玩。"
           },
           {
-            "en": "Please leave your wet shoes outside.",
-            "zh": "請把濕鞋子留在外面。"
+            "en": "I've just cleaned the floor. Please leave your wet shoes outside.",
+            "zh": "我剛擦完地板。請把濕鞋子留在外面。"
           },
           {
-            "en": "It started to rain, so we went inside.",
-            "zh": "開始下雨了，所以我們進到屋裡。"
+            "en": "We were having a barbecue in the garden. It started to rain, so we went inside.",
+            "zh": "我們在花園烤肉。開始下雨了，所以我們進到屋裡。"
           },
           {
-            "en": "Your umbrella is inside, by the door.",
-            "zh": "你的雨傘在屋裡，門旁邊。"
+            "en": "Don't look in the car. Your umbrella is inside, by the door.",
+            "zh": "別在車上找了。你的雨傘在屋裡，門旁邊。"
           },
           {
-            "en": "Our dog sleeps outside in summer.",
-            "zh": "我們的狗夏天睡在外面。"
+            "en": "Our dog sleeps outside in summer. He has a little wooden house in the garden.",
+            "zh": "我們的狗夏天睡在外面。牠在院子裡有一間小木屋。"
           }
         ]
       },
@@ -19421,20 +19421,20 @@
         "heading": "④ upstairs、downstairs",
         "items": [
           {
-            "en": "My bedroom is upstairs.",
-            "zh": "我的房間在樓上。"
+            "en": "The living room is on the ground floor. My bedroom is upstairs.",
+            "zh": "客廳在一樓。我的房間在樓上。"
           },
           {
-            "en": "Grandma can't walk upstairs anymore.",
-            "zh": "奶奶已經沒辦法走上樓了。"
+            "en": "Grandma can't walk upstairs anymore. She sleeps in the room next to the kitchen now.",
+            "zh": "奶奶已經沒辦法走上樓了。她現在睡在廚房旁邊的房間。"
           },
           {
-            "en": "Someone is knocking on the door downstairs.",
-            "zh": "樓下有人在敲門。"
+            "en": "Can you go and see? Someone is knocking on the door downstairs.",
+            "zh": "你可以去看一下嗎？樓下有人在敲門。"
           },
           {
-            "en": "Can you take these towels upstairs?",
-            "zh": "你可以把這些毛巾拿上樓嗎？"
+            "en": "These towels are still warm from the dryer. Can you take them upstairs?",
+            "zh": "這些毛巾剛從烘衣機拿出來，還熱熱的。你可以把毛巾拿上樓嗎？"
           },
           {
             "en": "Breakfast is ready, so come downstairs.",
@@ -19446,24 +19446,24 @@
         "heading": "⑤ abroad、nearby、everywhere",
         "items": [
           {
-            "en": "My uncle spent ten years teaching English abroad.",
-            "zh": "我叔叔在國外教了十年英文。"
+            "en": "My uncle spent ten years teaching English abroad. He worked in Japan and Brazil.",
+            "zh": "我叔叔在國外教了十年英文。他在日本和巴西工作過。"
           },
           {
             "en": "My grandparents live nearby, so they visit us every weekend.",
             "zh": "我爺爺奶奶住在附近，所以每個週末都會來看我們。"
           },
           {
-            "en": "I looked for my glasses everywhere.",
-            "zh": "我到處找我的眼鏡。"
+            "en": "I looked for my glasses everywhere. They were on my head the whole time.",
+            "zh": "我到處找我的眼鏡。結果眼鏡一直都在我頭上。"
           },
           {
-            "en": "My parents have never travelled abroad.",
-            "zh": "我爸媽從來沒出過國。"
+            "en": "My parents have never travelled abroad. They don't have passports.",
+            "zh": "我爸媽從來沒出過國。他們沒有護照。"
           },
           {
-            "en": "We found a nice little hotel nearby.",
-            "zh": "我們在附近找到一間不錯的小旅館。"
+            "en": "The campsite was full. We found a nice little hotel nearby.",
+            "zh": "露營區滿了。我們在附近找到一間不錯的小旅館。"
           }
         ]
       },
@@ -19471,16 +19471,16 @@
         "heading": "⑥ 受詞 + 地點副詞",
         "items": [
           {
-            "en": "I met my husband there.",
-            "zh": "我是在那裡認識我先生的。"
+            "en": "That café is special to me. I met my husband there.",
+            "zh": "那家咖啡店對我很特別。我是在那裡認識我先生的。"
           },
           {
-            "en": "Can you bring your guitar here on Saturday?",
-            "zh": "你星期六可以把吉他帶來這裡嗎？"
+            "en": "We're having a party in the garden. Can you bring your guitar here on Saturday?",
+            "zh": "我們要在花園辦派對。你星期六可以把吉他帶來這裡嗎？"
           },
           {
-            "en": "Could you carry the shopping bags upstairs for me?",
-            "zh": "你可以幫我把購物袋提上樓嗎？"
+            "en": "My back hurts today. Could you carry the shopping bags upstairs for me?",
+            "zh": "我今天背很痛。你可以幫我把購物袋提上樓嗎？"
           }
         ]
       },
@@ -19488,20 +19488,20 @@
         "heading": "⑦ 地點副詞 + 時間",
         "items": [
           {
-            "en": "I'll see you there at half past seven.",
-            "zh": "我們七點半那裡見。"
+            "en": "The film starts at eight. I'll see you there at half past seven.",
+            "zh": "電影八點開始。我們七點半那裡見。"
           },
           {
-            "en": "We're going abroad next month.",
-            "zh": "我們下個月要出國。"
+            "en": "We've booked a week in Greece. We're going abroad next month.",
+            "zh": "我們訂了一個禮拜的希臘行程。我們下個月要出國。"
           },
           {
-            "en": "My brother came home late last night.",
-            "zh": "我哥昨晚很晚才回家。"
+            "en": "I heard the door at two. My brother came home late last night.",
+            "zh": "我兩點聽到開門聲。我哥昨晚很晚才回家。"
           },
           {
-            "en": "Let's have lunch outside today.",
-            "zh": "我們今天在外面吃午餐吧。"
+            "en": "The sun is finally out. Let's have lunch outside today.",
+            "zh": "太陽終於出來了。我們今天在外面吃午餐吧。"
           }
         ]
       }

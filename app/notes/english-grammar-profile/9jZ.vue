@@ -76,9 +76,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="地點副詞不放在動詞和受詞中間">
       <NoteFix
-        wrong="I have there many friends."
-        right="I have many friends there."
-        fix="many friends there"
+        wrong="Dad carried upstairs the box."
+        right="Dad carried the box upstairs."
+        fix="the box upstairs."
       />
     </NoteSlide>
 
@@ -92,14 +92,18 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="地點放在時間前面">
       <NoteFix
-        wrong="I'll see you tomorrow there."
-        right="I'll see you there tomorrow."
-        fix="there tomorrow"
+        wrong="We're flying next week abroad."
+        right="We're flying abroad next week."
+        fix="abroad next week."
       />
     </NoteSlide>
 
     <NoteSlide title="home 前面不加 to">
-      <NoteFix wrong="I want to go to home now." right="I want to go home now." fix="go home" />
+      <NoteFix
+        wrong="The children walked to home after the match."
+        right="The children walked home after the match."
+        fix="walked home"
+      />
     </NoteSlide>
   </NoteDeck>
 

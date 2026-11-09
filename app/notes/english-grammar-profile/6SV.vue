@@ -26,20 +26,20 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">你很容易就能找到。</p>
     </NoteSlide>
 
-    <NoteSlide title="情狀副詞、地點、時間的順序" mark="easily">
+    <NoteSlide title="情狀副詞、地點、時間的順序">
       <NoteWords
         :size="24"
         :parts="[
-          { t: 'She sang', role: '主詞 + 動詞', kind: 'dim' },
+          { t: 'Lily sang', role: '主詞 + 動詞', kind: 'dim' },
           { t: 'beautifully', role: '情狀副詞', kind: 'key' },
           { t: 'at the concert', role: '地點' },
           { t: 'last night.', role: '時間' },
         ]"
       />
-      <p class="translation">她昨晚在音樂會上唱得很好聽。</p>
+      <p class="translation">Lily 昨晚在音樂會上唱得很好聽。</p>
     </NoteSlide>
 
-    <NoteSlide title="程度副詞放在情狀副詞前面" mark="easily">
+    <NoteSlide title="程度副詞放在情狀副詞前面">
       <NoteWords
         :size="28"
         :parts="[
@@ -57,37 +57,37 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">形容詞說明主詞</span>
           <span
-            ><NoteMark sentence="You look happy." :marks="['look happy']" /><span
-              class="translation"
-              >你看起來很開心。</span
-            ></span
+            ><NoteMark
+              sentence="Your grandad sounds cheerful on the phone."
+              :marks="['sounds cheerful']"
+            /><span class="translation">你爺爺在電話裡聽起來心情很好。</span></span
           >
         </div>
         <div>
           <span class="term">情狀副詞說明動作</span>
           <span
-            ><NoteMark sentence="You sing happily." :marks="['sing happily']" /><span
-              class="translation"
-              >你唱得很開心。</span
-            ></span
+            ><NoteMark
+              sentence="The kids are singing happily in the car."
+              :marks="['singing happily']"
+            /><span class="translation">孩子們在車上開心地唱歌。</span></span
           >
         </div>
       </div>
     </NoteSlide>
 
-    <NoteSlide title="情狀副詞不放在動詞和受詞中間" mark="find it easily">
+    <NoteSlide title="情狀副詞不放在動詞和受詞中間">
       <NoteFix
-        wrong="Please read carefully the instructions."
-        right="Please read the instructions carefully."
-        fix="the instructions carefully"
+        wrong="He packed carefully the plates."
+        right="He packed the plates carefully."
+        fix="the plates carefully."
       />
     </NoteSlide>
 
-    <NoteSlide title="情狀副詞放在地點前面">
+    <NoteSlide title="說明動作怎麼做用情狀副詞，不用形容詞">
       <NoteFix
-        wrong="The children played in the garden happily."
-        right="The children played happily in the garden."
-        fix="happily in the garden"
+        wrong="My uncle drives very careful."
+        right="My uncle drives very carefully."
+        fix="carefully."
       />
     </NoteSlide>
 
@@ -101,9 +101,9 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="very 放在情狀副詞前面">
       <NoteFix
-        wrong="She speaks French fluently very."
-        right="She speaks French very fluently."
-        fix="very fluently"
+        wrong="He finished the race quickly very."
+        right="He finished the race very quickly."
+        fix="very quickly."
       />
     </NoteSlide>
   </NoteDeck>

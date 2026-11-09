@@ -12,7 +12,7 @@ defineProps<{ note: (typeof notes)[number] }>();
   <NoteHead :title="note.title" :name="note.translation" />
 
   <NoteDeck :sentence="note.title">
-    <NoteSlide title="程度副詞放在受詞後面">
+    <NoteSlide title="程度副詞放在受詞後面" mark="you a lot.">
       <NoteWords
         :size="30"
         :parts="[
@@ -64,9 +64,10 @@ defineProps<{ note: (typeof notes)[number] }>();
         <div>
           <span class="term">too</span>
           <span
-            ><NoteMark sentence="You work too." :marks="['too']" /><span class="translation"
-              >你也有工作。</span
-            ></span
+            ><NoteMark
+              sentence="I work on Saturdays, and my brother works on Saturdays too."
+              :marks="['too.']"
+            /><span class="translation">我星期六要上班，我哥哥星期六也要上班。</span></span
           >
         </div>
       </div>
@@ -95,7 +96,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="程度副詞不放在動詞和受詞中間" mark="you a lot">
+    <NoteSlide title="程度副詞不放在動詞和受詞中間">
       <NoteFix
         wrong="I changed a bit my plans."
         right="I changed my plans a bit."
@@ -103,23 +104,23 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="at all 放在句尾">
-      <NoteFix
-        wrong="I don't at all understand this question."
-        right="I don't understand this question at all."
-        fix="at all"
-      />
+    <NoteSlide title="句尾的 a lot 不加 of">
+      <NoteFix wrong="My sister reads a lot of." right="My sister reads a lot." fix="a lot." />
     </NoteSlide>
 
     <NoteSlide title="肯定句不用 at all">
-      <NoteFix wrong="I enjoyed the trip at all." right="I enjoyed the trip a lot." fix="a lot" />
+      <NoteFix
+        wrong="My dad liked the new restaurant at all."
+        right="My dad liked the new restaurant a lot."
+        fix="a lot."
+      />
     </NoteSlide>
 
-    <NoteSlide title="表示太多用 too much">
+    <NoteSlide title="too much 放在動詞後面">
       <NoteFix
-        wrong="You worry too. Everything will be fine."
+        wrong="You too much worry. Everything will be fine."
         right="You worry too much. Everything will be fine."
-        fix="too much"
+        fix="worry too much."
       />
     </NoteSlide>
   </NoteDeck>

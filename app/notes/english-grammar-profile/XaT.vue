@@ -16,8 +16,8 @@ defineProps<{ note: (typeof notes)[number] }>();
       <NoteWords
         :size="24"
         :parts="[
-          { t: 'Hardly', role: 'Hardly', kind: 'key' },
-          { t: 'had', role: 'had', kind: 'key' },
+          { t: 'Hardly', role: '否定副詞', kind: 'key' },
+          { t: 'had', role: '助動詞', kind: 'key' },
           { t: 'he', role: '主詞' },
           { t: 'reached', role: '過去分詞' },
           { t: 'his front door', role: '受詞', kind: 'dim' },
@@ -46,18 +46,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">一般的語序</span>
           <span
             ><NoteMark
-              sentence="He had hardly sat down when the bell rang."
-              :marks="['He had hardly']"
-            /><span class="translation">他才剛坐下，鈴就響了。</span></span
+              sentence="The teacher had hardly opened the book when the fire alarm rang."
+              :marks="['had hardly']"
+            /><span class="translation">老師才剛打開書，火災警報就響了。</span></span
           >
         </div>
         <div>
           <span class="term">倒裝句，語氣比較強</span>
           <span
             ><NoteMark
-              sentence="Hardly had he sat down when the bell rang."
-              :marks="['Hardly had he']"
-            /><span class="translation">他才一坐下，鈴就響了。</span></span
+              sentence="Hardly had the teacher opened the book when the fire alarm rang."
+              :marks="['Hardly had the teacher']"
+            /><span class="translation">老師才剛打開書，火災警報就響了。</span></span
           >
         </div>
       </div>
@@ -69,18 +69,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">scarcely ... when</span>
           <span
             ><NoteMark
-              sentence="Scarcely had we left the house when it started to rain."
+              sentence="Scarcely had I turned off the light when the dog began to bark."
               :marks="['Scarcely', 'when']"
-            /><span class="translation">我們才剛出門就開始下雨了。</span></span
+            /><span class="translation">我才剛關燈，狗就開始叫了。</span></span
           >
         </div>
         <div>
           <span class="term">no sooner ... than</span>
           <span
             ><NoteMark
-              sentence="No sooner had we left the house than it started to rain."
+              sentence="No sooner had we sat down to eat than the doorbell rang."
               :marks="['No sooner', 'than']"
-            /><span class="translation">我們一出門就開始下雨了。</span></span
+            /><span class="translation">我們一坐下來吃飯，門鈴就響了。</span></span
           >
         </div>
       </div>
@@ -88,8 +88,8 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="hardly 接 when，不接 than" mark="when">
       <NoteFix
-        wrong="Hardly had I sat down than the phone rang."
-        right="Hardly had I sat down when the phone rang."
+        wrong="Hardly had I locked the car than I saw my keys inside."
+        right="Hardly had I locked the car when I saw my keys inside."
         fix="when"
       />
     </NoteSlide>

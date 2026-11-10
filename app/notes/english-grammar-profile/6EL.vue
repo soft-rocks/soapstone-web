@@ -19,30 +19,31 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'Piggy', role: '主詞' },
           { t: 'theoretically', role: '保留態度副詞', kind: 'key' },
           { t: 'has', role: '動詞' },
-          { t: 'all the necessary skills.', role: '受詞', kind: 'dim' },
+          { t: 'all the necessary character traits and skills', role: '受詞', kind: 'dim' },
+          { t: 'to be an effective leader.', role: '不定詞', kind: 'dim' },
         ]"
       />
-      <p class="translation">照理說，Piggy 具備所需的一切能力。</p>
+      <p class="translation">照理說，Piggy 具備當一個好領袖所需的一切性格特質和能力。</p>
     </NoteSlide>
 
-    <NoteSlide title="放在 be 或助動詞後面" mark="theoretically">
+    <NoteSlide title="放在 be 或助動詞後面">
       <div class="rows is-labeled">
         <div>
           <span class="term">be 後面</span>
           <span
             ><NoteMark
-              sentence="The shop is officially closed on Sundays."
+              sentence="The gym is officially closed on Sundays, but the staff train there."
               :marks="['is officially']"
-            /><span class="translation">那家店星期天照規定是不開的。</span></span
+            /><span class="translation">健身房照規定星期天不開，不過員工會在那裡訓練。</span></span
           >
         </div>
         <div>
           <span class="term">助動詞後面</span>
           <span
             ><NoteMark
-              sentence="The new system should theoretically reduce costs."
-              :marks="['should theoretically reduce']"
-            /><span class="translation">照理說，新系統應該能降低成本。</span></span
+              sentence="With the new trains, the journey should theoretically take an hour."
+              :marks="['should theoretically take']"
+            /><span class="translation">有了新火車，照理說這段路應該一個小時就到。</span></span
           >
         </div>
       </div>
@@ -79,18 +80,18 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">technically</span>
           <span
             ><NoteMark
-              sentence="He is technically still a student, but he works full-time."
+              sentence="My cousin is technically still a student, but he works full-time."
               :marks="['technically', 'but']"
-            /><span class="translation">嚴格來說他還是學生，不過他全職在工作。</span></span
+            /><span class="translation">我表哥嚴格來說還是學生，不過他全職在工作。</span></span
           >
         </div>
         <div>
           <span class="term">officially</span>
           <span
             ><NoteMark
-              sentence="She is officially on holiday, but she answers emails every day."
+              sentence="My boss is officially on holiday, but she answers emails every day."
               :marks="['officially', 'but']"
-            /><span class="translation">她名義上在休假，不過每天都在回電子郵件。</span></span
+            /><span class="translation">我老闆名義上在休假，不過她每天都在回電子郵件。</span></span
           >
         </div>
       </div>
@@ -104,11 +105,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       />
     </NoteSlide>
 
-    <NoteSlide title="保留態度副詞放在 be 後面">
+    <NoteSlide title="technically 有兩個 l">
       <NoteFix
-        wrong="The building officially is closed to the public."
-        right="The building is officially closed to the public."
-        fix="is officially"
+        wrong="The shop technicaly opens at nine."
+        right="The shop technically opens at nine."
+        fix="technically"
       />
     </NoteSlide>
 

@@ -21073,33 +21073,33 @@
     "name": "句中副詞表示保留態度",
     "sentences": [
       "Anyone can theoretically apply for the job, but most applicants have a degree.",
-      "The bridge should theoretically last for a hundred years.",
+      "The bridge is made of steel and stone. It should theoretically last for a hundred years.",
       "The tickets are theoretically available online, but the website keeps crashing.",
-      "We could theoretically finish the project by Friday.",
-      "Members theoretically have the right to vote on every decision.",
-      "The medicine theoretically works for adults and children.",
-      "A tomato is technically a fruit.",
+      "If nobody gets ill, we could theoretically finish the project by Friday.",
+      "In practice, the chairman decides everything. Members theoretically have the right to vote on every decision.",
+      "The medicine theoretically works for adults and children. The doctor wants to test it on younger patients.",
+      "A tomato is technically a fruit, but most people put it in a salad with vegetables.",
       "The company technically broke no laws, but many customers felt cheated.",
-      "I'm technically on leave until Monday.",
+      "I'm still answering work calls. I'm technically on leave until Monday.",
       "The shop technically opens at nine, but the staff rarely arrive before half past.",
       "The car is technically still mine, but my son drives it every day.",
-      "Students are technically not allowed to use phones in class.",
+      "Half the class has a phone on the desk. Students are technically not allowed to use phones in class.",
       "The hotel officially has four stars, but the rooms are quite basic.",
       "The two companies have officially merged, but they still use different names.",
       "My grandfather is officially retired, but he still helps at the farm.",
       "The road is officially closed, yet cars use it every day.",
       "The library officially closes at eight, but the staff let us stay later.",
-      "The meeting was officially about the budget.",
-      "He ostensibly went to Paris to study art, but he spent most of his time in cafés.",
-      "The new fee is ostensibly for maintenance.",
-      "The minister ostensibly resigned for health reasons.",
+      "Nobody mentioned money once. The meeting was officially about the budget.",
+      "My uncle ostensibly went to Paris to study art, but he spent most of his time in cafés.",
+      "The pool has been broken for a year. The new fee is ostensibly for maintenance.",
+      "The minister ostensibly resigned for health reasons. He was seen at a football match the next day.",
       "The visit was ostensibly a friendly one, but both sides wanted something.",
-      "The changes were ostensibly made to help small businesses.",
-      "Their second album is arguably better than their first.",
-      "The internet has arguably changed the way we think.",
-      "This is arguably the most important decision of his career.",
-      "The town's old market is arguably its main attraction.",
-      "Climate change is arguably the biggest challenge we face.",
+      "Most of the money went to big firms. The changes were ostensibly made to help small businesses.",
+      "The band's second album is arguably better than their first. The songs are more personal.",
+      "We rarely remember phone numbers now. The internet has arguably changed the way we remember things.",
+      "Our captain is leaving the club after fifteen years. This is arguably the most important decision of his career.",
+      "Visitors come from all over the country on Saturdays. The town's old market is arguably its main attraction.",
+      "Climate change is arguably the biggest challenge we face. Every country will feel its effects.",
       "The service is officially free, but you have to pay for parking.",
       "The flat technically has two bedrooms, but the second one is tiny.",
       "Everyone could theoretically win, but the favourite usually does."
@@ -21113,24 +21113,24 @@
             "zh": "照理說任何人都能應徵這份工作，不過大部分應徵者都有學位。"
           },
           {
-            "en": "The bridge should theoretically last for a hundred years.",
-            "zh": "照理說這座橋應該能用一百年。"
+            "en": "The bridge is made of steel and stone. It should theoretically last for a hundred years.",
+            "zh": "這座橋是用鋼和石頭蓋的。照理說應該能用一百年。"
           },
           {
             "en": "The tickets are theoretically available online, but the website keeps crashing.",
             "zh": "票照理說可以在網路上買，可是網站一直當掉。"
           },
           {
-            "en": "We could theoretically finish the project by Friday.",
-            "zh": "照理說我們可以在星期五前完成這個專案。"
+            "en": "If nobody gets ill, we could theoretically finish the project by Friday.",
+            "zh": "如果沒人生病，照理說我們可以在星期五前完成這個專案。"
           },
           {
-            "en": "Members theoretically have the right to vote on every decision.",
-            "zh": "照理說會員對每一項決定都有投票權。"
+            "en": "In practice, the chairman decides everything. Members theoretically have the right to vote on every decision.",
+            "zh": "實際上都是主席在決定。照理說會員對每一項決定都有投票權。"
           },
           {
-            "en": "The medicine theoretically works for adults and children.",
-            "zh": "照理說這種藥對大人和小孩都有效。"
+            "en": "The medicine theoretically works for adults and children. The doctor wants to test it on younger patients.",
+            "zh": "照理說這種藥對大人和小孩都有效。醫生想在年紀小的病人身上試試看。"
           }
         ]
       },
@@ -21138,16 +21138,16 @@
         "heading": "② technically",
         "items": [
           {
-            "en": "A tomato is technically a fruit.",
-            "zh": "嚴格來說，番茄是水果。"
+            "en": "A tomato is technically a fruit, but most people put it in a salad with vegetables.",
+            "zh": "嚴格來說番茄是水果，不過大部分人把它跟蔬菜一起放進沙拉。"
           },
           {
             "en": "The company technically broke no laws, but many customers felt cheated.",
             "zh": "嚴格來說這家公司沒有違法，不過很多顧客覺得被騙了。"
           },
           {
-            "en": "I'm technically on leave until Monday.",
-            "zh": "嚴格來說，我休假到星期一。"
+            "en": "I'm still answering work calls. I'm technically on leave until Monday.",
+            "zh": "我還在接工作電話。嚴格來說，我休假到星期一。"
           },
           {
             "en": "The shop technically opens at nine, but the staff rarely arrive before half past.",
@@ -21158,8 +21158,8 @@
             "zh": "這輛車嚴格來說還是我的，不過每天都是我兒子在開。"
           },
           {
-            "en": "Students are technically not allowed to use phones in class.",
-            "zh": "嚴格來說，學生上課不准用手機。"
+            "en": "Half the class has a phone on the desk. Students are technically not allowed to use phones in class.",
+            "zh": "班上一半的人桌上都放著手機。嚴格來說，學生上課不准用手機。"
           }
         ]
       },
@@ -21187,8 +21187,8 @@
             "zh": "圖書館照規定八點關門，不過館員讓我們待晚一點。"
           },
           {
-            "en": "The meeting was officially about the budget.",
-            "zh": "這場會議名義上是討論預算。"
+            "en": "Nobody mentioned money once. The meeting was officially about the budget.",
+            "zh": "沒有人提到錢。這場會議名義上是討論預算。"
           }
         ]
       },
@@ -21196,24 +21196,24 @@
         "heading": "④ ostensibly",
         "items": [
           {
-            "en": "He ostensibly went to Paris to study art, but he spent most of his time in cafés.",
-            "zh": "他表面上是去巴黎學藝術，可是大部分時間都待在咖啡館。"
+            "en": "My uncle ostensibly went to Paris to study art, but he spent most of his time in cafés.",
+            "zh": "我叔叔表面上是去巴黎學藝術，可是大部分時間都待在咖啡館。"
           },
           {
-            "en": "The new fee is ostensibly for maintenance.",
-            "zh": "新收的費用表面上是為了維修。"
+            "en": "The pool has been broken for a year. The new fee is ostensibly for maintenance.",
+            "zh": "游泳池已經壞了一年。新收的費用表面上是為了維修。"
           },
           {
-            "en": "The minister ostensibly resigned for health reasons.",
-            "zh": "那位部長表面上是因為健康因素辭職。"
+            "en": "The minister ostensibly resigned for health reasons. He was seen at a football match the next day.",
+            "zh": "那位部長表面上是因為健康因素辭職。隔天就有人看到他在看足球賽。"
           },
           {
             "en": "The visit was ostensibly a friendly one, but both sides wanted something.",
             "zh": "這次訪問表面上很友好，不過雙方都各有所圖。"
           },
           {
-            "en": "The changes were ostensibly made to help small businesses.",
-            "zh": "這些改變表面上是為了幫助小型企業。"
+            "en": "Most of the money went to big firms. The changes were ostensibly made to help small businesses.",
+            "zh": "大部分的錢都給了大公司。這些改變表面上是為了幫助小型企業。"
           }
         ]
       },
@@ -21221,24 +21221,24 @@
         "heading": "⑤ arguably",
         "items": [
           {
-            "en": "Their second album is arguably better than their first.",
-            "zh": "他們的第二張專輯可以說比第一張好。"
+            "en": "The band's second album is arguably better than their first. The songs are more personal.",
+            "zh": "那個樂團的第二張專輯可以說比第一張好。這些歌比較貼近個人。"
           },
           {
-            "en": "The internet has arguably changed the way we think.",
-            "zh": "網路可以說改變了我們思考的方式。"
+            "en": "We rarely remember phone numbers now. The internet has arguably changed the way we remember things.",
+            "zh": "我們現在很少記得電話號碼。網路可以說改變了我們記憶事情的方式。"
           },
           {
-            "en": "This is arguably the most important decision of his career.",
-            "zh": "這可以說是他職業生涯中最重要的決定。"
+            "en": "Our captain is leaving the club after fifteen years. This is arguably the most important decision of his career.",
+            "zh": "我們的隊長要離開待了十五年的球隊。這可以說是他職業生涯中最重要的決定。"
           },
           {
-            "en": "The town's old market is arguably its main attraction.",
-            "zh": "鎮上的老市場可以說是那裡最吸引人的地方。"
+            "en": "Visitors come from all over the country on Saturdays. The town's old market is arguably its main attraction.",
+            "zh": "星期六遊客從全國各地來。鎮上的老市場可以說是那裡最吸引人的地方。"
           },
           {
-            "en": "Climate change is arguably the biggest challenge we face.",
-            "zh": "氣候變遷可以說是我們面對的最大挑戰。"
+            "en": "Climate change is arguably the biggest challenge we face. Every country will feel its effects.",
+            "zh": "氣候變遷可以說是我們面對的最大挑戰。每個國家都會受到影響。"
           }
         ]
       },

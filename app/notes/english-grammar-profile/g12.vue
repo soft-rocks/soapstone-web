@@ -25,11 +25,11 @@ defineProps<{ note: (typeof notes)[number] }>();
       <p class="translation">我很喜歡我的工作。</p>
     </NoteSlide>
 
-    <NoteSlide title="very 放在時間副詞前面" mark="very">
+    <NoteSlide title="very 放在時間副詞前面">
       <NoteWords
         :size="26"
         :parts="[
-          { t: 'I hope you will be fine', role: '主詞 + 動詞', kind: 'dim' },
+          { t: 'I hope you will feel better', role: '主詞 + 動詞', kind: 'dim' },
           { t: 'very', role: 'very', kind: 'key' },
           { t: 'soon.', role: '時間副詞' },
         ]"
@@ -62,7 +62,7 @@ defineProps<{ note: (typeof notes)[number] }>();
       </div>
     </NoteSlide>
 
-    <NoteSlide title="否定句的 not very often 是不常" mark="very much">
+    <NoteSlide title="否定句的 not very often 是不常">
       <NoteWords
         :size="28"
         :parts="[
@@ -77,20 +77,24 @@ defineProps<{ note: (typeof notes)[number] }>();
 
     <NoteSlide title="very 修飾動詞要加 much" mark="very much">
       <NoteFix
-        wrong="I enjoyed the concert very."
-        right="I enjoyed the concert very much."
+        wrong="My aunt admires her doctor very."
+        right="My aunt admires her doctor very much."
         fix="very much"
       />
     </NoteSlide>
 
     <NoteSlide title="very 不修飾 a lot" mark="very much">
-      <NoteFix wrong="Thank you very a lot." right="Thank you very much." fix="very much" />
+      <NoteFix
+        wrong="The children loved the puppet show very a lot."
+        right="The children loved the puppet show very much."
+        fix="very much."
+      />
     </NoteSlide>
 
     <NoteSlide title="soon 不加 -ly">
       <NoteFix
-        wrong="The bus will come very soonly."
-        right="The bus will come very soon."
+        wrong="Your parcel should arrive very soonly."
+        right="Your parcel should arrive very soon."
         fix="very soon"
       />
     </NoteSlide>

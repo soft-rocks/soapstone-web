@@ -20871,65 +20871,66 @@
     "translation": "我從來沒看過這麼逼真、這麼令人印象深刻的電影。",
     "name": "句首 never 的倒裝句",
     "sentences": [
-      "Never have I met such a kind and generous person.",
-      "Never have I felt so welcome in a foreign country.",
-      "Never have I heard such a beautiful voice.",
-      "Never have we had so much rain in one month.",
-      "Never has the city looked so beautiful.",
-      "Never have I been so embarrassed in my whole life.",
-      "Never had I seen so many people in one place.",
-      "Never had she travelled alone before that trip.",
-      "Never had I worked so hard for an exam.",
-      "Never had they experienced such cold weather.",
-      "Never had I imagined that the job would be so stressful.",
-      "Never did I expect to see him again.",
-      "Never did we think the hotel would be so crowded.",
-      "Never did she complain about her difficult job.",
-      "Never did I believe that I could run a marathon.",
-      "Never did my grandfather miss a football match on TV.",
-      "Never did I dream that I would win the competition.",
-      "Never will I forget the day my daughter was born.",
-      "Never will I stay in that hotel again.",
-      "Never will I lend him money again.",
-      "Never will we forget your kindness.",
-      "Never will I trust that airline again after what happened.",
-      "Never could I live in such a noisy city.",
-      "Never would I lie to my best friend.",
-      "Never could we afford a house in this part of town.",
-      "Never would she leave her children alone at home.",
-      "Never do I feel as relaxed as I do by the sea.",
-      "Never does my brother say thank you.",
-      "Never had I spoken in front of so many people before.",
-      "Never have I tasted such fresh fish before.",
-      "Never had the team won a championship before."
+      "My neighbour drove me to the hospital at midnight. Never have I met such a kind and generous person.",
+      "Strangers invited us into their homes for dinner. Never have I felt so welcome in a foreign country.",
+      "The whole hall went silent when the young singer started. Never have I heard such a beautiful voice.",
+      "The river came up to our door. Never have we had so much rain in one month.",
+      "There are lights on every street for the festival. Never has the city looked so beautiful.",
+      "I fell over on the stage in front of the whole school. Never have I been so embarrassed in my whole life.",
+      "A million people came to the parade. Never had I seen so many people in one place.",
+      "My aunt was nervous at the airport. Never had she travelled alone before that trip.",
+      "I studied every night for two months. Never had I worked so hard for an exam.",
+      "It was minus thirty in the mountains. Never had the climbers experienced such cold weather.",
+      "I often worked until midnight. Never had I imagined that the job would be so stressful.",
+      "Tom and I lost touch after school. Never did I expect to see him again.",
+      "We had to wait an hour for breakfast. Never did we think the hotel would be so crowded.",
+      "My mother worked nights for twenty years. Never did she complain about her difficult job.",
+      "At school, I couldn't even run for a bus. Never did I believe that I could run a marathon.",
+      "My grandfather watched every game in his armchair. Never did he miss a football match on TV.",
+      "There were two hundred people in the competition. Never did I dream that I would win.",
+      "It was the happiest day of my life. Never will I forget the day my daughter was born.",
+      "The room was dirty and the staff were rude. Never will I stay in that hotel again.",
+      "My cousin still hasn't paid back the money from last year. Never will I lend him money again.",
+      "You looked after our dog for a whole month. Never will we forget your kindness.",
+      "The airline cancelled my flight and lost my bag. Never will I fly with them again.",
+      "The traffic goes on all night. Never could I live in such a noisy city.",
+      "My best friend has known me since we were five. Never would I lie to her.",
+      "A flat here costs a million pounds. Never could we afford a house in this part of town.",
+      "My sister always gets a babysitter. Never would she leave her children alone at home.",
+      "I go to the coast every weekend. Never do I feel as relaxed as I do by the sea.",
+      "Mum makes my brother dinner every night. Never does he say thank you.",
+      "My dad works from home. Never does he leave the house before ten.",
+      "There were five hundred people at the conference. Never had I spoken in front of so many people before.",
+      "The fishermen cooked their catch on the beach. Never have I tasted such fresh fish before.",
+      "The whole town celebrated. Never had the team won a championship before."
     ],
     "examples": [
       {
         "heading": "① Never have I + 過去分詞",
         "items": [
           {
-            "en": "Never have I met such a kind and generous person.",
-            "zh": "我從來沒遇過這麼善良、這麼大方的人。"
+            "en": "My neighbour drove me to the hospital at midnight. Never have I met such a kind and generous person.",
+            "zh": "我的鄰居半夜開車送我去醫院。我從來沒遇過這麼善良、這麼大方的人。"
           },
           {
-            "en": "Never have I felt so welcome in a foreign country.",
-            "zh": "我在國外從來沒有這麼受歡迎的感覺。"
+            "en": "Strangers invited us into their homes for dinner. Never have I felt so welcome in a foreign country.",
+            "zh": "陌生人請我們去他們家吃晚餐。我在國外從來沒有這麼受歡迎的感覺。"
           },
           {
-            "en": "Never have I heard such a beautiful voice.",
-            "zh": "我從來沒聽過這麼美的聲音。"
+            "en": "The whole hall went silent when the young singer started. Never have I heard such a beautiful voice.",
+            "zh": "那位年輕歌手一開口，整個大廳都安靜了。我從來沒聽過這麼美的聲音。"
           },
           {
-            "en": "Never have we had so much rain in one month.",
-            "zh": "我們從來沒有一個月下過這麼多雨。"
+            "en": "The river came up to our door. Never have we had so much rain in one month.",
+            "zh": "河水漲到我們家門口。我們從來沒有一個月下過這麼多雨。"
           },
           {
-            "en": "Never has the city looked so beautiful.",
-            "zh": "這座城市從來沒有這麼美過。"
+            "en": "There are lights on every street for the festival. Never has the city looked so beautiful.",
+            "zh": "節慶期間每條街都點了燈。這座城市從來沒有這麼美過。"
           },
           {
-            "en": "Never have I been so embarrassed in my whole life.",
-            "zh": "我這輩子從來沒有這麼丟臉過。"
+            "en": "I fell over on the stage in front of the whole school. Never have I been so embarrassed in my whole life.",
+            "zh": "我在全校面前在台上跌倒了。我這輩子從來沒有這麼丟臉過。"
           }
         ]
       },
@@ -20937,24 +20938,24 @@
         "heading": "② Never had I + 過去分詞",
         "items": [
           {
-            "en": "Never had I seen so many people in one place.",
-            "zh": "我從來沒在同一個地方看過這麼多人。"
+            "en": "A million people came to the parade. Never had I seen so many people in one place.",
+            "zh": "一百萬人來看遊行。我從來沒在同一個地方看過這麼多人。"
           },
           {
-            "en": "Never had she travelled alone before that trip.",
-            "zh": "在那趟旅行之前，她從來沒有自己一個人旅行過。"
+            "en": "My aunt was nervous at the airport. Never had she travelled alone before that trip.",
+            "zh": "我阿姨在機場很緊張。在那趟旅行之前，她從來沒有自己一個人旅行過。"
           },
           {
-            "en": "Never had I worked so hard for an exam.",
-            "zh": "我從來沒有為一場考試這麼用功過。"
+            "en": "I studied every night for two months. Never had I worked so hard for an exam.",
+            "zh": "我兩個月每天晚上都在讀書。我從來沒有為一場考試這麼用功過。"
           },
           {
-            "en": "Never had they experienced such cold weather.",
-            "zh": "他們從來沒碰過這麼冷的天氣。"
+            "en": "It was minus thirty in the mountains. Never had the climbers experienced such cold weather.",
+            "zh": "山上是零下三十度。那些登山客從來沒碰過這麼冷的天氣。"
           },
           {
-            "en": "Never had I imagined that the job would be so stressful.",
-            "zh": "我從來沒想到那份工作壓力會這麼大。"
+            "en": "I often worked until midnight. Never had I imagined that the job would be so stressful.",
+            "zh": "我常常工作到半夜。我從來沒想到那份工作壓力會這麼大。"
           }
         ]
       },
@@ -20962,28 +20963,28 @@
         "heading": "③ Never did I + 原形動詞",
         "items": [
           {
-            "en": "Never did I expect to see him again.",
-            "zh": "我從沒想過會再見到他。"
+            "en": "Tom and I lost touch after school. Never did I expect to see him again.",
+            "zh": "Tom 和我畢業後就失去聯絡了。我從沒想過會再見到他。"
           },
           {
-            "en": "Never did we think the hotel would be so crowded.",
-            "zh": "我們從沒想過旅館會這麼擠。"
+            "en": "We had to wait an hour for breakfast. Never did we think the hotel would be so crowded.",
+            "zh": "我們等了一個小時才吃到早餐。我們從沒想過旅館會這麼擠。"
           },
           {
-            "en": "Never did she complain about her difficult job.",
-            "zh": "她從來沒有抱怨過她辛苦的工作。"
+            "en": "My mother worked nights for twenty years. Never did she complain about her difficult job.",
+            "zh": "我媽媽上了二十年的夜班。她從來沒有抱怨過她辛苦的工作。"
           },
           {
-            "en": "Never did I believe that I could run a marathon.",
-            "zh": "我從來不相信自己能跑完馬拉松。"
+            "en": "At school, I couldn't even run for a bus. Never did I believe that I could run a marathon.",
+            "zh": "上學的時候，我連追公車都跑不動。我從來不相信自己能跑完馬拉松。"
           },
           {
-            "en": "Never did my grandfather miss a football match on TV.",
-            "zh": "我爺爺從來沒錯過電視上的任何一場足球賽。"
+            "en": "My grandfather watched every game in his armchair. Never did he miss a football match on TV.",
+            "zh": "我爺爺坐在扶手椅上看每一場比賽。他從來沒錯過電視上的任何一場足球賽。"
           },
           {
-            "en": "Never did I dream that I would win the competition.",
-            "zh": "我做夢也沒想到我會贏得比賽。"
+            "en": "There were two hundred people in the competition. Never did I dream that I would win.",
+            "zh": "有兩百個人參加比賽。我做夢也沒想到我會贏。"
           }
         ]
       },
@@ -20991,24 +20992,24 @@
         "heading": "④ Never will I + 原形動詞",
         "items": [
           {
-            "en": "Never will I forget the day my daughter was born.",
-            "zh": "我永遠不會忘記我女兒出生的那一天。"
+            "en": "It was the happiest day of my life. Never will I forget the day my daughter was born.",
+            "zh": "那是我這輩子最快樂的一天。我永遠不會忘記我女兒出生的那一天。"
           },
           {
-            "en": "Never will I stay in that hotel again.",
-            "zh": "我再也不會住那間旅館了。"
+            "en": "The room was dirty and the staff were rude. Never will I stay in that hotel again.",
+            "zh": "房間很髒，員工也很沒禮貌。我再也不會住那間旅館了。"
           },
           {
-            "en": "Never will I lend him money again.",
-            "zh": "我再也不會借錢給他了。"
+            "en": "My cousin still hasn't paid back the money from last year. Never will I lend him money again.",
+            "zh": "我表哥去年借的錢還沒還。我再也不會借錢給他了。"
           },
           {
-            "en": "Never will we forget your kindness.",
-            "zh": "我們永遠不會忘記你的好意。"
+            "en": "You looked after our dog for a whole month. Never will we forget your kindness.",
+            "zh": "你幫我們照顧狗照顧了一整個月。我們永遠不會忘記你的好意。"
           },
           {
-            "en": "Never will I trust that airline again after what happened.",
-            "zh": "發生那件事以後，我再也不會相信那家航空公司了。"
+            "en": "The airline cancelled my flight and lost my bag. Never will I fly with them again.",
+            "zh": "那家航空公司取消了我的航班，還弄丟了我的行李。我再也不會搭他們的飛機了。"
           }
         ]
       },
@@ -21016,33 +21017,37 @@
         "heading": "⑤ Never could I、Never would I + 原形動詞",
         "items": [
           {
-            "en": "Never could I live in such a noisy city.",
-            "zh": "我絕對沒辦法住在這麼吵的城市。"
+            "en": "The traffic goes on all night. Never could I live in such a noisy city.",
+            "zh": "車流整晚不停。我絕對沒辦法住在這麼吵的城市。"
           },
           {
-            "en": "Never would I lie to my best friend.",
-            "zh": "我絕對不會對我最好的朋友說謊。"
+            "en": "My best friend has known me since we were five. Never would I lie to her.",
+            "zh": "我最好的朋友從我們五歲就認識我。我絕對不會對她說謊。"
           },
           {
-            "en": "Never could we afford a house in this part of town.",
-            "zh": "我們絕對買不起這一區的房子。"
+            "en": "A flat here costs a million pounds. Never could we afford a house in this part of town.",
+            "zh": "這裡一間公寓要一百萬英鎊。我們絕對買不起這一區的房子。"
           },
           {
-            "en": "Never would she leave her children alone at home.",
-            "zh": "她絕對不會把孩子單獨留在家裡。"
+            "en": "My sister always gets a babysitter. Never would she leave her children alone at home.",
+            "zh": "我姊姊都會請保母。她絕對不會把孩子單獨留在家裡。"
           }
         ]
       },
       {
-        "heading": "⑥ Never do I + 原形動詞",
+        "heading": "⑥ Never do、Never does + 主詞 + 原形動詞",
         "items": [
           {
-            "en": "Never do I feel as relaxed as I do by the sea.",
-            "zh": "我從來沒有像在海邊時那麼放鬆。"
+            "en": "I go to the coast every weekend. Never do I feel as relaxed as I do by the sea.",
+            "zh": "我每個週末都去海邊。我從來沒有像在海邊時那麼放鬆。"
           },
           {
-            "en": "Never does my brother say thank you.",
-            "zh": "我弟弟從來不說謝謝。"
+            "en": "Mum makes my brother dinner every night. Never does he say thank you.",
+            "zh": "媽媽每天晚上都幫我弟弟做晚餐。他從來不說謝謝。"
+          },
+          {
+            "en": "My dad works from home. Never does he leave the house before ten.",
+            "zh": "我爸在家工作。他從來不會在十點前出門。"
           }
         ]
       },
@@ -21050,16 +21055,16 @@
         "heading": "⑦ Never + 助動詞 + 主詞 + 主要動詞 + before",
         "items": [
           {
-            "en": "Never had I spoken in front of so many people before.",
-            "zh": "我以前從來沒在這麼多人面前說過話。"
+            "en": "There were five hundred people at the conference. Never had I spoken in front of so many people before.",
+            "zh": "那場研討會有五百個人。我以前從來沒在這麼多人面前說過話。"
           },
           {
-            "en": "Never have I tasted such fresh fish before.",
-            "zh": "我以前從來沒吃過這麼新鮮的魚。"
+            "en": "The fishermen cooked their catch on the beach. Never have I tasted such fresh fish before.",
+            "zh": "漁夫在海灘上把剛捕到的魚煮了。我以前從來沒吃過這麼新鮮的魚。"
           },
           {
-            "en": "Never had the team won a championship before.",
-            "zh": "這支隊伍以前從來沒拿過冠軍。"
+            "en": "The whole town celebrated. Never had the team won a championship before.",
+            "zh": "全鎮都在慶祝。這支隊伍以前從來沒拿過冠軍。"
           }
         ]
       }

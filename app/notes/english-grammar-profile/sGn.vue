@@ -20,10 +20,10 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'have', role: '助動詞', kind: 'key' },
           { t: 'I', role: '主詞' },
           { t: 'seen', role: '主要動詞' },
-          { t: 'such a film before.', role: '受詞 + 時間', kind: 'dim' },
+          { t: 'such a realistic and impressive film before.', role: '受詞 + 時間', kind: 'dim' },
         ]"
       />
-      <p class="translation">我從來沒看過這樣的電影。</p>
+      <p class="translation">我從來沒看過這麼逼真、這麼令人印象深刻的電影。</p>
     </NoteSlide>
 
     <NoteSlide title="一般的語序和倒裝句" mark="Never have I">
@@ -41,9 +41,9 @@ defineProps<{ note: (typeof notes)[number] }>();
           <span class="term">倒裝句，語氣比較強</span>
           <span
             ><NoteMark
-              sentence="Never have I seen such a beautiful beach."
+              sentence="Never have I seen such clear water."
               :marks="['Never have I']"
-            /><span class="translation">我從來就沒看過這麼美的海灘。</span></span
+            /><span class="translation">我從來就沒看過這麼清澈的水。</span></span
           >
         </div>
       </div>
@@ -78,10 +78,10 @@ defineProps<{ note: (typeof notes)[number] }>();
           { t: 'did', role: '助動詞', kind: 'key' },
           { t: 'I', role: '主詞' },
           { t: 'expect', role: '原形動詞' },
-          { t: 'to win.', role: '受詞', kind: 'dim' },
+          { t: 'to get the job.', role: '受詞', kind: 'dim' },
         ]"
       />
-      <p class="translation">我從來就沒想過會贏。</p>
+      <p class="translation">我從來就沒想過會得到那份工作。</p>
     </NoteSlide>
 
     <NoteSlide title="助動詞放在主詞前面" mark="have I">
